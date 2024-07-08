@@ -1,0 +1,1181 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 321,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) damaged ═TERVE║ ⋇ElWachin_XD96 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 322,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) shot down ═TERVE║ ⋇ElWachin_XD96 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 323,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) set afire ═TERVE║ ⋇ElWachin_XD96 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 324,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 325,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) set afire [HONK] Ch0c05 (M1A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 326,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) damaged =TASKR= w4rri0r3 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 327,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) shot down =TASKR= w4rri0r3 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 328,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 329,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 330,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 331,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) destroyed [HONK] Ch0c05 (M1A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 332,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 333,
+            "msg": "=ReMa= ⋇Departvres (Ariete) destroyed =NTVE= ⋇Zackiecat (T-80BVM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 334,
+            "msg": "=TASKR= w4rri0r3 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 398
+        },
+        {
+            "id": 335,
+            "msg": "w4rri0r3td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 398
+        },
+        {
+            "id": 336,
+            "msg": "=NTVE= ⋇Zackiecat has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 404
+        },
+        {
+            "id": 337,
+            "msg": "⋇Zackiecattd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 404
+        },
+        {
+            "id": 338,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) destroyed =73TKR= Bye_Loser (Merkava Mk.3B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 407
+        },
+        {
+            "id": 339,
+            "msg": "=TBOB3= dinha_bielcatari (F-5E) damaged =SPHH= HOLOPOINTS (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 340,
+            "msg": "=TBOB3= dinha_bielcatari (F-5E) shot down =SPHH= HOLOPOINTS (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 341,
+            "msg": "=TBOB3= dinha_bielcatari (F-5E) set afire =SPHH= HOLOPOINTS (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 342,
+            "msg": "=SPHH= HOLOPOINTS has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 419
+        },
+        {
+            "id": 343,
+            "msg": "HOLOPOINTStd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 419
+        },
+        {
+            "id": 344,
+            "msg": "The_Vigilant_One (M1A1) destroyed old_yellow (PTZ89)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 345,
+            "msg": "=TBOB3= dinha_bielcatari (F-5E) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 346,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) damaged =TBOB3= dinha_bielcatari (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 443
+        },
+        {
+            "id": 347,
+            "msg": "=ReMa= ⋇Departvres (Ariete) set afire -ZIRAL- crueltears (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 447
+        },
+        {
+            "id": 348,
+            "msg": "-FSCCC- Recor_X (M1A1) destroyed -ZIRAL- crueltears (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 349,
+            "msg": "The_Vigilant_One (M1A1) destroyed ^Fmboi^ ⋇MoneyDoRecon (T-80BVM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 455
+        },
+        {
+            "id": 350,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) shot down =TBOB3= dinha_bielcatari (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 351,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) set afire =TBOB3= dinha_bielcatari (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 352,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 457
+        },
+        {
+            "id": 353,
+            "msg": "[JGR] Obi_Wan_高地王 (ItO 90M) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 457
+        },
+        {
+            "id": 354,
+            "msg": "═TERVE║ ⋇ElWachin_XD96 (AH-1Z) destroyed [JGR] Obi_Wan_高地王 (ItO 90M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 472
+        },
+        {
+            "id": 355,
+            "msg": "[Mc185] chongtianzongsi (ZTZ99A) destroyed [Mink] legoclone09 (OTOMATIC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 472
+        },
+        {
+            "id": 356,
+            "msg": "╊P1KE╋ IhaveSwordz (FlaRakRad) damaged ═TERVE║ ⋇ElWachin_XD96 (AH-1Z)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 474
+        },
+        {
+            "id": 357,
+            "msg": "╊P1KE╋ IhaveSwordz (FlaRakRad) shot down ═TERVE║ ⋇ElWachin_XD96 (AH-1Z)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 474
+        },
+        {
+            "id": 358,
+            "msg": "╊P1KE╋ IhaveSwordz (FlaRakRad) has achieved \"Tank Rescuer: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 475
+        },
+        {
+            "id": 359,
+            "msg": "╊P1KE╋ IhaveSwordz (FlaRakRad) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 475
+        },
+        {
+            "id": 360,
+            "msg": "The_Vigilant_One (M1A1) destroyed [Mc185] chongtianzongsi (ZTZ99A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 476
+        },
+        {
+            "id": 361,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) destroyed The_Vigilant_One (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 480
+        },
+        {
+            "id": 362,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 481
+        },
+        {
+            "id": 363,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) has achieved \"Tank Rescuer: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 481
+        },
+        {
+            "id": 364,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 481
+        },
+        {
+            "id": 365,
+            "msg": "[HONK] Ch0c05 (F-14B) destroyed ╊P1KE╋ IhaveSwordz (FlaRakRad)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 501
+        },
+        {
+            "id": 366,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) destroyed ═TERVE║ ⋇ElWachin_XD96 (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 367,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 368,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) has achieved \"Professional: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 369,
+            "msg": "The_Vigilant_One (IPM1) set afire [BORGR] jbd211kiwi (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 370,
+            "msg": "The_Vigilant_One (IPM1) set afire [BORGR] jbd211kiwi (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 524
+        },
+        {
+            "id": 371,
+            "msg": "-FSCCC- Recor_X (M1A1) destroyed -ZIRAL- crueltears (KPz-70)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 372,
+            "msg": "[BORGR] jbd211kiwi (Strv 122A) set afire The_Vigilant_One (IPM1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 529
+        },
+        {
+            "id": 373,
+            "msg": "old_yellow (PGZ04A) shot down =73TKR= Bye_Loser (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 533
+        },
+        {
+            "id": 374,
+            "msg": "old_yellow (PGZ04A) set afire =73TKR= Bye_Loser (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 533
+        },
+        {
+            "id": 375,
+            "msg": "^Fmboi^ ⋇MoneyDoRecon (Su-25BM) destroyed ⋇StoneValkyrie44 (XM975)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 537
+        },
+        {
+            "id": 376,
+            "msg": "The_Vigilant_One (IPM1) destroyed [BORGR] jbd211kiwi (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 539
+        },
+        {
+            "id": 377,
+            "msg": "=rbYT3= Sir_Ethan_Turner (T-80U) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 546
+        },
+        {
+            "id": 378,
+            "msg": "[Mink] legoclone09 (▄AV-8B) destroyed [JGR] Obi_Wan_高地王 (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 554
+        },
+        {
+            "id": 379,
+            "msg": "=ReMa= ⋇Departvres (Ariete) destroyed ╊P1KE╋ IhaveSwordz (Wiesel 1A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 562
+        },
+        {
+            "id": 380,
+            "msg": "═TERVE║ ⋇ElWachin_XD96 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 567
+        },
+        {
+            "id": 381,
+            "msg": "⋇ElWachin_XD96td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 567
+        },
+        {
+            "id": 382,
+            "msg": "^Fmboi^ ⋇MoneyDoRecon (Su-25BM) set afire -FSCCC- Recor_X (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 570
+        },
+        {
+            "id": 383,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) set afire [F4WRD] Brooklyn4K (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 70
+        },
+        {
+            "id": 384,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) shot down [F4WRD] Brooklyn4K (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 70
+        },
+        {
+            "id": 385,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 70
+        },
+        {
+            "id": 386,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 70
+        },
+        {
+            "id": 387,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) damaged [F4WRD] right_wing_Texan (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 388,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) shot down [F4WRD] right_wing_Texan (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 389,
+            "msg": "[F4WRD] DaddyDeluxe (M1A1) set afire ╊P1KE╋ Hydcide (T-80UM2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 100
+        },
+        {
+            "id": 390,
+            "msg": "[F4WRD] CyrusTheElder (▃Merkava Mk.3D) destroyed ╊P1KE╋ Hydcide (T-80UM2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 391,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) shot down ╊P1KE╋ theturtle2798793 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 392,
+            "msg": "[F4WRD] DaddyDeluxe (M1A1) destroyed ╊P1KE╋ AmexPlatinum (Type 90)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 393,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) destroyed [F4WRD] biotoxik1 (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 394,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 395,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 396,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) set afire [F4WRD] DrooI (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 397,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) shot down [F4WRD] DrooI (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 398,
+            "msg": "╊P1KE╋ theturtle2798793 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 399,
+            "msg": "theturtle2798793td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 400,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) destroyed [F4WRD] DaddyDeluxe (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 401,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 402,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 403,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 404,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 405,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) damaged ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 406,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) shot down ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 407,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) set afire ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 408,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) shot down ╊P1KE╋ IhaveSwordz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 409,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) shot down ╊P1KE╋ battledroid714 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 410,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) destroyed [F4WRD] Puckboy9922 (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 411,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 412,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 413,
+            "msg": "[F4WRD] Shadiez (MiG-27M) destroyed ╊P1KE╋ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 414,
+            "msg": "[F4WRD] Shadiez (MiG-27M) destroyed ╊P1KE╋ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 415,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) damaged [F4WRD] Shadiez (MiG-27M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 416,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) set afire [F4WRD] Shadiez (MiG-27M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 417,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) shot down [F4WRD] Shadiez (MiG-27M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 418,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 419,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 420,
+            "msg": "[F4WRD] Brooklyn4K has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 421,
+            "msg": "Brooklyn4Ktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 422,
+            "msg": "[F4WRD] Shadiez has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 423,
+            "msg": "Shadieztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 424,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) set afire [F4WRD] CyrusTheElder (▃Merkava Mk.3D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 313
+        },
+        {
+            "id": 425,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) destroyed [F4WRD] CyrusTheElder (▃Merkava Mk.3D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 426,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 427,
+            "msg": "[F4WRD] DrooI has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 428,
+            "msg": "DrooItd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 429,
+            "msg": "[F4WRD] right_wing_Texan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 430,
+            "msg": "right_wing_Texantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 431,
+            "msg": "[F4WRD] DaddyDeluxe has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 432,
+            "msg": "DaddyDeluxetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 433,
+            "msg": "[F4WRD] Puckboy9922 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 434,
+            "msg": "Puckboy9922td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 435,
+            "msg": "[F4WRD] CyrusTheElder has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 436,
+            "msg": "CyrusTheEldertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 437,
+            "msg": "╊P1KE╋ zonedilluzionz (Su-25BM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 438,
+            "msg": "[F4WRD] DaddyDeluxe (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 439,
+            "msg": "[F4WRD] DaddyDeluxe (M1A1) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 440,
+            "msg": "[F4WRD] right_wing_Texan (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 441,
+            "msg": "[F4WRD] biotoxik1 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 442,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 443,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 444,
+            "msg": "[F4WRD] Brooklyn4K (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 445,
+            "msg": "[F4WRD] Shadiez (MiG-27M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 446,
+            "msg": "[F4WRD] Shadiez (MiG-27M) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 447,
+            "msg": "[F4WRD] CyrusTheElder (▃Merkava Mk.3D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 448,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 449,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 450,
+            "msg": "[F4WRD] DrooI (J-7E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 451,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 452,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 453,
+            "msg": "[F4WRD] Puckboy9922 (Type 81 (C)) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 454,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 455,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 456,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 457,
+            "msg": "╊P1KE╋ _____meme_____ (Mi-28N) damaged ╊P1KE╋ zonedilluzionz (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 458,
+            "msg": "[F4WRD] biotoxik1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 459,
+            "msg": "biotoxik1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 460,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 461,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 462,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 463,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 464,
+            "msg": "╊P1KE╋ Galaxxy__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 465,
+            "msg": "Galaxxy__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 466,
+            "msg": "╊P1KE╋ battledroid714 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 467,
+            "msg": "battledroid714td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        }
+    ]
+}

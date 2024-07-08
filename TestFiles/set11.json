@@ -1,0 +1,1205 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1729,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1730,
+            "msg": "=FEDRA= decOy (Super Etendard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1731,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1732,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1733,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1734,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1735,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1736,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1737,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 1738,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) damaged =FEDRA= ⋇Z_SteelMonster_V (A-7D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 1739,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) set afire =FEDRA= ⋇Z_SteelMonster_V (A-7D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 1740,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) shot down =FEDRA= ⋇Z_SteelMonster_V (A-7D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 1741,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 1742,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 1743,
+            "msg": "╊P1KE╋ Borgan_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 1744,
+            "msg": "Borgan_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 1745,
+            "msg": "=FEDRA= Sallkii (Leopard 2A4) destroyed ╊P1KE╋ _____meme_____ (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 73
+        },
+        {
+            "id": 1746,
+            "msg": "=FEDRA= Sallkii (Leopard 2A4) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 73
+        },
+        {
+            "id": 1747,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) damaged =FEDRA= decOy (Super Etendard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 1748,
+            "msg": "=FEDRA= decOy (Super Etendard) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 1749,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) damaged ╊P1KE╋ Borgan_ (◊MiG-21MF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 1750,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) shot down ╊P1KE╋ Borgan_ (◊MiG-21MF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 1751,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) destroyed ╊P1KE╋ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 1752,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) damaged =FEDRA= ⋇II-_mica (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 1753,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) shot down =FEDRA= ⋇II-_mica (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 1754,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 1755,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) destroyed =FEDRA= Sallkii (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 1756,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 1757,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1758,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) destroyed ╊P1KE╋ AmexPlatinum (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1759,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) destroyed ╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 1760,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) destroyed =FEDRA= DeimosDev (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 1761,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 1762,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 1763,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) destroyed =FEDRA= _Strixor_ (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1764,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1765,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1766,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1767,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1768,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) destroyed =FEDRA= ⋇SrBoltzZ2 (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 1769,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1770,
+            "msg": "=FEDRA= i_love_traps (2S38) set afire ╊P1KE╋ spacedog451 (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 1771,
+            "msg": "=FEDRA= ⋇Z_SteelMonster_V (F-111A) destroyed =FEDRA= i_love_traps (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 1772,
+            "msg": "=FEDRA= ⋇Z_SteelMonster_V (F-111A) destroyed ╊P1KE╋ zonedilluzionz (ZTZ96A (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 1773,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) damaged =FEDRA= ⋇Z_SteelMonster_V (F-111A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 433
+        },
+        {
+            "id": 1774,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) set afire =FEDRA= ⋇Z_SteelMonster_V (F-111A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 433
+        },
+        {
+            "id": 1775,
+            "msg": "=FEDRA= ⋇Z_SteelMonster_V (F-111A) destroyed ╊P1KE╋ battledroid714 (Dardo)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 1776,
+            "msg": "=FEDRA= ⋇II-_mica has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 449
+        },
+        {
+            "id": 1777,
+            "msg": "⋇II-_micatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 449
+        },
+        {
+            "id": 1778,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) shot down =FEDRA= ⋇Z_SteelMonster_V (F-111A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 449
+        },
+        {
+            "id": 1779,
+            "msg": "=FEDRA= decOy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 1780,
+            "msg": "decOytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 1781,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 1782,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 1783,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 1784,
+            "msg": "=FEDRA= DeimosDev has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 451
+        },
+        {
+            "id": 1785,
+            "msg": "DeimosDevtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 451
+        },
+        {
+            "id": 1786,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1787,
+            "msg": "⋇SrBoltzZ2td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1788,
+            "msg": "=FEDRA= _Strixor_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1789,
+            "msg": "_Strixor_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1790,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1791,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1792,
+            "msg": "╊P1KE╋ _____meme_____ (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1793,
+            "msg": "=FEDRA= ⋇II-_mica (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1794,
+            "msg": "=FEDRA= ⋇Z_SteelMonster_V (F-111A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1795,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1796,
+            "msg": "=FEDRA= Sallkii (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1797,
+            "msg": "=FEDRA= i_love_traps (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1798,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1799,
+            "msg": "=FEDRA= DeimosDev (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1800,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"The last man standing!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1801,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1802,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1803,
+            "msg": "=FEDRA= decOy (Super Etendard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1804,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1805,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1806,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1807,
+            "msg": "=FEDRA= _Strixor_ (T-72M2) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1808,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1809,
+            "msg": "=FEDRA= Sallkii has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1810,
+            "msg": "Sallkiitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1811,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1812,
+            "msg": "=FEDRA= ⋇SrBoltzZ2 (Strela-10M2) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 1813,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ╊TEHb╋ Str4tosfera (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 67
+        },
+        {
+            "id": 1814,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 67
+        },
+        {
+            "id": 1815,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) destroyed ╊TEHb╋ Str4tosfera (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 97
+        },
+        {
+            "id": 1816,
+            "msg": "╊TEHb╋ GeFalleN (F-5C) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 113
+        },
+        {
+            "id": 1817,
+            "msg": "╊TEHb╋ Балласт (2S38) shot down ╊P1KE╋ IhaveSwordz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 124
+        },
+        {
+            "id": 1818,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) destroyed ╊TEHb╋ GSG_91 (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 1819,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 1820,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 1821,
+            "msg": "╊TEHb╋ GeFalleN has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1822,
+            "msg": "GeFalleNtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1823,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) destroyed ╊TEHb╋ Балласт (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 1824,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 1825,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 1826,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) set afire ╊TEHb╋ Frozo75Rus (Super Etendard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1827,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ╊TEHb╋ Frozo75Rus (Super Etendard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1828,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged ╊TEHb╋ SER_Nikolas (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 1829,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) set afire ╊TEHb╋ SER_Nikolas (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 1830,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ╊TEHb╋ SER_Nikolas (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 1831,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 1832,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) destroyed ╊TEHb╋ hankeeer (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 1833,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"According to Intelligence: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1834,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1835,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Intelligence: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1836,
+            "msg": "╊TEHb╋ GSG_91 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 1837,
+            "msg": "GSG_91td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 1838,
+            "msg": "╊TEHb╋ Frozo75Rus has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1839,
+            "msg": "Frozo75Rustd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1840,
+            "msg": "╊TEHb╋ hankeeer has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 1841,
+            "msg": "hankeeertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 1842,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) destroyed ╊P1KE╋ zonedilluzionz (ZTZ96A (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1843,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) set afire ╊P1KE╋ _____meme_____ (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1844,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) destroyed ╊P1KE╋ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 1845,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) destroyed ╊P1KE╋ spacedog451 (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 1846,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) damaged ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1847,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) set afire ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1848,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) shot down ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1849,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) set afire ╊P1KE╋ _____meme_____ (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 1850,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged ╊TEHb╋ PsyWhat (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1851,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ╊TEHb╋ PsyWhat (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1852,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) set afire ╊TEHb╋ PsyWhat (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1853,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1854,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1855,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1856,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1857,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1858,
+            "msg": "╊TEHb╋ Балласт has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1859,
+            "msg": "Балластtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1860,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1861,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1862,
+            "msg": "╊TEHb╋ PsyWhat (A-10A) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1863,
+            "msg": "╊P1KE╋ _____meme_____ (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1864,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1865,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1866,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Mission Maker\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1867,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1868,
+            "msg": "╊P1KE╋ spacedog451 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1869,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1870,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 1871,
+            "msg": "╊TEHb╋ Str4tosfera has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1872,
+            "msg": "Str4tosferatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1873,
+            "msg": "╊TEHb╋ SER_Nikolas has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1874,
+            "msg": "SER_Nikolastd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1875,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1876,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1877,
+            "msg": "╊P1KE╋ bballjake1030 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 1878,
+            "msg": "bballjake1030td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        }
+    ]
+}

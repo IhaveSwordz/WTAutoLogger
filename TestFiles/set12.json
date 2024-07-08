@@ -1,0 +1,1061 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 2177,
+            "msg": "╊P1KE╋ _____meme_____ (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2178,
+            "msg": "╊2L2C╋ RobTheSorrow (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2179,
+            "msg": "╊2L2C╋ ⋇MRCRAYON131 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2180,
+            "msg": "╊2L2C╋ ⋇MRCRAYON131 (Abrams) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2181,
+            "msg": "╊2L2C╋ mk3ant (Abrams) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2182,
+            "msg": "╊2L2C╋ mk3ant (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2183,
+            "msg": "╊2L2C╋ mk3ant (Abrams) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2184,
+            "msg": "╊2L2C╋ mk3ant (Abrams) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2185,
+            "msg": "╊2L2C╋ REEE_Devil (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2186,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2187,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2188,
+            "msg": "╊2L2C╋ Pkmark (CCVL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2189,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2190,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2191,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 2192,
+            "msg": "╖LADZ╖ Falling_Skies (Bhishma TWMP) set afire ╊P1KE╋ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 86
+        },
+        {
+            "id": 2193,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) destroyed ╖LADZ╖ FranticFrerrets (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 2194,
+            "msg": "╖LADZ╖ FranticFrerrets (Strv 121) set afire ╊P1KE╋ ⋇LETHALno10 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 2195,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 2196,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 2197,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) set afire ╖LADZ╖ puzzledpaul (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 2198,
+            "msg": "╖LADZ╖ Falling_Skies (Bhishma TWMP) destroyed ╊P1KE╋ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 2199,
+            "msg": "╖LADZ╖ puzzledpaul (Abrams) destroyed ╊P1KE╋ zonedilluzionz (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 2200,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) destroyed ╖LADZ╖ caliper22 (CV 90105)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 2201,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 74 (G)) destroyed ╖LADZ╖ puzzledpaul (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2202,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2203,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2204,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 74 (G)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2205,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 74 (G)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2206,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 74 (G)) has achieved \"Rank does not matter\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2207,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 2208,
+            "msg": "╖LADZ╖ OlRustBucket (EC-665 Tiger HAP) damaged ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 2209,
+            "msg": "╖LADZ╖ WhiteGarden (Type 81 (C)) damaged ╊P1KE╋ Borgan_ (◊MiG-21MF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 2210,
+            "msg": "╖LADZ╖ WhiteGarden (Type 81 (C)) set afire ╊P1KE╋ Borgan_ (◊MiG-21MF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 2211,
+            "msg": "╖LADZ╖ WhiteGarden (Type 81 (C)) shot down ╊P1KE╋ Borgan_ (◊MiG-21MF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 2212,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ╖LADZ╖ iDeaPC (M1 KVT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 2213,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 2214,
+            "msg": "╖LADZ╖ OlRustBucket (EC-665 Tiger HAP) set afire ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2215,
+            "msg": "╖LADZ╖ OlRustBucket (EC-665 Tiger HAP) shot down ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2216,
+            "msg": "╖LADZ╖ caliper22 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 2217,
+            "msg": "caliper22td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 2218,
+            "msg": "╊P1KE╋ Borgan_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 2219,
+            "msg": "Borgan_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 2220,
+            "msg": "╖LADZ╖ iDeaPC has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 2221,
+            "msg": "iDeaPCtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 2222,
+            "msg": "╖LADZ╖ WhiteGarden (Type 81 (C)) damaged ╊P1KE╋ _____meme_____ (Su-25K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 2223,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) damaged ╖LADZ╖ OlRustBucket (EC-665 Tiger HAP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 2224,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) destroyed ╖LADZ╖ WhiteGarden (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 2225,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 2226,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 74 (G)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 2227,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 2228,
+            "msg": "╖LADZ╖ DrSniper (2S38) shot down ╊P1KE╋ _____meme_____ (Su-25K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 2229,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 2230,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ╖LADZ╖ DrSniper (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 2231,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 2232,
+            "msg": "╖LADZ╖ OlRustBucket (EC-665 Tiger HAP) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 2233,
+            "msg": "╖LADZ╖ Falling_Skies (Bhishma TWMP) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 2234,
+            "msg": "╖LADZ╖ Falling_Skies (Bhishma TWMP) destroyed ╊P1KE╋ AmexPlatinum (Type 74 (G))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 294
+        },
+        {
+            "id": 2235,
+            "msg": "╖LADZ╖ Falling_Skies (Bhishma TWMP) destroyed ╊P1KE╋ ⋇LETHALno10 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 2236,
+            "msg": "╖LADZ╖ OlRustBucket (EC-665 Tiger HAP) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 2237,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 309
+        },
+        {
+            "id": 2238,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 309
+        },
+        {
+            "id": 2239,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 2240,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 2241,
+            "msg": "╊P1KE╋ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 2242,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 2243,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) shot down ┺F4LC0┻ Reefaxx (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2244,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) set afire ┺F4LC0┻ Reefaxx (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2245,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 2246,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged ┺F4LC0┻ randomnoodles (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 2247,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) set afire ┺F4LC0┻ randomnoodles (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 2248,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ┺F4LC0┻ randomnoodles (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 2249,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) damaged ┺F4LC0┻ CheesyNoob25 (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 2250,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) set afire ┺F4LC0┻ CheesyNoob25 (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 2251,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) shot down ┺F4LC0┻ CheesyNoob25 (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 2252,
+            "msg": "┺F4LC0┻ CheesyNoob25 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 2253,
+            "msg": "CheesyNoob25td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 2254,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) set afire ┺F4LC0┻ SenpaiAres (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 2255,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) shot down ┺F4LC0┻ SenpaiAres (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 2256,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 2257,
+            "msg": "┺F4LC0┻ SenpaiAres has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 2258,
+            "msg": "SenpaiArestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 2259,
+            "msg": "┺F4LC0┻ randomnoodles has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 2260,
+            "msg": "randomnoodlestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 2261,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) destroyed ┺F4LC0┻ Jman09107 (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 2262,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 2263,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 2264,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 2265,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 2266,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) destroyed ┺F4LC0┻ dude_logan2009 (T-55AM-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2267,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2268,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2269,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2270,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2271,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2272,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 2273,
+            "msg": "┺F4LC0┻ Reefaxx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 2274,
+            "msg": "Reefaxxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 2275,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) destroyed ┺F4LC0┻ Jtr50 (M1 KVT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 2276,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2277,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2278,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2279,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2280,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2281,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2282,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 2283,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ┺F4LC0┻ Anona_Moose (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2284,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2285,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2286,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2287,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2288,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 2289,
+            "msg": "┺F4LC0┻ Jtr50 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 2290,
+            "msg": "Jtr50td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 2291,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2292,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2293,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2294,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2295,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2296,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2297,
+            "msg": "╊P1KE╋ Borgan_ (◊MiG-21MF) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2298,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2299,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2300,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2301,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2302,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2303,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged ╊P1KE╋ _____meme_____ (Su-25K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 2304,
+            "msg": "┺F4LC0┻ dude_logan2009 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 2305,
+            "msg": "dude_logan2009td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 2306,
+            "msg": "┺F4LC0┻ Anona_Moose has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 2307,
+            "msg": "Anona_Moosetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 2308,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) destroyed ╊P1KE╋ ⋇LETHALno10 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+  "hideNodes": {
+    "node": [
+      "torpedo_01",
+      "torpedo_02",
+      "torpedo_03",
+      "torpedo_04",
+      "torpedo_05",
+      "torpedo_06",
+      "torpedo_07",
+      "torpedo_08",
+      "torpedo_09",
+      "torpedo_10",
+      "torpedo_11",
+      "torpedo_12",
+      "torpedo_13",
+      "torpedo_14",
+      "torpedo_15",
+      "torpedo_16",
+      "mine_01",
+      "mine_02",
+      "mine_03",
+      "mine_04",
+      "mine_05",
+      "mine_06",
+      "mine_07",
+      "mine_08",
+      "mine_09",
+      "mine_10",
+      "mine_11",
+      "mine_12",
+      "mine_13",
+      "mine_14",
+      "mine_15",
+      "mine_16",
+      "mine_17",
+      "mine_18",
+      "mine_19",
+      "mine_20",
+      "mine_21",
+      "mine_22",
+      "mine_23",
+      "mine_24",
+      "mine_25",
+      "mine_26",
+      "mine_27",
+      "mine_28",
+      "mine_29",
+      "mine_30",
+      "mine_31",
+      "mine_32",
+      "mine_33",
+      "mine_34",
+      "mine_35",
+      "mine_36",
+      "mine_37",
+      "mine_38",
+      "mine_39",
+      "mine_40",
+      "mine_41",
+      "mine_42",
+      "mine_43",
+      "mine_44",
+      "mine_45",
+      "mine_46",
+      "mine_47",
+      "mine_48"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "gunner15",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_01",
+      "bullets": 3,
+      "external": true,
+      "dropSpeed": 40.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_01_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_01_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_14",
+        "gun": "gun_01"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner16",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_02",
+      "bullets": 2,
+      "external": true,
+      "dropSpeed": 40.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_01_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_02_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_15",
+        "gun": "gun_02"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner17",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_03",
+      "bullets": 2,
+      "external": true,
+      "dropSpeed": 40.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_02_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_03_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_16",
+        "gun": "gun_03"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner18",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_04",
+      "bullets": 3,
+      "external": true,
+      "dropSpeed": 40.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_02_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_04_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_17",
+        "gun": "gun_04"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

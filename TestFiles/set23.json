@@ -1,0 +1,1157 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1281,
+            "msg": "╀C0BRA╀ Colubra_Pirata has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1282,
+            "msg": "Colubra_Piratatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1283,
+            "msg": "╀C0BRA╀ Mittens313 (F-84G-21-RE) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1284,
+            "msg": "╀C0BRA╀ shaggysway (T114) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1285,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1286,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1287,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1288,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1289,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1290,
+            "msg": "╀C0BRA╀ ⋇moreno762556 (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1291,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1292,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1293,
+            "msg": "╀C0BRA╀ OgFogofWar (F-84B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1294,
+            "msg": "╀C0BRA╀ Colubra_Pirata (Ikv 91) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1295,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (Maus) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1296,
+            "msg": "╀C0BRA╀ UltraCyberSmith (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1297,
+            "msg": "╀C0BRA╀ bossman180364 (M48) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1298,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1299,
+            "msg": "╀C0BRA╀ CaptaiN_CrusheR (Type 87 RCV (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1300,
+            "msg": "╀C0BRA╀ OgFogofWar has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1301,
+            "msg": "OgFogofWartd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1302,
+            "msg": "╊P1KE╋ theturtle2798793 (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1303,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1304,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 1305,
+            "msg": "╀C0BRA╀ Mittens313 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1306,
+            "msg": "Mittens313td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1307,
+            "msg": "╀C0BRA╀ CaptaiN_CrusheR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1308,
+            "msg": "CaptaiN_CrusheRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1309,
+            "msg": "╊P1KE╋ CanadianChi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1310,
+            "msg": "CanadianChitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 1311,
+            "msg": "╀C0BRA╀ Mittens313 (F-84G-21-RE) shot down ╊P1KE╋ AverageWZ305Main (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 1312,
+            "msg": "╊ASEND╋ BloodSyn (Ar 234 C) damaged ╊P1KE╋ CanadianChi (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 1313,
+            "msg": "╊ASEND╋ BloodSyn (Ar 234 C) shot down ╊P1KE╋ CanadianChi (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 1314,
+            "msg": "╊ASEND╋ BloodSyn (Ar 234 C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 1315,
+            "msg": "╊ASEND╋ air_dragon_playz (A29B) damaged ╊P1KE╋ AverageWZ305Main (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 1316,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) damaged ╊P1KE╋ AverageWZ305Main (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1317,
+            "msg": "╊ASEND╋ BloodSyn (Ar 234 C) set afire ╊P1KE╋ AverageWZ305Main (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1318,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) shot down ╊P1KE╋ AverageWZ305Main (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 1319,
+            "msg": "╊ASEND╋ D1sappo1ntment (M103) destroyed ╊P1KE╋ _fatty_boom_boom (IS-6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 313
+        },
+        {
+            "id": 1320,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) destroyed ╊P1KE╋ Jaguar_12707 (M56)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 1321,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (Maus) destroyed ╊ASEND╋ PureSMG (IS-6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1322,
+            "msg": "╊P1KE╋ Jaguar_12707 (M56) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 1323,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 1324,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 1325,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) destroyed ╊P1KE╋ CrinkledJuiceBox (M163)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 1326,
+            "msg": "╊P1KE╋ theturtle2798793 (M103) destroyed ╊ASEND╋ Sacro-Sanct (Conqueror Mk 2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        },
+        {
+            "id": 1327,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 81)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 400
+        },
+        {
+            "id": 1328,
+            "msg": "╊ASEND╋ Aenires (M.D.450B Barougan) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 401
+        },
+        {
+            "id": 1329,
+            "msg": "╊ASEND╋ air_dragon_playz (A29B) set afire ╊P1KE╋ theturtle2798793 (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 403
+        },
+        {
+            "id": 1330,
+            "msg": "╊ASEND╋ BloodSyn (Ar 234 C) destroyed ╊P1KE╋ theturtle2798793 (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 473
+        },
+        {
+            "id": 1331,
+            "msg": "╊P1KE╋ theturtle2798793 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 1332,
+            "msg": "theturtle2798793td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 1333,
+            "msg": "╊ASEND╋ Sacro-Sanct has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 482
+        },
+        {
+            "id": 1334,
+            "msg": "Sacro-Sancttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 482
+        },
+        {
+            "id": 1335,
+            "msg": "╊ASEND╋ a501clones19787 (Ar 234 C) destroyed ╊P1KE╋ ⋇NpoX Dragon (Maus)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 489
+        },
+        {
+            "id": 1336,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF) damaged ╊P1KE╋ Epic Yak Sparrow (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 1337,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF) set afire ╊P1KE╋ Epic Yak Sparrow (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 1338,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (Ar 234 C) damaged ╍TERVE╎ Dollardanese (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 1339,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF) shot down ╊P1KE╋ Epic Yak Sparrow (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 1340,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 1341,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) damaged ╍TERVE╎ skrillex0758u (Su-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 1342,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) destroyed ╍TERVE╎ 黑暗統治者的後裔和世界的毀滅者 (T-54)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1343,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1344,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1345,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1346,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1347,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1348,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) damaged ╍TERVE╎ skrillex0758u (Su-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1349,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) shot down ╍TERVE╎ skrillex0758u (Su-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1350,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1351,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1352,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1353,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1354,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1355,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 1356,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) damaged ╍TERVE╎ Dollardanese (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1357,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) damaged ╍TERVE╎ ⋇SneakyAndy710 (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 1358,
+            "msg": "╍TERVE╎ ⋇SneakyAndy710 (Ar 234 C) destroyed ╊P1KE╋ CrinkledJuiceBox (M163)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1359,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) damaged ╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 1360,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) shot down ╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 1361,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1362,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has achieved \"Bomber Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1363,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1364,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1365,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1366,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) destroyed ╍TERVE╎ ExiaDm (Somua SM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1367,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1368,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1369,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1370,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1371,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) shot down ╍TERVE╎ Dollardanese (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1372,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) set afire ╍TERVE╎ Dollardanese (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1373,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1374,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1375,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1376,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1377,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (Ar 234 C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1378,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1379,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1380,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 1381,
+            "msg": "╍TERVE╎ juanpc22 (Strv 81) destroyed ╊P1KE╋ _fatty_boom_boom (IS-6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1382,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 1383,
+            "msg": "娼妓者-Chāngjì zhětd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 1384,
+            "msg": "╍TERVE╎ Dollardanese has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 1385,
+            "msg": "Dollardanesetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 1386,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) destroyed ╍TERVE╎ juanpc22 (Strv 81)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 1387,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 1388,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 1389,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) destroyed ╍TERVE╎ McPulpi (Lorraine 40t)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1390,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 1391,
+            "msg": "╍TERVE╎ skrillex0758u has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1392,
+            "msg": "skrillex0758utd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1393,
+            "msg": "╍TERVE╎ ExiaDm (Somua SM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1394,
+            "msg": "╊P1KE╋ _fatty_boom_boom (IS-6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1395,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1396,
+            "msg": "╊P1KE╋ CrinkledJuiceBox (M163) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1397,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1398,
+            "msg": "╊P1KE╋ AverageWZ305Main (Ar 234 C) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1399,
+            "msg": "╍TERVE╎ Dollardanese (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1400,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1401,
+            "msg": "╊P1KE╋ CanadianChi (Ar 234 C) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1402,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1403,
+            "msg": "╍TERVE╎ 黑暗統治者的後裔和世界的毀滅者 (T-54) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1404,
+            "msg": "╍TERVE╎ juanpc22 (Strv 81) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1405,
+            "msg": "╊P1KE╋ ⋇NpoX Dragon (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1406,
+            "msg": "╍TERVE╎ 娼妓者-Chāngjì zhě (Meteor NF) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1407,
+            "msg": "╍TERVE╎ McPulpi (Lorraine 40t) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1408,
+            "msg": "╍TERVE╎ skrillex0758u (Su-11) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1409,
+            "msg": "╍TERVE╎ ⋇SneakyAndy710 (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1410,
+            "msg": "╊P1KE╋ Jaguar_12707 (T32E1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1411,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1412,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 346
+        },
+        {
+            "id": 1413,
+            "msg": "╊P1KE╋ CrinkledJuiceBox has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1414,
+            "msg": "CrinkledJuiceBoxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1415,
+            "msg": "╍TERVE╎ juanpc22 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1416,
+            "msg": "juanpc22td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1417,
+            "msg": "╊P1KE╋ _fatty_boom_boom has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1418,
+            "msg": "_fatty_boom_boomtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1419,
+            "msg": "╍TERVE╎ McPulpi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1420,
+            "msg": "McPulpitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1421,
+            "msg": "╊P1KE╋ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1422,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1423,
+            "msg": "╍TERVE╎ 黑暗統治者的後裔和世界的毀滅者 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 1424,
+            "msg": "黑暗統治者的後裔和世界的毀滅者td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        }
+    ]
+}

@@ -1,0 +1,1221 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 161,
+            "msg": "╊P1KE╋ ⋇Z02311stRECON78 (T-72M2) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 162,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) destroyed ┾PZGD┿ ⋇cerulean egg647 (CV 90105)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 163,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 164,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 165,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 166,
+            "msg": "┾PZGD┿ ⋇HottestFryingPan (Challenger DS) set afire ╊P1KE╋ ⋇Z02311stRECON78 (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 380
+        },
+        {
+            "id": 167,
+            "msg": "┾PZGD┿ ⋇YourMeru (Challenger DS) destroyed ╊P1KE╋ ⋇Z02311stRECON78 (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 168,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) destroyed ┾PZGD┿ ⋇HottestFryingPan (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+        },
+        {
+            "id": 169,
+            "msg": "╊P1KE╋ ⋇Z02311stRECON78 (T-72M2) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+        },
+        {
+            "id": 170,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Tank Rescuer: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+        },
+        {
+            "id": 171,
+            "msg": "┾PZGD┿ bwserknight (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 172,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 173,
+            "msg": "┾PZGD┿ unknowngaming (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 174,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 175,
+            "msg": "┾PZGD┿ ⋇YourMeru (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 176,
+            "msg": "┾PZGD┿ John_Ludendorff (PUMA) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 177,
+            "msg": "╊P1KE╋ ⋇Z02311stRECON78 (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 178,
+            "msg": "┾PZGD┿ ⋇cerulean egg647 (CV 90105) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 179,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 180,
+            "msg": "┾PZGD┿ ⋇Alexavier56560 (Object 120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 181,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 182,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 183,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 184,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 185,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 186,
+            "msg": "╊P1KE╋ pablhost (Z-9W) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 187,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 188,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 189,
+            "msg": "┾PZGD┿ L0BYRINTH379 (Ariete) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 190,
+            "msg": "┾PZGD┿ L0BYRINTH379 (Ariete) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 191,
+            "msg": "┾PZGD┿ ⋇HottestFryingPan (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 192,
+            "msg": "┾PESCA┿ ELIASMATADOR (Bhishma TWMP) set afire ╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 193,
+            "msg": "┾PESCA┿ ELIASMATADOR (Bhishma TWMP) destroyed ╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 194,
+            "msg": "┾PESCA┿ ELIASMATADOR (Bhishma TWMP) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 131
+        },
+        {
+            "id": 195,
+            "msg": "╊P1KE╋ pablhost (Z-9W) damaged ┾PESCA┿ Ravizza111 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 196,
+            "msg": "╊P1KE╋ pablhost (Z-9W) shot down ┾PESCA┿ Ravizza111 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 197,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 198,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ┾PESCA┿ Ziriquidun2 (Lvkv 9040C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 199,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 200,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 201,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) damaged ┾PESCA┿ Bruno_M_Barros (Su-17M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 202,
+            "msg": "┾PESCA┿ PrizrakBR (G-LYNX) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 203,
+            "msg": "┾PESCA┿ ELIASMATADOR (Bhishma TWMP) destroyed ╊P1KE╋ ⋇Z02311stRECON78 (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 204,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) damaged ┾PESCA┿ Bruno_M_Barros (Su-17M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 205,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) set afire ╊P1KE╋ theturtle2798793 (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 206,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) shot down ┾PESCA┿ Bruno_M_Barros (Su-17M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 207,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 208,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 209,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) shot down ╊P1KE╋ theturtle2798793 (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 210,
+            "msg": "┾PESCA┿ Bruno_M_Barros has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 211,
+            "msg": "Bruno_M_Barrostd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 212,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) damaged ╊P1KE╋ mercyflush_ (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 213,
+            "msg": "┾PESCA┿ ⋇felpzhue (T-80B) set afire ╊P1KE╋ battledroid714 (Ariete (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 214,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 215,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) shot down ╊P1KE╋ mercyflush_ (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 216,
+            "msg": "┾PESCA┿ ⋇felpzhue (T-80B) destroyed ╊P1KE╋ battledroid714 (Ariete (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 217,
+            "msg": "╊P1KE╋ theturtle2798793 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 218,
+            "msg": "theturtle2798793td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 219,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) damaged ╊P1KE╋ bballjake1030 (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 220,
+            "msg": "╊P1KE╋ bballjake1030 (T129) destroyed ┾PESCA┿ jepy_15 (Ozelot)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 221,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 222,
+            "msg": "┾PESCA┿ jepy_15 (Ozelot) shot down ╊P1KE╋ bballjake1030 (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 223,
+            "msg": "╊P1KE╋ pablhost (Z-9W) damaged ┾PESCA┿ PrizrakBR (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 224,
+            "msg": "┾PESCA┿ PrizrakBR (G-LYNX) set afire ╊P1KE╋ pablhost (Z-9W)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 313
+        },
+        {
+            "id": 225,
+            "msg": "┾PESCA┿ Ravizza111 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 226,
+            "msg": "Ravizza111td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 227,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 228,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 229,
+            "msg": "┾PESCA┿ PrizrakBR (G-LYNX) shot down ╊P1KE╋ pablhost (Z-9W)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 230,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 231,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 232,
+            "msg": "┺UPSET┻ S1bull (M60 AMBT) set afire ╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 128
+        },
+        {
+            "id": 233,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ┺UPSET┻ MVerb11 (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 234,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 235,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 236,
+            "msg": "╊P1KE╋ pablhost (Z-9W) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 237,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 238,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) destroyed ┺UPSET┻ AlphaMikeFox (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 239,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 240,
+            "msg": "╊P1KE╋ ⋇Z02311stRECON78 (T-72M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 241,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 242,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 243,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) destroyed ╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 244,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ┺UPSET┻ iBUYP0WER (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 245,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 246,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 247,
+            "msg": "╊P1KE╋ pablhost (Z-9W) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 248,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 249,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) destroyed ┺UPSET┻ Panzer_Driver2 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 250,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 251,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 252,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 253,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 254,
+            "msg": "┺UPSET┻ Jester1344 (Leopard 2A4) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 255,
+            "msg": "┺UPSET┻ CherryZyns (2S38) damaged F-5C",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 256,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ┺UPSET┻ Jester1344 (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 257,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 258,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 259,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 260,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 261,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 262,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) damaged ╊P1KE╋ mercyflush_ (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 263,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) shot down ╊P1KE╋ mercyflush_ (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 264,
+            "msg": "┺UPSET┻ Jester1344 (Leopard 2A4) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 265,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) destroyed ╊P1KE╋ ⋇Z02311stRECON78 (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 266,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) performed a soft landing",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 267,
+            "msg": "╊P1KE╋ bballjake1030 (T129) destroyed ┺UPSET┻ S1bull (M60 AMBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 268,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 269,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 270,
+            "msg": "╊P1KE╋ bballjake1030 (T129) destroyed ┺UPSET┻ CherryZyns (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 374
+        },
+        {
+            "id": 271,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 374
+        },
+        {
+            "id": 272,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) damaged ╊P1KE╋ bballjake1030 (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+        },
+        {
+            "id": 273,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) shot down ╊P1KE╋ bballjake1030 (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+        },
+        {
+            "id": 274,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) destroyed ┺UPSET┻ WinkyPinkySlinky (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 275,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 276,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 277,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 278,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 506
+        },
+        {
+            "id": 279,
+            "msg": "┺UPSET┻ Panzer_Driver2 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 280,
+            "msg": "Panzer_Driver2td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 281,
+            "msg": "┺UPSET┻ iBUYP0WER has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 282,
+            "msg": "iBUYP0WERtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 283,
+            "msg": "┺UPSET┻ CherryZyns has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 284,
+            "msg": "CherryZynstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 510
+        },
+        {
+            "id": 285,
+            "msg": "┺UPSET┻ S1bull has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 512
+        },
+        {
+            "id": 286,
+            "msg": "S1bulltd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 512
+        },
+        {
+            "id": 287,
+            "msg": "┺UPSET┻ MVerb11 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 517
+        },
+        {
+            "id": 288,
+            "msg": "MVerb11td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 517
+        },
+        {
+            "id": 289,
+            "msg": "┺UPSET┻ WinkyPinkySlinky has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 519
+        },
+        {
+            "id": 290,
+            "msg": "WinkyPinkySlinkytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 519
+        },
+        {
+            "id": 291,
+            "msg": "┺UPSET┻ Jester1344 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 521
+        },
+        {
+            "id": 292,
+            "msg": "Jester1344td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 521
+        },
+        {
+            "id": 293,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) damaged ╊P1KE╋ pablhost (Z-9W)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 521
+        },
+        {
+            "id": 294,
+            "msg": "┺UPSET┻ AlphaMikeFox (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 295,
+            "msg": "╊P1KE╋ bballjake1030 (T129) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 296,
+            "msg": "┺UPSET┻ S1bull (M60 AMBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 297,
+            "msg": "┺UPSET┻ Jester1344 (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 298,
+            "msg": "┺UPSET┻ Panzer_Driver2 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 299,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 300,
+            "msg": "╊P1KE╋ Hydcide (Leopard 2 (PzBtl 123)) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 301,
+            "msg": "╊P1KE╋ ⋇Z02311stRECON78 (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 302,
+            "msg": "┺UPSET┻ MVerb11 (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 303,
+            "msg": "╊P1KE╋ mercyflush_ (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 304,
+            "msg": "╊P1KE╋ battledroid714 (Ariete (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 305,
+            "msg": "┺UPSET┻ iBUYP0WER (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 306,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 307,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 308,
+            "msg": "╊P1KE╋ pablhost (Z-9W) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 309,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 310,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 311,
+            "msg": "┺UPSET┻ WinkyPinkySlinky (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        },
+        {
+            "id": 312,
+            "msg": "┺UPSET┻ CherryZyns (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 526
+        }
+    ]
+}

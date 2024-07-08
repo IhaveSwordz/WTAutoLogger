@@ -1,0 +1,305 @@
+{
+  "hideNodes": {
+    "node": [
+      "depth_charge_01",
+      "depth_charge_02",
+      "depth_charge_03",
+      "depth_charge_04",
+      "depth_charge_05",
+      "depth_charge_06",
+      "depth_charge_07",
+      "depth_charge_08",
+      "depth_charge_09",
+      "depth_charge_10",
+      "depth_charge_11",
+      "depth_charge_12",
+      "depth_charge_13",
+      "depth_charge_14",
+      "depth_charge_15",
+      "depth_charge_16",
+      "depth_charge_17",
+      "depth_charge_18",
+      "depth_charge_19",
+      "depth_charge_20",
+      "depth_charge_21",
+      "depth_charge_22",
+      "depth_charge_23",
+      "depth_charge_24",
+      "mine_01",
+      "mine_02",
+      "mine_03",
+      "mine_04",
+      "mine_05",
+      "mine_06",
+      "mine_07",
+      "mine_08",
+      "mine_09",
+      "mine_10",
+      "mine_11",
+      "mine_12",
+      "mine_13",
+      "mine_14",
+      "mine_15",
+      "mine_16",
+      "mine_17",
+      "mine_18",
+      "mine_19",
+      "mine_20"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "gunner2",
+      "replenishmentDelay": 5.0,
+      "replenishmentTime": 5.0,
+      "removeLoadedAmmo": true,
+      "triggerGroup": "rockets",
+      "blk": "gameData/Weapons/bombguns/bomb_ussr_rgb12.blk",
+      "weaponType": "rockets",
+      "useEmitter": true,
+      "emitter": "bone_rocket_01",
+      "emitterGenRange": [
+        1,
+        5
+      ],
+      "emitterGenFmt": "bone_rocket_%02d",
+      "barrelDP": "auxiliary_caliber_gun_01_dm",
+      "breechDP": "auxiliary_caliber_gun_01_dm",
+      "defaultYaw": 0.0,
+      "defaultPitch": 0.0,
+      "speedYaw": 18.0,
+      "speedPitch": 18.0,
+      "bullets": 15,
+      "allowableDelta": 2.0,
+      "ChainfireTime": 60.0,
+      "DelayAfterShoot": 0.0,
+      "aimMinDist": 20.0,
+      "aimMaxDist": 4500.0,
+      "randomAngle": 0.0,
+      "accuracyBotMultAir": 0.55,
+      "accuracyAir": 1.0,
+      "accuracyGnd": 0.8,
+      "errMeasureVel": 0.0,
+      "errTargettingOn100kmph": 0.0,
+      "errMeasureVelFast": 100.0,
+      "errMeasureVelFwdShift": 0.5,
+      "errMeasureVelDir": 3.0,
+      "errTargetting": 3.0,
+      "errExplTime": 0.0,
+      "turret": {
+        "head": "auxiliary_caliber_turret_01",
+        "gun": "auxiliary_caliber_gun_01",
+        "gunnerDm": "auxiliary_caliber_turret_01_dm"
+      },
+      "limits": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          51.0
+        ]
+      },
+      "limitsDeadzone": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          10.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner3",
+      "replenishmentDelay": 5.0,
+      "replenishmentTime": 5.0,
+      "removeLoadedAmmo": true,
+      "triggerGroup": "rockets",
+      "blk": "gameData/Weapons/bombguns/bomb_ussr_rgb12.blk",
+      "weaponType": "rockets",
+      "useEmitter": true,
+      "emitter": "bone_rocket_06",
+      "emitterGenRange": [
+        6,
+        10
+      ],
+      "emitterGenFmt": "bone_rocket_%02d",
+      "barrelDP": "auxiliary_caliber_gun_02_dm",
+      "breechDP": "auxiliary_caliber_gun_02_dm",
+      "defaultYaw": 0.0,
+      "defaultPitch": 0.0,
+      "speedYaw": 18.0,
+      "speedPitch": 18.0,
+      "bullets": 15,
+      "allowableDelta": 2.0,
+      "ChainfireTime": 60.0,
+      "DelayAfterShoot": 0.0,
+      "aimMinDist": 20.0,
+      "aimMaxDist": 4500.0,
+      "randomAngle": 0.0,
+      "accuracyBotMultAir": 0.55,
+      "accuracyAir": 1.0,
+      "accuracyGnd": 0.8,
+      "errMeasureVel": 0.0,
+      "errTargettingOn100kmph": 0.0,
+      "errMeasureVelFast": 100.0,
+      "errMeasureVelFwdShift": 0.5,
+      "errMeasureVelDir": 3.0,
+      "errTargetting": 3.0,
+      "errExplTime": 0.0,
+      "turret": {
+        "head": "auxiliary_caliber_turret_02",
+        "gun": "auxiliary_caliber_gun_02",
+        "gunnerDm": "auxiliary_caliber_turret_02_dm"
+      },
+      "limits": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          51.0
+        ]
+      },
+      "limitsDeadzone": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          10.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner4",
+      "replenishmentDelay": 5.0,
+      "replenishmentTime": 5.0,
+      "removeLoadedAmmo": true,
+      "triggerGroup": "rockets",
+      "blk": "gameData/Weapons/bombguns/bomb_ussr_rgb12.blk",
+      "weaponType": "rockets",
+      "useEmitter": true,
+      "emitter": "bone_rocket_11",
+      "emitterGenRange": [
+        11,
+        15
+      ],
+      "emitterGenFmt": "bone_rocket_%02d",
+      "barrelDP": "auxiliary_caliber_gun_03_dm",
+      "breechDP": "auxiliary_caliber_gun_03_dm",
+      "defaultYaw": 0.0,
+      "defaultPitch": 0.0,
+      "speedYaw": 18.0,
+      "speedPitch": 18.0,
+      "bullets": 15,
+      "allowableDelta": 2.0,
+      "ChainfireTime": 60.0,
+      "DelayAfterShoot": 0.0,
+      "aimMinDist": 20.0,
+      "aimMaxDist": 4500.0,
+      "randomAngle": 0.0,
+      "accuracyBotMultAir": 0.55,
+      "accuracyAir": 1.0,
+      "accuracyGnd": 0.8,
+      "errMeasureVel": 0.0,
+      "errTargettingOn100kmph": 0.0,
+      "errMeasureVelFast": 100.0,
+      "errMeasureVelFwdShift": 0.5,
+      "errMeasureVelDir": 3.0,
+      "errTargetting": 3.0,
+      "errExplTime": 0.0,
+      "turret": {
+        "head": "auxiliary_caliber_turret_03",
+        "gun": "auxiliary_caliber_gun_03",
+        "gunnerDm": "auxiliary_caliber_turret_03_dm"
+      },
+      "limits": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          51.0
+        ]
+      },
+      "limitsDeadzone": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          10.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner5",
+      "triggerGroup": "rockets",
+      "blk": "gameData/Weapons/bombguns/bomb_ussr_rgb12.blk",
+      "weaponType": "rockets",
+      "useEmitter": true,
+      "emitter": "bone_rocket_16",
+      "emitterGenRange": [
+        16,
+        20
+      ],
+      "emitterGenFmt": "bone_rocket_%02d",
+      "barrelDP": "auxiliary_caliber_gun_04_dm",
+      "breechDP": "auxiliary_caliber_gun_04_dm",
+      "defaultYaw": 0.0,
+      "defaultPitch": 0.0,
+      "speedYaw": 18.0,
+      "speedPitch": 18.0,
+      "bullets": 15,
+      "allowableDelta": 2.0,
+      "ChainfireTime": 60.0,
+      "DelayAfterShoot": 0.0,
+      "aimMinDist": 20.0,
+      "aimMaxDist": 4500.0,
+      "randomAngle": 0.0,
+      "accuracyBotMultAir": 0.55,
+      "accuracyAir": 1.0,
+      "accuracyGnd": 0.8,
+      "errMeasureVel": 0.0,
+      "errTargettingOn100kmph": 0.0,
+      "errMeasureVelFast": 100.0,
+      "errMeasureVelFwdShift": 0.5,
+      "errMeasureVelDir": 3.0,
+      "errTargetting": 3.0,
+      "errExplTime": 0.0,
+      "turret": {
+        "head": "auxiliary_caliber_turret_04",
+        "gun": "auxiliary_caliber_gun_04",
+        "gunnerDm": "auxiliary_caliber_turret_04_dm"
+      },
+      "limits": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          51.0
+        ]
+      },
+      "limitsDeadzone": {
+        "yaw": [
+          -0.05,
+          0.05
+        ],
+        "pitch": [
+          0.0,
+          10.0
+        ]
+      }
+    }
+  ]
+}

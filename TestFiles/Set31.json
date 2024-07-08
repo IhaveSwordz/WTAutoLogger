@@ -1,0 +1,1181 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 545,
+            "msg": "╀P1KE╀ Feldwebel_Beni (J-8B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 546,
+            "msg": "╊1MAW╋ _Bushie_ (Z-19E) critically damaged ╀P1KE╀ Feldwebel_Beni (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 547,
+            "msg": "╊1MAW╋ _Bushie_ (Z-19E) shot down ╀P1KE╀ Feldwebel_Beni (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 548,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) destroyed ╊1MAW╋ DBADR (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 549,
+            "msg": "╀P1KE╀ L1b3rt (T-72B3) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 550,
+            "msg": "╀P1KE╀ L1b3rt (T-72B3) destroyed ╊1MAW╋ ⋇Coasty2013 (Challenger 2 (2F))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 551,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 552,
+            "msg": "╀P1KE╀ CanadianChi (F-4E) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 553,
+            "msg": "╀P1KE╀ Feldwebel_Beni has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 554,
+            "msg": "Feldwebel_Benitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 555,
+            "msg": "╊1MAW╋ ⋇Coasty2013 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 556,
+            "msg": "⋇Coasty2013td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 557,
+            "msg": "╀P1KE╀ L1b3rt (T-72B3) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 558,
+            "msg": "╊1MAW╋ DBADR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 559,
+            "msg": "DBADRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 560,
+            "msg": "╊1MAW╋ HenriKing has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 561,
+            "msg": "HenriKingtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 562,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Survivor\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 563,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 564,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 565,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 566,
+            "msg": "╀P1KE╀ CanadianChi (F-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 567,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 568,
+            "msg": "╀P1KE╀ Coleslaw2101 (M1A1 Click-Bait) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 569,
+            "msg": "╀P1KE╀ L1b3rt (T-72B3) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 570,
+            "msg": "╀P1KE╀ L1b3rt (T-72B3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 571,
+            "msg": "╀P1KE╀ Feldwebel_Beni (J-8B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 572,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 573,
+            "msg": "╀P1KE╀ Anakin1171178 (M1A1 Click-Bait) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 574,
+            "msg": "╊1MAW╋ xxRedcapxx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 575,
+            "msg": "xxRedcapxxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 576,
+            "msg": "╊1MAW╋ SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 577,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 578,
+            "msg": "╊1MAW╋ EX3CUTIONER has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 579,
+            "msg": "EX3CUTIONERtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 580,
+            "msg": "-PACTO- Bad_Karmaツ (Ka-50) set afire ╀P1KE╀ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 60
+        },
+        {
+            "id": 581,
+            "msg": "-PACTO- Bad_Karmaツ (Ka-50) shot down ╀P1KE╀ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 60
+        },
+        {
+            "id": 582,
+            "msg": "-PACTO- Bad_Karmaツ (Ka-50) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 61
+        },
+        {
+            "id": 583,
+            "msg": "╀P1KE╀ Feldwebel_Beni (J-8B) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 584,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) destroyed ╀P1KE╀ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 585,
+            "msg": "╀P1KE╀ Anakin1171178 (M1A1 Click-Bait) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 586,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) destroyed ╀P1KE╀ L1b3rt (T-72B3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 587,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) set afire ╀P1KE╀ Anakin1171178 (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 588,
+            "msg": "-PACTO- _Gn0uki (M1A1 HC) destroyed ╀P1KE╀ Anakin1171178 (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 589,
+            "msg": "╀P1KE╀ L1b3rt has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 590,
+            "msg": "L1b3rttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 591,
+            "msg": "-PACTO- Lu1zG (F-5E) destroyed ╀P1KE╀ Coleslaw2101 (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 592,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) destroyed ╀P1KE╀ Epic Yak Sparrow (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 593,
+            "msg": "╀P1KE╀ Feldwebel_Beni has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 594,
+            "msg": "Feldwebel_Benitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 595,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) set afire ╀P1KE╀ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 596,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) severely damaged ╀P1KE╀ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 597,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) shot down ╀P1KE╀ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 598,
+            "msg": "╀P1KE╀ Anakin1171178 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 599,
+            "msg": "Anakin1171178td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 600,
+            "msg": "╀P1KE╀ CanadianChi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 601,
+            "msg": "CanadianChitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 602,
+            "msg": "-PACTO- _Gn0uki (M1A1 HC) set afire -PACTO- Bad_Karmaツ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 603,
+            "msg": "╀P1KE╀ Coleslaw2101 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 604,
+            "msg": "Coleslaw2101td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 605,
+            "msg": "-PACTO- Bad_Karmaツ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 606,
+            "msg": "-PACTO- Lu1zG (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 607,
+            "msg": "-PACTO- _Gn0uki (M1A1 HC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 608,
+            "msg": "╀P1KE╀ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 609,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 610,
+            "msg": "-PACTO- SPITFIREE25 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 611,
+            "msg": "-PACTO- Timewizard57 (Type 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 612,
+            "msg": "-PACTO- Лил_Песте (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 613,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 614,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 615,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 616,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 617,
+            "msg": "-PACTO- Stxr_Dxst (Mirage 2000) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 618,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) severely damaged ┾SKLSU┿ shelterock69 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 57
+        },
+        {
+            "id": 619,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) set afire ┾SKLSU┿ shelterock69 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 58
+        },
+        {
+            "id": 620,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) shot down ┾SKLSU┿ shelterock69 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 621,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 622,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 623,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 624,
+            "msg": "╀P1KE╀ L1b3rt (T-80U) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 625,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 59
+        },
+        {
+            "id": 626,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) destroyed ┾SKLSU┿ TiedPaladin3310 (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 95
+        },
+        {
+            "id": 627,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 96
+        },
+        {
+            "id": 628,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) set afire ┾SKLSU┿ Lunima (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 629,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) destroyed ┾SKLSU┿ Lunima (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 630,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 631,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 632,
+            "msg": "┾SKLSU┿ TiedPaladin3310 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 633,
+            "msg": "TiedPaladin3310td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 634,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) destroyed ┾SKLSU┿ ZippyGhost (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 635,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 636,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 637,
+            "msg": "┾SKLSU┿ ZippyGhost (Type 81 (C)) shot down ╀P1KE╀ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 638,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) severely damaged ┾SKLSU┿ Prestonesto10 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 639,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) critically damaged ┾SKLSU┿ Prestonesto10 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 640,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) shot down ┾SKLSU┿ Prestonesto10 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 641,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) critically damaged ╀P1KE╀ Feldwebel_Beni (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 642,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) set afire ╀P1KE╀ Feldwebel_Beni (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 643,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) shot down ╀P1KE╀ Feldwebel_Beni (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 644,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) critically damaged ╀P1KE╀ Coleslaw2101 (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 645,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) severely damaged ╀P1KE╀ Coleslaw2101 (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 646,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) shot down ╀P1KE╀ Coleslaw2101 (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 647,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) set afire ╀P1KE╀ Coleslaw2101 (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 648,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) shot down ┾SKLSU┿ kapoooow (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 649,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 650,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 651,
+            "msg": "╀P1KE╀ CanadianChi (F-5E) destroyed ┾SKLSU┿ Bakeyyy (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 652,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 653,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) destroyed ┾SKLSU┿ Propoganda65 (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 654,
+            "msg": "┾SKLSU┿ Prestonesto10 (M1128 Wolfpack) has been wrecked",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 655,
+            "msg": "┾SKLSU┿ Propoganda65 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 305
+        },
+        {
+            "id": 656,
+            "msg": "Propoganda65td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 305
+        },
+        {
+            "id": 657,
+            "msg": "┾SKLSU┿ kapoooow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 658,
+            "msg": "kapoooowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 659,
+            "msg": "┾SKLSU┿ Bakeyyy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 660,
+            "msg": "Bakeyyytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 661,
+            "msg": "┾SKLSU┿ Prestonesto10 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 662,
+            "msg": "Prestonesto10td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 663,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 664,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Ka-50) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 665,
+            "msg": "┾SKLSU┿ Bakeyyy (M1A1 Click-Bait) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 666,
+            "msg": "┾SKLSU┿ kapoooow (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 667,
+            "msg": "╀P1KE╀ CanadianChi (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 668,
+            "msg": "┾SKLSU┿ ZippyGhost (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 669,
+            "msg": "┾SKLSU┿ Propoganda65 (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 670,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 671,
+            "msg": "┾SKLSU┿ shelterock69 (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 672,
+            "msg": "┾SKLSU┿ TiedPaladin3310 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 673,
+            "msg": "╀P1KE╀ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 674,
+            "msg": "┾SKLSU┿ Lunima (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 675,
+            "msg": "┾SKLSU┿ Prestonesto10 (M1128 Wolfpack) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 676,
+            "msg": "╀P1KE╀ Coleslaw2101 (Kurnass 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 677,
+            "msg": "╀P1KE╀ L1b3rt (T-80U) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 678,
+            "msg": "╀P1KE╀ Feldwebel_Beni (J-8B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 679,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 680,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 681,
+            "msg": "╀P1KE╀ Anakin1171178 (CV 90120) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 682,
+            "msg": "┾SKLSU┿ ZippyGhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 313
+        },
+        {
+            "id": 683,
+            "msg": "ZippyGhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 313
+        },
+        {
+            "id": 684,
+            "msg": "╀P1KE╀ Coleslaw2101 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 685,
+            "msg": "Coleslaw2101td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 686,
+            "msg": "┾SKLSU┿ shelterock69 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 687,
+            "msg": "shelterock69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 688,
+            "msg": "╀P1KE╀ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 689,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 690,
+            "msg": "╀P1KE╀ Feldwebel_Beni has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 691,
+            "msg": "Feldwebel_Benitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        }
+    ]
+}

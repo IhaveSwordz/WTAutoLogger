@@ -1,0 +1,1237 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 97,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 98,
+            "msg": "=BR4ST= Raphael_1BR (F-16C) critically damaged ^P1KE^ bobthepilot123 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 99,
+            "msg": "=BR4ST= Raphael_1BR (F-16C) shot down ^P1KE^ bobthepilot123 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 100,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) set afire =BR4ST= TavaresBR (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 101,
+            "msg": "=BR4ST= -Shulo- (Ka-52) set afire ^P1KE^ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 102,
+            "msg": "=BR4ST= -Shulo- (Ka-52) destroyed ^P1KE^ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 103,
+            "msg": "^P1KE^ Zoltan Akkenan (Strv 122B+) destroyed =BR4ST= TavaresBR (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 104,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 105,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 106,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) critically damaged =BR4ST= Raphael_1BR (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 107,
+            "msg": "=BR4ST= Raphael_1BR (F-16C) shot down ^P1KE^ Anakin1171178 (JAS39A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 108,
+            "msg": "=BR4ST= -Shulo- (Ka-52) destroyed ^P1KE^ Zoltan Akkenan (Strv 122B+)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 109,
+            "msg": "^P1KE^ pablhost (Ka-52) shot down =BR4ST= -Shulo- (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 110,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 111,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 112,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 113,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 114,
+            "msg": "^P1KE^ bobthepilot123 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 115,
+            "msg": "bobthepilot123td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 116,
+            "msg": "^P1KE^ pablhost (Ka-52) set afire =BR4ST= Gaabkk_BR (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 117,
+            "msg": "^P1KE^ pablhost (Ka-52) destroyed =BR4ST= Gaabkk_BR (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 118,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 119,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 120,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) destroyed =BR4ST= Skillu_Cher0s0 (Type 10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 121,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 122,
+            "msg": "=BR4ST= laionel55092 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 123,
+            "msg": "laionel55092td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 124,
+            "msg": "=BR4ST= Skillu_Cher0s0 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 125,
+            "msg": "Skillu_Cher0s0td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 126,
+            "msg": "^P1KE^ pablhost (Ka-52) destroyed =BR4ST= Segrini (T-90M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 368
+        },
+        {
+            "id": 127,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 368
+        },
+        {
+            "id": 128,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 368
+        },
+        {
+            "id": 129,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 368
+        },
+        {
+            "id": 130,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 368
+        },
+        {
+            "id": 131,
+            "msg": "=BR4ST= -Shulo- has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 132,
+            "msg": "-Shulo-td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 133,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 134,
+            "msg": "=BR4ST= RedStoRR (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 135,
+            "msg": "=BR4ST= Gaabkk_BR (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 136,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 137,
+            "msg": "=BR4ST= Raphael_1BR (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 138,
+            "msg": "=BR4ST= Skillu_Cher0s0 (Type 10) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 139,
+            "msg": "=BR4ST= -Shulo- (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 140,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 141,
+            "msg": "=BR4ST= Segrini (T-90M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 142,
+            "msg": "=BR4ST= TavaresBR (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 143,
+            "msg": "⋇ P1KE^ bobthepilot123 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 144,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 145,
+            "msg": "=BR4ST= laionel55092 (F-15A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 146,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 147,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 148,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 149,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 150,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 151,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 152,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 153,
+            "msg": "=BR4ST= TavaresBR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 154,
+            "msg": "TavaresBRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 155,
+            "msg": "^P1KE^ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 156,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 157,
+            "msg": "^P1KE^ Zoltan Akkenan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 158,
+            "msg": "Zoltan Akkenantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 159,
+            "msg": "^P1KE^ Anakin1171178 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 160,
+            "msg": "Anakin1171178td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 161,
+            "msg": "=BR4ST= Segrini has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 162,
+            "msg": "Segrinitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 163,
+            "msg": "^P1KE^ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 164,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 165,
+            "msg": "=BR4ST= Gaabkk_BR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 166,
+            "msg": "Gaabkk_BRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 167,
+            "msg": "=BR4ST= RedStoRR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 168,
+            "msg": "RedStoRRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 169,
+            "msg": "^P1KE^ pablhost (Ka-52) destroyed ┾SCL1┿ NicolasKyR (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 92
+        },
+        {
+            "id": 170,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 93
+        },
+        {
+            "id": 171,
+            "msg": "^P1KE^ Radcki (AH-129D) destroyed -SCL1- JavieraaCND (CV 90105)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 112
+        },
+        {
+            "id": 172,
+            "msg": "^P1KE^ Hydcide (Leclerc SXXI) set afire -SCL1- ⋇DvRocoTnkcL (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 173,
+            "msg": "^P1KE^ pablhost (Ka-52) destroyed -SCL1- ⋇DvRocoTnkcL (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 174,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 175,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 176,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 177,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 178,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 179,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) critically damaged -SCL1- Soldier73s (MiG-29)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 180,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) severely damaged -SCL1- Soldier73s (MiG-29)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 181,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) set afire -SCL1- Soldier73s (MiG-29)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 182,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) shot down -SCL1- Soldier73s (MiG-29)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 183,
+            "msg": "-SCL1- Oozora_Subaru18 (F-16C) shot down ^P1KE^ pablhost (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 184,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 185,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 186,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 187,
+            "msg": "-SCL1- Oozora_Subaru18 (F-16C) critically damaged ^P1KE^ Radcki (AH-129D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 188,
+            "msg": "-SCL1- Oozora_Subaru18 (F-16C) shot down ^P1KE^ Radcki (AH-129D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 189,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) critically damaged -SCL1- Oozora_Subaru18 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 190,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) shot down -SCL1- Oozora_Subaru18 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 191,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 192,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 193,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 194,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 195,
+            "msg": "^P1KE^ Zoltan Akkenan (Strv 122B+) destroyed -SCL1- benja_MXT23 (T-80UK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 196,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 197,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 198,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 199,
+            "msg": "-SCL1- JavieraaCND has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 200,
+            "msg": "JavieraaCNDtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 201,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) destroyed -SCL1- E57384N_ZE23 (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 202,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 203,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 204,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 205,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 206,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 207,
+            "msg": "-SCL1- lordnacho202 (Strela-10M2) critically damaged ^P1KE^ ___PHO3NIX___ (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 208,
+            "msg": "-SCL1- lordnacho202 (Strela-10M2) severely damaged ^P1KE^ ___PHO3NIX___ (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 209,
+            "msg": "-SCL1- lordnacho202 (Strela-10M2) shot down ^P1KE^ ___PHO3NIX___ (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 210,
+            "msg": "-SCL1- Soldier73s has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 211,
+            "msg": "Soldier73std! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 212,
+            "msg": "^P1KE^ Anakin1171178 (JAS39A) destroyed -SCL1- lordnacho202 (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 213,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 214,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 215,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 216,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 217,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 218,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 219,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 220,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 221,
+            "msg": "-SCL1- lordnacho202 (Strela-10M2) critically damaged ^P1KE^ Anakin1171178 (JAS39A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 222,
+            "msg": "-SCL1- Oozora_Subaru18 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 223,
+            "msg": "Oozora_Subaru18td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 224,
+            "msg": "-SCL1- lordnacho202 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 225,
+            "msg": "lordnacho202td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 226,
+            "msg": "-SCL1- E57384N_ZE23 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 227,
+            "msg": "E57384N_ZE23td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 228,
+            "msg": "-SCL1- benja_MXT23 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 229,
+            "msg": "benja_MXT23td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 230,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 231,
+            "msg": "⋇ P1KE^ Radcki (AH-129D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 232,
+            "msg": "⋇ P1KE^ Zoltan Akkenan (Strv 122B+) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 233,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 234,
+            "msg": "⋇ P1KE^ Hydcide (Leclerc SXXI) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 235,
+            "msg": "-SCL1- lordnacho202 (Strela-10M2) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 236,
+            "msg": "⋇ P1KE^ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 237,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 238,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 239,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 240,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 241,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 242,
+            "msg": "⋇ P1KE^ Anakin1171178 (JAS39A) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 243,
+            "msg": "^P1KE^ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 244,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 245,
+            "msg": "^P1KE^ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 246,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 247,
+            "msg": "-SCL1- ⋇DvRocoTnkcL has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 248,
+            "msg": "⋇DvRocoTnkcLtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 249,
+            "msg": "^P1KE^ Radcki has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 250,
+            "msg": "Radckitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        }
+    ]
+}

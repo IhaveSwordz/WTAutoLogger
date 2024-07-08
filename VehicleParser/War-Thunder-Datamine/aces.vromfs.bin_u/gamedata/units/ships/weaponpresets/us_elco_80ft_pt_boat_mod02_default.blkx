@@ -1,0 +1,18 @@
+{
+  "hideNodes": {
+    "node": [
+      "turret_03",
+      "turret_04",
+      "gun_barrel_03",
+      "gun_barrel_04",
+      "ex_decor_turret_l_03",
+      "ex_decor_turret_r_03",
+      "ammo_body_11",
+      "ammo_body_10",
+      "torpedo_01",
+      "torpedo_02",
+      "torpedo_03",
+      "torpedo_04"
+    ]
+  }
+}

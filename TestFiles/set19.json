@@ -1,0 +1,1077 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 737,
+            "msg": "Captain Senkotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 738,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) destroyed ╊FEN1X╋ _Blou (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 739,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 740,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Sniper\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 741,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) damaged ╊FEN1X╋ DivineMartyr (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 742,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊FEN1X╋ DivineMartyr (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 743,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) shot down ╊FEN1X╋ DivineMartyr (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 744,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 745,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 746,
+            "msg": "╊FEN1X╋ Warm_N_Moist (F-16C) damaged ╊P1KE╋ AmexPlatinum (JAS39A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 747,
+            "msg": "╊FEN1X╋ Warm_N_Moist (F-16C) shot down ╊P1KE╋ AmexPlatinum (JAS39A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 748,
+            "msg": "╊FEN1X╋ Warm_N_Moist (F-16C) set afire ╊P1KE╋ AmexPlatinum (JAS39A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 749,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) set afire ╊FEN1X╋ FeasibleSpice (Strv 122B PLSS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 750,
+            "msg": "╊FEN1X╋ Puckboy9933 (Ka-52) destroyed ╊P1KE╋ spacedog451 (Centauro I 120)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 751,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) set afire ╊FEN1X╋ Pyros_Feet_Pics (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 752,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) damaged ╊FEN1X╋ Puckboy9933 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 753,
+            "msg": "╊FEN1X╋ Puckboy9933 (Ka-52) set afire ╊P1KE╋ BAdgEr (Type 10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 754,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) shot down ╊FEN1X╋ Puckboy9933 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 755,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 756,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 757,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) destroyed ╊P1KE╋ BAdgEr (Type 10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 758,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) destroyed ╊P1KE╋ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 420
+        },
+        {
+            "id": 759,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) destroyed ╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 481
+        },
+        {
+            "id": 760,
+            "msg": "╊FEN1X╋ DivineMartyr has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 761,
+            "msg": "DivineMartyrtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 762,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 763,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 764,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 765,
+            "msg": "⋇SuperWamen69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 766,
+            "msg": "╊P1KE╋ bballjake1030 (J-11) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 767,
+            "msg": "╊FEN1X╋ Warm_N_Moist (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 768,
+            "msg": "╊FEN1X╋ DivineMartyr (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 769,
+            "msg": "╊FEN1X╋ Cmoney03 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 770,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 771,
+            "msg": "╊FEN1X╋ Pyros_Feet_Pics (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 772,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 773,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 774,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 775,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 776,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 777,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 778,
+            "msg": "╊FEN1X╋ FeasibleSpice (Strv 122B PLSS) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 779,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 780,
+            "msg": "╊FEN1X╋ ⋇LesbianLiker769 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 781,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 782,
+            "msg": "╊FEN1X╋ Puckboy9933 (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 783,
+            "msg": "╊FEN1X╋ Puckboy9933 (Ka-52) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 784,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 785,
+            "msg": "╊FEN1X╋ _Blou (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 786,
+            "msg": "╊FEN1X╋ Warm_N_Moist (F-16C) destroyed ╊FEN1X╋ Pyros_Feet_Pics (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 787,
+            "msg": "╊1MAW╋ RussianTheSaber (Pantsir-S1) damaged ╊P1KE╋ spacedog451 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 87
+        },
+        {
+            "id": 788,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) damaged ╊1MAW╋ yaginsail (Su-27)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 789,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊1MAW╋ yaginsail (Su-27)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 790,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) shot down ╊1MAW╋ yaginsail (Su-27)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 791,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 792,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) damaged ╊1MAW╋ the_rippergaming (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 793,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊1MAW╋ the_rippergaming (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 794,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) shot down ╊1MAW╋ the_rippergaming (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 795,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 128
+        },
+        {
+            "id": 796,
+            "msg": "╊1MAW╋ ⋇TkLngD (Su-27) damaged ╊P1KE╋ bballjake1030 (J-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 797,
+            "msg": "╊1MAW╋ ⋇TkLngD (Su-27) set afire ╊P1KE╋ bballjake1030 (J-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 798,
+            "msg": "╊1MAW╋ xxRedcapxx (JAS39C) shot down ╊P1KE╋ bballjake1030 (J-11)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 799,
+            "msg": "╊1MAW╋ yaginsail has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 800,
+            "msg": "yaginsailtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 801,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) damaged ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 802,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 803,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) shot down ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 804,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 805,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 806,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 807,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 808,
+            "msg": "╊1MAW╋ MST_Spica (M1A2 SEP) destroyed ╊P1KE╋ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 809,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) destroyed ╊1MAW╋ MST_Spica (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 810,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 811,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 812,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 813,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 814,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 815,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 816,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) damaged ╊1MAW╋ ⋇TkLngD (Su-27)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 817,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) shot down ╊1MAW╋ ⋇TkLngD (Su-27)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 818,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 819,
+            "msg": "╊1MAW╋ SpacenoidSupreme (Leopard 2A6) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 820,
+            "msg": "╊1MAW╋ SpacenoidSupreme (Leopard 2A6) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 821,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A7V) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 822,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) destroyed ╊1MAW╋ RussianTheSaber (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 823,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 824,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 825,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 826,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 827,
+            "msg": "╊1MAW╋ SpacenoidSupreme (Leopard 2A6) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 828,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) destroyed ╊1MAW╋ SpacenoidSupreme (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 829,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 830,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 831,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 832,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 833,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊1MAW╋ Major_Riven (T-80BVM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 834,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) set afire ╊1MAW╋ Major_Riven (T-80BVM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 835,
+            "msg": "╊P1KE╋ bballjake1030 (J-11) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 836,
+            "msg": "╊1MAW╋ the_rippergaming (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 837,
+            "msg": "╊1MAW╋ Major_Riven (T-80BVM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 838,
+            "msg": "╊1MAW╋ RussianTheSaber (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 839,
+            "msg": "╊1MAW╋ MST_Spica (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 840,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 841,
+            "msg": "╊1MAW╋ ⋇TkLngD (Su-27) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 842,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 843,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 844,
+            "msg": "╊P1KE╋ AmexPlatinum (JAS39A) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 845,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 846,
+            "msg": "╊P1KE╋ BAdgEr (Type 10) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 847,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 848,
+            "msg": "╊P1KE╋ Captain Senko (JAS39C) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 849,
+            "msg": "╊P1KE╋ spacedog451 (Centauro I 120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 850,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 851,
+            "msg": "╊1MAW╋ xxRedcapxx (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 852,
+            "msg": "╊1MAW╋ yaginsail (Su-27) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 853,
+            "msg": "╊1MAW╋ SpacenoidSupreme (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 854,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 855,
+            "msg": "╊1MAW╋ xxRedcapxx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 856,
+            "msg": "xxRedcapxxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 857,
+            "msg": "╊1MAW╋ ⋇TkLngD has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 858,
+            "msg": "⋇TkLngDtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 859,
+            "msg": "╊P1KE╋ bballjake1030 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 860,
+            "msg": "bballjake1030td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 861,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 862,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 863,
+            "msg": "╊1MAW╋ SpacenoidSupreme has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 864,
+            "msg": "SpacenoidSupremetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 865,
+            "msg": "╊1MAW╋ RussianTheSaber has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 866,
+            "msg": "RussianTheSabertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 867,
+            "msg": "╊1MAW╋ MST_Spica has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 868,
+            "msg": "MST_Spicatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 869,
+            "msg": "╊1MAW╋ the_rippergaming has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 870,
+            "msg": "the_rippergamingtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        }
+    ]
+}

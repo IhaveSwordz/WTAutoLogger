@@ -1,0 +1,1093 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1025,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1026,
+            "msg": "╝NIEBO╝ ЧВК Жмурки (Ka-50) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1027,
+            "msg": "╝NIEBO╝ ЧВК Жмурки (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1028,
+            "msg": "╝NIEBO╝ WakaTake (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1029,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1030,
+            "msg": "╝NIEBO╝ Dawidus87 (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1031,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1032,
+            "msg": "╝NIEBO╝ Moki_s (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1033,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1034,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1035,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1036,
+            "msg": "╝NIEBO╝ AnTuA (M1A1 Click-Bait) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1037,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1038,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 1039,
+            "msg": "╀P1KE╀ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 1040,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 1041,
+            "msg": "╝NIEBO╝ kapinow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 1042,
+            "msg": "kapinowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 1043,
+            "msg": "╀P1KE╀ Sisseaur has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 1044,
+            "msg": "Sisseaurtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 1045,
+            "msg": "╝NIEBO╝ ЧВК Жмурки has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 1046,
+            "msg": "ЧВК Жмуркиtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 1047,
+            "msg": "╝NIEBO╝ Moki_s (Type 81 (C)) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 1048,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) destroyed ╔GreeC╕ FREE SOUL (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1049,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1050,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1051,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1052,
+            "msg": "╔GreeC╕ JKChris (Ka-50) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1053,
+            "msg": "╔GreeC╕ JKChris (Ka-50) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 1054,
+            "msg": "╔GreeC╕ JKChris (Ka-50) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 1055,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) set afire ╔GreeC╕ NIVA_GR (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 134
+        },
+        {
+            "id": 1056,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged ╔GreeC╕ NIVA_GR (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 134
+        },
+        {
+            "id": 1057,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ╔GreeC╕ NIVA_GR (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 1058,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) destroyed ╔GreeC╕ Λάζλο (Merkava Mk.4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 1059,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1060,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1061,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1062,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1063,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 1064,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) set afire ╔GreeC╕ JKChris (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 1065,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged ╔GreeC╕ JKChris (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 1066,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ╔GreeC╕ JKChris (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 1067,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 1068,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 1069,
+            "msg": "╔GreeC╕ GRmagicGR (T-80U) destroyed ╀P1KE╀ pablhost (Merkava Mk.4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 1070,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) critically damaged ╔GreeC╕ george_poli (◊MiG-23MLA)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 1071,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) shot down ╔GreeC╕ george_poli (◊MiG-23MLA)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 1072,
+            "msg": "╀P1KE╀ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 1073,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 1074,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) destroyed ╔GreeC╕ GRmagicGR (T-80U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 1075,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 1076,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) destroyed ╔GreeC╕ DEATHfRom4B0vE (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1077,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1078,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1079,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1080,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1081,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1082,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1083,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1084,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 1085,
+            "msg": "╔GreeC╕ GR_Le_Mat (MiG-27M) critically damaged ╀P1KE╀ AlexanderDG56453 (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 1086,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) critically damaged ╔GreeC╕ GR_Le_Mat (MiG-27M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1087,
+            "msg": "╔GreeC╕ GR_Le_Mat (MiG-27M) destroyed ╀P1KE╀ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 1088,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) shot down ╔GreeC╕ GR_Le_Mat (MiG-27M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 1089,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 1090,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 1091,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 1092,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 1093,
+            "msg": "╔GreeC╕ GRmagicGR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 1094,
+            "msg": "GRmagicGRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 1095,
+            "msg": "╔GreeC╕ Λάζλο has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 1096,
+            "msg": "Λάζλοtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 1097,
+            "msg": "╔GreeC╕ JKChris has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1098,
+            "msg": "JKChristd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1099,
+            "msg": "╔GreeC╕ george_poli has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1100,
+            "msg": "george_politd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1101,
+            "msg": "╔GreeC╕ GR_Le_Mat has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 1102,
+            "msg": "GR_Le_Mattd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 1103,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1104,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1105,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1106,
+            "msg": "╔GreeC╕ NIVA_GR (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1107,
+            "msg": "╔GreeC╕ GR_Le_Mat (MiG-27M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1108,
+            "msg": "╔GreeC╕ DEATHfRom4B0vE (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1109,
+            "msg": "╔GreeC╕ JKChris (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1110,
+            "msg": "╔GreeC╕ FREE SOUL (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1111,
+            "msg": "╔GreeC╕ GRmagicGR (T-80U) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1112,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1113,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1114,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1115,
+            "msg": "╔GreeC╕ Λάζλο (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1116,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1117,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1118,
+            "msg": "╔GreeC╕ george_poli (◊MiG-23MLA) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1119,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1120,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1121,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1122,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 1123,
+            "msg": "┺Yggdr┻ Baguette Player (2S38) critically damaged ╀P1KE╀ IhaveSwordz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+        },
+        {
+            "id": 1124,
+            "msg": "┺Yggdr┻ Baguette Player (2S38) severely damaged ╀P1KE╀ IhaveSwordz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+        },
+        {
+            "id": 1125,
+            "msg": "┺Yggdr┻ Baguette Player (2S38) shot down ╀P1KE╀ IhaveSwordz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 1126,
+            "msg": "┺Yggdr┻ Baguette Player (2S38) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 92
+        },
+        {
+            "id": 1127,
+            "msg": "┺Yggdr┻ jakob_c (Ka-50) destroyed ╀P1KE╀ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 93
+        },
+        {
+            "id": 1128,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) destroyed ┺Yggdr┻ tobberino (T-80U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 108
+        },
+        {
+            "id": 1129,
+            "msg": "┺Yggdr┻ jakob_c (Ka-50) set afire ╀P1KE╀ Epic Yak Sparrow (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 109
+        },
+        {
+            "id": 1130,
+            "msg": "┺Yggdr┻ Joker149 (M1A1 AIM) destroyed ╀P1KE╀ Epic Yak Sparrow (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 1131,
+            "msg": "┺Yggdr┻ mellan_mjölk (Z-19) critically damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1132,
+            "msg": "┺Yggdr┻ mellan_mjölk (Z-19) severely damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1133,
+            "msg": "┺Yggdr┻ mellan_mjölk (Z-19) set afire ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1134,
+            "msg": "┺Yggdr┻ mellan_mjölk (Z-19) shot down ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1135,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ┺Yggdr┻ mellan_mjölk (Z-19)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 1136,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 1137,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4 LIC) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 1138,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ┺Yggdr┻ Cat_Lover420 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 1139,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 1140,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4 LIC) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 1141,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) shot down ┺Yggdr┻ jakob_c (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 1142,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 1143,
+            "msg": "┺Yggdr┻ Cat_Lover420 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 1144,
+            "msg": "Cat_Lover420td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 1145,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) critically damaged ┺Yggdr┻ GhostOfStockhoIm (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 1146,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ┺Yggdr┻ GhostOfStockhoIm (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 1147,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 1148,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 1149,
+            "msg": "┺Yggdr┻ GhostOfStockhoIm (Z-19E) severely damaged ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 1150,
+            "msg": "┺Yggdr┻ GhostOfStockhoIm (Z-19E) shot down ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 1151,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) set afire ┺Yggdr┻ Ludvig05 (T 80 U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1152,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) destroyed ┺Yggdr┻ Baguette Player (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 1153,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) set afire ╀P1KE╀ pablhost (Merkava Mk.4 LIC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 1154,
+            "msg": "┺Yggdr┻ tobberino has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 1155,
+            "msg": "tobberinotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 1156,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) destroyed ┺Yggdr┻ Ludvig05 (T 80 U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1157,
+            "msg": "╀P1KE╀ AlexanderDG56453 (Z-19E) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 1158,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 1159,
+            "msg": "┺Yggdr┻ mellan_mjölk has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 1160,
+            "msg": "mellan_mjölktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        }
+    ]
+}

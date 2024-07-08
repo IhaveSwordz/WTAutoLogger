@@ -1,0 +1,1293 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 385,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 386,
+            "msg": "╍TERVE╎ IGNIS_Templario (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 387,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 388,
+            "msg": "╍TERVE╎ ArielWT (Strf 9040B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 389,
+            "msg": "╍TERVE╎ Nico_kawawa (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 390,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 391,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 392,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 393,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 394,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 395,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 396,
+            "msg": "╍TERVE╎ ⋇ratitacachondita (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 397,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) damaged ╊P1KE╋ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 398,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) set afire ╊P1KE╋ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 399,
+            "msg": "╍TERVE╎ _PabloSniper_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 400,
+            "msg": "_PabloSniper_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 401,
+            "msg": "╍TERVE╎ AdrianAD10102000 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 402,
+            "msg": "AdrianAD10102000td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 403,
+            "msg": "╍TERVE╎ Nico_kawawa has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 404,
+            "msg": "Nico_kawawatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 405,
+            "msg": "╍TERVE╎ ⋇ratitacachondita has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 406,
+            "msg": "⋇ratitacachonditatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 407,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) set afire =KRKRA= Navorii (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 109
+        },
+        {
+            "id": 408,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) destroyed ╊P1KE╋ AmexPlatinum (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 409,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 410,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down =KRKRA= Capelazo (␗F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 411,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) destroyed =KRKRA= Killwithnoskillz (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 412,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 413,
+            "msg": "=KRKRA= Nick_Wilges has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 414,
+            "msg": "Nick_Wilgestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 415,
+            "msg": "=KRKRA= Navorii (T-80B) set afire ╊P1KE╋ Thecodyburger (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 416,
+            "msg": "=KRKRA= Navorii (T-80B) destroyed ╊P1KE╋ Thecodyburger (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 417,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) damaged ╊P1KE╋ theturtle2798793 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 418,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) set afire ╊P1KE╋ theturtle2798793 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 419,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) shot down ╊P1KE╋ theturtle2798793 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 420,
+            "msg": "=KRKRA= Nick_Wilges (Type 81 (C)) damaged ╊P1KE╋ battledroid714 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 421,
+            "msg": "=KRKRA= Nick_Wilges (Type 81 (C)) shot down ╊P1KE╋ battledroid714 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 422,
+            "msg": "=KRKRA= Navorii (T-80B) set afire ╊P1KE╋ Hydcide (T-80UM2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 423,
+            "msg": "╊P1KE╋ theturtle2798793 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 424,
+            "msg": "theturtle2798793td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 425,
+            "msg": "╊P1KE╋ CanadianChi (F-4E) destroyed =KRKRA= Navorii (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 426,
+            "msg": "╊P1KE╋ CanadianChi (F-4E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 427,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 428,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 429,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 430,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 431,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) damaged =KRKRA= БяТдяокo (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 432,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) shot down =KRKRA= БяТдяокo (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 433,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 434,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 435,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) destroyed =KRKRA= Nick_Wilges (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 72
+        },
+        {
+            "id": 436,
+            "msg": "=KRKRA= PERERECA (IPM1) destroyed ╊P1KE╋ Hydcide (T-80UM2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 437,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) damaged =KRKRA= SpeedRaiz (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 438,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) shot down ╊P1KE╋ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 439,
+            "msg": "=KRKRA= PERERECA (IPM1) destroyed ╊P1KE╋ battledroid714 (Freccia)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+        },
+        {
+            "id": 440,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 420
+        },
+        {
+            "id": 441,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 420
+        },
+        {
+            "id": 442,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 441
+        },
+        {
+            "id": 443,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 444,
+            "msg": "=KRKRA= Kriegshelden (BMP-2M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 445,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 446,
+            "msg": "=KRKRA= Killwithnoskillz (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 447,
+            "msg": "=KRKRA= PERERECA (IPM1) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 448,
+            "msg": "=KRKRA= PERERECA (IPM1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 449,
+            "msg": "=KRKRA= PERERECA (IPM1) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 450,
+            "msg": "=KRKRA= PERERECA (IPM1) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 451,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 452,
+            "msg": "╊P1KE╋ CanadianChi (F-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 453,
+            "msg": "=KRKRA= Capelazo (␗F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 454,
+            "msg": "=KRKRA= Navorii (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 455,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 456,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 457,
+            "msg": "=KRKRA= Nick_Wilges (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 458,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 459,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 460,
+            "msg": "╊P1KE╋ theturtle2798793 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 461,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 462,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 448
+        },
+        {
+            "id": 463,
+            "msg": "=KRKRA= Nick_Wilges has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 464,
+            "msg": "Nick_Wilgestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 465,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 72
+        },
+        {
+            "id": 466,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 72
+        },
+        {
+            "id": 467,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) destroyed =KRKRA= Navorii (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 468,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 469,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 470,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) destroyed =KRKRA= Killwithnoskillz (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 471,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 472,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 473,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 474,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 475,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) set afire =KRKRA= PERERECA (IPM1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 476,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) destroyed =KRKRA= PERERECA (IPM1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 477,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 478,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 479,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 480,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 481,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 482,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged =KRKRA= Kriegshelden (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 483,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down =KRKRA= Kriegshelden (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 484,
+            "msg": "=KRKRA= Capelazo (␗F-5E) shot down ╊P1KE╋ ___PHO3NIX___ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 485,
+            "msg": "=KRKRA= Nick_Wilges has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 486,
+            "msg": "Nick_Wilgestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 487,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) damaged =KRKRA= БяТдяокo (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 488,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) shot down =KRKRA= БяТдяокo (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 489,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) set afire =KRKRA= БяТдяокo (Su-25BM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 490,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 491,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 492,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 493,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) damaged ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 494,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) set afire ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 495,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged ╊P1KE╋ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 496,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down ╊P1KE╋ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 497,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) set afire ╊P1KE╋ CanadianChi (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 498,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) shot down ╊P1KE╋ Galaxxy__ (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 499,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged =KRKRA= SpeedRaiz (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 500,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down =KRKRA= SpeedRaiz (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 501,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 502,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 503,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 504,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 505,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) damaged =KRKRA= Capelazo (␗F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 506,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) shot down =KRKRA= Capelazo (␗F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 507,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 508,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 509,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) destroyed =KRKRA= Kriegshelden (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 510,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 511,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 512,
+            "msg": "╊P1KE╋ CanadianChi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 513,
+            "msg": "CanadianChitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 514,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 515,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Ka-50) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 516,
+            "msg": "=KRKRA= Kriegshelden (BMP-2M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 517,
+            "msg": "=KRKRA= БяТдяокo (Su-25BM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 518,
+            "msg": "=KRKRA= Killwithnoskillz (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 519,
+            "msg": "=KRKRA= PERERECA (IPM1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 520,
+            "msg": "=KRKRA= SpeedRaiz (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 521,
+            "msg": "╊P1KE╋ CanadianChi (F-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 522,
+            "msg": "=KRKRA= Capelazo (␗F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 523,
+            "msg": "=KRKRA= Navorii (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 524,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 525,
+            "msg": "╊P1KE╋ Hydcide (T-80UM2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 526,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 527,
+            "msg": "╊P1KE╋ Galaxxy__ (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 528,
+            "msg": "=KRKRA= Nick_Wilges (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 529,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 530,
+            "msg": "╊P1KE╋ battledroid714 (Freccia) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 531,
+            "msg": "╊P1KE╋ Thecodyburger (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 532,
+            "msg": "╊P1KE╋ Galaxxy__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 533,
+            "msg": "Galaxxy__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 534,
+            "msg": "=KRKRA= Navorii has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 535,
+            "msg": "Navoriitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 536,
+            "msg": "=KRKRA= Killwithnoskillz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 537,
+            "msg": "Killwithnoskillztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 538,
+            "msg": "╊P1KE╋ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 539,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 540,
+            "msg": "=KRKRA= БяТдяокo has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 541,
+            "msg": "БяТдяокotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 542,
+            "msg": "=KRKRA= PERERECA has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 543,
+            "msg": "PERERECAtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 544,
+            "msg": "=KRKRA= SpeedRaiz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 545,
+            "msg": "SpeedRaiztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        }
+    ]
+}

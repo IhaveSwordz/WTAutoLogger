@@ -1,0 +1,1229 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 289,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) shot down ╍BofSs╎ The_Mig_Hunter (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 290,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 291,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Z-10) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 292,
+            "msg": "╍BofSs╎ jdtherocker (Strv 122A) set afire ╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 293,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 294,
+            "msg": "╍BofSs╎ jdtherocker (Strv 122A) destroyed ╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 295,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Z-10) destroyed ╍BofSs╎ TheRealEdiot (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 296,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) damaged ╊P1KE╋ AlexanderDG56453 (Z-10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 297,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) shot down ╊P1KE╋ AlexanderDG56453 (Z-10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 298,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) set afire ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 353
+        },
+        {
+            "id": 299,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) damaged ╊P1KE╋ Kayonicks (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        },
+        {
+            "id": 300,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) set afire ╊P1KE╋ Kayonicks (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 409
+        },
+        {
+            "id": 301,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) shot down ╊P1KE╋ Kayonicks (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 409
+        },
+        {
+            "id": 302,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 409
+        },
+        {
+            "id": 303,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 409
+        },
+        {
+            "id": 304,
+            "msg": "╍BofSs╎ jdtherocker (Strv 122A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 305,
+            "msg": "╍BofSs╎ jdtherocker (Strv 122A) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 306,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 307,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 308,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 309,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 310,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 311,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 312,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 313,
+            "msg": "╍BofSs╎ DulvEl_iF3NOM (ZTZ99A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 314,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 315,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 316,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Z-10) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 317,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 318,
+            "msg": "╊P1KE╋ f5c_enjoyer (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 319,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 320,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 321,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 322,
+            "msg": "╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 323,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 324,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 71
+        },
+        {
+            "id": 325,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 72
+        },
+        {
+            "id": 326,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) damaged ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 124
+        },
+        {
+            "id": 327,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) damaged ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 328,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) set afire ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 329,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) set afire ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 330,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) shot down ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 331,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) shot down ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 332,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) damaged ╊P1KE╋ f5c_enjoyer (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 333,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) set afire ╊P1KE╋ f5c_enjoyer (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 334,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) shot down ╊P1KE╋ f5c_enjoyer (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 335,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) damaged ╍BofSs╎ GaMMa_Weapon (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 336,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) shot down ╍BofSs╎ GaMMa_Weapon (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 337,
+            "msg": "╊P1KE╋ Kayonicks (Mirage 2000) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 338,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 339,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) damaged ╍BofSs╎ The_Mig_Hunter (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 340,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) destroyed ╍BofSs╎ jdtherocker (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 341,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) shot down ╍BofSs╎ The_Mig_Hunter (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 342,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 343,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 344,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) set afire ╊P1KE╋ Hydcide (Leclerc SXXI)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 345,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) damaged ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 346,
+            "msg": "╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT) damaged ╊P1KE╋ CanadianChi (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 347,
+            "msg": "╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT) shot down ╊P1KE╋ CanadianChi (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 348,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) damaged ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 349,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) shot down ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 350,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 351,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 352,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 353,
+            "msg": "╍BofSs╎ _xX360PwnageXx_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 354,
+            "msg": "_xX360PwnageXx_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 355,
+            "msg": "╍BofSs╎ DulvEl_iF3NOM (ZTZ99A) destroyed ╊P1KE╋ Coleslaw2101 (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 356,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) damaged ╊P1KE╋ Kayonicks (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 357,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) shot down ╊P1KE╋ Kayonicks (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 358,
+            "msg": "╍BofSs╎ DulvEl_iF3NOM (ZTZ99A) destroyed ╊P1KE╋ Hydcide (Leclerc SXXI)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 273
+        },
+        {
+            "id": 359,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) set afire ╍BofSs╎ SealyA26 (Strv 122B PLSS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 360,
+            "msg": "╊P1KE╋ CanadianChi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 361,
+            "msg": "CanadianChitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 362,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) destroyed ╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 363,
+            "msg": "╊P1KE╋ f5c_enjoyer has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 364,
+            "msg": "f5c_enjoyertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 365,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 84
+        },
+        {
+            "id": 366,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+        },
+        {
+            "id": 367,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) set afire ╍BofSs╎ jdtherocker (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 368,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) destroyed ╍BofSs╎ jdtherocker (Strv 122A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 369,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 370,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 371,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 372,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) damaged ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 373,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) shot down ╍BofSs╎ Schroedinger00 (Mi-28NM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 374,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) shot down ╊P1KE╋ f5c_enjoyer (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 375,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) set afire ╊P1KE╋ f5c_enjoyer (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 376,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) damaged ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 377,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) set afire ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 378,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) shot down ╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 379,
+            "msg": "╊P1KE╋ f5c_enjoyer (F-16C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 380,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 381,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) damaged ╍BofSs╎ The_Mig_Hunter (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 382,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) shot down ╍BofSs╎ The_Mig_Hunter (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 383,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 384,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 385,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 386,
+            "msg": "╊P1KE╋ f5c_enjoyer (F-16C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 387,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 388,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) destroyed ╍BofSs╎ SealyA26 (Strv 122B PLSS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 389,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 390,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 391,
+            "msg": "╍BofSs╎ jdtherocker has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 392,
+            "msg": "jdtherockertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 393,
+            "msg": "╍BofSs╎ SealyA26 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 394,
+            "msg": "SealyA26td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 395,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) destroyed ╍BofSs╎ DulvEl_iF3NOM (ZTZ99A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 396,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 397,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 398,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) damaged ╊P1KE╋ Hydcide (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 399,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) set afire ╊P1KE╋ Hydcide (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 400,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) shot down ╊P1KE╋ Hydcide (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 401,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) damaged ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 402,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) set afire ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 403,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) shot down ╊P1KE╋ AlexanderDG56453 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 404,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) destroyed ╍BofSs╎ TheRealEdiot (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 277
+        },
+        {
+            "id": 405,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 406,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 407,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 408,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) destroyed ╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 288
+        },
+        {
+            "id": 409,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) destroyed ╊P1KE╋ Coleslaw2101 (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 410,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 366
+        },
+        {
+            "id": 411,
+            "msg": "╍BofSs╎ TheRealEdiot has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 412,
+            "msg": "TheRealEdiottd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 413,
+            "msg": "╊P1KE╋ Coleslaw2101 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 414,
+            "msg": "Coleslaw2101td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 415,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 416,
+            "msg": "⋇SuperWamen69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 417,
+            "msg": "╍BofSs╎ Schroedinger00 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 418,
+            "msg": "Schroedinger00td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 379
+        },
+        {
+            "id": 419,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 380
+        },
+        {
+            "id": 420,
+            "msg": "╍BofSs╎ jdtherocker (Strv 122A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 421,
+            "msg": "╍BofSs╎ Schroedinger00 (Mi-28NM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 422,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 423,
+            "msg": "╍BofSs╎ TheRealEdiot (Type 81 (C)) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 424,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) has achieved \"The last man standing!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 425,
+            "msg": "╊P1KE╋ Kayonicks (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 426,
+            "msg": "╍BofSs╎ SealyA26 (Strv 122B PLSS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 427,
+            "msg": "╍BofSs╎ DulvEl_iF3NOM (ZTZ99A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 428,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 429,
+            "msg": "╊P1KE╋ CanadianChi (F-16C) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 430,
+            "msg": "╍BofSs╎ The_Mig_Hunter (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 431,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 432,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 433,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has achieved \"Mission Maker\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 434,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 435,
+            "msg": "╍BofSs╎ GaMMa_Weapon (Ka-52) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 436,
+            "msg": "╊P1KE╋ f5c_enjoyer (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 437,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 438,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 439,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 440,
+            "msg": "╍BofSs╎ _xX360PwnageXx_ (MiG-29SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 441,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        }
+    ]
+}

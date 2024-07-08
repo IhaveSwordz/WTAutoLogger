@@ -1,0 +1,1101 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 2465,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 2466,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Leopard 2 (PzBtl 123)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 2467,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 2468,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 2469,
+            "msg": "╀SIKRI╀ Zaedo has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 2470,
+            "msg": "Zaedotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 2471,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) set afire ╀SIKRI╀ ⋇JonJosMG (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 2472,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) destroyed ╀SIKRI╀ ⋇JonJosMG (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2473,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2474,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2475,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2476,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2477,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) destroyed ╊P1KE╋ ⋇LETHALno10 (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 2478,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) destroyed ╊P1KE╋ AmexPlatinum (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 2479,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) set afire ╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 2480,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) destroyed ╊P1KE╋ battledroid714 (Dardo)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 2481,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) set afire ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 2482,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 2483,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) set afire ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2484,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) destroyed ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 2485,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 395
+        },
+        {
+            "id": 2486,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 395
+        },
+        {
+            "id": 2487,
+            "msg": "╊P1KE╋ zonedilluzionz (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 395
+        },
+        {
+            "id": 2488,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 395
+        },
+        {
+            "id": 2489,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 395
+        },
+        {
+            "id": 2490,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2491,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2492,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2493,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (Ariete (P)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2494,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2495,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2496,
+            "msg": "╀SIKRI╀ Sargento_Acosta (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2497,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2498,
+            "msg": "╀SIKRI╀ ⋇Straico_YT (Leopard A1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2499,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2500,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2501,
+            "msg": "╀SIKRI╀ Zaedo (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2502,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2503,
+            "msg": "╀SIKRI╀ ⋇JonJosMG (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2504,
+            "msg": "╀SIKRI╀ ⋇JonJosMG (Leopard 2A4) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2505,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2506,
+            "msg": "╀SIKRI╀ Pichuleytor3mil (Su-25K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2507,
+            "msg": "╊P1KE╋ bballjake1030 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2508,
+            "msg": "bballjake1030td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 2509,
+            "msg": "╊P1KE╋ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 397
+        },
+        {
+            "id": 2510,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 397
+        },
+        {
+            "id": 2511,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) destroyed ╊P1KE╋ AmexPlatinum (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 54
+        },
+        {
+            "id": 2512,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 54
+        },
+        {
+            "id": 2513,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) destroyed ╊P1KE╋ zonedilluzionz (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 2514,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 104
+        },
+        {
+            "id": 2515,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) destroyed ╊P1KE╋ ⋇LETHALno10 (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 2516,
+            "msg": "╊P1KE╋ _____meme_____ (Su-25K) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 134
+        },
+        {
+            "id": 2517,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) damaged ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 2518,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) shot down ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 2519,
+            "msg": "╀SIKRI╀ Pichuleytor3mil (Su-25K) destroyed ╀SIKRI╀ Sargento_Acosta (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 2520,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 2521,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 2522,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) set afire ╀SIKRI╀ ⋇JonJosMG (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 2523,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) destroyed ╀SIKRI╀ ⋇JonJosMG (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 2524,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 2525,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 2526,
+            "msg": "╀SIKRI╀ Zaedo (2S38) set afire ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 200
+        },
+        {
+            "id": 2527,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ╀SIKRI╀ ⋇Straico_YT (Gepard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 2528,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 2529,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 2530,
+            "msg": "╀SIKRI╀ Zaedo (2S38) destroyed ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 2531,
+            "msg": "╀SIKRI╀ Pichuleytor3mil (Su-25K) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 2532,
+            "msg": "╊P1KE╋ Freme_el_Doblas has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 2533,
+            "msg": "Freme_el_Doblastd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 2534,
+            "msg": "╀SIKRI╀ Zaedo (2S38) destroyed ╊P1KE╋ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 398
+        },
+        {
+            "id": 2535,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 2536,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 2537,
+            "msg": "╊P1KE╋ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 2538,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 2539,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) destroyed ╊P1KE╋ _____meme_____ (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 2540,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 2541,
+            "msg": "╀SIKRI╀ ⋇JonJosMG (Leopard 2A4) set afire ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 2542,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) destroyed ╊P1KE╋ Freme_el_Doblas (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 2543,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) set afire ╊P1KE╋ ⋇LETHALno10 (M1128)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 2544,
+            "msg": "╀SIKRI╀ ⋇JonJosMG (Leopard 2A4) destroyed ╊P1KE╋ ⋇LETHALno10 (M1128)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 2545,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) destroyed ╀SIKRI╀ ⋇JonJosMG (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 2546,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2547,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 2548,
+            "msg": "╀SIKRI╀ Sargento_Acosta (Leopard 2A4) destroyed ╊P1KE╋ zonedilluzionz (ZTZ96A (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 2549,
+            "msg": "╀SIKRI╀ Pichuleytor3mil (Su-25K) destroyed ╊P1KE╋ AmexPlatinum (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 2550,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) damaged ╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 2551,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) damaged ╀SIKRI╀ Pichuleytor3mil (Su-25K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 2552,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) shot down ╀SIKRI╀ Pichuleytor3mil (Su-25K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 2553,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 2554,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 2555,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 2556,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) shot down ╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 2557,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 2558,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 2559,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 2560,
+            "msg": "╀SIKRI╀ Zaedo (2S38) damaged ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 2561,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) damaged ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 2562,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) set afire ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 2563,
+            "msg": "╀SIKRI╀ Zaedo (2S38) shot down ╊P1KE╋ bballjake1030 (A-129 International (p))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 2564,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) damaged ╀SIKRI╀ andre201414 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 2565,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) shot down ╀SIKRI╀ andre201414 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 2566,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 2567,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) destroyed ╀SIKRI╀ Sargento_Acosta (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 2568,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 2569,
+            "msg": "╀SIKRI╀ ⋇Straico_YT (Leopard A1A1) set afire ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 2570,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 2571,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) set afire ╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 2572,
+            "msg": "╀SIKRI╀ ⋇Straico_YT (Leopard A1A1) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 2573,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 2574,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 311
+        },
+        {
+            "id": 2575,
+            "msg": "╊P1KE╋ Freme_el_Doblas has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 2576,
+            "msg": "Freme_el_Doblastd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 340
+        },
+        {
+            "id": 2577,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) set afire ╊P1KE╋ battledroid714 (Dardo)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 370
+        },
+        {
+            "id": 2578,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) destroyed ╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 2579,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 2580,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 2581,
+            "msg": "╊P1KE╋ zonedilluzionz (ZTZ96A (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2582,
+            "msg": "╊P1KE╋ bballjake1030 (A-129 International (p)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2583,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2584,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2585,
+            "msg": "╀SIKRI╀ M_4_X_N_A_C_H_S (A129CBT) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2586,
+            "msg": "╊P1KE╋ _____meme_____ (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 2587,
+            "msg": "╀SIKRI╀ andre201414 (MiG-21SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2588,
+            "msg": "╀SIKRI╀ Sargento_Acosta (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2589,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2590,
+            "msg": "╀SIKRI╀ GiancarlOoO (T-72AV (TURMS-T)) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2591,
+            "msg": "╀SIKRI╀ ⋇Straico_YT (Leopard A1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2592,
+            "msg": "╀SIKRI╀ ⋇Straico_YT (Leopard A1A1) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2593,
+            "msg": "╊P1KE╋ ⋇LETHALno10 (M1128) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2594,
+            "msg": "╊P1KE╋ AmexPlatinum (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2595,
+            "msg": "╀SIKRI╀ Zaedo (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2596,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2597,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2598,
+            "msg": "╊P1KE╋ battledroid714 (Dardo) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2599,
+            "msg": "╀SIKRI╀ ⋇JonJosMG (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2600,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 2601,
+            "msg": "╀SIKRI╀ Pichuleytor3mil (Su-25K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        }
+    ]
+}

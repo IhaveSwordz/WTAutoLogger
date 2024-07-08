@@ -1,0 +1,146 @@
+{
+  "hideNodes": {
+    "node": [
+      "holder_01",
+      "holder_02",
+      "holder_03",
+      "holder_04",
+      "holder_05",
+      "holder_06",
+      "holder_07",
+      "holder_08",
+      "holder_09",
+      "holder_10",
+      "holder_11",
+      "holder_12",
+      "depth_charge_01",
+      "depth_charge_02",
+      "depth_charge_03",
+      "depth_charge_04",
+      "depth_charge_05",
+      "depth_charge_08",
+      "depth_charge_09",
+      "depth_charge_10",
+      "depth_charge_11",
+      "depth_charge_12"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "gunner15",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_de_wbg_mortar.blk",
+      "emitter": "bone_bomb_06",
+      "bullets": 1,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_06_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_06_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_16",
+        "gun": "depth_charge_mount_06"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner16",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_de_wbg_mortar.blk",
+      "emitter": "bone_bomb_07",
+      "bullets": 1,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_07_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_07_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_17",
+        "gun": "depth_charge_mount_07"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner17",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_de_wbg_mortar.blk",
+      "emitter": "bone_bomb_13",
+      "bullets": 1,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_13_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_13_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_18",
+        "gun": "depth_charge_mount_13"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner18",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_de_wbg_mortar.blk",
+      "emitter": "bone_bomb_14",
+      "bullets": 1,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_14_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_14_dm",
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_19",
+        "gun": "depth_charge_mount_14"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

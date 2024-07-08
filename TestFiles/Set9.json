@@ -1,0 +1,1189 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1505,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 1506,
+            "msg": "╊P1KE╋ Hydcide (F-5E) damaged ┾vTHCv┿ SlaughterGnG (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 1507,
+            "msg": "╊P1KE╋ Hydcide (F-5E) set afire ┾vTHCv┿ SlaughterGnG (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 1508,
+            "msg": "╊P1KE╋ Hydcide (F-5E) shot down ┾vTHCv┿ SlaughterGnG (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 1509,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 1510,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 1511,
+            "msg": "╊P1KE╋ Kotarax (M1A1) destroyed ┾vTHCv┿ AceValiant (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 1512,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1513,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1514,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 1515,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) destroyed ┾vTHCv┿ Lmaowkwkwk (Т-90А)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1516,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1517,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1518,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1519,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) damaged ┾vTHCv┿ Genralwolf (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1520,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) set afire ┾vTHCv┿ Genralwolf (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1521,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) shot down ┾vTHCv┿ Genralwolf (F-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1522,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1523,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) set afire ┾vTHCv┿ Tigor_goes_RAWR (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 1524,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) destroyed ┾vTHCv┿ Tigor_goes_RAWR (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 1525,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 1526,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 1527,
+            "msg": "┾vTHCv┿ Lmaowkwkwk has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 1528,
+            "msg": "Lmaowkwkwktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 1529,
+            "msg": "┾vTHCv┿ K_o_b_a (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1530,
+            "msg": "┾vTHCv┿ SlaughterGnG (◊MiG-21bis-SAU) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1531,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1532,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1533,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1534,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1535,
+            "msg": "┾vTHCv┿ ⋇rade234 (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1536,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1537,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1538,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1539,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1540,
+            "msg": "┾vTHCv┿ AceValiant (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1541,
+            "msg": "┾vTHCv┿ ⋇Boomer90000 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1542,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1543,
+            "msg": "┾vTHCv┿ Lmaowkwkwk (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1544,
+            "msg": "╊P1KE╋ spacedog451 (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1545,
+            "msg": "┾vTHCv┿ Tigor_goes_RAWR (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1546,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1547,
+            "msg": "┾vTHCv┿ Genralwolf (F-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1548,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 1549,
+            "msg": "┾vTHCv┿ AceValiant has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1550,
+            "msg": "AceValianttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1551,
+            "msg": "┾vTHCv┿ ⋇rade234 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1552,
+            "msg": "⋇rade234td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1553,
+            "msg": "┾vTHCv┿ K_o_b_a has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1554,
+            "msg": "K_o_b_atd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1555,
+            "msg": "╊P1KE╋ spacedog451 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1556,
+            "msg": "spacedog451td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 1557,
+            "msg": "┾vTHCv┿ Tigor_goes_RAWR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 1558,
+            "msg": "Tigor_goes_RAWRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 1559,
+            "msg": "┾vTHCv┿ ⋇Boomer90000 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 1560,
+            "msg": "⋇Boomer90000td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 1561,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) shot down ╊P1KE╋ Kayonicks (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 1562,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 1563,
+            "msg": "╃RO6╄ Step Heli (Z-9WA) damaged ╊P1KE╋ Kayonicks (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1564,
+            "msg": "╃RO6╄ Step Heli (Z-9WA) set afire ╊P1KE╋ Kayonicks (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 1565,
+            "msg": "╃RO6╄ Step Heli (Z-9WA) shot down ╊P1KE╋ Kayonicks (J-8B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 1566,
+            "msg": "╃RO6╄ Step Heli (Z-9WA) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 1567,
+            "msg": "╊P1KE╋ Hydcide (F-5E) damaged ╃RO6╄ Herongate (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 1568,
+            "msg": "╊P1KE╋ Hydcide (F-5E) set afire ╃RO6╄ Herongate (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 1569,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) shot down ╃RO6╄ Lord_Hartz (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 1570,
+            "msg": "╊P1KE╋ Hydcide (F-5E) shot down ╃RO6╄ Herongate (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 1571,
+            "msg": "╃RO6╄ Lord_Hartz (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 1572,
+            "msg": "╊P1KE╋ spacedog451 (M1A1) set afire ╃RO6╄ 哥哥轻点 (TKX (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 1573,
+            "msg": "╊P1KE╋ Hydcide (F-5E) destroyed ╃RO6╄ 哥哥轻点 (TKX (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1574,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1575,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1576,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1577,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1578,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1579,
+            "msg": "╊P1KE╋ spacedog451 (M1A1) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1580,
+            "msg": "╊P1KE╋ spacedog451 (M1A1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1581,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1582,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1583,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1584,
+            "msg": "╃RO6╄ ⋇CajunKiller3 (Type 90 (B)) destroyed ╊P1KE╋ Kotarax (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 1585,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) damaged ╃RO6╄ pedrocarter (MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 1586,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) set afire ╃RO6╄ pedrocarter (MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 1587,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) shot down ╃RO6╄ pedrocarter (MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 1588,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 1589,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) destroyed ╃RO6╄ ⋇CajunKiller3 (Type 90 (B))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 1590,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1591,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1592,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1593,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Rank does not matter\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1594,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 1595,
+            "msg": "╃RO6╄ Marviei (Type 90) destroyed ╊P1KE╋ spacedog451 (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 1596,
+            "msg": "╊P1KE╋ Hydcide (F-5E) destroyed ╃RO6╄ Marviei (Type 90)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1597,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1598,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1599,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1600,
+            "msg": "╃RO6╄ Marviei has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 1601,
+            "msg": "Marvieitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 1602,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 1603,
+            "msg": "╊P1KE╋ Hydcide (F-5E) destroyed ╃RO6╄ Lord_Hartz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1604,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1605,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1606,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1607,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1608,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 1609,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) damaged ╃RO6╄ Step Heli (Z-9WA)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 374
+        },
+        {
+            "id": 1610,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) shot down ╃RO6╄ Step Heli (Z-9WA)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 1611,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 1612,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 378
+        },
+        {
+            "id": 1613,
+            "msg": "╃RO6╄ Step Heli has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 1614,
+            "msg": "Step Helitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 382
+        },
+        {
+            "id": 1615,
+            "msg": "╃RO6╄ pedrocarter has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 1616,
+            "msg": "pedrocartertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 1617,
+            "msg": "╃RO6╄ 哥哥轻点 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 1618,
+            "msg": "哥哥轻点td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 1619,
+            "msg": "╃RO6╄ ⋇CajunKiller3 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 1620,
+            "msg": "⋇CajunKiller3td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 1621,
+            "msg": "╃RO6╄ Marviei (Type 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1622,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1623,
+            "msg": "╊P1KE╋ _____meme_____ (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1624,
+            "msg": "╃RO6╄ Lord_Hartz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1625,
+            "msg": "╊P1KE╋ Kayonicks (J-8B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1626,
+            "msg": "╃RO6╄ pedrocarter (MiG-21bis) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1627,
+            "msg": "╃RO6╄ jassioma (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1628,
+            "msg": "╃RO6╄ ⋇CajunKiller3 (Type 90 (B)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1629,
+            "msg": "╊P1KE╋ Kotarax (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1630,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1631,
+            "msg": "╊P1KE╋ Hydcide (F-5E) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1632,
+            "msg": "╃RO6╄ Herongate (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1633,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1634,
+            "msg": "╊P1KE╋ Coleslaw2101 (2S6) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1635,
+            "msg": "╊P1KE╋ spacedog451 (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1636,
+            "msg": "╃RO6╄ 哥哥轻点 (TKX (P)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1637,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1638,
+            "msg": "╊P1KE╋ battledroid714 (VRCC) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1639,
+            "msg": "╊P1KE╋ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1640,
+            "msg": "╃RO6╄ Step Heli (Z-9WA) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 1641,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1642,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1643,
+            "msg": "╃RO6╄ Lord_Hartz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1644,
+            "msg": "Lord_Hartztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1645,
+            "msg": "╃RO6╄ Herongate has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1646,
+            "msg": "Herongatetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1647,
+            "msg": "╊P1KE╋ Kayonicks has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1648,
+            "msg": "Kayonickstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 393
+        },
+        {
+            "id": 1649,
+            "msg": "╊P1KE╋ Kotarax has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        },
+        {
+            "id": 1650,
+            "msg": "Kotaraxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        },
+        {
+            "id": 1651,
+            "msg": "╊P1KE╋ spacedog451 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        },
+        {
+            "id": 1652,
+            "msg": "spacedog451td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 394
+        }
+    ]
+}

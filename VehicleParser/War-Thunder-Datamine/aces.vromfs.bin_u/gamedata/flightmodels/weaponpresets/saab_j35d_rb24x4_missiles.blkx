@@ -1,0 +1,20 @@
+{
+  "Weapon": [
+    {
+      "slot": 1,
+      "preset": "swe_rb24"
+    },
+    {
+      "slot": 2,
+      "preset": "swe_rb24"
+    },
+    {
+      "slot": 3,
+      "preset": "swe_rb24"
+    },
+    {
+      "slot": 4,
+      "preset": "swe_rb24"
+    }
+  ]
+}

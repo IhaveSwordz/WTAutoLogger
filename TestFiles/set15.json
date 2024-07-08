@@ -1,0 +1,1221 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 97,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 98,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 99,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) destroyed =SKLSU= W4YNE_KENN0FF (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 100,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 101,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 102,
+            "msg": "=SKLSU= GhostOfYerevan (Strela-10M2) shot down ╊P1KE╋ AlexanderDG56453 (◊Mi-24P)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 103,
+            "msg": "=SKLSU= GhostOfYerevan (Strela-10M2) set afire ╊P1KE╋ AlexanderDG56453 (◊Mi-24P)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 104,
+            "msg": "=SKLSU= shelterock69 (J-7II) damaged ╊P1KE╋ Coleslaw2101 (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 105,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) damaged ╊P1KE╋ Coleslaw2101 (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 106,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) shot down ╊P1KE╋ Coleslaw2101 (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 107,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) set afire ╊P1KE╋ Coleslaw2101 (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 108,
+            "msg": "=SKLSU= W4YNE_KENN0FF has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 109,
+            "msg": "W4YNE_KENN0FFtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 110,
+            "msg": "╊P1KE╋ AlexanderDG56453 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 111,
+            "msg": "AlexanderDG56453td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 112,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) destroyed =SKLSU= Anonymous4245 (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 113,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 114,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 115,
+            "msg": "=SKLSU= Anonymous4245 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 116,
+            "msg": "Anonymous4245td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 117,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) destroyed ╊P1KE╋ AmexBlack (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 118,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) destroyed =SKLSU= GhostOfYerevan (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 119,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 309
+        },
+        {
+            "id": 120,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) destroyed ╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 121,
+            "msg": "╊P1KE╋ _____meme_____ (Yak-28B) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 375
+        },
+        {
+            "id": 122,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 123,
+            "msg": "╊P1KE╋ Coleslaw2101 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 124,
+            "msg": "Coleslaw2101td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 125,
+            "msg": "=SKLSU= GhostOfYerevan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+        },
+        {
+            "id": 126,
+            "msg": "GhostOfYerevantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+        },
+        {
+            "id": 127,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) destroyed ╊P1KE╋ AmexPlatinum (BMD-4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 441
+        },
+        {
+            "id": 128,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 458
+        },
+        {
+            "id": 129,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 458
+        },
+        {
+            "id": 130,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 131,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) destroyed ╊P1KE╋ AverageWZ305Main (◔T-72M1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 498
+        },
+        {
+            "id": 132,
+            "msg": "╊P1KE╋ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 508
+        },
+        {
+            "id": 133,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 508
+        },
+        {
+            "id": 134,
+            "msg": "╊P1KE╋ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 509
+        },
+        {
+            "id": 135,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 509
+        },
+        {
+            "id": 136,
+            "msg": "=SKLSU= Anonymous4245 (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 519
+        },
+        {
+            "id": 137,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 138,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 139,
+            "msg": "╊P1KE╋ _____meme_____ (Yak-28B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 140,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 141,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 142,
+            "msg": "=SKLSU= shelterock69 (J-7II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 143,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 144,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 145,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 146,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 147,
+            "msg": "=SKLSU= TiedPaladin3310 (Radkampfwagen 90) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 148,
+            "msg": "=SKLSU= UnicornStalkRYT (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 149,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 150,
+            "msg": "=SKLSU= Lunima (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 151,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 152,
+            "msg": "=SKLSU= Und3rPr3ssur3 (AV-8C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 153,
+            "msg": "=SKLSU= GhostOfYerevan (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 154,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 155,
+            "msg": "=SKLSU= W4YNE_KENN0FF (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 520
+        },
+        {
+            "id": 156,
+            "msg": "╊P1KE╋ _____meme_____ (Yak-28B) destroyed ┺649┻ xDegel18Goldx (Leopard A1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 61
+        },
+        {
+            "id": 157,
+            "msg": "┺649┻ ⋇Mariotambor19 (Strela-10M2) set afire ╊P1KE╋ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 64
+        },
+        {
+            "id": 158,
+            "msg": "┺649┻ ⋇Mariotambor19 (Strela-10M2) shot down ╊P1KE╋ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 70
+        },
+        {
+            "id": 159,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) destroyed ┺649┻ the_Phantom827 (Magach 6B Gal)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 74
+        },
+        {
+            "id": 160,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 74
+        },
+        {
+            "id": 161,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 74
+        },
+        {
+            "id": 162,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 74
+        },
+        {
+            "id": 163,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 74
+        },
+        {
+            "id": 164,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) destroyed ┺649┻ ⋇Mariotambor19 (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 165,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 166,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 167,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 168,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Bomber Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 169,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 170,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 171,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 172,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 173,
+            "msg": "┺649┻ NIGHTMARE_AN (Mi-24V) destroyed ╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 174,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) destroyed ┺649┻ ⋇Alxmate28 (Ru 251)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 175,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 176,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 177,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 178,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 179,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 180,
+            "msg": "┺649┻ NIGHTMARE_AN (Mi-24V) destroyed ╊P1KE╋ AmexPlatinum (BMD-4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 181,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) destroyed ┺649┻ NAGAKA (WMA301)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 182,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 183,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 184,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 185,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 186,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) damaged ┺649┻ _Pool_ (◌Hunter F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 187,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) shot down ┺649┻ _Pool_ (◌Hunter F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 188,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) set afire ┺649┻ _Pool_ (◌Hunter F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 189,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 190,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 191,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 192,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 193,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 194,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 195,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) destroyed ┺649┻ nik12121221 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 196,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 197,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 198,
+            "msg": "┺649┻ NIGHTMARE_AN (Mi-24V) damaged ╊P1KE╋ AlexanderDG56453 (◊Mi-24P)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 199,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) damaged ┺649┻ NIGHTMARE_AN (Mi-24V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 200,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) shot down ┺649┻ NIGHTMARE_AN (Mi-24V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 201,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 202,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 203,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 204,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 205,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 206,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 207,
+            "msg": "┺649┻ ⋇Alxmate28 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 208,
+            "msg": "⋇Alxmate28td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 209,
+            "msg": "┺649┻ xDegel18Goldx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 210,
+            "msg": "xDegel18Goldxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 211,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) shot down ╊P1KE╋ AlexanderDG56453 (◊Mi-24P)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 212,
+            "msg": "┺649┻ ⋇Mariotambor19 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 213,
+            "msg": "⋇Mariotambor19td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 214,
+            "msg": "╊P1KE╋ bballjake1030 (SIDAM 25 (Mistral)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 215,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 216,
+            "msg": "╊P1KE╋ _____meme_____ (Yak-28B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 217,
+            "msg": "╊P1KE╋ AverageWZ305Main (◔T-72M1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 218,
+            "msg": "┺649┻ NAGAKA (WMA301) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 219,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 220,
+            "msg": "╊P1KE╋ AlexanderDG56453 (◊Mi-24P) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 221,
+            "msg": "┺649┻ _Pool_ (◌Hunter F) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 222,
+            "msg": "┺649┻ the_Phantom827 (Magach 6B Gal) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 223,
+            "msg": "┺649┻ nik12121221 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 224,
+            "msg": "┺649┻ ⋇Mariotambor19 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 225,
+            "msg": "╊P1KE╋ AmexPlatinum (BMD-4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 226,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 227,
+            "msg": "╊P1KE╋ Coleslaw2101 (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 228,
+            "msg": "┺649┻ xDegel18Goldx (Leopard A1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 229,
+            "msg": "┺649┻ NIGHTMARE_AN (Mi-24V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 230,
+            "msg": "┺649┻ NIGHTMARE_AN (Mi-24V) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 231,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 232,
+            "msg": "┺649┻ ⋇Alxmate28 (Ru 251) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 233,
+            "msg": "┺649┻ NIGHTMARE_AN has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 234,
+            "msg": "NIGHTMARE_ANtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 235,
+            "msg": "┺649┻ the_Phantom827 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 236,
+            "msg": "the_Phantom827td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 237,
+            "msg": "╊P1KE╋ bballjake1030 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 238,
+            "msg": "bballjake1030td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 239,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 240,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 241,
+            "msg": "╊P1KE╋ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 242,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 243,
+            "msg": "┺649┻ _Pool_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 244,
+            "msg": "_Pool_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 245,
+            "msg": "┺649┻ NAGAKA has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 246,
+            "msg": "NAGAKAtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 247,
+            "msg": "┺649┻ nik12121221 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 248,
+            "msg": "nik12121221td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        }
+    ]
+}

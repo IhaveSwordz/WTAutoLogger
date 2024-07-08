@@ -1,0 +1,16 @@
+{
+  "Weapon": [
+    {
+      "slot": 1,
+      "preset": "s24"
+    },
+    {
+      "slot": 2,
+      "preset": "gsh_23l_common"
+    },
+    {
+      "slot": 3,
+      "preset": "s24"
+    }
+  ]
+}

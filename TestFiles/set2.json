@@ -1,0 +1,654 @@
+{
+      "events": [],
+      "damage": [
+         {
+            "id": 455,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) shot down ╖TERVE╖ M3D3l21 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+         },
+         {
+            "id": 456,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+         },
+         {
+            "id": 457,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ Squiddsco (XM-1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+         },
+         {
+            "id": 458,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ BAdgEr (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+         },
+         {
+            "id": 459,
+            "msg": "┾P1KE┿ RepearZz (T-72A) set afire ╖TERVE╖ Z0MBIKK (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+         },
+         {
+            "id": 460,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) shot down ┾P1KE┿ mercyflush_ (F4D-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+         },
+         {
+            "id": 461,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) damaged ┾P1KE┿ f5c_enjoyer (F4D-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+         },
+         {
+            "id": 462,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) shot down ┾P1KE┿ f5c_enjoyer (F4D-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+         },
+         {
+            "id": 463,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) set afire ╖TERVE╖ ALFABravoArg (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+         },
+         {
+            "id": 464,
+            "msg": "┾P1KE┿ RepearZz (T-72A) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+         },
+         {
+            "id": 465,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) shot down ╖TERVE╖ ALFABravoArg (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+         },
+         {
+            "id": 466,
+            "msg": "╖TERVE╖ Z0MBIKK (Object 279) destroyed ┾P1KE┿ RepearZz (T-72A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+         },
+         {
+            "id": 467,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+         },
+         {
+            "id": 468,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+         },
+         {
+            "id": 469,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+         },
+         {
+            "id": 470,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+         },
+         {
+            "id": 471,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 277
+         },
+         {
+            "id": 472,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) destroyed ╖TERVE╖ erick4ever (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+         },
+         {
+            "id": 473,
+            "msg": "╖TERVE╖ M3D3l21 (Begleitpanzer 57) destroyed ┾P1KE┿ Banc_Boue_La (PGZ04A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+         },
+         {
+            "id": 474,
+            "msg": "┾P1KE┿ BAdgEr has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+         },
+         {
+            "id": 475,
+            "msg": "BAdgErtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+         },
+         {
+            "id": 476,
+            "msg": "┾P1KE┿ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+         },
+         {
+            "id": 477,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+         },
+         {
+            "id": 478,
+            "msg": "╖TERVE╖ OnlyTheBoss (C2A1) destroyed ┾P1KE┿ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+         },
+         {
+            "id": 479,
+            "msg": "╖TERVE╖ AlfaMarco (PGZ04A) damaged ┾P1KE┿ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 77
+         },
+         {
+            "id": 480,
+            "msg": "╖TERVE╖ AlfaMarco (PGZ04A) shot down ┾P1KE┿ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 408
+         },
+         {
+            "id": 481,
+            "msg": "┾P1KE┿ RepearZz (T-72A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 482,
+            "msg": "┾P1KE┿ _____meme_____ (Yak-28B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 483,
+            "msg": "╖TERVE╖ M3D3l21 (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 484,
+            "msg": "╖TERVE╖ M3D3l21 (Begleitpanzer 57) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 485,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 486,
+            "msg": "╖TERVE╖ Z0MBIKK (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 487,
+            "msg": "╖TERVE╖ OnlyTheBoss (C2A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 488,
+            "msg": "┾P1KE┿ Squiddsco (XM-1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 489,
+            "msg": "╖TERVE╖ AlfaMarco (PGZ04A) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 490,
+            "msg": "╖TERVE╖ AlfaMarco (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 491,
+            "msg": "┾P1KE┿ f5c_enjoyer (F4D-1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 492,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 493,
+            "msg": "┾P1KE┿ BAdgEr (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 494,
+            "msg": "╖TERVE╖ lMetalicol (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 495,
+            "msg": "╖TERVE╖ erick4ever (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 496,
+            "msg": "┾P1KE┿ mercyflush_ (F4D-1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 497,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 498,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 499,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 500,
+            "msg": "┾P1KE┿ _____meme_____ (Yak-28B) destroyed ╖TERVE╖ Chupichupi_de_colita (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 411
+         },
+         {
+            "id": 501,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) damaged ┾P1KE┿ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 81
+         },
+         {
+            "id": 502,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) set afire ┾P1KE┿ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 81
+         },
+         {
+            "id": 503,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) shot down ┾P1KE┿ _____meme_____ (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 81
+         },
+         {
+            "id": 504,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 81
+         },
+         {
+            "id": 505,
+            "msg": "┾P1KE┿ _____meme_____ (Yak-28B) destroyed ╖TERVE╖ OnlyTheBoss (C2A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 84
+         },
+         {
+            "id": 506,
+            "msg": "┾P1KE┿ RepearZz (T-72A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 507,
+            "msg": "┾P1KE┿ Squiddsco (XM-1 (GM)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 508,
+            "msg": "┾P1KE┿ f5c_enjoyer (XM-1 (GM)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 509,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 510,
+            "msg": "┾P1KE┿ BAdgEr (Olifant Mk.2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 511,
+            "msg": "┾P1KE┿ mercyflush_ (XM-1 (GM)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 512,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 85
+         },
+         {
+            "id": 513,
+            "msg": "┾P1KE┿ Banc_Boue_La (PGZ04A) shot down ╖TERVE╖ M3D3l21 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+         },
+         {
+            "id": 514,
+            "msg": "╖TERVE╖ erick4ever (Leopard A1A1 (L/44)) destroyed ┾P1KE┿ f5c_enjoyer (XM-1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+         },
+         {
+            "id": 515,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ Squiddsco (XM-1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+         },
+         {
+            "id": 516,
+            "msg": "┾P1KE┿ RepearZz (T-72A) destroyed ╖TERVE╖ lMetalicol (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+         },
+         {
+            "id": 517,
+            "msg": "┾P1KE┿ RepearZz (T-72A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+         },
+         {
+            "id": 518,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+         },
+         {
+            "id": 519,
+            "msg": "┾P1KE┿ mercyflush_ (XM-1 (GM)) destroyed ╖TERVE╖ erick4ever (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+         },
+         {
+            "id": 520,
+            "msg": "┾P1KE┿ mercyflush_ (XM-1 (GM)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+         },
+         {
+            "id": 521,
+            "msg": "┾P1KE┿ battledroid714 (VRCC) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+         },
+         {
+            "id": 522,
+            "msg": "┾P1KE┿ Squiddsco has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+         },
+         {
+            "id": 523,
+            "msg": "Squiddscotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+         },
+         {
+            "id": 524,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) damaged ┾P1KE┿ battledroid714 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+         },
+         {
+            "id": 525,
+            "msg": "╖TERVE╖ Chupichupi_de_colita (Strela-10M2) shot down ┾P1KE┿ battledroid714 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+         },
+         {
+            "id": 526,
+            "msg": "╖TERVE╖ M3D3l21 (Begleitpanzer 57) destroyed ┾P1KE┿ mercyflush_ (XM-1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+         },
+         {
+            "id": 527,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ Banc_Boue_La (PGZ04A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 451
+         },
+         {
+            "id": 528,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ battledroid714 (VRCC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 455
+         },
+         {
+            "id": 529,
+            "msg": "┾P1KE┿ _____meme_____ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 464
+         },
+         {
+            "id": 530,
+            "msg": "_____meme_____td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 464
+         },
+         {
+            "id": 531,
+            "msg": "┾P1KE┿ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 470
+         },
+         {
+            "id": 532,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 470
+         },
+         {
+            "id": 533,
+            "msg": "┾P1KE┿ f5c_enjoyer has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+         },
+         {
+            "id": 534,
+            "msg": "f5c_enjoyertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+         },
+         {
+            "id": 535,
+            "msg": "╖TERVE╖ ALFABravoArg (Ayit) destroyed ┾P1KE┿ RepearZz (T-72A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 500
+         }
+      ]
+   }
+

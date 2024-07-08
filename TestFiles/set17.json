@@ -1,0 +1,1173 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1473,
+            "msg": "┺F4LC0┻ Anona_Moose (P-51H-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1474,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1475,
+            "msg": "┺F4LC0┻ Jman09107 (P-51H-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1476,
+            "msg": "┺F4LC0┻ Jman09107 (P-51H-5) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1477,
+            "msg": "┺F4LC0┻ bob19922 (JPz 4-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1478,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1479,
+            "msg": "┺F4LC0┻ MacDuckling (IS-4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1480,
+            "msg": "┺F4LC0┻ Temi_GamesYT (T32) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1481,
+            "msg": "┺F4LC0┻ CheesyNoob25 (M48) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1482,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1483,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1484,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1485,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 1486,
+            "msg": "┺F4LC0┻ Temi_GamesYT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 1487,
+            "msg": "Temi_GamesYTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 1488,
+            "msg": "┺F4LC0┻ SenpaiAres has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 1489,
+            "msg": "SenpaiArestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 1490,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1491,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1492,
+            "msg": "╊P1KE╋ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1493,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1494,
+            "msg": "┺F4LC0┻ bob19922 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1495,
+            "msg": "bob19922td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 1496,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) damaged ╊P1KE╋ SovieRaider (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 97
+        },
+        {
+            "id": 1497,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) damaged ╀HERON╀ Ghost_Seeker02 (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 1498,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) shot down ╊P1KE╋ SovieRaider (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 110
+        },
+        {
+            "id": 1499,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 110
+        },
+        {
+            "id": 1500,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) damaged ╀HERON╀ ⋇bigdawgs1234 (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 1501,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) shot down ╀HERON╀ ⋇bigdawgs1234 (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 1502,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) destroyed ╀HERON╀ the_marine45 (M48)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1503,
+            "msg": "╊P1KE╋ AmexPlatinum (Lorraine 40t) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1504,
+            "msg": "╊P1KE╋ AmexPlatinum (Lorraine 40t) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1505,
+            "msg": "╀HERON╀ ThatOneSnek (Somua SM) set afire ╊P1KE╋ pablhost (Sho't)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 1506,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) destroyed ╀HERON╀ itorch26 (Ikv 91)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 1507,
+            "msg": "╊P1KE╋ AmexPlatinum (Lorraine 40t) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 1508,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 1509,
+            "msg": "╀HERON╀ ThatOneSnek (Somua SM) destroyed ╊P1KE╋ pablhost (Sho't)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 1510,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 1511,
+            "msg": "╊P1KE╋ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 1512,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 1513,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) destroyed ╀HERON╀ FKINGBOMBMAGNET (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1514,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1515,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 1516,
+            "msg": "╀HERON╀ FKINGBOMBMAGNET has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 1517,
+            "msg": "FKINGBOMBMAGNETtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 1518,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) destroyed ╀HERON╀ ThatOneSnek (Somua SM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 1519,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 1520,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 1521,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 1522,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 1523,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 1524,
+            "msg": "╀HERON╀ ThatOneSnek has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 1525,
+            "msg": "ThatOneSnektd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 1526,
+            "msg": "╀HERON╀ ⋇bigdawgs1234 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 1527,
+            "msg": "⋇bigdawgs1234td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 1528,
+            "msg": "╀HERON╀ Voidvali (SK60B) set afire ╊P1KE╋ Epic Yak Sparrow (ZSU-37-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 1529,
+            "msg": "╀HERON╀ Voidvali (SK60B) destroyed ╊P1KE╋ Epic Yak Sparrow (ZSU-37-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 1530,
+            "msg": "╀HERON╀ the_marine45 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 1531,
+            "msg": "the_marine45td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 355
+        },
+        {
+            "id": 1532,
+            "msg": "╀HERON╀ Voidvali (SK60B) set afire ╊P1KE╋ Prinz_Flox (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 359
+        },
+        {
+            "id": 1533,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 81)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 513
+        },
+        {
+            "id": 1534,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) destroyed ╊P1KE╋ Prinz_Flox (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 542
+        },
+        {
+            "id": 1535,
+            "msg": "╊P1KE╋ SovieRaider has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 564
+        },
+        {
+            "id": 1536,
+            "msg": "SovieRaidertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 564
+        },
+        {
+            "id": 1537,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1538,
+            "msg": "╀HERON╀ ⋇bigdawgs1234 (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1539,
+            "msg": "╊P1KE╋ SovieRaider (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1540,
+            "msg": "╀HERON╀ FKINGBOMBMAGNET (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1541,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1542,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1543,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1544,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has achieved \"Mission Maker\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1545,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1546,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1547,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1548,
+            "msg": "╀HERON╀ Voidvali (SK60B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1549,
+            "msg": "╀HERON╀ Voidvali (SK60B) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1550,
+            "msg": "╀HERON╀ ThatOneSnek (Somua SM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1551,
+            "msg": "╀HERON╀ the_marine45 (M48) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1552,
+            "msg": "╊P1KE╋ AmexPlatinum (Lorraine 40t) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1553,
+            "msg": "╀HERON╀ Table_Spork11 (F-80C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1554,
+            "msg": "╀HERON╀ Ghost_Seeker02 (Ar 234 C) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1555,
+            "msg": "╀HERON╀ itorch26 (Ikv 91) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1556,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Somua SM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1557,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 568
+        },
+        {
+            "id": 1558,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 81) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 569
+        },
+        {
+            "id": 1559,
+            "msg": "╊P1KE╋ SovieRaider (Ar 234 C) destroyed ┺F4LC0┻ MacDuckling (IS-4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1560,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1561,
+            "msg": "╊P1KE╋ SovieRaider (Ar 234 C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1562,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1563,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1564,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1565,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1566,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1567,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 1568,
+            "msg": "┺F4LC0┻ SenpaiAres (Me 262 C) damaged ╊P1KE╋ SovieRaider (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 1569,
+            "msg": "┺F4LC0┻ SenpaiAres (Me 262 C) shot down ╊P1KE╋ SovieRaider (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 1570,
+            "msg": "╊P1KE╋ pablhost (Sho't) set afire ┺F4LC0┻ Anona_Moose (P-51H-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 1571,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) destroyed ┺F4LC0┻ bob19922 (JPz 4-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 1572,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1573,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 1574,
+            "msg": "┺F4LC0┻ Jman09107 (P-51H-5) destroyed ╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 200
+        },
+        {
+            "id": 1575,
+            "msg": "╊P1KE╋ pablhost (Sho't) shot down ┺F4LC0┻ Anona_Moose (P-51H-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 1576,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 1577,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 1578,
+            "msg": "┺F4LC0┻ CheesyNoob25 (M48) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Ikv 91)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 1579,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) destroyed ┺F4LC0┻ CheesyNoob25 (M48)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1580,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1581,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1582,
+            "msg": "┺F4LC0┻ CheesyNoob25 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 1583,
+            "msg": "CheesyNoob25td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 1584,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) set afire ┺F4LC0┻ Temi_GamesYT (T32)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 1585,
+            "msg": "╊P1KE╋ pablhost (Sho't) destroyed ┺F4LC0┻ Temi_GamesYT (T32)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 276
+        },
+        {
+            "id": 1586,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 276
+        },
+        {
+            "id": 1587,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 276
+        },
+        {
+            "id": 1588,
+            "msg": "╊P1KE╋ pablhost (Sho't) set afire ┺F4LC0┻ Jsick7x (ZSU-37-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 1589,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) destroyed ┺F4LC0┻ Jsick7x (ZSU-37-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 1590,
+            "msg": "╊P1KE╋ SovieRaider (Ar 234 C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 1591,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 1592,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 1593,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 1594,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) damaged ┺F4LC0┻ SenpaiAres (Me 262 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 1595,
+            "msg": "┺F4LC0┻ Temi_GamesYT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 1596,
+            "msg": "Temi_GamesYTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 1597,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 419
+        },
+        {
+            "id": 1598,
+            "msg": "┺F4LC0┻ SenpaiAres (Me 262 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1599,
+            "msg": "╊P1KE╋ Freme_el_Doblas (Conqueror Mk 2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1600,
+            "msg": "┺F4LC0┻ Jsick7x (ZSU-37-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1601,
+            "msg": "╊P1KE╋ SovieRaider (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1602,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (ZSU-37-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1603,
+            "msg": "┺F4LC0┻ Anona_Moose (P-51H-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1604,
+            "msg": "╊P1KE╋ Prinz_Flox (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1605,
+            "msg": "┺F4LC0┻ Jman09107 (P-51H-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1606,
+            "msg": "┺F4LC0┻ Jman09107 (P-51H-5) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1607,
+            "msg": "┺F4LC0┻ bob19922 (JPz 4-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1608,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1609,
+            "msg": "╊P1KE╋ AmexPlatinum (AMX-50 Surbaissé) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1610,
+            "msg": "╊P1KE╋ Coleslaw2101 (IS-6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1611,
+            "msg": "┺F4LC0┻ MacDuckling (IS-4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1612,
+            "msg": "┺F4LC0┻ Temi_GamesYT (T32) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1613,
+            "msg": "┺F4LC0┻ CheesyNoob25 (M48) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1614,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1615,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1616,
+            "msg": "╊P1KE╋ pablhost (Sho't) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1617,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        },
+        {
+            "id": 1618,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Ikv 91) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 426
+        }
+    ]
+}

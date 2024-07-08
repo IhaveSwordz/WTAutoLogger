@@ -1,0 +1,1157 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 193,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 194,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 195,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 196,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 197,
+            "msg": "-QWAK- MACE_Sphinx_ (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 198,
+            "msg": "-QWAK- swollendunussy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 199,
+            "msg": "swollendunussytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 200,
+            "msg": "^P1KE^ ⋇NicokElPro (JAS39C) severely damaged =wFLw= lolbroistoobid (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 201,
+            "msg": "^P1KE^ ⋇NicokElPro (JAS39C) shot down =wFLw= lolbroistoobid (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 202,
+            "msg": "⋇ P1KE^ ⋇NicokElPro (JAS39C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 203,
+            "msg": "=wFLw= OptimalDecade (M1A1 Click-Bait) set afire ^P1KE^ RETRIX117 (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 204,
+            "msg": "^P1KE^ RETRIX117 (Leopard 2A7V) destroyed =wFLw= OptimalDecade (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 205,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 206,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 207,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) set afire =wFLw= DILF_lover (T-80U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 208,
+            "msg": "=wFLw= OptimalDecade has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 209,
+            "msg": "OptimalDecadetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 210,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) critically damaged =wFLw= ThuunderDragon (F-16AJ)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 211,
+            "msg": "^P1KE^ Kachanch0 (Leopard 2A7V) destroyed =wFLw= TheScottishOne (FV4005)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 212,
+            "msg": "=wFLw= ThuunderDragon (F-16AJ) critically damaged =wFLw= oreosoda (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 213,
+            "msg": "=wFLw= ThuunderDragon (F-16AJ) set afire =wFLw= oreosoda (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 214,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) destroyed =wFLw= DILF_lover (T-80U)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 215,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 216,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) shot down =wFLw= ThuunderDragon (F-16AJ)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 217,
+            "msg": "=wFLw= ThuunderDragon (F-16AJ) shot down =wFLw= oreosoda (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 218,
+            "msg": "^P1KE^ RETRIX117 (Leopard 2A7V) set afire =wFLw= S4m-1 (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 219,
+            "msg": "^P1KE^ pablhost (Ka-52) critically damaged =wFLw= Bullet1952 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 220,
+            "msg": "^P1KE^ RETRIX117 (Leopard 2A7V) destroyed =wFLw= S4m-1 (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 221,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 222,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 223,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 224,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 225,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) critically damaged =wFLw= Bullet1952 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 226,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) set afire =wFLw= Bullet1952 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 227,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) severely damaged =wFLw= Bullet1952 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 228,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) shot down =wFLw= Bullet1952 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 229,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 200
+        },
+        {
+            "id": 230,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 200
+        },
+        {
+            "id": 231,
+            "msg": "=wFLw= ThuunderDragon has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 232,
+            "msg": "ThuunderDragontd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 233,
+            "msg": "=wFLw= DILF_lover has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 234,
+            "msg": "DILF_lovertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 235,
+            "msg": "=wFLw= S4m-1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 236,
+            "msg": "S4m-1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 237,
+            "msg": "^P1KE^ pablhost (Ka-52) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 238,
+            "msg": "=wFLw= Bullet1952 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 239,
+            "msg": "Bullet1952td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 240,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 241,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 242,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 243,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 244,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 245,
+            "msg": "⋇ P1KE^ Epic Yak Sparrow (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 246,
+            "msg": "⋇ P1KE^ ⋇NicokElPro (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 247,
+            "msg": "⋇ P1KE^ Sißor (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 248,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 249,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 250,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 251,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 252,
+            "msg": "=wFLw= lolbroistoobid has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 253,
+            "msg": "lolbroistoobidtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 254,
+            "msg": "=wFLw= oreosoda has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 255,
+            "msg": "oreosodatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 256,
+            "msg": "=wFLw= TheScottishOne has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 257,
+            "msg": "TheScottishOnetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 258,
+            "msg": "^P1KE^ ⋇NicokElPro (JAS39C) critically damaged ╊1MAW╋ ⋇Coasty2013 (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 259,
+            "msg": "^P1KE^ ⋇NicokElPro (JAS39C) severely damaged ╊1MAW╋ ⋇Coasty2013 (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 260,
+            "msg": "^P1KE^ ⋇NicokElPro (JAS39C) shot down ╊1MAW╋ ⋇Coasty2013 (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 261,
+            "msg": "⋇ P1KE^ ⋇NicokElPro (JAS39C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 262,
+            "msg": "^P1KE^ Sißor (JAS39C) critically damaged ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 263,
+            "msg": "^P1KE^ Sißor (JAS39C) set afire ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 264,
+            "msg": "^P1KE^ Sißor (JAS39C) severely damaged ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 265,
+            "msg": "╊1MAW╋ xxRedcapxx (JAS39C) severely damaged ^P1KE^ ⋇NicokElPro (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 266,
+            "msg": "╊1MAW╋ xxRedcapxx (JAS39C) shot down ^P1KE^ ⋇NicokElPro (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 267,
+            "msg": "^P1KE^ Sißor (JAS39C) shot down ╊1MAW╋ xxRedcapxx (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 118
+        },
+        {
+            "id": 268,
+            "msg": "⋇ P1KE^ Sißor (JAS39C) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 118
+        },
+        {
+            "id": 269,
+            "msg": "⋇ P1KE^ Sißor (JAS39C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 118
+        },
+        {
+            "id": 270,
+            "msg": "╊1MAW╋ DBADR (F-16C) critically damaged ^P1KE^ Sißor (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 271,
+            "msg": "╊1MAW╋ DBADR (F-16C) severely damaged ^P1KE^ Sißor (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 272,
+            "msg": "╊1MAW╋ DBADR (F-16C) set afire ^P1KE^ Sißor (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 273,
+            "msg": "╊1MAW╋ DBADR (F-16C) shot down ^P1KE^ Sißor (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 274,
+            "msg": "^P1KE^ ___PHO3NIX___ (JAS39C) shot down ╊1MAW╋ Baikal18 (Ka-52)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 275,
+            "msg": "^P1KE^ RETRIX117 (Leopard 2A7V) set afire ╊1MAW╋ MST_Spica (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 276,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) destroyed ╊1MAW╋ Wh1sk3y_68 (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 277,
+            "msg": "^P1KE^ RETRIX117 (Leopard 2A7V) destroyed ╊1MAW╋ MST_Spica (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 278,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 279,
+            "msg": "╊1MAW╋ DBADR (F-16C) severely damaged ^P1KE^ ___PHO3NIX___ (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 280,
+            "msg": "╊1MAW╋ DBADR (F-16C) shot down ^P1KE^ ___PHO3NIX___ (JAS39C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 281,
+            "msg": "╊1MAW╋ MST_Spica has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 282,
+            "msg": "MST_Spicatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 283,
+            "msg": "╊1MAW╋ JDS95 (Black Night) set afire ^P1KE^ Kachanch0 (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 284,
+            "msg": "╊1MAW╋ DBADR (F-16C) destroyed ^P1KE^ Epic Yak Sparrow (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 285,
+            "msg": "^P1KE^ pablhost (Ka-52) critically damaged ╊1MAW╋ DBADR (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 286,
+            "msg": "^P1KE^ pablhost (Ka-52) shot down ╊1MAW╋ DBADR (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 287,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 288,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 289,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 290,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Rank does not matter\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 291,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 292,
+            "msg": "╊1MAW╋ JDS95 (Black Night) set afire ^P1KE^ IhaveSwordz (Leopard 2A7V)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 293,
+            "msg": "^P1KE^ IhaveSwordz (Leopard 2A7V) destroyed ╊1MAW╋ JDS95 (Black Night)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 294,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 295,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 296,
+            "msg": "╊1MAW╋ Wh1sk3y_68 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 297,
+            "msg": "Wh1sk3y_68td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 298,
+            "msg": "╊1MAW╋ JDS95 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 299,
+            "msg": "JDS95td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 300,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 301,
+            "msg": "╊1MAW╋ Baikal18 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 325
+        },
+        {
+            "id": 302,
+            "msg": "Baikal18td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 325
+        },
+        {
+            "id": 303,
+            "msg": "⋇ P1KE^ ___PHO3NIX___ (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 304,
+            "msg": "╊1MAW╋ JDS95 (Black Night) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 305,
+            "msg": "╊1MAW╋ ⋇Coasty2013 (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 306,
+            "msg": "⋇ P1KE^ RETRIX117 (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 307,
+            "msg": "⋇ P1KE^ Epic Yak Sparrow (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 308,
+            "msg": "╊1MAW╋ MST_Spica (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 309,
+            "msg": "⋇ P1KE^ ⋇NicokElPro (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 310,
+            "msg": "╊1MAW╋ Baikal18 (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 311,
+            "msg": "╊1MAW╋ Wh1sk3y_68 (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 312,
+            "msg": "╊1MAW╋ DBADR (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 313,
+            "msg": "⋇ P1KE^ Sißor (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 314,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 315,
+            "msg": "⋇ P1KE^ Kachanch0 (Leopard 2A7V) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 316,
+            "msg": "╊1MAW╋ xxRedcapxx (JAS39C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 317,
+            "msg": "╊1MAW╋ yaginsail (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 318,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 319,
+            "msg": "⋇ P1KE^ pablhost (Ka-52) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 320,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 321,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 322,
+            "msg": "⋇ P1KE^ IhaveSwordz (Leopard 2A7V) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 323,
+            "msg": "╊1MAW╋ xxRedcapxx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 324,
+            "msg": "xxRedcapxxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 325,
+            "msg": "^P1KE^ ⋇NicokElPro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 326,
+            "msg": "⋇NicokElProtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 327,
+            "msg": "╊1MAW╋ ⋇Coasty2013 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 328,
+            "msg": "⋇Coasty2013td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 329,
+            "msg": "^P1KE^ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 330,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 331,
+            "msg": "^P1KE^ Sißor has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 332,
+            "msg": "Sißortd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 333,
+            "msg": "╊1MAW╋ DBADR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 334,
+            "msg": "DBADRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 335,
+            "msg": "^P1KE^ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 336,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        }
+    ]
+}

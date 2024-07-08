@@ -1,0 +1,1085 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1857,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1858,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1859,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1860,
+            "msg": "=FEDRA= _Strixor_ (MiG-29SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1861,
+            "msg": "=FEDRA= Guilherme_321123 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1862,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1863,
+            "msg": "=FEDRA= ⋇FabrassKK (T 80 U) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1864,
+            "msg": "=FEDRA= kinayzinho (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 1865,
+            "msg": "╊P1KE╋ Galaxxy__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1866,
+            "msg": "Galaxxy__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1867,
+            "msg": "=FEDRA= ⋇Z_SteelMonster_V has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1868,
+            "msg": "⋇Z_SteelMonster_Vtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1869,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) set afire ╊P1KE╋ zonedilluzionz (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 1870,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) shot down ╊P1KE╋ zonedilluzionz (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 1871,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 1872,
+            "msg": "[F4WRD] TheRealArty (Harrier GR.7) set afire [F4WRD] right_wing_Texan (F-16D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 1873,
+            "msg": "[F4WRD] TheRealArty (Harrier GR.7) shot down [F4WRD] right_wing_Texan (F-16D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 1874,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) damaged ╊P1KE╋ Hydcide (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1875,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) shot down ╊P1KE╋ Hydcide (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1876,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) shot down [F4WRD] TheRealArty (Harrier GR.7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 200
+        },
+        {
+            "id": 1877,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) set afire ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 1878,
+            "msg": "[F4WRD] GimmieDatBeef (Type 10) destroyed ╊P1KE╋ battledroid714 (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 1879,
+            "msg": "[F4WRD] Brooklyn4K (F-16C) destroyed ╊P1KE╋ Coleslaw2101 (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 1880,
+            "msg": "╊P1KE╋ Coleslaw2101 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 258
+        },
+        {
+            "id": 1881,
+            "msg": "Coleslaw2101td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 258
+        },
+        {
+            "id": 1882,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) shot down [F4WRD] k123a12 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 1883,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) destroyed ╊P1KE╋ ___PHO3NIX___ (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1884,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 1885,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) damaged [F4WRD] Brooklyn4K (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 1886,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) shot down [F4WRD] Brooklyn4K (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 1887,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 1888,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (XM1069) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 1889,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) destroyed ╊P1KE╋ Galaxxy__ (ZTZ99A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 1890,
+            "msg": "╊P1KE╋ ___PHO3NIX___ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 1891,
+            "msg": "___PHO3NIX___td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 1892,
+            "msg": "[F4WRD] biotoxik1 (Pantsir-S1) has been wrecked",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 1893,
+            "msg": "[F4WRD] biotoxik1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 1894,
+            "msg": "biotoxik1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 1895,
+            "msg": "[F4WRD] DaddyDeluxe (M1A2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1896,
+            "msg": "[F4WRD] DaddyDeluxe (M1A2) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1897,
+            "msg": "[F4WRD] right_wing_Texan (F-16D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1898,
+            "msg": "[F4WRD] biotoxik1 (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1899,
+            "msg": "[F4WRD] k123a12 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1900,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1901,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1902,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1903,
+            "msg": "[F4WRD] Trichobezoar (Strv 122A) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1904,
+            "msg": "[F4WRD] Brooklyn4K (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1905,
+            "msg": "[F4WRD] TheRealArty (Harrier GR.7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1906,
+            "msg": "[F4WRD] GimmieDatBeef (Type 10) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 361
+        },
+        {
+            "id": 1907,
+            "msg": "╊P1KE╋ Galaxxy__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 364
+        },
+        {
+            "id": 1908,
+            "msg": "Galaxxy__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 364
+        },
+        {
+            "id": 1909,
+            "msg": "[F4WRD] TheRealArty has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 364
+        },
+        {
+            "id": 1910,
+            "msg": "TheRealArtytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 364
+        },
+        {
+            "id": 1911,
+            "msg": "[F4WRD] k123a12 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1912,
+            "msg": "k123a12td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1913,
+            "msg": "╊P1KE╋ battledroid714 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1914,
+            "msg": "battledroid714td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1915,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1916,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 1917,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 367
+        },
+        {
+            "id": 1918,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 367
+        },
+        {
+            "id": 1919,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) destroyed ═TERVE║ IGNIS_Templario (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 152
+        },
+        {
+            "id": 1920,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 1921,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (M1A2 SEP) set afire ═TERVE║ peloncito098 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 1922,
+            "msg": "═TERVE║ peloncito098 (Leopard 2A5) destroyed ╊P1KE╋ ⋇IBLXNZ (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 1923,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) destroyed ═TERVE║ AlfaMarco (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 1924,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1925,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1926,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1927,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1928,
+            "msg": "╊P1KE╋ Galaxxy__ (JA37D) destroyed ═TERVE║ JosephGabriel (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1929,
+            "msg": "═TERVE║ NachoFreek (Ka-52) damaged ╊P1KE╋ Galaxxy__ (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1930,
+            "msg": "═TERVE║ NachoFreek (Ka-52) set afire ╊P1KE╋ Galaxxy__ (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1931,
+            "msg": "═TERVE║ NachoFreek (Ka-52) shot down ╊P1KE╋ Galaxxy__ (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1932,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1933,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1934,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 1935,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1936,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) destroyed ═TERVE║ xX_Kaiser_Xx (WZ1001(E) LCT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 1937,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 1938,
+            "msg": "═TERVE║ NachoFreek (Ka-52) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 1939,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) set afire ═TERVE║ ArielWT (ItO 90M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+        },
+        {
+            "id": 1940,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) destroyed ═TERVE║ ArielWT (ItO 90M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1941,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1942,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1943,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 1944,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) destroyed ═TERVE║ Dollardanese (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 1945,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 1946,
+            "msg": "═TERVE║ AlfaMarco has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 1947,
+            "msg": "AlfaMarcotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 1948,
+            "msg": "╊P1KE╋ Hydcide (F-16C) destroyed ╊P1KE╋ battledroid714 (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 1949,
+            "msg": "═TERVE║ peloncito098 (Leopard 2A5) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 1950,
+            "msg": "═TERVE║ Dollardanese has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 1951,
+            "msg": "Dollardanesetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 1952,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) destroyed ═TERVE║ peloncito098 (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1953,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1954,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1955,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1956,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (M1A2 SEP) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1957,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1958,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 339
+        },
+        {
+            "id": 1959,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 345
+        },
+        {
+            "id": 1960,
+            "msg": "═TERVE║ NachoFreek has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 345
+        },
+        {
+            "id": 1961,
+            "msg": "NachoFreektd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 345
+        },
+        {
+            "id": 1962,
+            "msg": "═TERVE║ IGNIS_Templario has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 1963,
+            "msg": "IGNIS_Templariotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 1964,
+            "msg": "═TERVE║ xX_Kaiser_Xx has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1965,
+            "msg": "xX_Kaiser_Xxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 349
+        },
+        {
+            "id": 1966,
+            "msg": "═TERVE║ peloncito098 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 1967,
+            "msg": "peloncito098td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 1968,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) destroyed ╊P1KE╋ Coleslaw2101 (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 1969,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1970,
+            "msg": "╊P1KE╋ ___PHO3NIX___ (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1971,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1972,
+            "msg": "═TERVE║ NachoFreek (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1973,
+            "msg": "╊P1KE╋ ⋇IBLXNZ (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1974,
+            "msg": "═TERVE║ Dollardanese (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1975,
+            "msg": "═TERVE║ peloncito098 (Leopard 2A5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1976,
+            "msg": "═TERVE║ peloncito098 (Leopard 2A5) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1977,
+            "msg": "═TERVE║ JosephGabriel (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1978,
+            "msg": "═TERVE║ AlfaMarco (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1979,
+            "msg": "╊P1KE╋ Hydcide (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1980,
+            "msg": "═TERVE║ IGNIS_Templario (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1981,
+            "msg": "═TERVE║ xX_Kaiser_Xx (WZ1001(E) LCT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1982,
+            "msg": "═TERVE║ ArielWT (ItO 90M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1983,
+            "msg": "╊P1KE╋ Coleslaw2101 (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1984,
+            "msg": "╊P1KE╋ Galaxxy__ (JA37D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1985,
+            "msg": "╊P1KE╋ battledroid714 (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1986,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1987,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 357
+        },
+        {
+            "id": 1988,
+            "msg": "═TERVE║ ArielWT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 359
+        },
+        {
+            "id": 1989,
+            "msg": "ArielWTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 359
+        },
+        {
+            "id": 1990,
+            "msg": "╊P1KE╋ ⋇IBLXNZ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 1991,
+            "msg": "⋇IBLXNZtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        }
+    ]
+}

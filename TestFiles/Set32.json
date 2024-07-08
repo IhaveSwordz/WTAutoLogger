@@ -1,0 +1,1149 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) critically damaged ┾ARA┿ MechaFurro (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 2,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) severely damaged ┾ARA┿ MechaFurro (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 3,
+            "msg": "╊P1KE╋ Radcki (A129CBT) critically damaged ┾ARA┿ Maxxu88 (▄F-104G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 4,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) shot down ┾ARA┿ MechaFurro (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 5,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 6,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) critically damaged ┾ARA┿ Don_Vizcacha (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 7,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) set afire ┾ARA┿ Don_Vizcacha (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 8,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) shot down ┾ARA┿ Don_Vizcacha (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 9,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) critically damaged ┾ARA┿ Shíroko (Jaguar E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 10,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) shot down ┾ARA┿ Shíroko (Jaguar E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 11,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 12,
+            "msg": "┾ARA┿ sebasWar (F-5C) severely damaged ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 13,
+            "msg": "┾ARA┿ sebasWar (F-5C) critically damaged ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 14,
+            "msg": "╊P1KE╋ Radcki (A129CBT) shot down ┾ARA┿ Maxxu88 (▄F-104G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 15,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 16,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 17,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 18,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 19,
+            "msg": "┾ARA┿ MechaFurro (BMP-2M) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 20,
+            "msg": "┾ARA┿ MechaFurro (BMP-2M) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 21,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) set afire ┾ARA┿ ⋇LauTaRo-LiV (AMX-40)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 22,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) destroyed ┾ARA┿ ⋇LauTaRo-LiV (AMX-40)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 23,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 24,
+            "msg": "┾ARA┿ Wu ji bi fan (T-72AV (TURMS-T)) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 25,
+            "msg": "┾ARA┿ MechaFurro (BMP-2M) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 26,
+            "msg": "┾ARA┿ MechaFurro (BMP-2M) critically damaged ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 27,
+            "msg": "┾ARA┿ Don_Vizcacha has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 28,
+            "msg": "Don_Vizcachatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 29,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) set afire ┾ARA┿ TUTEHEN (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 30,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) destroyed ┾ARA┿ TUTEHEN (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 31,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 32,
+            "msg": "╊P1KE╋ Nicdafish (2S38) set afire ┾ARA┿ Wu ji bi fan (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 33,
+            "msg": "╊P1KE╋ Nicdafish (2S38) destroyed ┾ARA┿ Wu ji bi fan (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 34,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 35,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 36,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 37,
+            "msg": "╊P1KE╋ Radcki (A129CBT) shot down ┾ARA┿ sebasWar (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 38,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 39,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 40,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 41,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 42,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 43,
+            "msg": "┾ARA┿ TUTEHEN has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 44,
+            "msg": "TUTEHENtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 45,
+            "msg": "┾ARA┿ Shíroko has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 46,
+            "msg": "Shírokotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 267
+        },
+        {
+            "id": 47,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) destroyed ┾ARA┿ MechaFurro (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 48,
+            "msg": "┾ARA┿ MechaFurro (BMP-2M) set afire ╊P1KE╋ AmexPlatinum (ZTZ99-II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 49,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 50,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 51,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 52,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 317
+        },
+        {
+            "id": 53,
+            "msg": "┾ARA┿ Wu ji bi fan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 54,
+            "msg": "Wu ji bi fantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 55,
+            "msg": "┾ARA┿ sebasWar has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 56,
+            "msg": "sebasWartd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 57,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) critically damaged ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 58,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) set afire ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 59,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) shot down ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 60,
+            "msg": "┾ARA┿ Maxxu88 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 61,
+            "msg": "Maxxu88td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 62,
+            "msg": "┾ARA┿ ⋇LauTaRo-LiV has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 63,
+            "msg": "⋇LauTaRo-LiVtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 64,
+            "msg": "┾ARA┿ MechaFurro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 328
+        },
+        {
+            "id": 65,
+            "msg": "MechaFurrotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 328
+        },
+        {
+            "id": 66,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 67,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 68,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 69,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 70,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 71,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 72,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 73,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 74,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 75,
+            "msg": "┾ARA┿ sebasWar (F-5C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 76,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 77,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) critically damaged ╊V1PER╋ Juntingiee (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 89
+        },
+        {
+            "id": 78,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) severely damaged ╊V1PER╋ Juntingiee (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 79,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 80,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 100
+        },
+        {
+            "id": 81,
+            "msg": "╊V1PER╋ shadwf0x (Leopard 2A4) set afire ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 82,
+            "msg": "╊V1PER╋ Prabowo Gemoy (ZTZ99-III) set afire ╊P1KE╋ RepearZz (Т-90А)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 83,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) destroyed ╊V1PER╋ Prabowo Gemoy (ZTZ99-III)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 84,
+            "msg": "╊V1PER╋ shadwf0x (Leopard 2A4) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 85,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 86,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 87,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) set afire ╊V1PER╋ shadwf0x (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 131
+        },
+        {
+            "id": 88,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) destroyed ╊P1KE╋ AmexPlatinum (ZTZ99-II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 89,
+            "msg": "╊V1PER╋ ⋇BRANDONx1797 (Abrams) destroyed ╊P1KE╋ Nicdafish (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 90,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) destroyed ╊V1PER╋ BigNavy (PT-16/T14 mod.)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 91,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 92,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 93,
+            "msg": "╊P1KE╋ Radcki (A129CBT) destroyed ╊V1PER╋ ⋇BRANDONx1797 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 94,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 95,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 96,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 97,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 98,
+            "msg": "╊P1KE╋ Makina01 (T-80UD) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 99,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) destroyed ╊V1PER╋ shadwf0x (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 100,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 101,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 102,
+            "msg": "╊P1KE╋ Makina01 (T-80UD) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 103,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 104,
+            "msg": "╊V1PER╋ nukeuall7 (2S38) critically damaged ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 105,
+            "msg": "╊V1PER╋ nukeuall7 (2S38) severely damaged ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 106,
+            "msg": "╊V1PER╋ nukeuall7 (2S38) shot down ╊P1KE╋ Radcki (A129CBT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 107,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 108,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 109,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 110,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) destroyed ╊P1KE╋ RepearZz (Т-90А)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 111,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 112,
+            "msg": "╊P1KE╋ AmexPlatinum has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 113,
+            "msg": "AmexPlatinumtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 114,
+            "msg": "╊P1KE╋ Makina01 (T-80UD) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 115,
+            "msg": "╊V1PER╋ burger_King (2S6) destroyed ╊P1KE╋ Makina01 (T-80UD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 116,
+            "msg": "╊P1KE╋ RepearZz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 117,
+            "msg": "RepearZztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 118,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) set afire ╊P1KE╋ Sugar Me Daddy (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 119,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) destroyed ╊P1KE╋ Sugar Me Daddy (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 120,
+            "msg": "╊V1PER╋ burger_King (2S6) critically damaged ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 121,
+            "msg": "╊V1PER╋ burger_King (2S6) shot down ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 413
+        },
+        {
+            "id": 122,
+            "msg": "╊P1KE╋ Radcki has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 419
+        },
+        {
+            "id": 123,
+            "msg": "Radckitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 419
+        },
+        {
+            "id": 124,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 125,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 126,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 127,
+            "msg": "╊V1PER╋ BigNavy (PT-16/T14 mod.) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 128,
+            "msg": "╊V1PER╋ Prabowo Gemoy (ZTZ99-III) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 129,
+            "msg": "╊V1PER╋ Prabowo Gemoy (ZTZ99-III) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 130,
+            "msg": "╊V1PER╋ nukeuall7 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 131,
+            "msg": "╊P1KE╋ Makina01 (T-80UD) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 132,
+            "msg": "╊V1PER╋ shadwf0x (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 133,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 134,
+            "msg": "╊V1PER╋ ⋇BRANDONx1797 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 135,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 136,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 137,
+            "msg": "╊V1PER╋ Juntingiee (CV 90105) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 138,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 139,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 140,
+            "msg": "╊V1PER╋ bautista35718 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 141,
+            "msg": "╊V1PER╋ burger_King (2S6) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 142,
+            "msg": "╊V1PER╋ burger_King (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 143,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        }
+    ]
+}

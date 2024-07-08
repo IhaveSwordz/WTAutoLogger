@@ -1,0 +1,765 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1,
+            "msg": "╊P1KE╋ DevonBoy50 (PT-16/T14 mod.) destroyed ┾GRCHL┿ DovalitoElegante (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 100
+        },
+        {
+            "id": 2,
+            "msg": "╊P1KE╋ DevonBoy50 (PT-16/T14 mod.) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 3,
+            "msg": "╊P1KE╋ DevonBoy50 (PT-16/T14 mod.) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 4,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 101
+        },
+        {
+            "id": 5,
+            "msg": "┾GRCHL┿ WOWmatias3 (Mi-28A) set afire ╊P1KE╋ DevonBoy50 (PT-16/T14 mod.)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 110
+        },
+        {
+            "id": 6,
+            "msg": "┾GRCHL┿ DovalitoElegante has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 112
+        },
+        {
+            "id": 7,
+            "msg": "DovalitoElegantetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 112
+        },
+        {
+            "id": 8,
+            "msg": "┾GRCHL┿ WOWmatias3 (Mi-28A) destroyed ╊P1KE╋ DevonBoy50 (PT-16/T14 mod.)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 9,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) critically damaged ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 10,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) severely damaged ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 11,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) critically damaged ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 12,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) destroyed ┾GRCHL┿ Pandora_Actor73 (Т-90А)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 13,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 14,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 15,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) has achieved \"God Mode!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 16,
+            "msg": "╊P1KE╋ Nicdafish (2S38) critically damaged ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 17,
+            "msg": "╊P1KE╋ Nicdafish (2S38) set afire ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 18,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) shot down ┾GRCHL┿ Dj_Maximus64 (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 19,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 20,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 21,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 22,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 23,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 24,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 25,
+            "msg": "┾GRCHL┿ D4rKSY (Object 292) set afire ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 26,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) destroyed ┾GRCHL┿ D4rKSY (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 27,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 28,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 29,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 30,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 31,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) set afire ┾GRCHL┿ Khada_jhil (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 32,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) destroyed ┾GRCHL┿ Khada_jhil (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 33,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 34,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 35,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 36,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) set afire ┾GRCHL┿ Heiligen_Hallen (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 37,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) severely damaged ┾GRCHL┿ Heiligen_Hallen (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 38,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) shot down ┾GRCHL┿ Heiligen_Hallen (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 39,
+            "msg": "┾GRCHL┿ D4rKSY has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 40,
+            "msg": "D4rKSYtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 41,
+            "msg": "┾GRCHL┿ WOWmatias3 (Mi-28A) critically damaged ╊P1KE╋ mercyflush_ (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 42,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) set afire ┾GRCHL┿ WOWmatias3 (Mi-28A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 43,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) severely damaged ┾GRCHL┿ WOWmatias3 (Mi-28A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 44,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) shot down ┾GRCHL┿ WOWmatias3 (Mi-28A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 45,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 46,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 47,
+            "msg": "┾GRCHL┿ Heiligen_Hallen has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 48,
+            "msg": "Heiligen_Hallentd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 49,
+            "msg": "┾GRCHL┿ ElTioJoako (T129) critically damaged ╊P1KE╋ mercyflush_ (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 50,
+            "msg": "┾GRCHL┿ ElTioJoako (T129) severely damaged ╊P1KE╋ mercyflush_ (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 51,
+            "msg": "┾GRCHL┿ ElTioJoako (T129) shot down ╊P1KE╋ mercyflush_ (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 52,
+            "msg": "┾GRCHL┿ Pandora_Actor73 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 53,
+            "msg": "Pandora_Actor73td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 54,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) destroyed ╊P1KE╋ Bhiroッ (Breda 501)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 258
+        },
+        {
+            "id": 55,
+            "msg": "╊P1KE╋ Bhiroッ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 56,
+            "msg": "Bhiroッtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 57,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) critically damaged ┾GRCHL┿ ElTioJoako (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 58,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) shot down ┾GRCHL┿ ElTioJoako (T129)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 59,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 60,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 61,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 62,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 63,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 64,
+            "msg": "┾GRCHL┿ ElTioJoako (T129) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 65,
+            "msg": "┾GRCHL┿ WOWmatias3 (Mi-28A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 66,
+            "msg": "┾GRCHL┿ DovalitoElegante (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 67,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 68,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 69,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 70,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 71,
+            "msg": "┾GRCHL┿ Dj_Maximus64 (AMX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 72,
+            "msg": "╊P1KE╋ DevonBoy50 (PT-16/T14 mod.) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 73,
+            "msg": "┾GRCHL┿ Pandora_Actor73 (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 74,
+            "msg": "╊P1KE╋ Nicdafish (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 75,
+            "msg": "┾GRCHL┿ D4rKSY (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 76,
+            "msg": "┾GRCHL┿ Heiligen_Hallen (MiG-21SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 77,
+            "msg": "╊P1KE╋ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 78,
+            "msg": "┾GRCHL┿ Khada_jhil (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 79,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 80,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 81,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 82,
+            "msg": "╊P1KE╋ ⋇Mercaddict (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 83,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 84,
+            "msg": "╊P1KE╋ Bhiroッ (Breda 501) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 85,
+            "msg": "┾GRCHL┿ Dj_Maximus64 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 86,
+            "msg": "Dj_Maximus64td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 87,
+            "msg": "╊P1KE╋ DevonBoy50 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 88,
+            "msg": "DevonBoy50td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 89,
+            "msg": "┾GRCHL┿ Khada_jhil has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 90,
+            "msg": "Khada_jhiltd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 91,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 92,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 93,
+            "msg": "┾GRCHL┿ WOWmatias3 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 294
+        },
+        {
+            "id": 94,
+            "msg": "WOWmatias3td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 294
+        },
+        {
+            "id": 95,
+            "msg": "╊P1KE╋ AMARTZ (Mi-35M) destroyed ╊P1KE╋ Nicdafish (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        }
+    ]
+}

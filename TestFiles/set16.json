@@ -1,0 +1,1093 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 513,
+            "msg": "╍BofSs╎ The Proletariat (Object 279) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 514,
+            "msg": "╍BofSs╎ ⋇Tag3389 (Leopard 2K) destroyed ╊P1KE╋ bobthepilot123 (M247)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 515,
+            "msg": "╍BofSs╎ ⋇Tag3389 (Leopard 2K) set afire ╊P1KE╋ mercyflush_ (TAM 2IP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 516,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) set afire ╍BofSs╎ ⋇Tag3389 (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 517,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 518,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) destroyed ╍BofSs╎ The Proletariat (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 519,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 520,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 521,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) destroyed ╊P1KE╋ AmexBlack (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 522,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 523,
+            "msg": "╍BofSs╎ gaultma21 (Su-7BMK) destroyed ╊P1KE╋ mercyflush_ (TAM 2IP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 524,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) destroyed ╊P1KE╋ Epic Yak Sparrow (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 525,
+            "msg": "╍BofSs╎ gaultma21 (Su-7BMK) destroyed ╊P1KE╋ RepearZz (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 526,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) destroyed ╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 527,
+            "msg": "╊P1KE╋ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 528,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 529,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) shot down ╊P1KE╋ _Sun_Downer_ (Q-5L)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 530,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 531,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 532,
+            "msg": "╊P1KE╋ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 533,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 534,
+            "msg": "╊P1KE╋ bobthepilot123 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 535,
+            "msg": "bobthepilot123td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 536,
+            "msg": "╍BofSs╎ Jack_Forge (Merkava Mk.2D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 537,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 538,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 539,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 540,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 541,
+            "msg": "╍BofSs╎ gaultma21 (Su-7BMK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 542,
+            "msg": "╊P1KE╋ CanadianChi (AV-8A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 543,
+            "msg": "╍BofSs╎ CONFESSION (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 544,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 545,
+            "msg": "╍BofSs╎ ⋇Tag3389 (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 546,
+            "msg": "╍BofSs╎ ⋇Tag3389 (Leopard 2K) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 547,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 548,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 549,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 550,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 551,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 552,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 553,
+            "msg": "╍BofSs╎ The Proletariat (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 554,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 555,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 556,
+            "msg": "╊P1KE╋ RepearZz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 557,
+            "msg": "RepearZztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 558,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B) damaged ╍BofSs╎ CONFESSION (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 71
+        },
+        {
+            "id": 559,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) shot down ╊P1KE╋ KUPAAA_NAKADASH (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 560,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 561,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) damaged ╊P1KE╋ mercyflush_ (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 562,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) shot down ╊P1KE╋ mercyflush_ (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 110
+        },
+        {
+            "id": 563,
+            "msg": "╊P1KE╋ CanadianChi (AV-8A) destroyed ╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 564,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 565,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 566,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 567,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 568,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 569,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 570,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) destroyed ╍BofSs╎ ⋇Tag3389 (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 571,
+            "msg": "╊P1KE╋ CanadianChi (AV-8A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 572,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 573,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) damaged ╊P1KE╋ CanadianChi (AV-8A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 574,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) set afire ╊P1KE╋ CanadianChi (AV-8A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 575,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) shot down ╊P1KE╋ CanadianChi (AV-8A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 576,
+            "msg": "╊P1KE╋ CanadianChi (AV-8A) destroyed ╍BofSs╎ INDOMINUS_REX (Leopard 2K)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 577,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 578,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 579,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 580,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 581,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 582,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 583,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) destroyed ╍BofSs╎ The Proletariat (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 584,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 585,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 586,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) shot down ╍BofSs╎ gaultma21 (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 587,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) damaged ╍BofSs╎ EasyPZ (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 588,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) shot down ╍BofSs╎ EasyPZ (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 589,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 590,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 591,
+            "msg": "╊P1KE╋ RepearZz (T-64B) destroyed ╍BofSs╎ CONFESSION (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 592,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 593,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 254
+        },
+        {
+            "id": 594,
+            "msg": "╍BofSs╎ Jack_Forge (Merkava Mk.2D) destroyed ╊P1KE╋ mercyflush_ (TAM 2IP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 595,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) destroyed ╍BofSs╎ Jack_Forge (Merkava Mk.2D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 596,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 597,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 598,
+            "msg": "╍BofSs╎ ⋇Tag3389 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 599,
+            "msg": "⋇Tag3389td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 600,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 601,
+            "msg": "CULT_OF_CONFUSONtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 602,
+            "msg": "╍BofSs╎ CONFESSION has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 603,
+            "msg": "CONFESSIONtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 604,
+            "msg": "╍BofSs╎ Jack_Forge (Merkava Mk.2D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 605,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 606,
+            "msg": "╊P1KE╋ RepearZz (T-64B) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 607,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 608,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 609,
+            "msg": "╊P1KE╋ AmexBlack (T-64B) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 610,
+            "msg": "╍BofSs╎ EasyPZ (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 611,
+            "msg": "╍BofSs╎ gaultma21 (Yak-28B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 612,
+            "msg": "╊P1KE╋ CanadianChi (AV-8A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 613,
+            "msg": "╍BofSs╎ CONFESSION (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 614,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 615,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-64B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 616,
+            "msg": "╍BofSs╎ ⋇Tag3389 (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 617,
+            "msg": "╍BofSs╎ CULT_OF_CONFUSON (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 618,
+            "msg": "╊P1KE╋ bobthepilot123 (M247) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 619,
+            "msg": "╊P1KE╋ mercyflush_ (TAM 2IP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 620,
+            "msg": "╍BofSs╎ INDOMINUS_REX (Leopard 2K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 621,
+            "msg": "╍BofSs╎ The Proletariat (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 622,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 623,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strf 9040B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 624,
+            "msg": "╊P1KE╋ _Sun_Downer_ (Q-5L) destroyed ╊P1KE╋ RepearZz (T-64B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 625,
+            "msg": "╍BofSs╎ Jack_Forge has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 626,
+            "msg": "Jack_Forgetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 284
+        },
+        {
+            "id": 627,
+            "msg": "╍BofSs╎ The Proletariat has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 628,
+            "msg": "The Proletariattd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 629,
+            "msg": "╊P1KE╋ CanadianChi has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 630,
+            "msg": "CanadianChitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 631,
+            "msg": "╍BofSs╎ INDOMINUS_REX has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 632,
+            "msg": "INDOMINUS_REXtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 633,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 634,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 635,
+            "msg": "╍BofSs╎ EasyPZ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 636,
+            "msg": "EasyPZtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 637,
+            "msg": "╍BofSs╎ gaultma21 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 638,
+            "msg": "gaultma21td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 639,
+            "msg": "╊P1KE╋ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 640,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 641,
+            "msg": "╊P1KE╋ RepearZz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 642,
+            "msg": "RepearZztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 643,
+            "msg": "╊P1KE╋ _Sun_Downer_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 644,
+            "msg": "_Sun_Downer_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 645,
+            "msg": "╊P1KE╋ bobthepilot123 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 646,
+            "msg": "bobthepilot123td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 647,
+            "msg": "╊P1KE╋ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 648,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        }
+    ]
+}

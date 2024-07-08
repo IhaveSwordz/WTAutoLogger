@@ -1,0 +1,1157 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 769,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 770,
+            "msg": "╊LOST1╋ CZechia has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 771,
+            "msg": "CZechiatd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 772,
+            "msg": "╀P1KE╀ Sisseaur has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 773,
+            "msg": "Sisseaurtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 774,
+            "msg": "╀P1KE╀ ⋇NicokElPro (MiG-23MLD) set afire ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 775,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) severely damaged ╀P1KE╀ ⋇NicokElPro (MiG-23MLD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 776,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) critically damaged ╀P1KE╀ ⋇NicokElPro (MiG-23MLD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 777,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) set afire ╀P1KE╀ ⋇NicokElPro (MiG-23MLD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 778,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) shot down ╀P1KE╀ ⋇NicokElPro (MiG-23MLD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 779,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 129
+        },
+        {
+            "id": 780,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) critically damaged [CSAF] Ruza365 (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 781,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) set afire [CSAF] Ruza365 (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 782,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged [CSAF] Ruza365 (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 783,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down [CSAF] Ruza365 (MiG-23ML)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 784,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 785,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 786,
+            "msg": "[CSAF] KAAAFI7174 (MiG-21bis) critically damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 787,
+            "msg": "[CSAF] KAAAFI7174 (MiG-21bis) severely damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 788,
+            "msg": "╀P1KE╀ ⋇NicokElPro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 789,
+            "msg": "⋇NicokElProtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 790,
+            "msg": "[CSAF] KAAAFI7174 (MiG-21bis) shot down ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 791,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) critically damaged [CSAF] -Jurajee- (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 792,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged [CSAF] -Jurajee- (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 793,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) critically damaged [CSAF] lomos131 (◊MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 794,
+            "msg": "[CSAF] -Jurajee- (Su-25T) critically damaged ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 795,
+            "msg": "[CSAF] -Jurajee- (Su-25T) set afire ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 796,
+            "msg": "[CSAF] -Jurajee- (Su-25T) severely damaged ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 797,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down [CSAF] -Jurajee- (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 798,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 799,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) shot down [CSAF] lomos131 (◊MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 800,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 801,
+            "msg": "[CSAF] -Jurajee- (Su-25T) shot down ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 802,
+            "msg": "[CSAF] Lacio11 (T-80U) destroyed ╀P1KE╀ Epic Yak Sparrow (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 803,
+            "msg": "[CSAF] Lacio11 (T-80U) destroyed ╀P1KE╀ pablhost (Merkava Mk.4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 804,
+            "msg": "[CSAF] PredoSK (Type 90) destroyed ╀P1KE╀ Sisseaur (Challenger 2 (2F))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 805,
+            "msg": "╀P1KE╀ Sisseaur has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 806,
+            "msg": "Sisseaurtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 807,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) set afire [CSAF] AzorekCZ (Merkava Mk.4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 808,
+            "msg": "[CSAF] AzorekCZ (Merkava Mk.4B) destroyed ╀P1KE╀ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 809,
+            "msg": "╀P1KE╀ Nyalli has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 810,
+            "msg": "Nyallitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 811,
+            "msg": "╀P1KE╀ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 812,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 319
+        },
+        {
+            "id": 813,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 814,
+            "msg": "[CSAF] Lacio11 (T-80U) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 815,
+            "msg": "[CSAF] Lacio11 (T-80U) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 816,
+            "msg": "[CSAF] Lacio11 (T-80U) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 817,
+            "msg": "[CSAF] Ruza365 (MiG-23ML) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 818,
+            "msg": "[CSAF] AzorekCZ (Merkava Mk.4B) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 819,
+            "msg": "[CSAF] AzorekCZ (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 820,
+            "msg": "[CSAF] AzorekCZ (Merkava Mk.4B) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 821,
+            "msg": "[CSAF] Russian-Ghost (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 822,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 823,
+            "msg": "╀P1KE╀ ⋇NicokElPro (MiG-23MLD) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 824,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 825,
+            "msg": "[CSAF] PredoSK (Type 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 826,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 827,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 828,
+            "msg": "[CSAF] lomos131 (◊MiG-21bis) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 829,
+            "msg": "[CSAF] KAAAFI7174 (MiG-21bis) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 830,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 831,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 832,
+            "msg": "[CSAF] -Jurajee- (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 833,
+            "msg": "╊AFI╋ KiRaN_Belarus (Su-25T) severely damaged ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 834,
+            "msg": "╊AFI╋ KiRaN_Belarus (Su-25T) shot down ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 134
+        },
+        {
+            "id": 835,
+            "msg": "╊AFI╋ KiRaN_Belarus (Su-25T) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 836,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) critically damaged ╊AFI╋ KiRaN_Belarus (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 837,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) severely damaged ╊AFI╋ KiRaN_Belarus (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 838,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) set afire ╊AFI╋ KiRaN_Belarus (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 839,
+            "msg": "╊AFI╋ xd96299 (JA37D) critically damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 840,
+            "msg": "╊AFI╋ Kromag (M1A1 AIM) destroyed ╀P1KE╀ pablhost (Merkava Mk.4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 841,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) critically damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 842,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) set afire ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 843,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) severely damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 844,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) shot down ╊AFI╋ KiRaN_Belarus (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 845,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 846,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) shot down ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 847,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) destroyed ╊AFI╋ ⋇LOX_NA_GEIMPADE_ (Type 90)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 848,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 849,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 850,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) set afire ╊AFI╋ Kromag (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 851,
+            "msg": "╀P1KE╀ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 852,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 853,
+            "msg": "╊AFI╋ KiRaN_Belarus has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 854,
+            "msg": "KiRaN_Belarustd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 855,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) critically damaged ╊AFI╋ xd96299 (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 856,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) set afire ╊AFI╋ xd96299 (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 857,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged ╊AFI╋ xd96299 (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 858,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ╊AFI╋ xd96299 (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 859,
+            "msg": "╊AFI╋ Fayda161 (Mirage 2000) set afire ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 860,
+            "msg": "╊AFI╋ Fayda161 (Mirage 2000) severely damaged ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 861,
+            "msg": "╊AFI╋ Fayda161 (Mirage 2000) shot down ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 862,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) critically damaged ╊AFI╋ Fayda161 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 863,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) severely damaged ╊AFI╋ Fayda161 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 864,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) set afire ╊AFI╋ Fayda161 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 865,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) destroyed ╊AFI╋ Kromag (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 866,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) shot down ╊AFI╋ Fayda161 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 867,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 868,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 869,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 870,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 871,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 872,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) shot down ╀P1KE╀ mercyflush_ (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 873,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) set afire ╊AFI╋ YaraMir (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 874,
+            "msg": "╀P1KE╀ Nyalli has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 875,
+            "msg": "Nyallitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 876,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) set afire ╊AFI╋ YaraMir (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 237
+        },
+        {
+            "id": 877,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) destroyed ╊AFI╋ YaraMir (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 878,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 879,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 243
+        },
+        {
+            "id": 880,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 881,
+            "msg": "╊AFI╋ K0TO3ABP (2S38) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 882,
+            "msg": "╊AFI╋ K0TO3ABP (2S38) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 377
+        },
+        {
+            "id": 883,
+            "msg": "╊AFI╋ K0TO3ABP (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 392
+        },
+        {
+            "id": 884,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) destroyed ╊AFI╋ K0TO3ABP (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 425
+        },
+        {
+            "id": 885,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 425
+        },
+        {
+            "id": 886,
+            "msg": "╊AFI╋ Kromag has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 887,
+            "msg": "Kromagtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 888,
+            "msg": "╊AFI╋ YaraMir has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 437
+        },
+        {
+            "id": 889,
+            "msg": "YaraMirtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 437
+        },
+        {
+            "id": 890,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) destroyed ╀P1KE╀ IhaveSwordz (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 449
+        },
+        {
+            "id": 891,
+            "msg": "╊AFI╋ ⋇LOX_NA_GEIMPADE_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 546
+        },
+        {
+            "id": 892,
+            "msg": "⋇LOX_NA_GEIMPADE_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 546
+        },
+        {
+            "id": 893,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 894,
+            "msg": "╊AFI╋ Kromag (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 895,
+            "msg": "╊AFI╋ K0TO3ABP (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 896,
+            "msg": "╊AFI╋ Fayda161 (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 897,
+            "msg": "╊AFI╋ YaraMir (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 898,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 899,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 900,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 901,
+            "msg": "╊AFI╋ GOLDEN_KOT (␗F-5E) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 902,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 903,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 904,
+            "msg": "╊AFI╋ ⋇LOX_NA_GEIMPADE_ (Type 90) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 905,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 906,
+            "msg": "╊AFI╋ KiRaN_Belarus (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 907,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 908,
+            "msg": "╀P1KE╀ Sisseaur (Challenger 2 (2F)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 909,
+            "msg": "╀P1KE╀ mercyflush_ (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 910,
+            "msg": "╀P1KE╀ pablhost (Merkava Mk.4B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 911,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        },
+        {
+            "id": 912,
+            "msg": "╊AFI╋ xd96299 (JA37D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 550
+        }
+    ]
+}

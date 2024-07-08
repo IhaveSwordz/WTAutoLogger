@@ -1,0 +1,1293 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 97,
+            "msg": "╀P1KE╀ NoU__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 98,
+            "msg": "NoU__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 329
+        },
+        {
+            "id": 99,
+            "msg": "╀P1KE╀ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 100,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 101,
+            "msg": "╏RO6╏ catmollydog (F-5E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 102,
+            "msg": "╏RO6╏ catmollydog (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 103,
+            "msg": "╏RO6╏ catmollydog (F-5E) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 104,
+            "msg": "╏RO6╏ HerrBias (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 105,
+            "msg": "╏RO6╏ jassioma (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 106,
+            "msg": "╏RO6╏ CheetahVibez (T-72B3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 107,
+            "msg": "╏RO6╏ CheetahVibez (T-72B3) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 108,
+            "msg": "╏RO6╏ CheetahVibez (T-72B3) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 109,
+            "msg": "╏RO6╏ Ghost_Panther (M1A1 HC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 110,
+            "msg": "╏RO6╏ Mr_Tutle (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 111,
+            "msg": "╏RO6╏ 哥哥轻点 (CV 90120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 112,
+            "msg": "╏RO6╏ Aurabanda (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 113,
+            "msg": "╏RO6╏ jassioma (Ka-50) destroyed ╀P1KE╀ Epic Yak Sparrow (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 71
+        },
+        {
+            "id": 114,
+            "msg": "╏RO6╏ jassioma (Ka-50) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 71
+        },
+        {
+            "id": 115,
+            "msg": "╏RO6╏ jassioma (Ka-50) destroyed ╀P1KE╀ NoU__ (▃Merkava Mk.3D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 84
+        },
+        {
+            "id": 116,
+            "msg": "╀P1KE╀ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 86
+        },
+        {
+            "id": 117,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 86
+        },
+        {
+            "id": 118,
+            "msg": "╏RO6╏ jassioma (Ka-50) set afire ╀P1KE╀ IhaveSwordz (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 94
+        },
+        {
+            "id": 119,
+            "msg": "╏RO6╏ jassioma (Ka-50) set afire ╀P1KE╀ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 120,
+            "msg": "╏RO6╏ jassioma (Ka-50) destroyed ╀P1KE╀ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 111
+        },
+        {
+            "id": 121,
+            "msg": "╀P1KE╀ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 122,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 123,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) set afire ╏RO6╏ jassioma (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 124,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) severely damaged ╏RO6╏ jassioma (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 125,
+            "msg": "╏RO6╏ HerrBias (Z-19E) critically damaged ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 126,
+            "msg": "╏RO6╏ HerrBias (Z-19E) set afire ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 127,
+            "msg": "╏RO6╏ HerrBias (Z-19E) shot down ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 128,
+            "msg": "╏RO6╏ Mr_Tutle (F-5E) shot down ╏RO6╏ jassioma (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 129,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 130,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 131,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) destroyed ╏RO6╏ Ghost_Panther (M1A1 HC)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 132,
+            "msg": "╏RO6╏ catmollydog (F-5E) critically damaged ╀P1KE╀ pablhost (Z-19)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 133,
+            "msg": "╏RO6╏ catmollydog (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 134,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 135,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) critically damaged ╏RO6╏ HerrBias (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 136,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) severely damaged ╏RO6╏ HerrBias (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 137,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) shot down ╏RO6╏ HerrBias (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 138,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 139,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 140,
+            "msg": "╏RO6╏ 哥哥轻点 (CV 90120) set afire ╀P1KE╀ IhaveSwordz (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 141,
+            "msg": "╏RO6╏ Aurabanda (2S6) critically damaged ╀P1KE╀ pablhost (Z-19)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 142,
+            "msg": "╏RO6╏ Aurabanda (2S6) severely damaged ╀P1KE╀ pablhost (Z-19)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 143,
+            "msg": "╏RO6╏ Aurabanda (2S6) shot down ╀P1KE╀ pablhost (Z-19)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 144,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) destroyed ╏RO6╏ Aurabanda (2S6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 145,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 146,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 147,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 148,
+            "msg": "╏RO6╏ CheetahVibez (T-72B3) destroyed ╀P1KE╀ IhaveSwordz (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 149,
+            "msg": "╀P1KE╀ pablhost has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 150,
+            "msg": "pablhosttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 274
+        },
+        {
+            "id": 151,
+            "msg": "╏RO6╏ Mr_Tutle (F-5E) shot down ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 152,
+            "msg": "╀P1KE╀ ⋇NicokElPro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 153,
+            "msg": "⋇NicokElProtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 154,
+            "msg": "╀P1KE╀ NoU__ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 155,
+            "msg": "NoU__td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 156,
+            "msg": "╀P1KE╀ Nyalli has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 157,
+            "msg": "Nyallitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 158,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 159,
+            "msg": "╏RO6╏ catmollydog (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 160,
+            "msg": "╏RO6╏ HerrBias (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 161,
+            "msg": "╏RO6╏ jassioma (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 162,
+            "msg": "╏RO6╏ jassioma (Ka-50) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 163,
+            "msg": "╏RO6╏ jassioma (Ka-50) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 164,
+            "msg": "╏RO6╏ CheetahVibez (T-72B3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 165,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 166,
+            "msg": "╏RO6╏ Ghost_Panther (M1A1 HC) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 167,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 168,
+            "msg": "╏RO6╏ Mr_Tutle (F-5E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 169,
+            "msg": "╏RO6╏ Mr_Tutle (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 170,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 171,
+            "msg": "╏RO6╏ 哥哥轻点 (CV 90120) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 172,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 173,
+            "msg": "╏RO6╏ Aurabanda (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 174,
+            "msg": "╀P1KE╀ NoU__ (▃Merkava Mk.3D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 175,
+            "msg": "╀P1KE╀ pablhost (Z-19) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 176,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 177,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) destroyed ┾DECOY┿ big_boy_tommy (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 178,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 179,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 120
+        },
+        {
+            "id": 180,
+            "msg": "┾DECOY┿ seniorlemon88 (F-4S) severely damaged ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 181,
+            "msg": "┾DECOY┿ seniorlemon88 (F-4S) shot down ╀P1KE╀ ___PHO3NIX___ (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 182,
+            "msg": "╀P1KE╀ pablhost (Z-19) critically damaged ┾DECOY┿ Setek (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 183,
+            "msg": "╀P1KE╀ pablhost (Z-19) set afire ┾DECOY┿ Setek (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 184,
+            "msg": "╀P1KE╀ pablhost (Z-19) severely damaged ┾DECOY┿ Setek (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 185,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) destroyed ┾DECOY┿ Sacro-Sanct (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 186,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 187,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 188,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 189,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 190,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 191,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) set afire ┾DECOY┿ EvilCat76 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 192,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) severely damaged ┾DECOY┿ EvilCat76 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 193,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) shot down ┾DECOY┿ EvilCat76 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 194,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 195,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 196,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 197,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 198,
+            "msg": "╀P1KE╀ NoU__ (2S6) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 199,
+            "msg": "╀P1KE╀ pablhost (Z-19) shot down ┾DECOY┿ Setek (JA37D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 200,
+            "msg": "┾DECOY┿ MotherRussiaKFC (M1A1 AIM) destroyed ╀P1KE╀ IhaveSwordz (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 201,
+            "msg": "┾DECOY┿ Setek has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 202,
+            "msg": "Setektd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 203,
+            "msg": "┾DECOY┿ Ironballs17 (M1A1) set afire ╀P1KE╀ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 204,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) destroyed ┾DECOY┿ Ironballs17 (M1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 205,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 206,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 207,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 208,
+            "msg": "┾DECOY┿ Sacro-Sanct has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 209,
+            "msg": "Sacro-Sancttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 210,
+            "msg": "╀P1KE╀ pablhost (Z-19) critically damaged ┾DECOY┿ seniorlemon88 (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 211,
+            "msg": "╀P1KE╀ pablhost (Z-19) shot down ┾DECOY┿ seniorlemon88 (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 212,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 213,
+            "msg": "╀P1KE╀ pablhost (Z-19) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 214,
+            "msg": "╀P1KE╀ pablhost (Z-19) critically damaged ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 215,
+            "msg": "╀P1KE╀ pablhost (Z-19) shot down ╀P1KE╀ Nyalli (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 216,
+            "msg": "┾DECOY┿ EvilCat76 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 217,
+            "msg": "EvilCat76td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 218,
+            "msg": "╀P1KE╀ pablhost (Z-19) shot down ╀P1KE╀ ⋇NicokElPro (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 201
+        },
+        {
+            "id": 219,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) set afire ┾DECOY┿ MotherRussiaKFC (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 220,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) destroyed ┾DECOY┿ MotherRussiaKFC (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 221,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 222,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 223,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Tank Rescuer: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 224,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 225,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) destroyed ┾DECOY┿ Fudd001 (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 226,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Assists streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 227,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Supporting Fire x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 228,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 229,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Tank Rescuer: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 230,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 231,
+            "msg": "╀P1KE╀ NoU__ (2S6) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 232,
+            "msg": "┾DECOY┿ MotherRussiaKFC has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 233,
+            "msg": "MotherRussiaKFCtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 234,
+            "msg": "┾DECOY┿ big_boy_tommy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+        },
+        {
+            "id": 235,
+            "msg": "big_boy_tommytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+        },
+        {
+            "id": 236,
+            "msg": "┾DECOY┿ seniorlemon88 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 237,
+            "msg": "seniorlemon88td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 259
+        },
+        {
+            "id": 238,
+            "msg": "╀P1KE╀ ___PHO3NIX___ (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 239,
+            "msg": "┾DECOY┿ seniorlemon88 (F-4S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 240,
+            "msg": "┾DECOY┿ Ironballs17 (M1A1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 241,
+            "msg": "┾DECOY┿ Setek (JA37D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 242,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 243,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (M1A1 AIM) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 244,
+            "msg": "┾DECOY┿ Sacro-Sanct (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 245,
+            "msg": "┾DECOY┿ EvilCat76 (Ka-50) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 246,
+            "msg": "┾DECOY┿ Fudd001 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 247,
+            "msg": "╀P1KE╀ ⋇NicokElPro (Kurnass 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 248,
+            "msg": "╀P1KE╀ Nyalli (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 249,
+            "msg": "┾DECOY┿ big_boy_tommy (M1A1 Click-Bait) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 250,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 251,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 252,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 253,
+            "msg": "╀P1KE╀ mercyflush_ (M1A1 AIM) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 254,
+            "msg": "╀P1KE╀ NoU__ (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 255,
+            "msg": "╀P1KE╀ pablhost (Z-19) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 256,
+            "msg": "╀P1KE╀ IhaveSwordz (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        },
+        {
+            "id": 257,
+            "msg": "┾DECOY┿ MotherRussiaKFC (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 263
+        }
+    ]
+}

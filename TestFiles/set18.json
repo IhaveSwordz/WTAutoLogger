@@ -1,0 +1,1229 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1,
+            "msg": "┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS) damaged ╊P1KE╋ Kachanch0 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 89
+        },
+        {
+            "id": 2,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) destroyed ┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 3,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 4,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 5,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 6,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 7,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Ar 234 B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 8,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 9,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 10,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 11,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) shot down ┾1RCC┿ ⋇TryFen YT (Spitfire F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 152
+        },
+        {
+            "id": 12,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 13,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 14,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 15,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 16,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 17,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) set afire ┾1RCC┿ ⋇TryFen YT (Spitfire F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 18,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) set afire ╊P1KE╋ BlackburnLDA (F4U-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 19,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) shot down ╊P1KE╋ BlackburnLDA (F4U-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 20,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) performed a soft landing",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 21,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) destroyed ┾1RCC┿ Seikazu2936 (Black Prince)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 22,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) destroyed ┾1RCC┿ ⋇SrRaTToGOD (Panther A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 23,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 24,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Ar 234 B) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 264
+        },
+        {
+            "id": 25,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 26,
+            "msg": "╊P1KE╋ mercyflush_ (T25) damaged ┾1RCC┿ ThugLifeOSASCO (Spitfire)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 27,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Ar 234 B) destroyed ┾1RCC┿ ⋇WinierWater (Tiger E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 28,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 29,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 30,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 31,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 32,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 33,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Ar 234 B) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 34,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 35,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) damaged ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 36,
+            "msg": "┾1RCC┿ ⋇WOLFz_FireyGrape (F4U-4) destroyed ╊P1KE╋ zonedilluzionz (M-51)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 37,
+            "msg": "┾1RCC┿ ⋇WOLFz_FireyGrape (F4U-4) damaged ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 38,
+            "msg": "┾1RCC┿ ⋇WOLFz_FireyGrape (F4U-4) shot down ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 324
+        },
+        {
+            "id": 39,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) damaged ┾1RCC┿ ⋇NOBREGA18 (␗La-9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 40,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) shot down ┾1RCC┿ ⋇NOBREGA18 (␗La-9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 344
+        },
+        {
+            "id": 41,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 345
+        },
+        {
+            "id": 42,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 345
+        },
+        {
+            "id": 43,
+            "msg": "┾1RCC┿ ⋇Hetzel763 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 44,
+            "msg": "⋇Hetzel763td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 45,
+            "msg": "╊P1KE╋ mercyflush_ (T25) damaged ┾1RCC┿ ⋇WOLFz_FireyGrape (F4U-4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 46,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) damaged ╊P1KE╋ Kachanch0 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 47,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) shot down ╊P1KE╋ Kachanch0 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 48,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) set afire ╊P1KE╋ Kachanch0 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 358
+        },
+        {
+            "id": 49,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) damaged ┾1RCC┿ ThugLifeOSASCO (Spitfire)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 50,
+            "msg": "╊P1KE╋ Kachanch0 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 51,
+            "msg": "Kachanch0td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 52,
+            "msg": "┾1RCC┿ ⋇SrRaTToGOD has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 53,
+            "msg": "⋇SrRaTToGODtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 54,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) shot down ┾1RCC┿ ThugLifeOSASCO (Spitfire)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 55,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 56,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 57,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 58,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 59,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"Surprise!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 60,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 61,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 62,
+            "msg": "┾1RCC┿ ⋇WinierWater has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 63,
+            "msg": "⋇WinierWatertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 410
+        },
+        {
+            "id": 64,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 65,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 66,
+            "msg": "╊P1KE╋ AmexBlack (Flakpanzer 341) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 67,
+            "msg": "┾1RCC┿ ThugLifeOSASCO (Spitfire) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 68,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 69,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 70,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 71,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 72,
+            "msg": "┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 73,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 (Ar 234 B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 74,
+            "msg": "┾1RCC┿ ⋇SrRaTToGOD (Panther A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 75,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 76,
+            "msg": "┾1RCC┿ ⋇WOLFz_FireyGrape (F4U-4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 77,
+            "msg": "┾1RCC┿ Seikazu2936 (Black Prince) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 78,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 79,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"Mission Maker\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 80,
+            "msg": "╊P1KE╋ Kachanch0 (Ar 234 B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 81,
+            "msg": "╊P1KE╋ mercyflush_ (T25) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 82,
+            "msg": "┾1RCC┿ ⋇NOBREGA18 (␗La-9) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 83,
+            "msg": "┾1RCC┿ ⋇TryFen YT (Spitfire F) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 84,
+            "msg": "┾1RCC┿ ⋇WinierWater (Tiger E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 412
+        },
+        {
+            "id": 85,
+            "msg": "┾1RCC┿ Seikazu2936 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 413
+        },
+        {
+            "id": 86,
+            "msg": "Seikazu2936td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 413
+        },
+        {
+            "id": 87,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 88,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 89,
+            "msg": "┾1RCC┿ ⋇TryFen YT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 90,
+            "msg": "⋇TryFen YTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 91,
+            "msg": "╊P1KE╋ BlackburnLDA has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 92,
+            "msg": "BlackburnLDAtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 93,
+            "msg": "┾1RCC┿ ⋇NOBREGA18 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 94,
+            "msg": "⋇NOBREGA18td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 95,
+            "msg": "┾1RCC┿ ThugLifeOSASCO has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 96,
+            "msg": "ThugLifeOSASCOtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 415
+        },
+        {
+            "id": 97,
+            "msg": "╊P1KE╋ ⋇SuperWamen69 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 417
+        },
+        {
+            "id": 98,
+            "msg": "⋇SuperWamen69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 417
+        },
+        {
+            "id": 99,
+            "msg": "┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS) damaged ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 100,
+            "msg": "┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS) shot down ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 101,
+            "msg": "┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 118
+        },
+        {
+            "id": 102,
+            "msg": "┾1RCC┿ ⋇WinierWater (Jagdpanther G1) destroyed ╊P1KE╋ mercyflush_ (M41A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 103,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) damaged ┾1RCC┿ ⋇NOBREGA18 (␗La-9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 104,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) shot down ┾1RCC┿ ⋇NOBREGA18 (␗La-9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 105,
+            "msg": "╊P1KE╋ zonedilluzionz (M-51) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 106,
+            "msg": "╊P1KE╋ RepearZz (IS-2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 107,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 108,
+            "msg": "╊P1KE╋ BlackburnLDA (F4U-7) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 109,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) set afire ┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 110,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) destroyed ┾1RCC┿ ⋇Hetzel763 (R3 T20 FA-HS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 111,
+            "msg": "╊P1KE╋ Epic Yak Sparrow (T-34-100) has achieved \"Bomber Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 112,
+            "msg": "┾1RCC┿ ⋇WinierWater (Jagdpanther G1) destroyed ╊P1KE╋ RepearZz (IS-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 113,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) destroyed ╊P1KE╋ _fatty_boom_boom (R3 T20 FA-HS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 114,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 115,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) destroyed ╊P1KE╋ AmexBlack (Flakpanzer 341)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 116,
+            "msg": "╊P1KE╋ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 117,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 118,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) destroyed ╊P1KE╋ mercyflush_ (T25)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 119,
+            "msg": "[AproX] MoulaGaufre (F8F-1) damaged ╊P1KE╋ Kachanch0 (Ta 152 H)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 120,
+            "msg": "[AproX] MoulaGaufre (F8F-1) set afire ╊P1KE╋ Kachanch0 (Ta 152 H)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 121,
+            "msg": "[AproX] MoulaGaufre (F8F-1) shot down ╊P1KE╋ Kachanch0 (Ta 152 H)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 122,
+            "msg": "[AproX] Pot009 (Flakpanzer 341) damaged ╊P1KE╋ BlackburnLDA (F4U-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 123,
+            "msg": "[AproX] Pot009 (Flakpanzer 341) shot down ╊P1KE╋ BlackburnLDA (F4U-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 124,
+            "msg": "╊P1KE╋ Kachanch0 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 125,
+            "msg": "Kachanch0td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 126,
+            "msg": "╊P1KE╋ zonedilluzionz (M4A3E2 (76) W) destroyed [AproX] Pot009 (Flakpanzer 341)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 127,
+            "msg": "╊P1KE╋ zonedilluzionz (M4A3E2 (76) W) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 128,
+            "msg": "╊P1KE╋ zonedilluzionz (M4A3E2 (76) W) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 129,
+            "msg": "[AproX] I_play_on_mac (Spitfire) destroyed ╊P1KE╋ zonedilluzionz (M4A3E2 (76) W)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 130,
+            "msg": "[AproX] MoulaGaufre (F8F-1) damaged ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 131,
+            "msg": "[AproX] MoulaGaufre (F8F-1) shot down ╊P1KE╋ ⋇SuperWamen69 (Ar 234 B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 132,
+            "msg": "[AproX] Gnoukiki (IS-2) destroyed ╊P1KE╋ Epic Yak Sparrow (T-34-100)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 133,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 134,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 135,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 136,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 137,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) shot down [AproX] Tikhon9298 (Ki-84)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 138,
+            "msg": "╊P1KE╋ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 139,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 140,
+            "msg": "[AproX] Pot009 (Flakpanzer 341) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 141,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 142,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 143,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 144,
+            "msg": "[AproX] Mrpanda03 (Tu-2S) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 145,
+            "msg": "[AproX] Gnoukiki (IS-2) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 146,
+            "msg": "[AproX] Gnoukiki (IS-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 147,
+            "msg": "[AproX] MoulaGaufre (F8F-1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 148,
+            "msg": "[AproX] _Gn0uki (M4A3E2 (76) W) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 149,
+            "msg": "[AproX] ColinZ3R0 (KV-220) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 150,
+            "msg": "[AproX] Tikhon9298 (Ki-84) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 151,
+            "msg": "[AproX] I_play_on_mac (Spitfire) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 152,
+            "msg": "╊P1KE╋ BlackburnLDA has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 153,
+            "msg": "BlackburnLDAtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        }
+    ]
+}

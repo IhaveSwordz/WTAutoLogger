@@ -1,0 +1,1117 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 385,
+            "msg": "╈TFedz╉ biotoxik1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 371
+        },
+        {
+            "id": 386,
+            "msg": "biotoxik1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 371
+        },
+        {
+            "id": 387,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 388,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 389,
+            "msg": "╈TFedz╉ biotoxik1 (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 390,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 391,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 392,
+            "msg": "╈TFedz╉ ⋇mastdog (Bhishma TWMP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 393,
+            "msg": "╈TFedz╉ HiMyNameIsLeFox (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 394,
+            "msg": "╈TFedz╉ puzzledpaul (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 395,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 396,
+            "msg": "╈TFedz╉ Delly101 (Z-9WA) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 397,
+            "msg": "╈TFedz╉ Delly101 (Z-9WA) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 398,
+            "msg": "╈TFedz╉ Delly101 (Z-9WA) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 399,
+            "msg": "╈TFedz╉ Delly101 (Z-9WA) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 400,
+            "msg": "╈TFedz╉ RevAltSoviet (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 401,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 402,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 403,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 404,
+            "msg": "╈TFedz╉ Override4Gaming (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 405,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 406,
+            "msg": "╈TFedz╉ xGHOSTOFGERMANYx (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 407,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) destroyed ╜BofSs╜ LumiLintu (PT-16/T14 mod.)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 408,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 409,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 410,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) destroyed ╊P1KE╋ RepearZz (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 411,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) shot down ╜BofSs╜ JerryFromThePub (◄F-4F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 412,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 413,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 414,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) severely damaged ╜BofSs╜ SamueIP (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 415,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) critically damaged ╜BofSs╜ SamueIP (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 416,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) shot down ╜BofSs╜ SamueIP (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 417,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 418,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 419,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 420,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 421,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 150
+        },
+        {
+            "id": 422,
+            "msg": "╊P1KE╋ RepearZz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 423,
+            "msg": "RepearZztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 424,
+            "msg": "╜BofSs╜ Ianbuckjames (F-5E) set afire ╊P1KE╋ NotAnWildPig_YT (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 425,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) destroyed ╊P1KE╋ Makina01 (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 426,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) critically damaged ╜BofSs╜ Ianbuckjames (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 427,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) destroyed ╊P1KE╋ Sugar Me Daddy (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 428,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 429,
+            "msg": "╜BofSs╜ T_U_N (2S6) set afire ╊P1KE╋ NotAnWildPig_YT (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 430,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) destroyed ╊P1KE╋ NotAnWildPig_YT (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 431,
+            "msg": "╜BofSs╜ Ianbuckjames (F-5E) shot down ╊P1KE╋ Expo017_PR (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 432,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 433,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 434,
+            "msg": "╜BofSs╜ Meme_Machine_128 (F-5E) set afire ╊P1KE╋ AmexPlatinum (ZTZ99-II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 435,
+            "msg": "╜BofSs╜ Meme_Machine_128 (F-5E) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 436,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) destroyed ╊P1KE╋ AmexPlatinum (ZTZ99-II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 437,
+            "msg": "╊P1KE╋ Expo017_PR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 269
+        },
+        {
+            "id": 438,
+            "msg": "Expo017_PRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 269
+        },
+        {
+            "id": 439,
+            "msg": "╊P1KE╋ NotAnWildPig_YT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 440,
+            "msg": "NotAnWildPig_YTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 441,
+            "msg": "╜BofSs╜ T_U_N (2S6) set afire ╜BofSs╜ Ianbuckjames (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 442,
+            "msg": "╜BofSs╜ JerryFromThePub has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 443,
+            "msg": "JerryFromThePubtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 444,
+            "msg": "╊P1KE╋ Radcki has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 445,
+            "msg": "Radckitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 446,
+            "msg": "╜BofSs╜ SamueIP has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 447,
+            "msg": "SamueIPtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 448,
+            "msg": "╜BofSs╜ T_U_N (2S6) shot down ╜BofSs╜ Ianbuckjames (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 449,
+            "msg": "╜BofSs╜ Ianbuckjames (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 450,
+            "msg": "╜BofSs╜ Ianbuckjames (F-5E) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 451,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 452,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 453,
+            "msg": "╊P1KE╋ RepearZz (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 454,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 455,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 456,
+            "msg": "╜BofSs╜ TYRANNOSAURUSREX (Centauro I 105) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 457,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 458,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 459,
+            "msg": "╜BofSs╜ CoomingOf_Christ (Leopard 2 (PzBtl 123)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 460,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 461,
+            "msg": "╜BofSs╜ LumiLintu (PT-16/T14 mod.) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 462,
+            "msg": "╜BofSs╜ Meme_Machine_128 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 463,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 464,
+            "msg": "╜BofSs╜ SamueIP (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 465,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 466,
+            "msg": "╜BofSs╜ T_U_N (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 467,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 468,
+            "msg": "╜BofSs╜ JerryFromThePub (◄F-4F) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 469,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 470,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) critically damaged -FELH- Sr Lancelot (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 89
+        },
+        {
+            "id": 471,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) severely damaged -FELH- Sr Lancelot (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 89
+        },
+        {
+            "id": 472,
+            "msg": "-FELH- Sniper_Snake (Leopard 2A4) set afire ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 473,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 96
+        },
+        {
+            "id": 474,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 96
+        },
+        {
+            "id": 475,
+            "msg": "-FELH- Sniper_Snake (Leopard 2A4) destroyed ╊P1KE╋ KUPAAA_NAKADASH (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 476,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) destroyed -FELH- ⋇DICUZOOUU192 (T-72AV (TURMS-T))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 110
+        },
+        {
+            "id": 477,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 111
+        },
+        {
+            "id": 478,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 111
+        },
+        {
+            "id": 479,
+            "msg": "-FELH- Sniper_Snake (Leopard 2A4) destroyed ╊P1KE╋ RepearZz (Т-90А)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 480,
+            "msg": "╊P1KE╋ RepearZz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 481,
+            "msg": "RepearZztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 133
+        },
+        {
+            "id": 482,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) set afire -FELH- Sniper_Snake (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 483,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) destroyed -FELH- Sniper_Snake (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 484,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 485,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 486,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 487,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) critically damaged -FELH- ALPHA FORCE (F8U-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 488,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) shot down -FELH- ALPHA FORCE (F8U-2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 489,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) destroyed -FELH- Sr Lancelot (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 490,
+            "msg": "╊P1KE╋ Radcki (A129CBT) critically damaged -FELH- Reyesssss (AV-8C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 491,
+            "msg": "╊P1KE╋ Radcki (A129CBT) severely damaged -FELH- Reyesssss (AV-8C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 492,
+            "msg": "╊P1KE╋ Radcki (A129CBT) shot down -FELH- Reyesssss (AV-8C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 493,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) critically damaged -FELH- ⋇llSADKAMUZll (Sea Harrier FRS.1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 494,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) severely damaged -FELH- ⋇llSADKAMUZll (Sea Harrier FRS.1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 495,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) shot down -FELH- ⋇llSADKAMUZll (Sea Harrier FRS.1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 496,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 497,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) destroyed -FELH- bolche85 (◔T-72M1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 498,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 499,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 500,
+            "msg": "-FELH- Sniper_Snake has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 501,
+            "msg": "Sniper_Snaketd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 502,
+            "msg": "-FELH- Reyesssss has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 503,
+            "msg": "Reyessssstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 504,
+            "msg": "╊P1KE╋ Sugar Me Daddy (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 505,
+            "msg": "╊P1KE╋ Radcki (A129CBT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 506,
+            "msg": "╊P1KE╋ RepearZz (Т-90А) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 507,
+            "msg": "-FELH- Sniper_Snake (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 508,
+            "msg": "╊P1KE╋ Makina01 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 509,
+            "msg": "-FELH- Sr Lancelot (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 510,
+            "msg": "╊P1KE╋ Expo017_PR (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 511,
+            "msg": "-FELH- ⋇llSADKAMUZll (Sea Harrier FRS.1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 512,
+            "msg": "╊P1KE╋ AmexPlatinum (ZTZ99-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 513,
+            "msg": "-FELH- EteCzech (Su-25K) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 514,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 515,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 516,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 517,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 518,
+            "msg": "╊P1KE╋ NotAnWildPig_YT (Abrams) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 519,
+            "msg": "-FELH- bolche85 (◔T-72M1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 520,
+            "msg": "-FELH- Reyesssss (AV-8C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 521,
+            "msg": "╊P1KE╋ KUPAAA_NAKADASH (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 522,
+            "msg": "-FELH- ⋇DICUZOOUU192 (T-72AV (TURMS-T)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 523,
+            "msg": "-FELH- ALPHA FORCE (F8U-2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        }
+    ]
+}

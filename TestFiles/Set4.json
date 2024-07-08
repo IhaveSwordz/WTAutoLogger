@@ -1,0 +1,1189 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 33,
+            "msg": "╃RO6╄ ⋇cajunKiller1 (Z-19E) shot down ╊P1KE╋ NotAnWildPig (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 124
+        },
+        {
+            "id": 34,
+            "msg": "╃RO6╄ YourLocalLoser (Leopard 2A5) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 35,
+            "msg": "╃RO6╄ mineLo (Ka-52) shot down ╊P1KE╋ zonedilluzionz (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 36,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) destroyed ╃RO6╄ YourLocalLoser (Leopard 2A5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 145
+        },
+        {
+            "id": 37,
+            "msg": "╊P1KE╋ What_can_u_do (M1A2 SEP) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 38,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 39,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Eye for Eye\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 40,
+            "msg": "╊P1KE╋ What_can_u_do (M1A2 SEP) set afire ╃RO6╄ catmollydog (T-80BVM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 41,
+            "msg": "╃RO6╄ catmollydog (T-80BVM) set afire ╊P1KE╋ What_can_u_do (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 175
+        },
+        {
+            "id": 42,
+            "msg": "╃RO6╄ ⋇anthonyb1126 (T-80BVM) destroyed ╊P1KE╋ What_can_u_do (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 43,
+            "msg": "╃RO6╄ mineLo (Ka-52) damaged ╊P1KE╋ AlexanderDG56453 (Z-10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 44,
+            "msg": "╃RO6╄ mineLo (Ka-52) shot down ╊P1KE╋ AlexanderDG56453 (Z-10)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 45,
+            "msg": "╃RO6╄ stocky96 (F-16D) shot down ╊P1KE╋ Pawnage87 (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 46,
+            "msg": "╃RO6╄ ⋇anthonyb1126 (T-80BVM) destroyed ╊P1KE╋ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 47,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 48,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 49,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) destroyed ┼SNLK┽ Mr_Brain01 (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 50,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 51,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 94
+        },
+        {
+            "id": 52,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) destroyed ┼SNLK┽ TheH0G (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 53,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 54,
+            "msg": "╊P1KE╋ What_can_u_do (Pantsir-S1) set afire ┼SNLK┽ krustysandals (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 55,
+            "msg": "╊P1KE╋ What_can_u_do (Pantsir-S1) destroyed ┼SNLK┽ krustysandals (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 56,
+            "msg": "╊P1KE╋ What_can_u_do (Pantsir-S1) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 57,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) destroyed ┼SNLK┽ SpeedyBullet_99 (XM1069)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 58,
+            "msg": "┼SNLK┽ RoastMyWafflez (Leopard 2A6) destroyed ╊P1KE╋ What_can_u_do (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 59,
+            "msg": "┼SNLK┽ RoastMyWafflez (Leopard 2A6) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 220
+        },
+        {
+            "id": 60,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) destroyed ┼SNLK┽ hofac130 (XM1069)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 61,
+            "msg": "┼SNLK┽ Twisted_Whisper (Pantsir-S1) damaged ╊P1KE╋ NotAnWildPig (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 62,
+            "msg": "┼SNLK┽ Twisted_Whisper (Pantsir-S1) shot down ╊P1KE╋ NotAnWildPig (F-16C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 63,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) destroyed ┼SNLK┽ Twisted_Whisper (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 64,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 65,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 247
+        },
+        {
+            "id": 66,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) destroyed ╊P1KE╋ mercyflush_ (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 67,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) set afire ┼SNLK┽ progavman (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 68,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) destroyed ┼SNLK┽ progavman (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 69,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 70,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 71,
+            "msg": "┼SNLK┽ Twisted_Whisper has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 72,
+            "msg": "Twisted_Whispertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 73,
+            "msg": "┼SNLK┽ progavman has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 74,
+            "msg": "progavmantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 75,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) destroyed ┼SNLK┽ RoastMyWafflez (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 76,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 77,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 78,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 79,
+            "msg": "┼SNLK┽ TheH0G has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 80,
+            "msg": "TheH0Gtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 81,
+            "msg": "┼SNLK┽ Mr_Brain01 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 82,
+            "msg": "Mr_Brain01td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 83,
+            "msg": "┼SNLK┽ SpeedyBullet_99 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 84,
+            "msg": "SpeedyBullet_99td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 85,
+            "msg": "┼SNLK┽ RoastMyWafflez has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 86,
+            "msg": "RoastMyWaffleztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 350
+        },
+        {
+            "id": 87,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 88,
+            "msg": "┼SNLK┽ krustysandals (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 89,
+            "msg": "┼SNLK┽ krustysandals (Leopard 2A6) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 90,
+            "msg": "┼SNLK┽ progavman (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 91,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 92,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 93,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 94,
+            "msg": "╊P1KE╋ What_can_u_do (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 95,
+            "msg": "┼SNLK┽ RoastMyWafflez (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 96,
+            "msg": "┼SNLK┽ RoastMyWafflez (Leopard 2A6) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 97,
+            "msg": "┼SNLK┽ Mr_Brain01 (Leopard 2A6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 98,
+            "msg": "┼SNLK┽ Twisted_Whisper (Pantsir-S1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 99,
+            "msg": "┼SNLK┽ SpeedyBullet_99 (XM1069) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 100,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 101,
+            "msg": "╊P1KE╋ NotAnWildPig (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 102,
+            "msg": "┼SNLK┽ hofac130 (XM1069) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 103,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 104,
+            "msg": "┼SNLK┽ TheH0G (M1A2 SEP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 105,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 106,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) destroyed ┼SNLK┽ SpeedyBullet_99 (XM1069)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 94
+        },
+        {
+            "id": 107,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 94
+        },
+        {
+            "id": 108,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Sniper\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 94
+        },
+        {
+            "id": 109,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) set afire ┼SNLK┽ RoastMyWafflez (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 97
+        },
+        {
+            "id": 110,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) destroyed ┼SNLK┽ RoastMyWafflez (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 111,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 112,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 113,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 99
+        },
+        {
+            "id": 114,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) destroyed ┼SNLK┽ Mr_Brain01 (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 115,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 116,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 117,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 118,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 119,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) destroyed ┼SNLK┽ Twisted_Whisper (Pantsir-S1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 120,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 121,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) destroyed ┼SNLK┽ progavman (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 122,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 123,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 124,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 125,
+            "msg": "╊P1KE╋ NotAnWildPig (F-16C) destroyed ╊P1KE╋ Hydcide (Leclerc SXXI)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 126,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) set afire ┼SNLK┽ krustysandals (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 127,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) destroyed ┼SNLK┽ krustysandals (Leopard 2A6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 128,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Tank Rescuer: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 129,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 130,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) destroyed ┼SNLK┽ hofac130 (XM1069)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 131,
+            "msg": "┼SNLK┽ Mr_Brain01 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 132,
+            "msg": "Mr_Brain01td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 133,
+            "msg": "┼SNLK┽ Twisted_Whisper has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 273
+        },
+        {
+            "id": 134,
+            "msg": "Twisted_Whispertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 273
+        },
+        {
+            "id": 135,
+            "msg": "┼SNLK┽ TheH0G (M1A2 SEP) destroyed ╊P1KE╋ IhaveSwordz (Leopard 2 PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 285
+        },
+        {
+            "id": 136,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) set afire ┼SNLK┽ TheH0G (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 137,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) destroyed ┼SNLK┽ TheH0G (M1A2 SEP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 138,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 139,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 140,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Assists streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 141,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"Supporting Fire x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 142,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 143,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 144,
+            "msg": "┼SNLK┽ TheH0G has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 145,
+            "msg": "TheH0Gtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 146,
+            "msg": "╊P1KE╋ zonedilluzionz (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 147,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 148,
+            "msg": "╊P1KE╋ Pawnage87 (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 149,
+            "msg": "╊P1KE╋ AlexanderDG56453 (Ka-52) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 150,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 151,
+            "msg": "╊P1KE╋ What_can_u_do (T-80BVM) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 152,
+            "msg": "╊P1KE╋ Hydcide (Leclerc SXXI) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 153,
+            "msg": "╊P1KE╋ NotAnWildPig (F-16C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 154,
+            "msg": "╊P1KE╋ mercyflush_ (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 155,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 156,
+            "msg": "╊P1KE╋ IhaveSwordz (Leopard 2 PSO) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 157,
+            "msg": "┼SNLK┽ progavman has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 328
+        },
+        {
+            "id": 158,
+            "msg": "progavmantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 328
+        },
+        {
+            "id": 159,
+            "msg": "┼SNLK┽ krustysandals has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 160,
+            "msg": "krustysandalstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 161,
+            "msg": "╊P1KE╋ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 162,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 163,
+            "msg": "┼SNLK┽ SpeedyBullet_99 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 164,
+            "msg": "SpeedyBullet_99td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 165,
+            "msg": "┼SNLK┽ RoastMyWafflez has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 166,
+            "msg": "RoastMyWaffleztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 167,
+            "msg": "┼SNLK┽ hofac130 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 168,
+            "msg": "hofac130td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 169,
+            "msg": "╊P1KE╋ Pawnage87 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 170,
+            "msg": "Pawnage87td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 171,
+            "msg": "╊P1KE╋ NotAnWildPig has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 172,
+            "msg": "NotAnWildPigtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 173,
+            "msg": "╊P1KE╋ zonedilluzionz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 174,
+            "msg": "zonedilluzionztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 175,
+            "msg": "╊P1KE╋ What_can_u_do has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 176,
+            "msg": "What_can_u_dotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 177,
+            "msg": "╊P1KE╋ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 178,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 179,
+            "msg": "╊P1KE╋ AlexanderDG56453 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 180,
+            "msg": "AlexanderDG56453td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        }
+    ]
+}
