@@ -299,12 +299,12 @@ class Battle:
         for i in range(16 - len(self.players)):
             self.players.append(None)
 
-
-manager = Manager()
-with open("newFile.json", "rb") as f:
-    datz: dict = json.load(f)
-    for dat in datz["battles"]:
-        if manager.validate(dat["hash"]):
-            manager.addLog(dat)
-        else:
-            print(f"that battle with hash {dat["hash"]} already in there dumbass")
+if __name__ == "__main__":
+    with open("oldFile.json", "rb") as f:
+        manager = Manager()
+        datz: dict = json.load(f)
+        for dat in datz["battles"]:
+            if manager.validate(dat["hash"]):
+                manager.addLog(dat)
+            else:
+                print(f"that battle with hash {dat["hash"]} already in there dumbass")

@@ -2,10 +2,10 @@ import pandas as pd
 import json
 import os
 # C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u
-tanks = "C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
-planes = "C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
-vehicleData = "C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx"
-vehicleCost = "C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx"
+tanks = "VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
+planes = "VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
+vehicleData = "VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx"
+vehicleCost = "VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx"
 
 # print("start")
 
@@ -35,6 +35,7 @@ class Vehicle:
         self.directory = None
 
         # gets the info from vData and vCost for the specific vehicle
+        # print(name, internal_name)
         self.v_data: dict = self.vData[internal_name]
         self.v_cost: dict = self.vCost[internal_name]
 
@@ -73,7 +74,6 @@ class Vehicle:
     def num_to_BR(self, num: int):
         payload = str(int(num/3)+1)
         payload += {0: ".0", 1: ".3", 2 : ".7"}[num%3]
-        print(num, payload)
         return payload
 
     def __str__(self):
@@ -89,17 +89,24 @@ class DataGet:
             d = pd.DataFrame(data)
             index = [i for i, val in enumerate(data[0]) if val == "<English>"][0]
             for i in range(1, len(d) - 3):
-                # print(d[0][i][-5:-1])
-                if d[0][i][-5:-1] == "_sho" or d[0][i][:11] == "shop/group/" or d[index][i] in ["Medium tank", "Heavy cruiser", "Subchaser", "Boat", "Light\xa0carrier", "Landing\xa0craft", "Light\xa0Cruiser", "Battleship", "Destroyer", "MBT", "SPAA", "Light cruiser", "Light tank", "Light\xa0tank", "SPG", "Infantry tank", "Carrier"]:
+                if d[index][i] == "" or d[0][i] == "" or "_race_" in d[0][i] or d[0][i][-5:-1] == "_sho" or d[0][i][:11] == "shop/group/" or d[index][i] in ["Medium tank", "Heavy cruiser", "Subchaser", "Boat", "Light\xa0carrier", "Landing\xa0craft", "Light\xa0Cruiser", "Battleship", "Destroyer", "MBT", "SPAA", "Light cruiser", "Light tank", "Light\xa0tank", "SPG", "Infantry tank", "Carrier"]:
                     continue
-                # print({d[index][i]: d[0][i]})
                 self.nameToIGN.update({d[index][i]: d[0][i]})
 
     '''
     given a vehicle name, will try to find the internal name
     '''
     def query_name(self, name: str):
-        return self.nameToIGN.get(name)
+        new_name = name
+        if "\"" in name and name[0] != "\"":
+            new_name = ""
+            for letter in name:
+                if letter == "\"":
+                    new_name += "\""
+                new_name += letter
+
+        return self.nameToIGN[new_name]
+        # return self.nameToIGN.get(new_name)
 
     '''
     given a internal name, will try and return the info about that vehicle
@@ -107,23 +114,9 @@ class DataGet:
 
 
 if "__main__" == __name__:
+    d = DataGet()
+    print(d.query_name("Type 90 (B) \"Fuji\""))
     print("starting")
     print(Vehicle("Tornado ", "tornado_gr1"))
     print(Vehicle("Leopard 2A7V", "germ_leopard_2a7v"))
     print(Vehicle("us_merkava_mk_1", "us_merkava_mk_1"))
-
-'''
-    with open("battleData.json", "rb") as z:
-        data: dict = json.load(z)['battles']
-        dat = DataGet()
-        for battle in data:
-            players = battle["players"]
-            for player in players:
-                ret = dat.query_name((player["vehicle"][1:-1]))
-                if ret is not None:
-                    print(ret[:-2])
-                    # print(dat.getData(ret[:-2]))
-                    # print(os.path.exists(tanks+f"/{ret[:-2]}.blkx"), " | ", os.path.exists(planes+f"/{ret[:-2]}.blkx"))
-                    print(Vehicle(player["vehicle"][1:-1], ret[:-2]))
-                else:
-                    print(f"failure on query for vehicle name: {player["vehicle"]}")'''

@@ -1,11 +1,8 @@
-import copy
 import json
-import time
 import unicodedata
-import urllib.request
 import datetime
 import hashlib
-from VehicleParser.converter import Vehicle, DataGet
+from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
 GameOnURL = "http://localhost:8111/map_info.json"  # url of info needed to determine if the current game is still active
@@ -106,6 +103,13 @@ class Battle:
         except ValueError:
             return False
 
+    def goodLog(self, log):
+        if type(log) is Log:
+            return not "Engine died" in log.log
+        if "Engine died" not in log["msg"]:
+            return True
+        return False
+
     '''
 	returns a data usable version of the battle in the JSON format
 	currently in dictionary format, should update to return a json.
@@ -113,14 +117,25 @@ class Battle:
 
     def getJSON(self):
         hashz = None
-        if len(self.logs) >= 8:
+        if len(self.logs) >= 10:
+            to_be_used = []
+            index = 0
+            while len(to_be_used) < 8:
+                if self.goodLog(self.logs[index]):
+                    to_be_used.append(self.logs[index])
+                index += 1
+
             utc = datetime.datetime.now(datetime.UTC)
             print("hash aplicable")
+            print(*self.logs[:8])
+            print(*to_be_used)
+            print
             print(f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
             timez = f"{utc.year}{0 if utc.month < 10 else ""}{utc.month}{0 if utc.day < 10 else ""}{utc.day if utc.hour < 12 else utc.day - 1}|"  # the weird day thing is to account for the fact that NA for UST happens at like 1 am
             hs = hashlib.sha256(bytes(''.join([f"{log.log}{log.time_}" for log in self.logs[:8]]), 'utf-8')).hexdigest()
             hs = f"{timez}|" + str(hs)
             hashz = hs
+            print(hashz)
         # print(preHash)
         players = [player.json() for player in [*self.team1, *self.team2]]
         teamName = [player["name"] for player in players]
@@ -285,6 +300,8 @@ class Battle:
         return log
 
     def update(self, log):
+        if not self.goodLog(log):
+            return
         if self.debug:
             print("-" * 250)
             print("update: ", log)
@@ -296,7 +313,7 @@ if __name__ == "__main__":
     # print("weee")
     # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
-    with open("TestData\\set31.json", "rb") as f:  # set 11
+    with open("TestFiles\\Set36.json", "rb") as f:  # set 11
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]
@@ -316,6 +333,7 @@ if __name__ == "__main__":
 
     pars = DataGet()
     for player in battle.getJSON()["players"]:
+        # print(player)
         ign = pars.query_name(player["vehicle"][1:-1])[0:-2]
         print(Vehicle(player["vehicle"][1:-1], ign))
 # set13, I should be dead. FIXED
@@ -367,5 +385,17 @@ IndexError: list index out of range
 '''
 '''
 set 34 mercyflush killed twice
+'''
+'''
+set 35 error: ValueError: 
+Traceback (most recent call last):
+  File "C://Users/samue/PycharmProjects/WTAutoLogger/DataCollector.py", line 314, in <module>
+    battle.update(test)
+  File "C://Users/samue/PycharmProjects/WTAutoLogger/DataCollector.py", line 292, in update
+    self.setMetadata(unicodedata.normalize("NFC", log["msg"]).replace("⋇ ", "^"), log["time"])
+  File "C://Users/samue/PycharmProjects/WTAutoLogger/DataCollector.py", line 272, in setMetadata
+    self.end_finder(unref, unref[:splitPoint].index(")"))]))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: substring not found
 '''
 # set 31, Clickbait sohuld be dead

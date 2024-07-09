@@ -1,0 +1,1085 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 449,
+            "msg": "Samveej34td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 450,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 451,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 452,
+            "msg": "[SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\") has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 453,
+            "msg": "[SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\") has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 454,
+            "msg": "┾BKF54┿ ripDra (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 455,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 456,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 457,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 458,
+            "msg": "┾BKF54┿ ⋇Osirisdudeman (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 459,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 460,
+            "msg": "┾BKF54┿ ANGRY_FETUS (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 461,
+            "msg": "[SADAF] ⋇TacticalWack (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 462,
+            "msg": "[SADAF] DBADR (▄F-5E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 463,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 464,
+            "msg": "[SADAF] ⋇PowerHail377783 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 465,
+            "msg": "┾BKF54┿ Samveej34 (Su-25) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 466,
+            "msg": "┾BKF54┿ ⋇KusuTheGamer (M1A1 AIM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 467,
+            "msg": "┾BKF54┿ yvurbfyfu (F-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 468,
+            "msg": "┾BKF54┿ HeliDeliDelivery (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 469,
+            "msg": "┾BKF54┿ ⋇YourLocalFemboi_ (Mirage F1C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 470,
+            "msg": "[SADAF] timothy0614 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 471,
+            "msg": "timothy0614td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 472,
+            "msg": "┾BKF54┿ ⋇YourLocalFemboi_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 473,
+            "msg": "⋇YourLocalFemboi_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 474,
+            "msg": "[SADAF] ⋇PowerHail377783 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 475,
+            "msg": "⋇PowerHail377783td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 476,
+            "msg": "[SADAF] ⋇TacticalWack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 477,
+            "msg": "⋇TacticalWacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 478,
+            "msg": "┾BKF54┿ ANGRY_FETUS has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 479,
+            "msg": "ANGRY_FETUStd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 480,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) set afire ┾ATLA5┿ Makina01 (Leopard 2A4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 103
+        },
+        {
+            "id": 481,
+            "msg": "[SADAF] ⋇TacticalWack (T-80UK) destroyed ┾ATLA5┿ Sisseaur (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 482,
+            "msg": "[SADAF] ⋇TacticalWack (T-80UK) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 483,
+            "msg": "[SADAF] _Anatolia (2S38) shot down ┾ATLA5┿ RETRIX117 (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 484,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) severely damaged ┾ATLA5┿ TheMach0 (Mirage F1C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 485,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) critically damaged ┾ATLA5┿ TheMach0 (Mirage F1C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 486,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) set afire ┾ATLA5┿ TheMach0 (Mirage F1C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 487,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) shot down ┾ATLA5┿ TheMach0 (Mirage F1C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 488,
+            "msg": "[SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\") destroyed ┾ATLA5┿ Makina01 (Leopard 2A4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 489,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) set afire [SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\")",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 490,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 491,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) critically damaged ┾ATLA5┿ Radcki (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 492,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) set afire ┾ATLA5┿ Radcki (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 493,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) shot down ┾ATLA5┿ Radcki (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 494,
+            "msg": "[SADAF] DBADR (▄F-5E) shot down ┾ATLA5┿ Death and Taxes (Ka-50)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 495,
+            "msg": "┾ATLA5┿ Death and Taxes (Ka-50) critically damaged [SADAF] DBADR (▄F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 496,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) destroyed [SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\")",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 148
+        },
+        {
+            "id": 497,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) destroyed [SADAF] ⋇TacticalWack (T-80UK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 498,
+            "msg": "┾ATLA5┿ Radcki has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 499,
+            "msg": "Radckitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 500,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) destroyed [SADAF] SaltyDinner (Leopard 2A4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 501,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) destroyed ┾ATLA5┿ DKNOOS (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 502,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 503,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 504,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 505,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 506,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾ATLA5┿ Sugar Me Daddy (Leopard 2A4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 507,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 508,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 509,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 510,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 511,
+            "msg": "┾ATLA5┿ Death and Taxes has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 512,
+            "msg": "Death and Taxestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 513,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) critically damaged [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 514,
+            "msg": "[SADAF] ⋇PowerHail377783 (Z-19E) destroyed [SADAF] _Anatolia (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 515,
+            "msg": "┾ATLA5┿ TheMach0 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 516,
+            "msg": "TheMach0td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 517,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) set afire [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 518,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 519,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 520,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 521,
+            "msg": "[SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\") has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 522,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 523,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 524,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 525,
+            "msg": "[SADAF] ⋇TacticalWack (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 526,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 527,
+            "msg": "[SADAF] ⋇PowerHail377783 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 528,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 529,
+            "msg": "┾ATLA5┿ DKNOOS (Leopard 2A4) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 530,
+            "msg": "[SADAF] ⋇TacticalWack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 531,
+            "msg": "⋇TacticalWacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 532,
+            "msg": "[SADAF] SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 533,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 534,
+            "msg": "[SADAF] The_Floppy_Disk has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 535,
+            "msg": "The_Floppy_Disktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 536,
+            "msg": "┾ATLA5┿ DKNOOS has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 537,
+            "msg": "DKNOOStd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 538,
+            "msg": "┾ATLA5┿ Makina01 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 539,
+            "msg": "Makina01td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 540,
+            "msg": "┾ATLA5┿ Sugar Me Daddy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 541,
+            "msg": "Sugar Me Daddytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 542,
+            "msg": "┾ATLA5┿ Sisseaur has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 543,
+            "msg": "Sisseaurtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 544,
+            "msg": "┾ATLA5┿ RETRIX117 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 305
+        },
+        {
+            "id": 545,
+            "msg": "RETRIX117td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 305
+        },
+        {
+            "id": 546,
+            "msg": "┾HORS3┿ TheRealEdiot (2S6) critically damaged [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 77
+        },
+        {
+            "id": 547,
+            "msg": "┾HORS3┿ TheRealEdiot (2S6) shot down [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 548,
+            "msg": "Engine died: propeller broken",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 549,
+            "msg": "┾HORS3┿ TheRealEdiot (2S6) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 550,
+            "msg": "┾HORS3┿ TheRealEdiot (2S6) critically damaged [SADAF] timothy0614 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 551,
+            "msg": "┾HORS3┿ BluberiiCat (Leopard 2 PL) destroyed [SADAF] ⋇TacticalWack (T-80UK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 131
+        },
+        {
+            "id": 552,
+            "msg": "┾HORS3┿ SBDDauntful (␗F-5E) critically damaged [SADAF] Athena_121 (Kfir C.7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 553,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾HORS3┿ TheRealEdiot (2S6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 137
+        },
+        {
+            "id": 554,
+            "msg": "[SADAF] DBADR (▄F-5E) critically damaged ┾HORS3┿ SBDDauntful (␗F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 555,
+            "msg": "[SADAF] DBADR (▄F-5E) shot down ┾HORS3┿ SBDDauntful (␗F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 556,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 557,
+            "msg": "┾HORS3┿ It_s_Ace_ (M1A1 Click-Bait) destroyed [SADAF] SaltyDinner (Leopard 2A4M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 558,
+            "msg": "┾HORS3┿ Sundown__ (Kurnass 2000) destroyed [SADAF] _Anatolia (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 559,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) destroyed ┾HORS3┿ It_s_Ace_ (M1A1 Click-Bait)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 560,
+            "msg": "[SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\") has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 561,
+            "msg": "[SADAF] timothy0614 (Mirage 2000) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 562,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) critically damaged ┾HORS3┿ Manamage (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 563,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) set afire ┾HORS3┿ Manamage (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 564,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) severely damaged ┾HORS3┿ Manamage (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 565,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) shot down ┾HORS3┿ Manamage (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 566,
+            "msg": "┾HORS3┿ TheRealEdiot (2S6) shot down [SADAF] timothy0614 (Mirage 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 567,
+            "msg": "┾HORS3┿ BluberiiCat (Leopard 2 PL) set afire [SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\")",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 568,
+            "msg": "┾HORS3┿ Itov_Kaldaka (M1A1 AIM) destroyed [SADAF] The_Floppy_Disk (Type 90 (B) \"Fuji\")",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 569,
+            "msg": "[SADAF] DBADR (▄F-5E) severely damaged ┾HORS3┿ Sundown__ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 570,
+            "msg": "[SADAF] DBADR (▄F-5E) set afire ┾HORS3┿ Sundown__ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 571,
+            "msg": "[SADAF] DBADR (▄F-5E) shot down ┾HORS3┿ Sundown__ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 572,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 573,
+            "msg": "┾HORS3┿ SBDDauntful (␗F-5E) shot down [SADAF] Athena_121 (Kfir C.7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 574,
+            "msg": "[SADAF] DBADR (▄F-5E) destroyed ┾HORS3┿ Itov_Kaldaka (M1A1 AIM)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 575,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 576,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 577,
+            "msg": "[SADAF] ⋇TacticalWack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 578,
+            "msg": "⋇TacticalWacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 308
+        },
+        {
+            "id": 579,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾HORS3┿ ⋇mrmandud12 (Ariete PSO)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 580,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 581,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾HORS3┿ BluberiiCat (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 582,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 583,
+            "msg": "[SADAF] DBADR (▄F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        }
+    ]
+}

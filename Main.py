@@ -1,11 +1,9 @@
-import copy
 import json
-import time
 import urllib.request
-import unicodedata
-import datetime
 from DataCollector import Battle
-from VehicleParser.converter import Vehicle, DataGet
+from converter import DataGet
+import DatabaseManager
+import os
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"
 GameOnURL = "http://localhost:8111/map_info.json"
@@ -19,6 +17,15 @@ class Main:
     def __init__(self):
         self.Battle = Battle()
         self.dataGet = DataGet()
+        self.db_manager = DatabaseManager.Manager()
+        if not os.path.exists("newFile.json"):
+            with open("newFile.json", "xb"):
+                pass
+            with open("newFile.json", "wb") as f:
+                f.write(b"{\"battles\" : []}")
+                print("created json storage file")
+        else:
+            print("found newFile.json")
 
     def updateBattle(self, logs):
         for log in logs:
@@ -35,6 +42,8 @@ class Main:
             return
         with open(saveFile, "rb") as f:
             data: dict = json.load(f)
+        if self.db_manager.validate(js["hash"]):
+            self.db_manager.addLog(js)
         if js["hash"] in [log["hash"] for log in data["battles"]]:
             # print([log["hash"] for log in data["battles"]])
             print("logfile aborted, similar hash found")

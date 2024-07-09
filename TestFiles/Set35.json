@@ -1,0 +1,1293 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 737,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 738,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 739,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 740,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 741,
+            "msg": "╀ASYLM╀ ⋇UV_light_ (Kurnass 2000) set afire [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 742,
+            "msg": "[SADAF] yaginsail (T-72B3) set afire ╀ASYLM╀ TEMPEST_SHADOW (Challenger 2 (2F))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 743,
+            "msg": "╀ASYLM╀ ⋇UV_light_ (Kurnass 2000) shot down [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 744,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ╀ASYLM╀ TEMPEST_SHADOW (Challenger 2 (2F))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 745,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 746,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) destroyed ╀ASYLM╀ RBARRELLAC (Challenger 2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 747,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 748,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ╀ASYLM╀ _Kir0v_ (Centauro I 120)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 749,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 750,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 751,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 752,
+            "msg": "╀ASYLM╀ RBARRELLAC has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 753,
+            "msg": "RBARRELLACtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 754,
+            "msg": "[SADAF] infernogaming190 (Z-19E) severely damaged ╀ASYLM╀ ⋇UV_light_ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 755,
+            "msg": "[SADAF] infernogaming190 (Z-19E) set afire ╀ASYLM╀ ⋇UV_light_ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 756,
+            "msg": "[SADAF] infernogaming190 (Z-19E) shot down ╀ASYLM╀ ⋇UV_light_ (Kurnass 2000)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 757,
+            "msg": "[SADAF] infernogaming190 (Z-19E) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 758,
+            "msg": "[SADAF] infernogaming190 (Z-19E) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 759,
+            "msg": "[SADAF] ⋇Coasty2013 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 760,
+            "msg": "⋇Coasty2013td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 761,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 762,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 763,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 279
+        },
+        {
+            "id": 764,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 765,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 766,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 767,
+            "msg": "[SADAF] infernogaming190 (Z-19E) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 768,
+            "msg": "[SADAF] infernogaming190 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 769,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 770,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 771,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 772,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) critically damaged [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 773,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) severely damaged [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 102
+        },
+        {
+            "id": 774,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) shot down [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 108
+        },
+        {
+            "id": 775,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 108
+        },
+        {
+            "id": 776,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) destroyed ┾TDLD┿ ⋇Vale_142_Tfue (T-80UK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 777,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 778,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 779,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) critically damaged ┾TDLD┿ elathan (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 780,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) set afire ┾TDLD┿ elathan (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 781,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) shot down ┾TDLD┿ elathan (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 782,
+            "msg": "[SADAF] infernogaming190 (Z-19E) critically damaged ┾TDLD┿ KernelPanic41 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 131
+        },
+        {
+            "id": 783,
+            "msg": "[SADAF] infernogaming190 (Z-19E) severely damaged ┾TDLD┿ KernelPanic41 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 784,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾TDLD┿ WaffennWaffles (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 785,
+            "msg": "[SADAF] infernogaming190 (Z-19E) shot down ┾TDLD┿ KernelPanic41 (F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 152
+        },
+        {
+            "id": 786,
+            "msg": "┾TDLD┿ 95 Mqueen (Leopard 2 PL) destroyed [SADAF] _Anatolia (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 787,
+            "msg": "┾TDLD┿ Mr_origami (2S6) critically damaged [SADAF] ⋇Coasty2013 (Tornado F.3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 788,
+            "msg": "┾TDLD┿ Mr_origami (2S6) shot down [SADAF] ⋇Coasty2013 (Tornado F.3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 789,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾TDLD┿ Mi-Ro (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 790,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 791,
+            "msg": "[SADAF] yaginsail (T-72B3) set afire ┾TDLD┿ 95 Mqueen (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 792,
+            "msg": "┾TDLD┿ hilodentalxd (Leopard 2 PL) set afire [SADAF] yaginsail (T-72B3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 793,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) destroyed ┾TDLD┿ Mr_origami (2S6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 794,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 795,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 796,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 797,
+            "msg": "┾TDLD┿ 95 Mqueen (Leopard 2 PL) destroyed [SADAF] yaginsail (T-72B3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 798,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) destroyed ┾TDLD┿ 95 Mqueen (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 799,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 800,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 801,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 802,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 803,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 804,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 805,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) destroyed ┾TDLD┿ hilodentalxd (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 806,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 807,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 808,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 809,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 810,
+            "msg": "┾TDLD┿ KernelPanic41 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 811,
+            "msg": "KernelPanic41td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 202
+        },
+        {
+            "id": 812,
+            "msg": "┾TDLD┿ ⋇Vale_142_Tfue has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 813,
+            "msg": "⋇Vale_142_Tfuetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 814,
+            "msg": "┾TDLD┿ elathan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 815,
+            "msg": "elathantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 816,
+            "msg": "┾TDLD┿ Mi-Ro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 817,
+            "msg": "Mi-Rotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 818,
+            "msg": "┾TDLD┿ hilodentalxd has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 819,
+            "msg": "hilodentalxdtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 820,
+            "msg": "[SADAF] _Anatolia (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 821,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 822,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 823,
+            "msg": "┾TDLD┿ elathan (F-4S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 824,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 825,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 826,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 827,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 828,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 829,
+            "msg": "[SADAF] PandaMan0120 (Su-25T) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 830,
+            "msg": "┾TDLD┿ KernelPanic41 (F-5E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 831,
+            "msg": "┾TDLD┿ WaffennWaffles (BMP-2M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 832,
+            "msg": "┾TDLD┿ ⋇Vale_142_Tfue (T-80UK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 833,
+            "msg": "[SADAF] LuckyQ4 (Challenger 2 OES) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 834,
+            "msg": "[SADAF] infernogaming190 (Z-19E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 835,
+            "msg": "┾TDLD┿ hilodentalxd (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 836,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 837,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 838,
+            "msg": "┾TDLD┿ Mr_origami (2S6) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 839,
+            "msg": "┾TDLD┿ 95 Mqueen (Leopard 2 PL) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 840,
+            "msg": "┾TDLD┿ 95 Mqueen has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 841,
+            "msg": "95 Mqueentd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 842,
+            "msg": "Engine died: knocked out",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 843,
+            "msg": "┾TDLD┿ Mr_origami (2S6) shot down [SADAF] _Anatolia (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 844,
+            "msg": "┾TDLD┿ Mr_origami (2S6) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 845,
+            "msg": "┾TDLD┿ hilodentalxd (Leopard 2 PL) destroyed [SADAF] _Anatolia (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 846,
+            "msg": "[SADAF] infernogaming190 (Z-19E) critically damaged [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 847,
+            "msg": "[SADAF] infernogaming190 (Z-19E) shot down [SADAF] PandaMan0120 (Su-25T)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 848,
+            "msg": "[SADAF] infernogaming190 (Z-19E) shot down ┾TDLD┿ elathan (F-4S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 849,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 850,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) set afire ┾TDLD┿ hilodentalxd (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 851,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) set afire ┾TDLD┿ 95 Mqueen (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 852,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) critically damaged [SADAF] The_Floppy_Disk (▄F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 853,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) severely damaged [SADAF] The_Floppy_Disk (▄F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 854,
+            "msg": "┾TDLD┿ Mi-Ro (Type 81 (C)) shot down [SADAF] The_Floppy_Disk (▄F-5E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 223
+        },
+        {
+            "id": 855,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) destroyed ┾TDLD┿ hilodentalxd (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 856,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 857,
+            "msg": "[SADAF] SaltyDinner (Leopard 2A4M) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 858,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 859,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 860,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 861,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ┾TDLD┿ ⋇Vale_142_Tfue (T-80UK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 241
+        },
+        {
+            "id": 862,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 863,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 864,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ┾TDLD┿ WaffennWaffles (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 865,
+            "msg": "┾TDLD┿ KernelPanic41 (F-5E) critically damaged [SADAF] ⋇Coasty2013 (Tornado F.3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 866,
+            "msg": "┾TDLD┿ KernelPanic41 (F-5E) severely damaged [SADAF] ⋇Coasty2013 (Tornado F.3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 867,
+            "msg": "┾TDLD┿ KernelPanic41 (F-5E) shot down [SADAF] ⋇Coasty2013 (Tornado F.3)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 868,
+            "msg": "[SADAF] ⋇Coasty2013 (Tornado F.3) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 869,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 870,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ┾TDLD┿ Mi-Ro (Type 81 (C))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 251
+        },
+        {
+            "id": 871,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 872,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 873,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 874,
+            "msg": "[SADAF] LuckyQ4 (Type 90 (B) \"Fuji\") destroyed ┾TDLD┿ 95 Mqueen (Leopard 2 PL)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 875,
+            "msg": "[SADAF] The_Floppy_Disk (▄F-5E) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 876,
+            "msg": "[SADAF] LuckyQ4 (Type 90 (B) \"Fuji\") has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 262
+        },
+        {
+            "id": 877,
+            "msg": "┾TDLD┿ Mr_origami (2S6) critically damaged [SADAF] infernogaming190 (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 878,
+            "msg": "┾TDLD┿ Mr_origami (2S6) severely damaged [SADAF] infernogaming190 (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 879,
+            "msg": "┾TDLD┿ Mr_origami (2S6) shot down [SADAF] infernogaming190 (Z-19E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 275
+        },
+        {
+            "id": 880,
+            "msg": "[SADAF] LuckyQ4 (Type 90 (B) \"Fuji\") has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 881,
+            "msg": "[SADAF] yaginsail (T-72B3) destroyed ┾TDLD┿ Mr_origami (2S6)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 371
+        },
+        {
+            "id": 882,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 371
+        },
+        {
+            "id": 883,
+            "msg": "[SADAF] yaginsail (T-72B3) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 371
+        },
+        {
+            "id": 884,
+            "msg": "┾TDLD┿ hilodentalxd has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 885,
+            "msg": "hilodentalxdtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 886,
+            "msg": "┾TDLD┿ ⋇Vale_142_Tfue has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 887,
+            "msg": "⋇Vale_142_Tfuetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 888,
+            "msg": "┾TDLD┿ 95 Mqueen has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 889,
+            "msg": "95 Mqueentd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 384
+        },
+        {
+            "id": 890,
+            "msg": "┾TDLD┿ Mi-Ro has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 891,
+            "msg": "Mi-Rotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 385
+        },
+        {
+            "id": 892,
+            "msg": "┾TDLD┿ elathan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 397
+        },
+        {
+            "id": 893,
+            "msg": "elathantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 397
+        },
+        {
+            "id": 894,
+            "msg": "┾TDLD┿ Mr_origami has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 401
+        },
+        {
+            "id": 895,
+            "msg": "Mr_origamitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 401
+        },
+        {
+            "id": 896,
+            "msg": "[SADAF] ⋇Coasty2013 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 402
+        },
+        {
+            "id": 897,
+            "msg": "⋇Coasty2013td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 402
+        }
+    ]
+}
