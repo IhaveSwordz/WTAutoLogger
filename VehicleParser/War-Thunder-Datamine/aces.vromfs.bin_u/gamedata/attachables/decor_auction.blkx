@@ -1,5 +1,0 @@
-{
-  "model": "decor_auction",
-  "collision": "decor_auction_collision",
-  "bboxMult": 0.1
-}

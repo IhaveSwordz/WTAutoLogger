@@ -2,7 +2,7 @@ import json
 import unicodedata
 import datetime
 import hashlib
-from converter import Vehicle, DataGet
+# from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
 GameOnURL = "http://localhost:8111/map_info.json"  # url of info needed to determine if the current game is still active
@@ -26,12 +26,13 @@ class Log:
 
 
 class Player:
-    def __init__(self, tag, name, vehicle):
+    def __init__(self, tag, name, vehicle, badPlayer=False):
         self.tag = tag
         self.name = name
         self.vehicle = vehicle
         self.kills = []
         self.dead = True
+        self.badPlayer = badPlayer
 
     def __str__(self):
         return f"{self.name}, {self.vehicle}, {self.tag}"
@@ -105,10 +106,16 @@ class Battle:
 
     def goodLog(self, log):
         if type(log) is Log:
-            return not "Engine died" in log.log
-        if "Engine died" not in log["msg"]:
+            if "overheated" in log.log.lower():
+                return False
+            if "engineer" in log.log.lower():
+                return True
+            return "Engine" not in log.log
+        if "engineer" in log["msg"].lower():
             return True
-        return False
+        if "overheated" in log["msg"].lower():
+            return False
+        return "Engine" not in log["msg"]
 
     '''
 	returns a data usable version of the battle in the JSON format
@@ -127,9 +134,9 @@ class Battle:
 
             utc = datetime.datetime.now(datetime.UTC)
             print("hash aplicable")
-            print(*self.logs[:8])
-            print(*to_be_used)
-            print
+            # print(*self.logs[:8])
+            # print(*to_be_used)
+            # print
             print(f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
             timez = f"{utc.year}{0 if utc.month < 10 else ""}{utc.month}{0 if utc.day < 10 else ""}{utc.day if utc.hour < 12 else utc.day - 1}|"  # the weird day thing is to account for the fact that NA for UST happens at like 1 am
             hs = hashlib.sha256(bytes(''.join([f"{log.log}{log.time_}" for log in self.logs[:8]]), 'utf-8')).hexdigest()
@@ -139,10 +146,10 @@ class Battle:
         # print(preHash)
         players = [player.json() for player in [*self.team1, *self.team2]]
         teamName = [player["name"] for player in players]
-        team1 = [player.json() for player in self.team1]
-        team2 = [player.json() for player in self.team2]
-        team1Name = [player.name for player in self.team1]
-        team2Name = [player.name for player in self.team2]
+        # team1 = [player.json() for player in self.team1]
+        # team2 = [player.json() for player in self.team2]
+        # team1Name = [player.name for player in self.team1]
+        # team2Name = [player.name for player in self.team2]
         return {
             "hash": hashz,
             "players": players,
@@ -164,6 +171,20 @@ class Battle:
             },
         }
 
+
+    '''
+    less compressed form of getJSON to be used for displaying of data
+    '''
+    def getData(self):
+        t1 = [*self.team1,* [Player("", "", "", badPlayer=True) for z in range(8-len(self.team1))]]
+        t2 = [*self.team2,* [Player("", "", "", badPlayer=True) for z in range(8-len(self.team2))]]
+
+        return {
+            "team1Tag": self.Tags[0],
+            "team1Players": t1,
+            "team2Tag": self.Tags[1],
+            "team2Players": t2
+        }
     def logKills(self):
         used = [log for log in self.logs if not log.damageCheck]
         for log in used:
@@ -235,7 +256,7 @@ class Battle:
                   [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
         # print(log, index)
         #  and "ai" not in log, removed because click bait contains the word "ai"
-        if len(index) > 0:
+        if len(index) > 0 and "[ai]" not in log:
             tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
         tags = [tag for tag in tags if 2 < len(tag) < 7]
         # print("TAGGGGSSSSS: ", tags)
@@ -313,7 +334,8 @@ if __name__ == "__main__":
     # print("weee")
     # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
-    with open("TestFiles\\Set36.json", "rb") as f:  # set 11
+    # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
+    with open("discrepancy.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]
@@ -325,17 +347,17 @@ if __name__ == "__main__":
             else:
                 break
     battle = Battle()
-    # battle.toggle_debug()
+    battle.toggle_debug()
     for test in data:
         battle.update(test)
     print(battle)
     print(battle.getJSON())
-
+'''
     pars = DataGet()
     for player in battle.getJSON()["players"]:
         # print(player)
         ign = pars.query_name(player["vehicle"][1:-1])[0:-2]
-        print(Vehicle(player["vehicle"][1:-1], ign))
+        print(Vehicle(player["vehicle"][1:-1], ign))'''
 # set13, I should be dead. FIXED
 # set17, ZSU should be dead
 # set 18, M4a3e2 counted twice, one missing part of vehicle name. FIXED

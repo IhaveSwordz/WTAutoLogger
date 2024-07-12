@@ -1,6 +1,7 @@
 import sqlite3
 import re
 import json
+from PySide6.QtCore import Signal
 
 
 class Player:
@@ -24,7 +25,7 @@ initilizer and api to the database
 
 
 class Manager:
-    def __init__(self):
+    def __init__(self, ):
         # name of database file
         self.DB = "Data.db"
         # name of storage tables
@@ -300,7 +301,7 @@ class Battle:
             self.players.append(None)
 
 if __name__ == "__main__":
-    with open("oldFile.json", "rb") as f:
+    with open("importa.json", "rb") as f:
         manager = Manager()
         datz: dict = json.load(f)
         for dat in datz["battles"]:
