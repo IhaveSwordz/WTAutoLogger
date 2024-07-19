@@ -1,0 +1,1101 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 65,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ╀TERRE╀ marcosperez88 (Type 99)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 66,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 67,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) destroyed ╀TERRE╀ ⋇Ikker64 (Bhishma TWMP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 68,
+            "msg": "┾SADAF┿ SgtSquid321 (Leopard 2 (PzBtl 123)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 69,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 70,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 71,
+            "msg": "╀TERRE╀ LordSchloss (Object 292) set afire ┾SADAF┿ yaginsail (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 72,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) critically damaged ╀TERRE╀ MrNikilus (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 73,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) severely damaged ╀TERRE╀ MrNikilus (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 162
+        },
+        {
+            "id": 74,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 75,
+            "msg": "┾SADAF┿ SgtSquid321 (Leopard 2 (PzBtl 123)) set afire ╀TERRE╀ portimini (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 76,
+            "msg": "╀TERRE╀ portimini (Challenger DS) destroyed ┾SADAF┿ SgtSquid321 (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 77,
+            "msg": "╀TERRE╀ LordSchloss (Object 292) destroyed ┾SADAF┿ -              - (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 78,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) set afire ╀TERRE╀ Cblak8 (Vilkas)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 79,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) destroyed ╀TERRE╀ portimini (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 80,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 81,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 82,
+            "msg": "┾SADAF┿ SgtSquid321 (Leopard 2 (PzBtl 123)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 83,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ╀TERRE╀ MrNikilus (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 84,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 85,
+            "msg": "╀TERRE╀ LordSchloss (Object 292) destroyed ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 186
+        },
+        {
+            "id": 86,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 188
+        },
+        {
+            "id": 87,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) destroyed ╀TERRE╀ LordSchloss (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 88,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 89,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 90,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 194
+        },
+        {
+            "id": 91,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 92,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 93,
+            "msg": "┾SADAF┿ -              - has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 94,
+            "msg": "-              -td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 95,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) set afire ╀TERRE╀ tirito (Gepard 1A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 96,
+            "msg": "╀TERRE╀ Cblak8 (Vilkas) set afire ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 97,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 98,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ╀TERRE╀ tirito (Gepard 1A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 99,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 100,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) destroyed ╀TERRE╀ Cblak8 (Vilkas)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 101,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 102,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 103,
+            "msg": "╀TERRE╀ portimini has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 104,
+            "msg": "portiminitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 105,
+            "msg": "╀TERRE╀ marcosperez88 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 106,
+            "msg": "marcosperez88td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 107,
+            "msg": "╀TERRE╀ MrNikilus has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 108,
+            "msg": "MrNikilustd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 109,
+            "msg": "╀TERRE╀ LordSchloss has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 110,
+            "msg": "LordSchlosstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 111,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 112,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 113,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 114,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 115,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 116,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 117,
+            "msg": "╀TERRE╀ tirito (Gepard 1A2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 118,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 119,
+            "msg": "╀TERRE╀ este_con (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 120,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 121,
+            "msg": "┾SADAF┿ SgtSquid321 (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 122,
+            "msg": "╀TERRE╀ Cblak8 (Vilkas) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 123,
+            "msg": "╀TERRE╀ MrNikilus (BMP-2M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 245
+        },
+        {
+            "id": 124,
+            "msg": "╀TERRE╀ marcosperez88 (Type 99) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 125,
+            "msg": "╀TERRE╀ LordSchloss (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 126,
+            "msg": "╀TERRE╀ ⋇Ikker64 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 127,
+            "msg": "⋇Ikker64td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 128,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 129,
+            "msg": "╀TERRE╀ portimini (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 130,
+            "msg": "╀TERRE╀ ⋇Ikker64 (Bhishma TWMP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 131,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 132,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 133,
+            "msg": "╀TERRE╀ tirito has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 134,
+            "msg": "tiritotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 135,
+            "msg": "┾SADAF┿ SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 136,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 137,
+            "msg": "╀TERRE╀ este_con has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 138,
+            "msg": "este_contd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 250
+        },
+        {
+            "id": 139,
+            "msg": "┾SADAF┿ PandaMan0120 (Mi-8AMTSh) destroyed ┾INFAZ┿ KIZILELMA_TR_ (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 140,
+            "msg": "┾SADAF┿ PandaMan0120 (Mi-8AMTSh) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 141,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 142,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 143,
+            "msg": "┾INFAZ┿ Oguz Khan (T-80B) destroyed ┾SADAF┿ SgtSquid321 (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 144,
+            "msg": "┾INFAZ┿ Cem_Kahraman (2S38) shot down ┾SADAF┿ PandaMan0120 (Mi-8AMTSh)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 128
+        },
+        {
+            "id": 145,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) destroyed ┾INFAZ┿ Oguz Khan (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 146,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 147,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 148,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) set afire ┾INFAZ┿ oSaKa_Tank (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 170
+        },
+        {
+            "id": 149,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) destroyed ┾INFAZ┿ oSaKa_Tank (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 150,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 151,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 152,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ┾INFAZ┿ Cem_Kahraman (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 153,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 154,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 155,
+            "msg": "┾SADAF┿ PandaMan0120 (Mi-8AMTSh) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 156,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ┾INFAZ┿ Arcemir (T-72B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 157,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 158,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 159,
+            "msg": "┾INFAZ┿ Arcemir has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 160,
+            "msg": "Arcemirtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 161,
+            "msg": "┾INFAZ┿ oSaKa_Tank has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 162,
+            "msg": "oSaKa_Tanktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 255
+        },
+        {
+            "id": 163,
+            "msg": "┾INFAZ┿ locaste (CV 90105) destroyed ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 273
+        },
+        {
+            "id": 164,
+            "msg": "┾INFAZ┿ locaste (CV 90105) destroyed ┾SADAF┿ azurwolfes (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 165,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) destroyed ┾INFAZ┿ GOKTURK2616 (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 166,
+            "msg": "┾SADAF┿ -              - (Challenger DS) destroyed ┾INFAZ┿ locaste (CV 90105)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 167,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 168,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 169,
+            "msg": "┾SADAF┿ -              - (Challenger DS) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 170,
+            "msg": "┾SADAF┿ -              - (Challenger DS) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 171,
+            "msg": "┾SADAF┿ -              - (Challenger DS) set afire ┾INFAZ┿ Kpozeee64 (T-80UD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 334
+        },
+        {
+            "id": 172,
+            "msg": "┾INFAZ┿ Kpozeee64 (T-80UD) destroyed ┾SADAF┿ -              - (Challenger DS)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 173,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 174,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 175,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 176,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 177,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 178,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 179,
+            "msg": "┾SADAF┿ PandaMan0120 (Mi-8AMTSh) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 180,
+            "msg": "┾SADAF┿ -              - (Challenger DS) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 181,
+            "msg": "┾SADAF┿ -              - (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 182,
+            "msg": "┾SADAF┿ SgtSquid321 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 183,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 184,
+            "msg": "┾SADAF┿ azurwolfes (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 348
+        },
+        {
+            "id": 185,
+            "msg": "┾INFAZ┿ Cem_Kahraman has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 186,
+            "msg": "Cem_Kahramantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 187,
+            "msg": "┾INFAZ┿ Oguz Khan has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 188,
+            "msg": "Oguz Khantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 189,
+            "msg": "┾SADAF┿ azurwolfes has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 190,
+            "msg": "azurwolfestd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 191,
+            "msg": "┾INFAZ┿ locaste has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 192,
+            "msg": "locastetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 193,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 194,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 195,
+            "msg": "┾INFAZ┿ GOKTURK2616 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 196,
+            "msg": "GOKTURK2616td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 197,
+            "msg": "┾SADAF┿ SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 198,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 199,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 200,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 351
+        },
+        {
+            "id": 201,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) destroyed ┾INFAZ┿ Kpozeee64 (T-80UD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        }
+    ]
+}

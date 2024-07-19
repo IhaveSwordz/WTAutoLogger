@@ -1,0 +1,1093 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 385,
+            "msg": "┾R3IGN┿ Olympion53 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 386,
+            "msg": "┾SADAF┿ PandaMan0120 (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 387,
+            "msg": "┾SADAF┿ Zatone (Christian II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 431
+        },
+        {
+            "id": 388,
+            "msg": "┾SADAF┿ -              - (Object 292) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 389,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 390,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 391,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 392,
+            "msg": "┾R3IGN┿ Galm 2 Pixy (M1 KVT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 393,
+            "msg": "┾SADAF┿ SgtSquid321 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 394,
+            "msg": "┾R3IGN┿ PatateVerte (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 395,
+            "msg": "┾R3IGN┿ PatateVerte (Strv 121) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 396,
+            "msg": "┾R3IGN┿ WhyMustWeSuffer (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 397,
+            "msg": "┾R3IGN┿ ⋇eneida_v (Stormer HVM) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 398,
+            "msg": "┾R3IGN┿ mrbin2468 (Challenger DS) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 399,
+            "msg": "┾SADAF┿ yaginsail (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 400,
+            "msg": "┾R3IGN┿ ⋇eneida_v has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 401,
+            "msg": "⋇eneida_vtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 402,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 403,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 435
+        },
+        {
+            "id": 404,
+            "msg": "┾R3IGN┿ Galm 2 Pixy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 405,
+            "msg": "Galm 2 Pixytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 406,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) shot down ┾STHWK┿ Dyzio102 (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 89
+        },
+        {
+            "id": 407,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) critically damaged ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 117
+        },
+        {
+            "id": 408,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) set afire ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 118
+        },
+        {
+            "id": 409,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) severely damaged ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 410,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) set afire ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 411,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) shot down ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 132
+        },
+        {
+            "id": 412,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) destroyed ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 413,
+            "msg": "┾SADAF┿ yaginsail (T-80B) set afire ┾STHWK┿ Qbione (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 414,
+            "msg": "┾SADAF┿ -              - (Object 292) destroyed ┾STHWK┿ Qbione (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 415,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 416,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 417,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 418,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 419,
+            "msg": "┾SADAF┿ SgtSquid321 (T-80B) destroyed ┾STHWK┿ HPoczta2002 (Strv 121)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 154
+        },
+        {
+            "id": 420,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) critically damaged ┾STHWK┿ kebab_109_PL (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 421,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) severely damaged ┾STHWK┿ kebab_109_PL (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 422,
+            "msg": "┾STHWK┿ ShadowFighter12 (Q-5L) destroyed ┾SADAF┿ Zatone (ASRAD-R)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 423,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) set afire ┾STHWK┿ kebab_109_PL (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 424,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) shot down ┾STHWK┿ kebab_109_PL (J-7E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 425,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) destroyed ┾SADAF┿ SgtSquid321 (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 210
+        },
+        {
+            "id": 426,
+            "msg": "┾SADAF┿ -              - (Object 292) set afire ┾STHWK┿ ToMoZjAwA93 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 427,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) set afire ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 228
+        },
+        {
+            "id": 428,
+            "msg": "┾SADAF┿ yaginsail (T-80B) destroyed ┾STHWK┿ ToMoZjAwA93 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 429,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 430,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 431,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 432,
+            "msg": "┾SADAF┿ PandaMan0120 (Strela-10M2) critically damaged ┾STHWK┿ ShadowFighter12 (Q-5L)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 433,
+            "msg": "┾SADAF┿ PandaMan0120 (Strela-10M2) shot down ┾STHWK┿ ShadowFighter12 (Q-5L)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 434,
+            "msg": "┾SADAF┿ PandaMan0120 (Strela-10M2) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 435,
+            "msg": "┾STHWK┿ PijanyPilot_ (Jaguar GR.1A) destroyed ┾SADAF┿ PandaMan0120 (Strela-10M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 436,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) set afire ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 437,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) destroyed ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 438,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) set afire ┾SADAF┿ -              - (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 439,
+            "msg": "┾SADAF┿ -              - (Object 292) destroyed ┾STHWK┿ Dyzio102 (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 440,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Tank Rescuer: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 441,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 442,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 291
+        },
+        {
+            "id": 443,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) critically damaged ┾STHWK┿ PijanyPilot_ (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 294
+        },
+        {
+            "id": 444,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) severely damaged ┾STHWK┿ PijanyPilot_ (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 445,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) shot down ┾STHWK┿ PijanyPilot_ (Jaguar GR.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 446,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 447,
+            "msg": "┾STHWK┿ kebab_109_PL has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 448,
+            "msg": "kebab_109_PLtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 449,
+            "msg": "┾STHWK┿ HPoczta2002 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 450,
+            "msg": "HPoczta2002td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 451,
+            "msg": "┾STHWK┿ ShadowFighter12 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 452,
+            "msg": "ShadowFighter12td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 453,
+            "msg": "┾STHWK┿ PijanyPilot_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 309
+        },
+        {
+            "id": 454,
+            "msg": "PijanyPilot_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 309
+        },
+        {
+            "id": 455,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 456,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 312
+        },
+        {
+            "id": 457,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) critically damaged ┾STHWK┿ ⋇bitiusek (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 458,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) set afire ┾STHWK┿ ⋇bitiusek (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 459,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) severely damaged ┾STHWK┿ ⋇bitiusek (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 460,
+            "msg": "┾STHWK┿ Dyzio102 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 461,
+            "msg": "Dyzio102td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 316
+        },
+        {
+            "id": 462,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) shot down ┾STHWK┿ ⋇bitiusek (◊MiG-21bis-SAU)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 463,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 318
+        },
+        {
+            "id": 464,
+            "msg": "┾STHWK┿ Qbione has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 465,
+            "msg": "Qbionetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 466,
+            "msg": "┾STHWK┿ ⋇bitiusek has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 467,
+            "msg": "⋇bitiusektd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 468,
+            "msg": "┾SADAF┿ _Anatolia (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 469,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 331
+        },
+        {
+            "id": 470,
+            "msg": "┾SADAF┿ SaltyDinner (Christian II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 471,
+            "msg": "┾STHWK┿ ShadowFighter12 (Q-5L) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 472,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 473,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 474,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 475,
+            "msg": "┾STHWK┿ HPoczta2002 (Strv 121) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 476,
+            "msg": "┾SADAF┿ PandaMan0120 (Strela-10M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 477,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 478,
+            "msg": "┾STHWK┿ Qbione (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 479,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 480,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 481,
+            "msg": "┾SADAF┿ -              - (Object 292) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 482,
+            "msg": "┾STHWK┿ ⋇bitiusek (◊MiG-21bis-SAU) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 483,
+            "msg": "┾SADAF┿ SgtSquid321 (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 484,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 485,
+            "msg": "┾STHWK┿ PijanyPilot_ (Jaguar GR.1A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 486,
+            "msg": "┾STHWK┿ kebab_109_PL (J-7E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 487,
+            "msg": "┾SADAF┿ yaginsail (T-80B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 332
+        },
+        {
+            "id": 488,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 69
+        },
+        {
+            "id": 489,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 69
+        },
+        {
+            "id": 490,
+            "msg": "┾SADAF┿ The_Floppy_Disk (2S38) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 71
+        },
+        {
+            "id": 491,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 78
+        },
+        {
+            "id": 492,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 79
+        },
+        {
+            "id": 493,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) set afire ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 494,
+            "msg": "┾STHWK┿ ⋇bitiusek (Object 292) destroyed ┾SADAF┿ _Anatolia (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 87
+        },
+        {
+            "id": 495,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) severely damaged ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 496,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) critically damaged ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 497,
+            "msg": "┾SADAF┿ PandaMan0120 (MiG-21bis) set afire ┾STHWK┿ PijanyPilot_ (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 498,
+            "msg": "┾SADAF┿ PandaMan0120 (MiG-21bis) shot down ┾STHWK┿ PijanyPilot_ (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 123
+        },
+        {
+            "id": 499,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) shot down ┾SADAF┿ The_Floppy_Disk (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 500,
+            "msg": "┾STHWK┿ kebab_109_PL (T-80B) destroyed ┾SADAF┿ yaginsail (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 136
+        },
+        {
+            "id": 501,
+            "msg": "┾SADAF┿ PandaMan0120 (MiG-21bis) critically damaged ┾STHWK┿ ShadowFighter12 (Q-5L)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 502,
+            "msg": "┾SADAF┿ PandaMan0120 (MiG-21bis) shot down ┾STHWK┿ ShadowFighter12 (Q-5L)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 503,
+            "msg": "┾STHWK┿ Qbione (T-80B) destroyed ┾SADAF┿ SgtSquid321 (T-80B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 157
+        },
+        {
+            "id": 504,
+            "msg": "┾STHWK┿ ⋇bitiusek (Object 292) destroyed ┾SADAF┿ SaltyDinner (Christian II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 505,
+            "msg": "┾STHWK┿ PijanyPilot_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 506,
+            "msg": "PijanyPilot_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 507,
+            "msg": "┾SADAF┿ -              - (Object 292) set afire ┾STHWK┿ ⋇bitiusek (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 508,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) critically damaged ┾SADAF┿ PandaMan0120 (MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 509,
+            "msg": "┾STHWK┿ Dyzio102 (2S38) shot down ┾SADAF┿ PandaMan0120 (MiG-21bis)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 510,
+            "msg": "┾STHWK┿ ToMoZjAwA93 (Abrams) destroyed ┾SADAF┿ -              - (Object 292)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 511,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 512,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 513,
+            "msg": "┾STHWK┿ Qbione (T-80B) destroyed ┾SADAF┿ The_Floppy_Disk (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 514,
+            "msg": "┾SADAF┿ -              - has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 515,
+            "msg": "-              -td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 209
+        },
+        {
+            "id": 516,
+            "msg": "┾SADAF┿ SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 517,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 518,
+            "msg": "┾SADAF┿ Zatone (ASRAD-R) has been wrecked",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 519,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        },
+        {
+            "id": 520,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 222
+        }
+    ]
+}

@@ -250,6 +250,10 @@ class Battle:
     def getTags(self, log):
         if "CanadianChi" in log:
             pass
+
+
+
+
         tags = [log[1:log.find(" ") - 1]]
         index = [x[0] + len(x[1]) for x in
                  [[log.find(i), i] for i in
@@ -260,6 +264,8 @@ class Battle:
             tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
         tags = [tag for tag in tags if 2 < len(tag) < 7]
         # print("TAGGGGSSSSS: ", tags)
+        '''if len(tags) > 1 and "Recon Micro" in log and "(Recon Micro)" not in log:
+        '''
         for t in tags:
             if None not in self.Tags:
                 return [tag for tag in tags if tag is not None]
@@ -282,15 +288,27 @@ class Battle:
 
     # first stage of processing, assigns metadata to logs and adds them to battle
     def setMetadata(self, unref, time):
-        tags = self.getTags(unref)
+        replaced = False
+
         if "Recon Micro" in unref and "(Recon Micro)" not in unref:
-            unref = unref.replace("[ai] Recon Micro", f"╀GH1234GH╀ LIGHT TANK (RECON MICRO)")
-            tags.append("GH1234GH")
+            if "[ai]" not in unref:
+                unref = unref.replace("Recon Micro", f"╀GH1234GH╀ LIGHT TANK (RECON MICRO)")
+            else:
+                unref = unref.replace("[ai] Recon Micro", f"╀GH1234GH╀ LIGHT TANK (RECON MICRO)")
+            if self.debug:
+                print("REPLACED: ")
+            replaced = True
+        tags = self.getTags(unref)
+        '''
+        if replaced:
+            tags.append("GH1234GH")'''
         place = self.end_finder(unref, unref.find(")"))
         splitPoint = unref[place:].find(tags[1]) + place if len(tags) == 2 else -1
         players: [Player] = []
         count = [0, 0]
         index = None
+        if self.debug:
+            print(tags)
         for index1, letter in enumerate(unref[:splitPoint]):
             if letter == "(":
                 count[0] += 1
@@ -335,7 +353,7 @@ if __name__ == "__main__":
     # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
     # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    with open("discrepancy.json", "rb") as f:
+    with open("TestFiles\Set38.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]
@@ -420,4 +438,9 @@ Traceback (most recent call last):
                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ValueError: substring not found
 '''
+
+'''
+set 37 player t-80ud should have died
+'''
+
 # set 31, Clickbait sohuld be dead

@@ -227,7 +227,7 @@ Player15);"""
     def addLog(self, battle_json):
         battle = Battle(battle_json, self)
         battle.convert()
-        print(battle.Team1Tag, battle.Team2Tag)
+        # print(battle.Team1Tag, battle.Team2Tag)
         sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
         '{battle.Team1PlayerIndexes}', '{battle.Team2PlayerIndexes}', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
         """

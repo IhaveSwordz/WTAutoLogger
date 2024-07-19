@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import PySide6.QtGui
 ################################################################################
 ## Form generated from reading UI file 'mainwindow.ui'
 ##
@@ -14,12 +14,13 @@ from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
 from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
                            QFont, QFontDatabase, QGradient, QIcon,
                            QImage, QKeySequence, QLinearGradient, QPainter,
-                           QPalette, QPixmap, QRadialGradient, QTransform)
+                           QPalette, QPixmap, QRadialGradient, QTransform, QRawFont, QTextCharFormat)
 from PySide6.QtWidgets import (QApplication, QCheckBox, QHeaderView, QLabel,
                                QMainWindow, QSizePolicy, QTabWidget, QTableView,
                                QWidget, QTableWidget, QTableWidgetItem)
 
 from DataCollectorManager import Main
+import PySide6.QtGui as qtg
 import sys
 import traceback
 
@@ -154,17 +155,25 @@ class Ui_MainWindow(QMainWindow):
         # add tags
         self.Squad1Tag.setText(data["team1Tag"])
         self.Squad2Tag.setText(data["team2Tag"])
-        print(data["team1Players"])
-        print(data["team2Players"])
+        # print(data["team1Players"])
+        # print(data["team2Players"])
         bold = f"<html><head/><body><p><span style=\" font-weight:700;\">Alive/span></p></body></html>"
+        font = qtg.QFont()
+        font.setBold(True)
+        font.setPixelSize(16)
+        # font.setPixelSize(5)
+        # font.bold()
+
         for y, player in enumerate(data["team1Players"]):
             # add kills
             for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead]):
                 item = QTableWidgetItem()
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
-                if player.name == "":
-                    player.dead = ""
+                if player.badPlayer:
+                    val = ""
                 elif type(val) is bool:
+                    if val is True:
+                        item.setFont(font)
                     val = "ALive" if val is True else "Dead"
                 item.setText(str(val))
                 self.Squad1.setItem(y, x, item)
@@ -174,10 +183,13 @@ class Ui_MainWindow(QMainWindow):
             for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead]):
                 item = QTableWidgetItem()
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
-                if player.name == "":
-                    player.dead = ""
+                if player.badPlayer:
+                    val = ""
                 elif type(val) is bool:
-                    val = "Alive" if val is True else "Dead"
+                    if val is True:
+                        item.setFont(font)
+                    val = "ALive" if val is True else "Dead"
+
                 item.setText(str(val))
                 self.Squad2.setItem(y, x, item)
 
