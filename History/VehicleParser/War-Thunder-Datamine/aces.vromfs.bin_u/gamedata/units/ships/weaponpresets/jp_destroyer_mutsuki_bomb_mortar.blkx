@@ -1,0 +1,96 @@
+{
+  "hideNodes": {
+    "node": [
+      "torpedo_01",
+      "torpedo_02",
+      "torpedo_03",
+      "torpedo_04",
+      "torpedo_05",
+      "torpedo_06",
+      "torpedo_07",
+      "torpedo_08",
+      "torpedo_09",
+      "torpedo_10",
+      "torpedo_11",
+      "torpedo_12",
+      "mine_01",
+      "mine_02",
+      "mine_03",
+      "mine_04",
+      "mine_05",
+      "mine_06",
+      "mine_07",
+      "mine_08",
+      "mine_09",
+      "mine_10",
+      "mine_11",
+      "mine_12",
+      "mine_13",
+      "mine_14",
+      "mine_15",
+      "mine_16"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "gunner8",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_01",
+      "bullets": 4,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_01_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_01_dm",
+      "skipAxisEmitterCheck": true,
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_07",
+        "gun": "depth_charge_mount_01"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "trigger": "gunner9",
+      "triggerGroup": "mortar",
+      "weaponType": "bombs",
+      "blk": "gameData/weapons/bombguns/depth_charge_jp_type95_mortar.blk",
+      "emitter": "bone_bomb_02",
+      "bullets": 4,
+      "external": true,
+      "dropSpeed": 20.0,
+      "useEmitter": true,
+      "barrelDP": "depth_charge_mount_02_dm",
+      "brokenBarrelAllowShoot": false,
+      "ammoDP": "depth_charge_02_dm",
+      "skipAxisEmitterCheck": true,
+      "allowableDelta": 50.0,
+      "turret": {
+        "head": "turret_08",
+        "gun": "depth_charge_mount_02"
+      },
+      "limits": {
+        "yaw": [
+          -0.0,
+          0.0
+        ],
+        "pitch": [
+          -0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

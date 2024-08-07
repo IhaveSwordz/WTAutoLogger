@@ -2,6 +2,7 @@ import sqlite3
 import re
 import json
 from PySide6.QtCore import Signal
+import datetime
 
 
 class Player:
@@ -15,8 +16,24 @@ class Player:
         return f"name: {self.name}| vehicle: {self.vehicle}| alive: {self.alive}| kills: {self.kills}"
 
 
-def adapt_point(player):
+class Time:
+    def __init__(self):
+        self.utc = datetime.datetime.now(datetime.UTC)
+        self.year = self.utc.year
+        self.month = self.utc.month
+        self.day = self.utc.day
+        self.hour = self.utc.hour
+        self.minute = self.utc.minute
+
+
+def adapt_point(player: Player):
     return f"{player.name};{player.vehicle};{1 if player.alive else 0};{player.kills}"
+
+
+def adapt_point_time(time: Time = None):
+    if time is None:
+        time = Time()
+    return f"{time.year};{time.month};{time.day};{time.hour};{time.minute}"
 
 
 '''
@@ -36,6 +53,7 @@ class Manager:
         self.VehicleSize = 0
 
         sqlite3.register_adapter(Player, adapt_point)
+        sqlite3.register_adapter(Time, adapt_point_time)
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
             cursor.execute("SELECT * FROM sqlite_master WHERE type='table'")
@@ -75,6 +93,7 @@ class Manager:
                 cursor = db.cursor()
                 command = """CREATE TABLE Battles (
 Hash TEXT(74) PRIMARY KEY UNIQUE,
+Time TEXT(16),
 Team1Tag TEXT(8),
 Team2Tag TEXT(8),
 Team1PlayerIndexes TEXT(23),
@@ -228,7 +247,7 @@ Player15);"""
         battle = Battle(battle_json, self)
         battle.convert()
         # print(battle.Team1Tag, battle.Team2Tag)
-        sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
+        sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.time}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
         '{battle.Team1PlayerIndexes}', '{battle.Team2PlayerIndexes}', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
         """
         with sqlite3.connect(self.DB) as db:
@@ -254,6 +273,10 @@ class Battle:
         # try:
         self.man: Manager = man
         self.hash = battle["hash"]
+        self.time = battle["time"]
+
+        # year, month, day = self.hash[0:4], self.hash[4:6], self.hash[6:8]
+        # self.time = f'{year};{month};{day};;'
         self.Team1Tag = battle["team1Data"]["tag"]
         self.Team2Tag = battle["team2Data"]["tag"]
         self.Team1PlayerIndexes = []
@@ -300,8 +323,9 @@ class Battle:
         for i in range(16 - len(self.players)):
             self.players.append(None)
 
+
 if __name__ == "__main__":
-    with open("importa.json", "rb") as f:
+    with open("newFile.json", "rb") as f:
         manager = Manager()
         datz: dict = json.load(f)
         for dat in datz["battles"]:

@@ -1,0 +1,1189 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 65,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 66,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 67,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 68,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Meteor F) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 69,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Meteor F) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 70,
+            "msg": "┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 71,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 72,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 73,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 74,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 75,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 76,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 77,
+            "msg": "╀TERRE╀ Sol1_Mihaly has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 78,
+            "msg": "Sol1_Mihalytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 268
+        },
+        {
+            "id": 79,
+            "msg": "┾SADAF┿ -              - has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 80,
+            "msg": "-              -td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 81,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 82,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 83,
+            "msg": "╀TERRE╀ este_con has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 84,
+            "msg": "este_contd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 85,
+            "msg": "╍RO6╎ S X X I (T-10M) destroyed ┾SADAF┿ -              - (IS-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 86,
+            "msg": "╍RO6╎ S X X I (T-10M) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 87,
+            "msg": "╍RO6╎ Bmaycon2 (T-10M) set afire ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 187
+        },
+        {
+            "id": 88,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Meteor F) destroyed ╍RO6╎ SlongJonSilver (WZ305)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 89,
+            "msg": "╍RO6╎ S X X I (T-10M) destroyed ┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 196
+        },
+        {
+            "id": 90,
+            "msg": "╍RO6╎ jakob_c (Turm III) shot down ┾SADAF┿ The_Floppy_Disk (Meteor F)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 91,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 92,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 93,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 94,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 95,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 96,
+            "msg": "╍RO6╎ CheDeadShot (R3 T106 FA) destroyed ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 97,
+            "msg": "╍RO6╎ S X X I (T-10M) critically damaged ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 98,
+            "msg": "╍RO6╎ S X X I (T-10M) shot down ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 99,
+            "msg": "╍RO6╎ neliz (Gepard) critically damaged ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 100,
+            "msg": "╍RO6╎ neliz (Gepard) set afire ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 306
+        },
+        {
+            "id": 101,
+            "msg": "╍RO6╎ neliz (Gepard) severely damaged ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 102,
+            "msg": "╍RO6╎ neliz (Gepard) shot down ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 103,
+            "msg": "╍RO6╎ CheDeadShot (R3 T106 FA) destroyed ┾SADAF┿ -LordDoom- (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 364
+        },
+        {
+            "id": 104,
+            "msg": "┾SADAF┿ SaltyDinner has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 105,
+            "msg": "SaltyDinnertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 372
+        },
+        {
+            "id": 106,
+            "msg": "┾SADAF┿ ⋇Morey5408 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 107,
+            "msg": "⋇Morey5408td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 108,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 109,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 110,
+            "msg": "╍RO6╎ SlongJonSilver has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 392
+        },
+        {
+            "id": 111,
+            "msg": "SlongJonSilvertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 392
+        },
+        {
+            "id": 112,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 113,
+            "msg": "╍RO6╎ Vancho1997 (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 114,
+            "msg": "╍RO6╎ neliz (Gepard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 115,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 116,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Meteor F) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 117,
+            "msg": "╍RO6╎ SlongJonSilver (WZ305) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 118,
+            "msg": "╍RO6╎ Bmaycon2 (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 119,
+            "msg": "╍RO6╎ Bmaycon2 (T-10M) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 120,
+            "msg": "╍RO6╎ Mike Oxlong (Olifant Mk.1A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 121,
+            "msg": "┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 122,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 123,
+            "msg": "╍RO6╎ CheDeadShot (R3 T106 FA) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 124,
+            "msg": "╍RO6╎ CheDeadShot (R3 T106 FA) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 125,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 126,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 127,
+            "msg": "╍RO6╎ S X X I (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 128,
+            "msg": "╍RO6╎ S X X I (T-10M) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 129,
+            "msg": "╍RO6╎ S X X I (T-10M) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 130,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 131,
+            "msg": "╍RO6╎ jakob_c (Turm III) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 132,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 133,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 134,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) critically damaged ┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 135,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) severely damaged ┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 136,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) set afire ┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 137,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) shot down ┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 230
+        },
+        {
+            "id": 138,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) destroyed ╀TERRE╀ WHISPERING_DEATH (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 139,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 140,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Scout AH.Mk.1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 141,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 142,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 143,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 144,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) critically damaged ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 145,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) severely damaged ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 252
+        },
+        {
+            "id": 146,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) destroyed ╀TERRE╀ ⋇Item_Blad (M60A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 256
+        },
+        {
+            "id": 147,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 148,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Scout AH.Mk.1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 149,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 150,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 151,
+            "msg": "╀TERRE╀ WHISPERING_DEATH has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 152,
+            "msg": "WHISPERING_DEATHtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 153,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) shot down ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 270
+        },
+        {
+            "id": 154,
+            "msg": "╀TERRE╀ Sol1_Mihaly (Type 87) critically damaged ┾SADAF┿ The_Floppy_Disk (Scout AH.Mk.1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 155,
+            "msg": "╀TERRE╀ Sol1_Mihaly (Type 87) shot down ┾SADAF┿ The_Floppy_Disk (Scout AH.Mk.1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 272
+        },
+        {
+            "id": 156,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) destroyed ╀TERRE╀ Sol1_Mihaly (Type 87)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 294
+        },
+        {
+            "id": 157,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 158,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 159,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 160,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) destroyed ╀TERRE╀ mexlofighter (VIDAR)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 161,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 162,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 163,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 321
+        },
+        {
+            "id": 164,
+            "msg": "╀TERRE╀ mexlofighter has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 165,
+            "msg": "mexlofightertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 166,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) destroyed ╀TERRE╀ portimini (Leopard I)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 167,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 168,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 169,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 170,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 360
+        },
+        {
+            "id": 171,
+            "msg": "╀TERRE╀ lechugafria4 (M48A2 G A2) set afire ┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 367
+        },
+        {
+            "id": 172,
+            "msg": "╀TERRE╀ lechugafria4 (M48A2 G A2) destroyed ┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 367
+        },
+        {
+            "id": 173,
+            "msg": "┾SADAF┿ -              - (IS-7) destroyed ╀TERRE╀ lechugafria4 (M48A2 G A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 369
+        },
+        {
+            "id": 174,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 369
+        },
+        {
+            "id": 175,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 369
+        },
+        {
+            "id": 176,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 369
+        },
+        {
+            "id": 177,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"Teamwork: x7\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 369
+        },
+        {
+            "id": 178,
+            "msg": "╀TERRE╀ portimini has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 179,
+            "msg": "portiminitd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 373
+        },
+        {
+            "id": 180,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) has been wrecked",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 376
+        },
+        {
+            "id": 181,
+            "msg": "╀TERRE╀ vendopan2308 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 182,
+            "msg": "vendopan2308td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 183,
+            "msg": "╀TERRE╀ lechugafria4 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 184,
+            "msg": "lechugafria4td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 381
+        },
+        {
+            "id": 185,
+            "msg": "╀TERRE╀ Sol1_Mihaly has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 186,
+            "msg": "Sol1_Mihalytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 383
+        },
+        {
+            "id": 187,
+            "msg": "╀TERRE╀ ⋇Item_Blad has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 188,
+            "msg": "⋇Item_Bladtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 391
+        },
+        {
+            "id": 189,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 190,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 191,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 192,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 193,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 194,
+            "msg": "╀TERRE╀ ⋇Item_Blad (M60A2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 195,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Scout AH.Mk.1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 196,
+            "msg": "╀TERRE╀ WHISPERING_DEATH (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 197,
+            "msg": "┾SADAF┿ PandaMan0120 (◄Sea Hawk Mk.100) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 198,
+            "msg": "╀TERRE╀ este_con (Gepard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 199,
+            "msg": "┾SADAF┿ -              - (IS-7) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 200,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 201,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Olifant Mk.1A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 202,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 203,
+            "msg": "╀TERRE╀ vendopan2308 (Gepard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 204,
+            "msg": "╀TERRE╀ lechugafria4 (M48A2 G A2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 205,
+            "msg": "┾SADAF┿ -LordDoom- (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 206,
+            "msg": "╀TERRE╀ Sol1_Mihaly (Type 87) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 207,
+            "msg": "╀TERRE╀ portimini (Leopard I) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 208,
+            "msg": "╀TERRE╀ mexlofighter (VIDAR) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 396
+        },
+        {
+            "id": 209,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 399
+        },
+        {
+            "id": 210,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 399
+        },
+        {
+            "id": 211,
+            "msg": "┾SADAF┿ DBADR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 402
+        },
+        {
+            "id": 212,
+            "msg": "DBADRtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 402
+        }
+    ]
+}

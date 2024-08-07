@@ -146,12 +146,16 @@ class Battle:
         # print(preHash)
         players = [player.json() for player in [*self.team1, *self.team2]]
         teamName = [player["name"] for player in players]
+        utc = datetime.datetime.now(datetime.UTC)
+        timez = f"{utc.year};{utc.month};{utc.day};{utc.hour};{utc.minute}"
+        print(timez)
         # team1 = [player.json() for player in self.team1]
         # team2 = [player.json() for player in self.team2]
         # team1Name = [player.name for player in self.team1]
         # team2Name = [player.name for player in self.team2]
         return {
             "hash": hashz,
+            "time": timez,
             "players": players,
             "team1Data": {
                 "tag": self.Tags[0],
@@ -173,7 +177,7 @@ class Battle:
 
 
     '''
-    less compressed form of getJSON to be used for displaying of data
+    less compressed form of getJSON to be used for displaying of data in the UI, easier to parse
     '''
     def getData(self):
         t1 = [*self.team1,* [Player("", "", "", badPlayer=True) for z in range(8-len(self.team1))]]
@@ -248,19 +252,22 @@ class Battle:
 
     # get tags from a log and also sets global logs
     def getTags(self, log):
-        if "CanadianChi" in log:
-            pass
-
-
-
-
+        # if log[0] == log[log.find(" ") - 1]:
         tags = [log[1:log.find(" ") - 1]]
+        # else:
+        # tags = []
         index = [x[0] + len(x[1]) for x in
                  [[log.find(i), i] for i in
                   [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
         # print(log, index)
         #  and "ai" not in log, removed because click bait contains the word "ai"
         if len(index) > 0 and "[ai]" not in log:
+            start = index[0]
+            end = log[index[0]:].find(" ") + index[0]
+            # if self.
+            # print("start: ", log[start])
+            # print("end: ", log[end-1])
+            # if log[start] == log[end-1]:
             tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
         tags = [tag for tag in tags if 2 < len(tag) < 7]
         # print("TAGGGGSSSSS: ", tags)
@@ -353,7 +360,7 @@ if __name__ == "__main__":
     # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
     # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    with open("TestFiles\Set38.json", "rb") as f:
+    with open("TestFiles\Set43.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]
@@ -441,6 +448,14 @@ ValueError: substring not found
 
 '''
 set 37 player t-80ud should have died
+'''
+
+'''
+set 40, maybe missing one
+'''
+
+'''
+set42, gepard jed out at end of match
 '''
 
 # set 31, Clickbait sohuld be dead

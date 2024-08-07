@@ -1,0 +1,12 @@
+{
+  "Weapon": [
+    {
+      "slot": 5,
+      "preset": "booster_container_r"
+    },
+    {
+      "slot": 6,
+      "preset": "booster_container_l"
+    }
+  ]
+}

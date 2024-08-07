@@ -35,7 +35,7 @@ because I rerun the collector script (DataCollector.py) each time there is new i
 and I dont know why
 TODO: figure out why I had to do all that
 
-it is set as a QRunnable to allow for threading using QT
+it is set as a QRunnable to allow for easu threading using QT
 '''
 
 
@@ -47,8 +47,8 @@ class Main(QRunnable):
         self.args = args
         self.kwargs = kwargs
         self.signals = signals
+        self.dataGet = DataGet()
         self.Battle = Battle()
-        # self.dataGet = DataGet()
         self.db_manager = DatabaseManager.Manager()
         self.signals.data.connect(self.incoming)
 
@@ -127,6 +127,23 @@ class Main(QRunnable):
 
     def reset(self):
         # print("reset: ", self.Battle.getJSON())
+        self.Battle = Battle()
+        data = self.GetGameData()
+        collected = []
+        prev = data[0]
+        updated = False
+        for i in data[1::]:
+            if i['time'] <= prev['time'] and i['msg'] not in collected:
+                collected.append(i['msg'])
+                prev = i
+                updated = True
+            else:
+                break
+
+        self.getData(data)
+
+
+
         self.log_file()
         print("------------------------------------------------------")
         print("BATTLE END")
@@ -169,6 +186,7 @@ class Main(QRunnable):
                             count = timeout.__int__()
                             self.reset()
                             continue
+                    print("doing checkv")
                     if recent <= data[0]['time']:
                         recent = data[0]['time']
                     else:
@@ -197,6 +215,7 @@ class Main(QRunnable):
                         gameInSession = True
             except urllib.error.URLError as e:
                 print("War thunder is not running")
-            except Exception as e:
-                print("unknown exception!!")
+            # except Exception as e:
+            #     print(e)
+            #     print("unknown exception!!")
 

@@ -1,0 +1,701 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1,
+            "msg": "┾ARA┿ Ariel_ARG#1 (SPz BMP-1) destroyed ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 2,
+            "msg": "┾ARA┿ Ariel_ARG#1 (SPz BMP-1) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 3,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) critically damaged ┾ARA┿ Chingolero_AR (F-86A-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 4,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) shot down ┾ARA┿ Chingolero_AR (F-86A-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 5,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 6,
+            "msg": "┾SADAF┿ timothy0614 (A-4H) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 7,
+            "msg": "┾ARA┿ x-GeeNo_MS-x (SAAB-105G) destroyed ┾SADAF┿ ⋇PowerHail377783 (M60A1 (AOS))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 8,
+            "msg": "┾ARA┿ MattheoFB (T-55A) critically damaged ┾SADAF┿ Zelio_Zar (MiG-15bis ISH)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 218
+        },
+        {
+            "id": 9,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) destroyed ┾ARA┿ Cid_Campeador (Gepard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 226
+        },
+        {
+            "id": 10,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 11,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 12,
+            "msg": "┾SADAF┿ SgtSquid321 (M551) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 13,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 14,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) shot down ┾ARA┿ x-GeeNo_MS-x (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 15,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) set afire ┾ARA┿ x-GeeNo_MS-x (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 16,
+            "msg": "┾ARA┿ x-GeeNo_MS-x (SAAB-105G) destroyed ┾SADAF┿ SgtSquid321 (M551)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 17,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 18,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 19,
+            "msg": "┾SADAF┿ SgtSquid321 (M551) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 20,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 21,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 22,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 23,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 24,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 25,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 271
+        },
+        {
+            "id": 26,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) set afire ┾ARA┿ Ariel_ARG#1 (SPz BMP-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 27,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) destroyed ┾ARA┿ Ariel_ARG#1 (SPz BMP-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 282
+        },
+        {
+            "id": 28,
+            "msg": "┾SADAF┿ timothy0614 (A-4H) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 29,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 30,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Shadow strike streak: x4!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 31,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 32,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 33,
+            "msg": "┾SADAF┿ timothy0614 (A-4H) destroyed ┾ARA┿ MattheoFB (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 34,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 35,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 36,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) critically damaged ┾ARA┿ ⋇PLANET_VICIUS (SAAB-105OE)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 37,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) shot down ┾ARA┿ ⋇PLANET_VICIUS (SAAB-105OE)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 38,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Professional: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 39,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Shadow strike streak: x5!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 343
+        },
+        {
+            "id": 40,
+            "msg": "┾ARA┿ MattheoFB has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 41,
+            "msg": "MattheoFBtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 42,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) destroyed ┾ARA┿ ELJP (Object 906)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 43,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 44,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 45,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 46,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Professional: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 47,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Shadow strike streak: x6!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 48,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 49,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 50,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 436
+        },
+        {
+            "id": 51,
+            "msg": "┾ARA┿ Cid_Campeador has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 458
+        },
+        {
+            "id": 52,
+            "msg": "Cid_Campeadortd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 458
+        },
+        {
+            "id": 53,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 518
+        },
+        {
+            "id": 54,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) set afire ┾ARA┿ pepo85 (ZTZ59D1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 525
+        },
+        {
+            "id": 55,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) set afire ┾ARA┿ pepo85 (ZTZ59D1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 573
+        },
+        {
+            "id": 56,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) destroyed ┾ARA┿ pepo85 (ZTZ59D1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 573
+        },
+        {
+            "id": 57,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 574
+        },
+        {
+            "id": 58,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 574
+        },
+        {
+            "id": 59,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 574
+        },
+        {
+            "id": 60,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 574
+        },
+        {
+            "id": 61,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 574
+        },
+        {
+            "id": 62,
+            "msg": "┾ARA┿ Chingolero_AR has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 580
+        },
+        {
+            "id": 63,
+            "msg": "Chingolero_ARtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 580
+        },
+        {
+            "id": 64,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 65,
+            "msg": "┾ARA┿ Cid_Campeador (Gepard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 66,
+            "msg": "┾ARA┿ ELJP (Object 906) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 67,
+            "msg": "┾SADAF┿ Zatone (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 68,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 69,
+            "msg": "┾SADAF┿ Zelio_Zar (MiG-15bis ISH) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 70,
+            "msg": "┾SADAF┿ timothy0614 (A-4H) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 71,
+            "msg": "┾SADAF┿ SgtSquid321 (M551) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 72,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Survivor\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 73,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 74,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (◊MiG-15) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 75,
+            "msg": "┾ARA┿ pepo85 (ZTZ59D1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 76,
+            "msg": "┾ARA┿ x-GeeNo_MS-x (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 77,
+            "msg": "┾ARA┿ ELJP has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 78,
+            "msg": "ELJPtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 79,
+            "msg": "┾ARA┿ Chingolero_AR (F-86A-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 80,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 81,
+            "msg": "┾SADAF┿ -LordDoom- (M41D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 82,
+            "msg": "┾ARA┿ Ariel_ARG#1 (SPz BMP-1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 83,
+            "msg": "┾SADAF┿ ⋇PowerHail377783 (M60A1 (AOS)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 84,
+            "msg": "┾ARA┿ MattheoFB (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 85,
+            "msg": "┾ARA┿ ⋇PLANET_VICIUS (SAAB-105OE) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 583
+        },
+        {
+            "id": 86,
+            "msg": "┾ARA┿ ⋇PLANET_VICIUS has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 584
+        },
+        {
+            "id": 87,
+            "msg": "⋇PLANET_VICIUStd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 584
+        }
+    ]
+}

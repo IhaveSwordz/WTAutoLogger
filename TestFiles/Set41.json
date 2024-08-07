@@ -1,0 +1,1117 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 1633,
+            "msg": "╈BofSs╉ PleppyPlogg (T-10M) destroyed ┾SADAF┿ PandaMan0120 (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 1634,
+            "msg": "╈BofSs╉ PleppyPlogg (T-10M) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 1635,
+            "msg": "╈BofSs╉ lin123co45 (IS-7) destroyed ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 146
+        },
+        {
+            "id": 1636,
+            "msg": "╈BofSs╉ PleppyPlogg (T-10M) destroyed ┾SADAF┿ SgtSquid321 (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 1637,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) destroyed ╈BofSs╉ lin123co45 (IS-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 1638,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1639,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1640,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1641,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1642,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1643,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 1644,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 1645,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) destroyed ╈BofSs╉ duza9999 (WZ305)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 191
+        },
+        {
+            "id": 1646,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1647,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1648,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1649,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 192
+        },
+        {
+            "id": 1650,
+            "msg": "╈BofSs╉ Eometheous (IS-7) destroyed ┾SADAF┿ Zelio_Zar (MARS 15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 195
+        },
+        {
+            "id": 1651,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) set afire ╈BofSs╉ Bagel_bandit (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 1652,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) destroyed ╈BofSs╉ Bagel_bandit (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 207
+        },
+        {
+            "id": 1653,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 1654,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 1655,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1656,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 1657,
+            "msg": "╈BofSs╉ Eometheous (IS-7) shot down ┾SADAF┿ RevanTheReaper (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 1658,
+            "msg": "┾SADAF┿ DBADR (MiG-15) destroyed ╈BofSs╉ PleppyPlogg (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1659,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 246
+        },
+        {
+            "id": 1660,
+            "msg": "╈BofSs╉ R2Y2 (IS-7) critically damaged ┾SADAF┿ timothy0614 (F-86F-30 ▅)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 1661,
+            "msg": "┾SADAF┿ RevanTheReaper has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 1662,
+            "msg": "RevanTheReapertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 1663,
+            "msg": "╈BofSs╉ lin123co45 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 1664,
+            "msg": "lin123co45td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 352
+        },
+        {
+            "id": 1665,
+            "msg": "┾SADAF┿ Zelio_Zar has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 1666,
+            "msg": "Zelio_Zartd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 356
+        },
+        {
+            "id": 1667,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1668,
+            "msg": "╈BofSs╉ lin123co45 (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1669,
+            "msg": "╈BofSs╉ lin123co45 (IS-7) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1670,
+            "msg": "╈BofSs╉ duza9999 (WZ305) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1671,
+            "msg": "╈BofSs╉ R2Y2 (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1672,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1673,
+            "msg": "╈BofSs╉ Eometheous (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1674,
+            "msg": "╈BofSs╉ Eometheous (IS-7) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1675,
+            "msg": "╈BofSs╉ Eometheous (IS-7) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1676,
+            "msg": "┾SADAF┿ PandaMan0120 (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1677,
+            "msg": "╈BofSs╉ PleppyPlogg (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1678,
+            "msg": "╈BofSs╉ PleppyPlogg (T-10M) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1679,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1680,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1681,
+            "msg": "╈BofSs╉ Bagel_bandit (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1682,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1683,
+            "msg": "╈BofSs╉ DoctorrTNT (OF-40) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1684,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1685,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1686,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 1687,
+            "msg": "^V4DER^ Lu1808 (◊IL-28) set afire ┾SADAF┿ PandaMan0120 (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 72
+        },
+        {
+            "id": 1688,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 96
+        },
+        {
+            "id": 1689,
+            "msg": "┾SADAF┿ PandaMan0120 (T-55A) set afire ^V4DER^ rexxar205 (Leopard I)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 1690,
+            "msg": "^V4DER^ ⋇Il AAMON Il (ZTZ59D1) destroyed ┾SADAF┿ PandaMan0120 (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 1691,
+            "msg": "⋇ V4DER^ ⋇Il AAMON Il (ZTZ59D1) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 1692,
+            "msg": "^V4DER^ luisrami96 (SAAB-105G) destroyed ┾SADAF┿ Zelio_Zar (MARS 15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 167
+        },
+        {
+            "id": 1693,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) severely damaged ^V4DER^ ⋇TraveledFir6515 (Javelin F.(A.W.) Mk.9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 171
+        },
+        {
+            "id": 1694,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) shot down ^V4DER^ ⋇TraveledFir6515 (Javelin F.(A.W.) Mk.9)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1695,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1696,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1697,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1698,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1699,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1700,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 1701,
+            "msg": "^V4DER^ ⋇Il AAMON Il (ZTZ59D1) destroyed ┾SADAF┿ SgtSquid321 (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 1702,
+            "msg": "┾SADAF┿ SgtSquid321 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 1703,
+            "msg": "SgtSquid321td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 1704,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) destroyed ^V4DER^ ⋇elverg_24 (Gepard)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1705,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1706,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 1707,
+            "msg": "^V4DER^ ⋇Il AAMON Il (ZTZ59D1) destroyed ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 1708,
+            "msg": "┾SADAF┿ DBADR (MiG-15) severely damaged ^V4DER^ luisrami96 (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 1709,
+            "msg": "┾SADAF┿ DBADR (MiG-15) critically damaged ^V4DER^ luisrami96 (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 219
+        },
+        {
+            "id": 1710,
+            "msg": "┾SADAF┿ DBADR (MiG-15) shot down ^V4DER^ luisrami96 (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 1711,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 1712,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) destroyed ^V4DER^ rexxar205 (Leopard I)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1713,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1714,
+            "msg": "┾SADAF┿ PandaMan0120 (T-55A) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1715,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1716,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 1717,
+            "msg": "┾SADAF┿ DBADR (MiG-15) set afire ^V4DER^ ⋇DryestRecord907 (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 1718,
+            "msg": "┾SADAF┿ DBADR (MiG-15) destroyed ^V4DER^ ⋇DryestRecord907 (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 1719,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1720,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1721,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1722,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 1723,
+            "msg": "^V4DER^ ⋇DryestRecord907 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+        },
+        {
+            "id": 1724,
+            "msg": "⋇DryestRecord907td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 253
+        },
+        {
+            "id": 1725,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) destroyed ^V4DER^ ⋇Il AAMON Il (ZTZ59D1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1726,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1727,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1728,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1729,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1730,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) set afire ^V4DER^ Danny_Vega99 (Turm III)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 260
+        },
+        {
+            "id": 1731,
+            "msg": "┾SADAF┿ DBADR (MiG-15) destroyed ^V4DER^ Danny_Vega99 (Turm III)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1732,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1733,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1734,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1735,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 1736,
+            "msg": "^V4DER^ ⋇Il AAMON Il has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 1737,
+            "msg": "⋇Il AAMON Iltd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 281
+        },
+        {
+            "id": 1738,
+            "msg": "^V4DER^ Danny_Vega99 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 1739,
+            "msg": "Danny_Vega99td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 1740,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1741,
+            "msg": "┾SADAF┿ XoticTra5hPanda (MiG-15bis ISH) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1742,
+            "msg": "┾SADAF┿ PandaMan0120 (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1743,
+            "msg": "⋇ V4DER^ Danny_Vega99 (Turm III) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1744,
+            "msg": "┾SADAF┿ Zelio_Zar (MARS 15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1745,
+            "msg": "⋇ V4DER^ ⋇TraveledFir6515 (Javelin F.(A.W.) Mk.9) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1746,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1747,
+            "msg": "┾SADAF┿ timothy0614 (F-86F-30 ▅) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1748,
+            "msg": "⋇ V4DER^ rexxar205 (Leopard I) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1749,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1750,
+            "msg": "⋇ V4DER^ ⋇Il AAMON Il (ZTZ59D1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1751,
+            "msg": "⋇ V4DER^ ⋇Il AAMON Il (ZTZ59D1) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1752,
+            "msg": "⋇ V4DER^ luisrami96 (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1753,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1754,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1755,
+            "msg": "⋇ V4DER^ Lu1808 (◊IL-28) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1756,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1757,
+            "msg": "⋇ V4DER^ ⋇DryestRecord907 (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1758,
+            "msg": "⋇ V4DER^ ⋇elverg_24 (Gepard) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 386
+        },
+        {
+            "id": 1759,
+            "msg": "^V4DER^ Lu1808 (◊IL-28) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 388
+        },
+        {
+            "id": 1760,
+            "msg": "┾SADAF┿ Zelio_Zar has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1761,
+            "msg": "Zelio_Zartd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1762,
+            "msg": "^V4DER^ luisrami96 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1763,
+            "msg": "luisrami96td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1764,
+            "msg": "^V4DER^ ⋇TraveledFir6515 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1765,
+            "msg": "⋇TraveledFir6515td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1766,
+            "msg": "^V4DER^ ⋇elverg_24 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1767,
+            "msg": "⋇elverg_24td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1768,
+            "msg": "^V4DER^ rexxar205 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1769,
+            "msg": "rexxar205td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 389
+        },
+        {
+            "id": 1770,
+            "msg": "┾SADAF┿ PandaMan0120 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        },
+        {
+            "id": 1771,
+            "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 390
+        }
+    ]
+}

@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 import PySide6.QtGui
 ################################################################################
-## Form generated from reading UI file 'mainwindow.ui'
-##
-## Created by: Qt User Interface Compiler version 6.7.2
-##
-## WARNING! All changes made in this file will be lost when recompiling UI file!
+# Form generated from reading UI file 'mainwindow.ui'
+#
+# Created by: Qt User Interface Compiler version 6.7.2
+#
+# WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
 
 from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
@@ -17,26 +17,37 @@ from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
                            QPalette, QPixmap, QRadialGradient, QTransform, QRawFont, QTextCharFormat)
 from PySide6.QtWidgets import (QApplication, QCheckBox, QHeaderView, QLabel,
                                QMainWindow, QSizePolicy, QTabWidget, QTableView,
-                               QWidget, QTableWidget, QTableWidgetItem)
+                               QWidget, QTableWidget, QTableWidgetItem, QTextBrowser)
 
 from DataCollectorManager import Main
 import PySide6.QtGui as qtg
 import sys
 import traceback
+from converter import Vehicle, DataGet
 
 
 class Ui_MainWindow(QMainWindow):
     def setupUi(self, MainWindow: QMainWindow, signals):
+        self.converter = DataGet()
         if not MainWindow.objectName():
             MainWindow.setObjectName(u"MainWindow")
         self.signals = signals
-        MainWindow.resize(1000, 500)
+        MainWindow.resize(1000, 600)
         self.centralwidget = QWidget(MainWindow)
         self.centralwidget.setObjectName(u"centralwidget")
         self.tabWidget = QTabWidget(self.centralwidget)
         self.tabWidget.setObjectName(u"tabWidget")
-        self.tabWidget.setGeometry(QRect(0, 0, 1000, 500))
+        self.tabWidget.setGeometry(QRect(0, 0, 1000, 600))
         self.tab = QWidget()
+
+        self.threadpool = QThreadPool()
+
+        '''
+        PAGE 1: 
+        '''
+        worker = Main(self.signals)  # Any other args, kwargs are passed to the run function
+
+
         self.tab.setObjectName(u"tab")
         self.enableDisable = QCheckBox(self.tab)
         self.enableDisable.setObjectName(u"enableDisable")
@@ -50,36 +61,38 @@ class Ui_MainWindow(QMainWindow):
 
         self.Squad1 = QTableWidget(self.tab)
         self.Squad1.setObjectName(u"Squad1")
-        self.Squad1.setGeometry(QRect(0, 70, 500, 430))
+        self.Squad1.setGeometry(QRect(0, 70, 500, 330))
 
         self.Squad2 = QTableWidget(self.tab)
         self.Squad2.setObjectName(u"Squad2")
-        self.Squad2.setGeometry(QRect(500, 70, 500, 430))
+        self.Squad2.setGeometry(QRect(500, 70, 500, 330))
 
-        self.tabWidget.addTab(self.tab, "")
-        self.tab_2 = QWidget()
-        self.tab_2.setObjectName(u"tab_2")
-        self.tabWidget.addTab(self.tab_2, "")
-        self.tab_3 = QWidget()
-        self.tab_3.setObjectName(u"tab_3")
-        self.tabWidget.addTab(self.tab_3, "")
-        self.tab_4 = QWidget()
-        self.tab_4.setObjectName(u"tab_4")
-        self.tabWidget.addTab(self.tab_4, "")
-        self.tab_5 = QWidget()
-        self.tab_5.setObjectName(u"tab_5")
-        self.tabWidget.addTab(self.tab_5, "")
-        MainWindow.setCentralWidget(self.centralwidget)
         self.enableDisable.stateChanged.connect(self.sendData)
         self.signals.logs.connect(self.updateBattleData)
 
-        self.threadpool = QThreadPool()
 
-        worker = Main(self.signals)  # Any other args, kwargs are passed to the run function
-        # worker.signals.result.connect(self.print_output)
-        # worker.signals.finished.connect(self.thread_complete)
-        # worker.signals.progress.connect(self.progress_fn)
+        # textboxSize = lambda x, y: QRect(x, y, 500, 100)
+        self.T1Vehicles = QLabel(self.tab)
+        self.T1Vehicles.setObjectName("T1Vehicles")
+        self.T1Vehicles.setGeometry(QRect(0, 400, 500, 25))
+        self.T1Vehicles.setText("Nations: ")
 
+
+        self.T1Nations = QLabel(self.tab)
+        self.T1Nations.setObjectName("T1Nations")
+        self.T1Nations.setGeometry(QRect(0, 425, 500, 25))
+        self.T1Nations.setText("Vehicle Types: ")
+
+        self.T2Vehicles = QLabel(self.tab)
+        self.T2Vehicles.setObjectName("T2Vehicles")
+        self.T2Vehicles.setGeometry(QRect(500, 400, 500, 25))
+        self.T2Vehicles.setText("Nations: ")
+
+
+        self.T2Nations = QLabel(self.tab)
+        self.T2Nations.setObjectName("T2Nations")
+        self.T2Nations.setGeometry(QRect(500, 425, 500, 25))
+        self.T2Nations.setText("Vehicle Types: ")
         # Execute
         self.threadpool.start(worker)
 
@@ -109,10 +122,26 @@ class Ui_MainWindow(QMainWindow):
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
                 self.Squad2.setItem(y, x, item)
 
-        self.retranslateUi(MainWindow)
         # print(MainWindow.resizeEvent(self.test))
         # MainWindow.iconSizeChanged.connect(self.test)
 
+
+
+        self.tabWidget.addTab(self.tab, "")
+        self.tab_2 = QWidget()
+        self.tab_2.setObjectName(u"tab_2")
+        self.tabWidget.addTab(self.tab_2, "")
+        self.tab_3 = QWidget()
+        self.tab_3.setObjectName(u"tab_3")
+        self.tabWidget.addTab(self.tab_3, "")
+        self.tab_4 = QWidget()
+        self.tab_4.setObjectName(u"tab_4")
+        self.tabWidget.addTab(self.tab_4, "")
+        self.tab_5 = QWidget()
+        self.tab_5.setObjectName(u"tab_5")
+        self.tabWidget.addTab(self.tab_5, "")
+        MainWindow.setCentralWidget(self.centralwidget)
+        self.retranslateUi(MainWindow)
         self.tabWidget.setCurrentIndex(0)
         # self.centralwidget.destroyed.connect(self.sendData)
         # MainWindow.destroyed.connect(self.sendData)
@@ -151,6 +180,7 @@ class Ui_MainWindow(QMainWindow):
             "team2Tag": self.Tags[1],
             "team2Players": self.team2
     '''
+
     def updateBattleData(self, data: dict):
         # add tags
         self.Squad1Tag.setText(data["team1Tag"])
@@ -163,10 +193,12 @@ class Ui_MainWindow(QMainWindow):
         font.setPixelSize(16)
         # font.setPixelSize(5)
         # font.bold()
+        t1: list = data["team1Players"]
+        t2: list = data["team2Players"]
 
         for y, player in enumerate(data["team1Players"]):
             # add kills
-            for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead]):
+            for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead, player.kills]):
                 item = QTableWidgetItem()
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
                 if player.badPlayer:
@@ -175,12 +207,23 @@ class Ui_MainWindow(QMainWindow):
                     if val is True:
                         item.setFont(font)
                     val = "ALive" if val is True else "Dead"
+
+                if x == 3:
+                    indexes = []
+                    for kill in val:
+                        if kill in t1:
+                            indexes.append(t1.index(kill) + 1)
+                        elif kill in t2:
+                            indexes.append(t2.index(kill) + 9)
+                        else:
+                            indexes.append(17)
+                    val = ', '.join([str(z) for z in indexes])
                 item.setText(str(val))
                 self.Squad1.setItem(y, x, item)
 
         for y, player in enumerate(data["team2Players"]):
             # add kills
-            for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead]):
+            for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead, player.kills]):
                 item = QTableWidgetItem()
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
                 if player.badPlayer:
@@ -189,8 +232,51 @@ class Ui_MainWindow(QMainWindow):
                     if val is True:
                         item.setFont(font)
                     val = "ALive" if val is True else "Dead"
+                if x == 3:
+                    indexes = []
+                    for kill in val:
+                        if kill in t1:
+                            indexes.append(t1.index(kill) + 1)
+                        elif kill in t2:
+                            indexes.append(t2.index(kill) + 9)
+                        else:
+                            indexes.append(17)
+                    val = ', '.join([str(z) for z in indexes])
 
                 item.setText(str(val))
                 self.Squad2.setItem(y, x, item)
+        t1_Nations = {}
+        t1_Vehicles = {}
+        t2_Nations = {}
+        t2_Vehicles = {}
 
+        for player in t1:
+            if player.badPlayer:
+                continue
+            vehicle = player.vehicle
+            if vehicle is not None or vehicle != "":
+                internal = self.converter.query_name(vehicle[1:-1])
+                v = Vehicle(vehicle, internal[0:-2])
+                if t1_Nations.get(v.country) is None:
+                    t1_Nations.update({v.country: 1})
+                else:
+                    t1_Nations[v.country] += 1
+        print("team 1:")
+        print(t1_Nations)
+        for player in t2:
+            if player.badPlayer:
+                continue
+            vehicle = player.vehicle
+            if vehicle is not None or vehicle != "":
+                internal = self.converter.query_name(vehicle[1:-1])
+                # print(internal)
+                v = Vehicle(vehicle, internal[0:-2])
+                if t2_Nations.get(v.country) is None:
+                    t2_Nations.update({v.country: 1})
+                else:
+                    t2_Nations[v.country] += 1
+        print("team 2:")
+        print(t2_Nations)
+        self.T1Vehicles.setText(f"Nations: {', '.join([nat for nat in list(t1_Nations.keys())])}")
+        self.T2Vehicles.setText(f"Nations: {', '.join([nat for nat in list(t2_Nations.keys())])}")
 

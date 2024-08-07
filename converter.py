@@ -26,6 +26,7 @@ class Vehicle:
     print(tags)
     '''
     def __init__(self, name, internal_name):
+        # print(self.vData)
         # contains basic info about a vehicle like: type, country, vehicle type, release date
         # name you see in game
         self.name = name
@@ -83,6 +84,9 @@ class Vehicle:
 class DataGet:
     def __init__(self):
         self.nameToIGN = {}
+        with open(vehicleData, "rb") as f:
+            dat: dict = json.load(f)
+        keys = dat.keys()
         with open("VehicleParser/War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "r", encoding="utf-8") as f:
             temp = f.read().split("\n")
             data = [[z[1:-1] for z in d.split(";")] for d in temp]
@@ -91,7 +95,9 @@ class DataGet:
             for i in range(1, len(d) - 3):
                 if d[index][i] == "" or d[0][i] == "" or "_race_" in d[0][i] or d[0][i][-5:-1] == "_sho" or d[0][i][:11] == "shop/group/" or d[index][i] in ["Medium tank", "Heavy cruiser", "Subchaser", "Boat", "Light\xa0carrier", "Landing\xa0craft", "Light\xa0Cruiser", "Battleship", "Destroyer", "MBT", "SPAA", "Light cruiser", "Light tank", "Light\xa0tank", "SPG", "Infantry tank", "Carrier"]:
                     continue
-                self.nameToIGN.update({d[index][i]: d[0][i]})
+                if d[0][i][:-2] in keys:
+                    self.nameToIGN.update({d[index][i]: d[0][i]})
+        # print(self.nameToIGN)
 
     '''
     given a vehicle name, will try to find the internal name

@@ -1,0 +1,1093 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 161,
+            "msg": "Putzzz_xtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 438
+        },
+        {
+            "id": 162,
+            "msg": "[PNTGN] RedStar1312___ (T-62) destroyed =KKD3= ⋇Yak-Yonkers8 (M60A1 RISE (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 438
+        },
+        {
+            "id": 163,
+            "msg": "Esamiawiobi (Object 685) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 438
+        },
+        {
+            "id": 164,
+            "msg": "[PNTGN] RedStar1312___ (T-62) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 438
+        },
+        {
+            "id": 165,
+            "msg": "[PNTGN] RedStar1312___ (T-62) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 438
+        },
+        {
+            "id": 166,
+            "msg": "nehuengordaliza (Ikv 91-105) destroyed ⋇BonkersPhoenix2 (T-55AM-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 445
+        },
+        {
+            "id": 167,
+            "msg": "⋇BonkersPhoenix2 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 462
+        },
+        {
+            "id": 168,
+            "msg": "⋇BonkersPhoenix2td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 462
+        },
+        {
+            "id": 169,
+            "msg": "=MIFL= ⋇ShawtyTrippn (TAM 2IP) destroyed [LSPE] Yorkplays_ (T-64A (1971))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 476
+        },
+        {
+            "id": 170,
+            "msg": "┾SADAF┿ _Anatolia (T-10M) destroyed Yelalobo (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 476
+        },
+        {
+            "id": 171,
+            "msg": "┾SADAF┿ _Anatolia (T-10M) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 477
+        },
+        {
+            "id": 172,
+            "msg": "┾SADAF┿ _Anatolia (T-10M) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 477
+        },
+        {
+            "id": 173,
+            "msg": "-SLAIN- theredhaloguy (SK-105A2) destroyed =KKD3= ⋇Yak-Yonkers8 (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 485
+        },
+        {
+            "id": 174,
+            "msg": "[PNTGN] RedStar1312___ (T-62) has achieved \"Help with Repairing: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 490
+        },
+        {
+            "id": 175,
+            "msg": "=HUQ= Alexgun_929 (ZSU-37-2) critically damaged da_raider (A-4B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 495
+        },
+        {
+            "id": 176,
+            "msg": "jtscime (M60A1 RISE (P)) set afire ┾SADAF┿ _Anatolia (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 501
+        },
+        {
+            "id": 177,
+            "msg": "Kolya_Ovs (Begleitpanzer 57) destroyed ┾SADAF┿ _Anatolia (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 507
+        },
+        {
+            "id": 178,
+            "msg": "-SLAIN- Jaker409 (T-55AM-1) destroyed =CWTTV= Col_Cyborgclone (M247)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 511
+        },
+        {
+            "id": 179,
+            "msg": "-SLAIN- Jaker409 (T-55AM-1) has achieved \"Without a miss\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 512
+        },
+        {
+            "id": 180,
+            "msg": "[GrThV] ⋇xB4WxREAPER8276 (Warrior) set afire jtscime (M60A1 RISE (P))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 514
+        },
+        {
+            "id": 181,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) destroyed ssyxx (XM803)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 182,
+            "msg": "[Promo] m1x_a (ZA-35) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 183,
+            "msg": "[Promo] m1x_a (ZA-35) severely damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 184,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 185,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) has achieved \"According to Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 186,
+            "msg": "Deluxe#3 (TAM) has achieved \"Intelligence: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 116
+        },
+        {
+            "id": 187,
+            "msg": "[Promo] m1x_a (ZA-35) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 188,
+            "msg": "-NNNN- JhonatanGrey (XM803) destroyed =N008= Dopin_VT (T-55AM-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 189,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) destroyed Am__n64452 (M551)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 190,
+            "msg": "=N008= Dopin_VT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 191,
+            "msg": "Dopin_VTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 130
+        },
+        {
+            "id": 192,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 131
+        },
+        {
+            "id": 193,
+            "msg": "-JTFCN- P0P0P0PUIUIUI (OF-40 (MTCA)) destroyed ⋇riotshieldman117 (T-62M-1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 194,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) destroyed Nounours8016#1 (Merkava Mk.2B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 195,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 196,
+            "msg": "╖STOLR╖ frоsty (TAM 2IP) has achieved \"Triple strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 197,
+            "msg": "Deluxe#3 (TAM) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 198,
+            "msg": "Am__n64452 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 199,
+            "msg": "Am__n64452td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 200,
+            "msg": "-JTFCN- P0P0P0PUIUIUI (OF-40 (MTCA)) set afire -ARGm- TOFE30353 (Leopard I)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 142
+        },
+        {
+            "id": 201,
+            "msg": "-JTFCN- P0P0P0PUIUIUI (OF-40 (MTCA)) destroyed -ARGm- TOFE30353 (Leopard I)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 149
+        },
+        {
+            "id": 202,
+            "msg": "[TRDfg] Krankz (Falcon) set afire ╖STOLR╖ frоsty (TAM 2IP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 203,
+            "msg": "[TRDfg] Krankz (Falcon) destroyed ╖STOLR╖ frоsty (TAM 2IP)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 204,
+            "msg": "╖STOLR╖ frоsty has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 205,
+            "msg": "frоstytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 206,
+            "msg": "[intel] Gumbymedic (VCC-80/60) destroyed shiki24221709 (Raketenjagdpanzer 2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 207,
+            "msg": "[intel] Gumbymedic (VCC-80/60) destroyed ┾SADAF┿ _Anatolia (T-10M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 208,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Sd.Kfz. 6/2",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 3
+        },
+        {
+            "id": 209,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Pz.II C",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 5
+        },
+        {
+            "id": 210,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Pz.IV C",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 8
+        },
+        {
+            "id": 211,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Panther D",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 20
+        },
+        {
+            "id": 212,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Pz.IV C",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 28
+        },
+        {
+            "id": 213,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Sd.Kfz. 6/2",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 33
+        },
+        {
+            "id": 214,
+            "msg": "┾SADAF┿ _Anatolia (PT-76-57) destroyed Pz.II C",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 36
+        },
+        {
+            "id": 215,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) set afire ╀ALA43╀ GNRuri (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 216,
+            "msg": "╀ALA43╀ GNRuri (Ar 234 C) destroyed ┾SADAF┿ -              - (IS-7)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 114
+        },
+        {
+            "id": 217,
+            "msg": "╀ALA43╀ GNRuri (Ar 234 C) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 218,
+            "msg": "╀ALA43╀ Vasquach (Type 99) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 219,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) shot down ╀ALA43╀ GNRuri (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 220,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 221,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 222,
+            "msg": "┾SADAF┿ ⋇Morey5408 (◊IL-28) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 223,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 224,
+            "msg": "╀ALA43╀ Vasquach (Type 99) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 225,
+            "msg": "┾SADAF┿ ⋇Morey5408 (◊IL-28) shot down ╀ALA43╀ Joms_Viking (Ar 234 C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 158
+        },
+        {
+            "id": 226,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 227,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 228,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 229,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 159
+        },
+        {
+            "id": 230,
+            "msg": "╀ALA43╀ Vasquach (Type 99) set afire ┾SADAF┿ ⋇Morey5408 (◊IL-28)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 231,
+            "msg": "╀ALA43╀ Vasquach (Type 99) shot down ┾SADAF┿ ⋇Morey5408 (◊IL-28)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 232,
+            "msg": "╀ALA43╀ DFIESTASR1 (F-86A-5) critically damaged ┾SADAF┿ RevanTheReaper (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 233,
+            "msg": "╀ALA43╀ THE_DEVIL1998 (M103) critically damaged ┾SADAF┿ RevanTheReaper (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 238
+        },
+        {
+            "id": 234,
+            "msg": "╀ALA43╀ DFIESTASR1 (F-86A-5) critically damaged ┾SADAF┿ DBADR (MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 257
+        },
+        {
+            "id": 235,
+            "msg": "╀ALA43╀ ActuallyF_ (◄Sea Hawk Mk.100) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 236,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) critically damaged ╀ALA43╀ DFIESTASR1 (F-86A-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 401
+        },
+        {
+            "id": 237,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) shot down ╀ALA43╀ DFIESTASR1 (F-86A-5)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 406
+        },
+        {
+            "id": 238,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 407
+        },
+        {
+            "id": 239,
+            "msg": "╀ALA43╀ THE_DEVIL1998 (M103) destroyed ┾SADAF┿ _Anatolia (T-55A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 422
+        },
+        {
+            "id": 240,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) destroyed ╀ALA43╀ FJT (Turm III)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 478
+        },
+        {
+            "id": 241,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 242,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 243,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 244,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) destroyed ╀ALA43╀ THE_DEVIL1998 (M103)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 493
+        },
+        {
+            "id": 245,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 494
+        },
+        {
+            "id": 246,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 494
+        },
+        {
+            "id": 247,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 494
+        },
+        {
+            "id": 248,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 494
+        },
+        {
+            "id": 249,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 494
+        },
+        {
+            "id": 250,
+            "msg": "╀ALA43╀ Vasquach (Type 99) shot down ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 501
+        },
+        {
+            "id": 251,
+            "msg": "╀ALA43╀ Vasquach (Type 99) set afire ┾SADAF┿ SaltyDinner (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 501
+        },
+        {
+            "id": 252,
+            "msg": "╀ALA43╀ DFIESTASR1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 503
+        },
+        {
+            "id": 253,
+            "msg": "DFIESTASR1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 503
+        },
+        {
+            "id": 254,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) destroyed ╀ALA43╀ Vasquach (Type 99)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 255,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 256,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 257,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 258,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Bomber Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 259,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 505
+        },
+        {
+            "id": 260,
+            "msg": "╀ALA43╀ chuchipucela (M3 Bradley) shot down ┾SADAF┿ RevanTheReaper (SAAB-105G)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 576
+        },
+        {
+            "id": 261,
+            "msg": "╀ALA43╀ ActuallyF_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 582
+        },
+        {
+            "id": 262,
+            "msg": "ActuallyF_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 582
+        },
+        {
+            "id": 263,
+            "msg": "┾SADAF┿ DBADR (MiG-15) destroyed ╀ALA43╀ chuchipucela (M3 Bradley)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 584
+        },
+        {
+            "id": 264,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 585
+        },
+        {
+            "id": 265,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 585
+        },
+        {
+            "id": 266,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 585
+        },
+        {
+            "id": 267,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 585
+        },
+        {
+            "id": 268,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 585
+        },
+        {
+            "id": 269,
+            "msg": "╀ALA43╀ THE_DEVIL1998 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 592
+        },
+        {
+            "id": 270,
+            "msg": "THE_DEVIL1998td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 592
+        },
+        {
+            "id": 271,
+            "msg": "╀ALA43╀ FJT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 594
+        },
+        {
+            "id": 272,
+            "msg": "FJTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 594
+        },
+        {
+            "id": 273,
+            "msg": "╀ALA43╀ Vasquach has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 596
+        },
+        {
+            "id": 274,
+            "msg": "Vasquachtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 596
+        },
+        {
+            "id": 275,
+            "msg": "┾SADAF┿ RevanTheReaper has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 598
+        },
+        {
+            "id": 276,
+            "msg": "RevanTheReapertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 598
+        },
+        {
+            "id": 277,
+            "msg": "┾SADAF┿ _Anatolia (T-55A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 278,
+            "msg": "┾SADAF┿ SaltyDinner (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 279,
+            "msg": "╀ALA43╀ Vasquach (Type 99) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 280,
+            "msg": "╀ALA43╀ Vasquach (Type 99) has achieved \"Balancer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 281,
+            "msg": "╀ALA43╀ FJT (Turm III) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 282,
+            "msg": "┾SADAF┿ The_Floppy_Disk (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 283,
+            "msg": "╀ALA43╀ GNRuri (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 284,
+            "msg": "╀ALA43╀ chuchipucela (M3 Bradley) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 285,
+            "msg": "╀ALA43╀ THE_DEVIL1998 (M103) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 286,
+            "msg": "┾SADAF┿ -              - (IS-7) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 287,
+            "msg": "╀ALA43╀ DFIESTASR1 (F-86A-5) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 288,
+            "msg": "┾SADAF┿ SgtSquid321 (T-10M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 289,
+            "msg": "┾SADAF┿ ⋇Morey5408 (◊IL-28) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 290,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 291,
+            "msg": "┾SADAF┿ DBADR (MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 292,
+            "msg": "╀ALA43╀ Joms_Viking (Ar 234 C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 293,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 294,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 295,
+            "msg": "┾SADAF┿ RevanTheReaper (SAAB-105G) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        },
+        {
+            "id": 296,
+            "msg": "╀ALA43╀ ActuallyF_ (◄Sea Hawk Mk.100) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 604
+        }
+    ]
+}
