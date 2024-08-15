@@ -3,6 +3,7 @@ import re
 import json
 from PySide6.QtCore import Signal
 import datetime
+import collections
 
 
 class Player:
@@ -324,7 +325,102 @@ class Battle:
             self.players.append(None)
 
 
+" a read only class whos use is to query data from the db to be used in UI info"
+class PlayerQuery:
+    def __init__(self):
+        self.DB = "Data.db"
+        # name of storage tables
+        self.Battles = "Battles"
+        self.Players = "Players"
+        self.Vehicles = "Vehicles"
+
+    def playerLookup(self, player: str, signal: Signal):
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            # gets id
+            cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{player}'")
+            output = cursor.fetchall()
+            if output.__len__() == 0:
+                signal.emit([-1])
+                return [-1]
+
+            # this is done so that a players occurnace is place in the index of the list where that player
+            # occured, used to help with faster parsing later
+            occur = [[] for _ in range(16)]
+            for i in range(16):
+                cursor.execute(f"select * FROM {self.Battles} WHERE Player{i} LIKE '{output[0][0]};%'")
+                occur[i].extend(cursor.fetchall())
+            signal.emit([1, [player, output[0][0]], occur])
+            return [1, player, output[0][0], occur]
+
+
+    def vehicleLookup(self, vehicle: str, signal:Signal):
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            # gets id
+            cursor.execute(f"SELECT id FROM {self.Vehicles} WHERE vehicle = '{vehicle}'")
+            output = cursor.fetchall()
+            if output.__len__() == 0:
+                return -1
+            occur = []
+            for i in range(16):
+                cursor.execute(f"select * FROM {self.Battles} WHERE PLayer{i} LIKE '%;{output[0][0]};%;%'")
+                occur.extend(cursor.fetchall())
+            return occur
+
+    def squadLookup(self, squadron: str, signal:Signal):
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            payload = [[], []]
+            for i in range(2):
+                cursor.execute(f"select * FROM {self.Battles} WHERE Team{i+1}Tag LIKE '{squadron}'")
+                payload[i].extend(cursor.fetchall())
+            return payload
+
+    '''
+    converts a db battle with uid and vid into a human readable format (give you the player and vehicle name)
+    returns the inpputed battle in the same format with all id's replaced by their db value and semi colons and colons seperated
+    '''
+    def convert(self, battle):
+        payload = []
+        [payload.append(x.split(";") if ";" in x else x) for x in battle[0: 4]]
+        [payload.append(x.split(",")) for x in battle[4:6]]
+        players = []
+        for player in battle[6:]:
+            if player is None or player == "None":
+                players.append(None)
+                continue
+            pid, vid, isDead, kills = player.split(";")
+            with sqlite3.connect(self.DB) as db:
+                cursor = db.cursor()
+                cursor.execute(f"SELECT name FROM {self.Players} WHERE id = '{pid}'")
+                player = cursor.fetchall()[0][0]
+                cursor.execute(f"SELECT vehicle FROM {self.Vehicles} WHERE id = '{vid}'")
+                vehicle = cursor.fetchall()[0][0]
+            players.append([player, vehicle, isDead, kills.split(",")])
+        payload.extend(players)
+        return payload
+
+
 if __name__ == "__main__":
+    p = PlayerQuery()
+    out = p.playerLookup("IhaveSwordz")
+    # occurs = p.vehicleLookup("2S38")
+    # p.convert(occurs[0])
+    data = p.squadLookup('%')
+    squads = {}
+    for dat in data[0]:
+        s1, s2 = dat[2], dat[3]
+        indz = squads.keys()
+        for s in s1, s2:
+            if s in indz:
+                squads[s] += 1
+            else:
+                squads.update({s: 1})
+    stuff = {k: v for k, v in sorted(squads.items(), key=lambda item: item[1])}
+    print(collections.OrderedDict(stuff))
+
+    input()
     with open("newFile.json", "rb") as f:
         manager = Manager()
         datz: dict = json.load(f)
@@ -333,3 +429,5 @@ if __name__ == "__main__":
                 manager.addLog(dat)
             else:
                 print(f"that battle with hash {dat["hash"]} already in there dumbass")
+
+

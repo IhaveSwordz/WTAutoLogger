@@ -15,6 +15,11 @@ class WorkerSignals(QObject):
     # to bot
     data = Signal(int)
 
+    #From data fetcher
+    PlayerSignal = Signal(list)
+    VehicleSignal = Signal(list)
+    SquadronSignal = Signal(list)
+
 
 class MainWindow(QMainWindow):
     def __init__(self):

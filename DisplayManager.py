@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import time
+
 import PySide6.QtGui
 ################################################################################
 # Form generated from reading UI file 'mainwindow.ui'
@@ -17,18 +19,20 @@ from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
                            QPalette, QPixmap, QRadialGradient, QTransform, QRawFont, QTextCharFormat)
 from PySide6.QtWidgets import (QApplication, QCheckBox, QHeaderView, QLabel,
                                QMainWindow, QSizePolicy, QTabWidget, QTableView,
-                               QWidget, QTableWidget, QTableWidgetItem, QTextBrowser)
+                               QWidget, QTableWidget, QTableWidgetItem, QTextBrowser, QLineEdit, QPushButton)
 
 from DataCollectorManager import Main
 import PySide6.QtGui as qtg
 import sys
 import traceback
 from converter import Vehicle, DataGet
+from DatabaseManager import PlayerQuery
 
 
 class Ui_MainWindow(QMainWindow):
     def setupUi(self, MainWindow: QMainWindow, signals):
         self.converter = DataGet()
+        self.dataLookup = PlayerQuery()
         if not MainWindow.objectName():
             MainWindow.setObjectName(u"MainWindow")
         self.signals = signals
@@ -41,12 +45,12 @@ class Ui_MainWindow(QMainWindow):
         self.tab = QWidget()
 
         self.threadpool = QThreadPool()
+        self.lookup_thread_pool = QThreadPool()
 
         '''
         PAGE 1: 
         '''
         worker = Main(self.signals)  # Any other args, kwargs are passed to the run function
-
 
         self.tab.setObjectName(u"tab")
         self.enableDisable = QCheckBox(self.tab)
@@ -70,13 +74,11 @@ class Ui_MainWindow(QMainWindow):
         self.enableDisable.stateChanged.connect(self.sendData)
         self.signals.logs.connect(self.updateBattleData)
 
-
         # textboxSize = lambda x, y: QRect(x, y, 500, 100)
         self.T1Vehicles = QLabel(self.tab)
         self.T1Vehicles.setObjectName("T1Vehicles")
         self.T1Vehicles.setGeometry(QRect(0, 400, 500, 25))
         self.T1Vehicles.setText("Nations: ")
-
 
         self.T1Nations = QLabel(self.tab)
         self.T1Nations.setObjectName("T1Nations")
@@ -87,7 +89,6 @@ class Ui_MainWindow(QMainWindow):
         self.T2Vehicles.setObjectName("T2Vehicles")
         self.T2Vehicles.setGeometry(QRect(500, 400, 500, 25))
         self.T2Vehicles.setText("Nations: ")
-
 
         self.T2Nations = QLabel(self.tab)
         self.T2Nations.setObjectName("T2Nations")
@@ -121,16 +122,24 @@ class Ui_MainWindow(QMainWindow):
                 item = QTableWidgetItem()
                 item.setFlags(Qt.ItemFlag.ItemIsEditable)
                 self.Squad2.setItem(y, x, item)
-
-        # print(MainWindow.resizeEvent(self.test))
-        # MainWindow.iconSizeChanged.connect(self.test)
-
-
-
         self.tabWidget.addTab(self.tab, "")
+        '''
+        tab 2
+        '''
+
         self.tab_2 = QWidget()
         self.tab_2.setObjectName(u"tab_2")
         self.tabWidget.addTab(self.tab_2, "")
+
+        self.NameEnterBox = QLineEdit(self.tab_2)
+        self.NameEnterBox.setGeometry(QRect(15, 15, 175, 25))
+        self.ActiveLookupName = QPushButton(self.tab_2)
+        self.ActiveLookupName.setText("Lookup")
+        self.ActiveLookupName.setGeometry(QRect(190, 15, 75, 25))
+        self.ActiveLookupName.clicked.connect(self.player_lookup)
+        self.signals.PlayerSignal.connect(self.player_update)
+        # self.signals.caller.connect(self.doLookup(None, None))
+
         self.tab_3 = QWidget()
         self.tab_3.setObjectName(u"tab_3")
         self.tabWidget.addTab(self.tab_3, "")
@@ -143,8 +152,6 @@ class Ui_MainWindow(QMainWindow):
         MainWindow.setCentralWidget(self.centralwidget)
         self.retranslateUi(MainWindow)
         self.tabWidget.setCurrentIndex(0)
-        # self.centralwidget.destroyed.connect(self.sendData)
-        # MainWindow.destroyed.connect(self.sendData)
 
         QMetaObject.connectSlotsByName(MainWindow)
 
@@ -166,10 +173,29 @@ class Ui_MainWindow(QMainWindow):
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_5),
                                   QCoreApplication.translate("MainWindow", u"Settings", None))
 
-    # retranslateUi
+    def player_lookup(self):
+        self.create_lookup_thread(self.signals.PlayerSignal, self.dataLookup.playerLookup, self.NameEnterBox.text())
 
-    def test(self, dat):
-        print(dat)
+    def vehicle_lookup(self):
+        self.create_lookup_thread(self.signals.VehicleSignal, self.dataLookup.vehicleLookup, None)
+
+    def squadron_lookup(self):
+        self.create_lookup_thread(self.signals.SquadronSignal, self.dataLookup.squadLookup, None)
+
+    '''
+    called by signal PLayerSignal. this signal provides data about a specific player in format
+    '''
+    def player_update(self, data):
+        print(data)
+        print("player update called")
+
+    def create_lookup_thread(self, signal: Signal, func, data):
+        if self.lookup_thread_pool.activeThreadCount() < 1:
+            lookup_worker = LookupThread(func, signal, data)
+            self.lookup_thread_pool.start(lookup_worker)
+        else:
+            print("bad boy")
+
 
     def sendData(self, data: int):
         self.signals.data.emit(data)
@@ -185,17 +211,11 @@ class Ui_MainWindow(QMainWindow):
         # add tags
         self.Squad1Tag.setText(data["team1Tag"])
         self.Squad2Tag.setText(data["team2Tag"])
-        # print(data["team1Players"])
-        # print(data["team2Players"])
-        bold = f"<html><head/><body><p><span style=\" font-weight:700;\">Alive/span></p></body></html>"
         font = qtg.QFont()
         font.setBold(True)
         font.setPixelSize(16)
-        # font.setPixelSize(5)
-        # font.bold()
         t1: list = data["team1Players"]
         t2: list = data["team2Players"]
-
         for y, player in enumerate(data["team1Players"]):
             # add kills
             for x, val in enumerate([player.name, player.vehicle[1:-1], player.dead, player.kills]):
@@ -280,3 +300,19 @@ class Ui_MainWindow(QMainWindow):
         self.T1Vehicles.setText(f"Nations: {', '.join([nat for nat in list(t1_Nations.keys())])}")
         self.T2Vehicles.setText(f"Nations: {', '.join([nat for nat in list(t2_Nations.keys())])}")
 
+
+class LookupThread(QRunnable):
+    def __init__(self, fn, signal, data, *args, **kwargs):
+        super(LookupThread, self).__init__()
+
+        # Store constructor arguments (re-used for processing)
+        self.fn = fn
+        self.data = data
+        self.args = args
+        self.kwargs = kwargs
+        self.signal: Signal = signal
+
+    @Slot()
+    def run(self):
+        output = self.fn(self.data, self.signal)
+        # print(output)
