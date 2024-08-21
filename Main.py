@@ -16,8 +16,7 @@ class WorkerSignals(QObject):
     data = Signal(int)
 
     #From data fetcher
-    PlayerSignal = Signal(list)
-    VehicleSignal = Signal(list)
+    dataSignal = Signal(list)
     SquadronSignal = Signal(list)
 
 

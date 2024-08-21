@@ -4,6 +4,9 @@ import json
 from PySide6.QtCore import Signal
 import datetime
 import collections
+from rapidfuzz import process, fuzz
+
+import converter
 
 
 class Player:
@@ -43,6 +46,12 @@ initilizer and api to the database
 
 
 class Manager:
+    '''
+    both of these are used to reduce processing times by being read before querying database
+    for functions that need up-to-date name and vehicle info
+    by starting it as true it forced the table to always initialize the first time
+    '''
+    playersUpdated = True
     def __init__(self, ):
         # name of database file
         self.DB = "Data.db"
@@ -74,6 +83,7 @@ class Manager:
                 print("created Vehicles")
             else:
                 cursor.execute(f"SELECT * FROM {self.Vehicles}")
+                # fetched the current length of all vehicles, used for new vehicle assignment
                 self.VehicleSize = len(cursor.fetchall())
         # print(self.PlayerSize)
         # print(self.VehicleSize)
@@ -235,6 +245,8 @@ Player15);"""
             print(payload)
             try:
                 cursor.executemany(f"INSERT INTO {table} VALUES (?, ?)", payload)
+                if table == self.Players:
+                    self.playersUpdated = True
             except sqlite3.InternalError:
                 print("ERROR tried to add name to database that was already in it!")
             db.commit()
@@ -333,40 +345,42 @@ class PlayerQuery:
         self.Battles = "Battles"
         self.Players = "Players"
         self.Vehicles = "Vehicles"
+        self.playersList = []
+        self.vehicleList = []
 
-    def playerLookup(self, player: str, signal: Signal):
+    def dataLookup(self, data: str, signal: Signal):
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
             # gets id
-            cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{player}'")
-            output = cursor.fetchall()
-            if output.__len__() == 0:
+            cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{data[0]}'")
+            pid = cursor.fetchall()
+            cursor.execute(f"SELECT id FROM {self.Vehicles} WHERE vehicle = '{data[1]}'")
+            vid = cursor.fetchall()
+            if data[0] == "%":
+                pid = [["%"]]
+            elif pid.__len__() == 0:
                 signal.emit([-1])
                 return [-1]
 
+            if data[1] == "%":
+                vid = [["%"]]
+            elif len(vid) == 0:
+                signal.emit([-1])
+                return [-1]
             # this is done so that a players occurnace is place in the index of the list where that player
             # occured, used to help with faster parsing later
-            occur = [[] for _ in range(16)]
+            occur = [[], [], [[] for _ in range(16)]]
             for i in range(16):
-                cursor.execute(f"select * FROM {self.Battles} WHERE Player{i} LIKE '{output[0][0]};%'")
-                occur[i].extend(cursor.fetchall())
-            signal.emit([1, [player, output[0][0]], occur])
-            return [1, player, output[0][0], occur]
-
-
-    def vehicleLookup(self, vehicle: str, signal:Signal):
-        with sqlite3.connect(self.DB) as db:
-            cursor = db.cursor()
-            # gets id
-            cursor.execute(f"SELECT id FROM {self.Vehicles} WHERE vehicle = '{vehicle}'")
-            output = cursor.fetchall()
-            if output.__len__() == 0:
-                return -1
-            occur = []
-            for i in range(16):
-                cursor.execute(f"select * FROM {self.Battles} WHERE PLayer{i} LIKE '%;{output[0][0]};%;%'")
-                occur.extend(cursor.fetchall())
-            return occur
+                cursor.execute(f"select * FROM {self.Battles} WHERE Player{i} LIKE '{pid[0][0]};%;%;%' AND Player{i} LIKE '%;{vid[0][0]};%;%'")
+                for battle in cursor.fetchall():
+                    if battle[0] not in occur[0]:
+                        occur[0].append(battle[0])
+                        occur[1].append(battle)
+                        occur[2][i].append(occur[0].index(battle[0]))
+                    else:
+                        occur[2][i].append(occur[0].index(battle[0]))
+            signal.emit([1, [data, pid, vid], occur])
+            return [1, [data, pid, vid], occur]
 
     def squadLookup(self, squadron: str, signal:Signal):
         with sqlite3.connect(self.DB) as db:
@@ -384,7 +398,7 @@ class PlayerQuery:
     def convert(self, battle):
         payload = []
         [payload.append(x.split(";") if ";" in x else x) for x in battle[0: 4]]
-        [payload.append(x.split(",")) for x in battle[4:6]]
+        [payload.append([int(y) if y is not "" else "" for y in x.split(",")]) for x in battle[4:6]]
         players = []
         for player in battle[6:]:
             if player is None or player == "None":
@@ -400,6 +414,27 @@ class PlayerQuery:
             players.append([player, vehicle, isDead, kills.split(",")])
         payload.extend(players)
         return payload
+
+    '''
+    returns a list containing all player names:
+    '''
+    def getPlayerNames(self):
+        if Manager.playersUpdated is True:
+            with sqlite3.connect(self.DB) as db:
+                cursor = db.cursor()
+                cursor.execute(f"SELECT name FROM {self.Players}")
+                temp = cursor.fetchall()
+                self.playersList = [player[0] for player in temp]
+        return self.playersList
+
+    '''
+    returns a list containing all vehicle names
+    uses the dictonaries created in DataGet to get all vehicles.
+    uses this method instead of whats above in getPlayerNames b/c we already know all vehicles
+    '''
+    def getVehicleNames(self, dataget: converter.DataGet):
+        return dataget.nameToIGN.keys()
+
 
 
 if __name__ == "__main__":
