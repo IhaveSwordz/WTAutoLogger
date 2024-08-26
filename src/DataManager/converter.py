@@ -1,13 +1,14 @@
 import pandas as pd
 import json
 import os
+import sys
 # C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u
-tanks = "VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
-planes = "VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
-vehicleData = "VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx"
-vehicleCost = "VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx"
-
-# print("start")
+path = os.environ["PYTHONPATH"]
+# print("SYS: ", sys.path)
+tanks = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
+planes = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
+vehicleData = f"{path}/VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx"
+vehicleCost = f"{path}/VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx"
 
 
 class Vehicle:
@@ -115,7 +116,7 @@ class DataGet:
         # return self.nameToIGN.get(new_name)
 
     '''
-    given a internal name, will try and return the info about that vehicle
+    given a internal name, will try and return the info about that vehicle 
     '''
 
     def query_id(self, name: str):

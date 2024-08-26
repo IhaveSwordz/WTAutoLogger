@@ -1,12 +1,12 @@
 import sqlite3
-import re
 import json
 from PySide6.QtCore import Signal
 import datetime
 import collections
-from rapidfuzz import process, fuzz
+import os
 
-import converter
+from src.signals import Signals
+from src.DataManager import converter
 
 
 class Player:
@@ -52,9 +52,10 @@ class Manager:
     by starting it as true it forced the table to always initialize the first time
     '''
     playersUpdated = True
+    DB = f"{os.environ["PYTHONPATH"]}/src/Output/Data.db"
+
     def __init__(self, ):
         # name of database file
-        self.DB = "Data.db"
         # name of storage tables
         self.Battles = "Battles"
         self.Players = "Players"
@@ -190,8 +191,9 @@ Player15);"""
             return payload
 
     '''
-    method to batch get list of ids for each vehicle, if name not in database automatically adds it
+    method to batch get list of ids for each vehicle, if name not in database automatically adds it 
     '''
+    # TODO: change logging method to store internal vehicle name instead of displayed name to increase data survivability and multi language support
 
     def query_vehicles(self, names: list):
         with sqlite3.connect(self.DB) as db:
@@ -253,8 +255,11 @@ Player15);"""
             # values are only increased after SQL api call to ensure no errors cause fucky wuckys in count
             if table == self.Players:
                 self.PlayerSize += len(data)
+                Signals.signals.dataChange.emit(1)
+                Signals.signals.dataChange.emit(2)
             elif table == self.Vehicles:
                 self.VehicleSize += len(data)
+                Signals.signals.dataChange.emit(3)
 
     def addLog(self, battle_json):
         battle = Battle(battle_json, self)
@@ -338,15 +343,15 @@ class Battle:
 
 
 " a read only class whos use is to query data from the db to be used in UI info"
+
+
 class PlayerQuery:
     def __init__(self):
-        self.DB = "Data.db"
+        self.DB = Manager.DB
         # name of storage tables
         self.Battles = "Battles"
         self.Players = "Players"
         self.Vehicles = "Vehicles"
-        self.playersList = []
-        self.vehicleList = []
 
     def dataLookup(self, data: str, signal: Signal):
         with sqlite3.connect(self.DB) as db:
@@ -371,7 +376,9 @@ class PlayerQuery:
             # occured, used to help with faster parsing later
             occur = [[], [], [[] for _ in range(16)]]
             for i in range(16):
-                cursor.execute(f"select * FROM {self.Battles} WHERE Player{i} LIKE '{pid[0][0]};%;%;%' AND Player{i} LIKE '%;{vid[0][0]};%;%'")
+                cursor.execute(f"select * FROM {self.Battles} WHERE "
+                               f"Player{i} LIKE '{pid[0][0]};%;%;%'"
+                               f"AND Player{i} LIKE '%;{vid[0][0]};%;%'")
                 for battle in cursor.fetchall():
                     if battle[0] not in occur[0]:
                         occur[0].append(battle[0])
@@ -379,26 +386,29 @@ class PlayerQuery:
                         occur[2][i].append(occur[0].index(battle[0]))
                     else:
                         occur[2][i].append(occur[0].index(battle[0]))
+                #reversed the order of the list so most recent battles are processed first
+                occur[2][i] = occur[2][i][::-1]
             signal.emit([1, [data, pid, vid], occur])
             return [1, [data, pid, vid], occur]
 
-    def squadLookup(self, squadron: str, signal:Signal):
+    def squadLookup(self, squadron: str, signal: Signal):
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
             payload = [[], []]
             for i in range(2):
-                cursor.execute(f"select * FROM {self.Battles} WHERE Team{i+1}Tag LIKE '{squadron}'")
+                cursor.execute(f"select * FROM {self.Battles} WHERE Team{i + 1}Tag LIKE '{squadron}'")
                 payload[i].extend(cursor.fetchall())
             return payload
 
-    '''
+    ''' 
     converts a db battle with uid and vid into a human readable format (give you the player and vehicle name)
     returns the inpputed battle in the same format with all id's replaced by their db value and semi colons and colons seperated
     '''
+
     def convert(self, battle):
         payload = []
         [payload.append(x.split(";") if ";" in x else x) for x in battle[0: 4]]
-        [payload.append([int(y) if y is not "" else "" for y in x.split(",")]) for x in battle[4:6]]
+        [payload.append([int(y) if y != "" else "" for y in x.split(",")]) for x in battle[4:6]]
         players = []
         for player in battle[6:]:
             if player is None or player == "None":
@@ -416,30 +426,59 @@ class PlayerQuery:
         return payload
 
     '''
-    returns a list containing all player names:
+    returns a dict containing all player names, only done for seamlessness
     '''
+
     def getPlayerNames(self):
-        if Manager.playersUpdated is True:
-            with sqlite3.connect(self.DB) as db:
-                cursor = db.cursor()
-                cursor.execute(f"SELECT name FROM {self.Players}")
-                temp = cursor.fetchall()
-                self.playersList = [player[0] for player in temp]
-        return self.playersList
+        payload = {}
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            cursor.execute(f"SELECT name FROM {self.Players}")
+            temp = cursor.fetchall()
+            player_list = {player[0]: 1 for player in temp}
+        return player_list
 
     '''
-    returns a list containing all vehicle names
-    uses the dictonaries created in DataGet to get all vehicles.
-    uses this method instead of whats above in getPlayerNames b/c we already know all vehicles
+    returns a list containing all vehicle names with the value equaling appearance
     '''
-    def getVehicleNames(self, dataget: converter.DataGet):
-        return dataget.nameToIGN.keys()
 
+    def getVehicleNames(self):
+        payload = {}
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            cursor.execute(f"SELECT vehicle FROM {self.Vehicles}")
+            temp = cursor.fetchall()
+            vehicle_list = {vehicle[0]: 1 for vehicle in temp}
+
+        return vehicle_list
+
+    '''
+    used to get a list of all squadrons currently in bot
+    '''
+
+    def getAllSquads(self):
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            cursor.execute((f"select Team1Tag, Team2Tag from {self.Battles}"))
+            raw = cursor.fetchall()
+        payload = {}
+        for tags in raw:
+            for tag in tags:
+                if tag in payload.keys():
+                    payload[tag] += 1
+                else:
+                    payload.update({tag: 1})
+        stuff = {k: v for k, v in sorted(payload.items(), key=lambda item: item[1])}
+        sort = collections.OrderedDict(stuff)
+        # print(dict(list(sort.items())[::-1]))
+        return dict(list(sort.items())[::-1])
 
 
 if __name__ == "__main__":
     p = PlayerQuery()
-    out = p.playerLookup("IhaveSwordz")
+    # out = p.s("IhaveSwordz")
+    print(p.getAllSquads())
+    input()
     # occurs = p.vehicleLookup("2S38")
     # p.convert(occurs[0])
     data = p.squadLookup('%')
@@ -456,7 +495,7 @@ if __name__ == "__main__":
     print(collections.OrderedDict(stuff))
 
     input()
-    with open("newFile.json", "rb") as f:
+    with open("../Output/newFile.json", "rb") as f:
         manager = Manager()
         datz: dict = json.load(f)
         for dat in datz["battles"]:
@@ -464,5 +503,3 @@ if __name__ == "__main__":
                 manager.addLog(dat)
             else:
                 print(f"that battle with hash {dat["hash"]} already in there dumbass")
-
-

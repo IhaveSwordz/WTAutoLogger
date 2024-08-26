@@ -1,24 +1,17 @@
 import json
 import urllib.request
 import urllib.error
-from DataCollector import Battle
-from converter import DataGet
-import DatabaseManager
 import os
-import time
-
-from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
-                            QMetaObject, QObject, QPoint, QRect,
-                            QSize, QTime, QUrl, Qt, Signal, QThreadPool, QRunnable, Slot)
-from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
-                           QFont, QFontDatabase, QGradient, QIcon,
-                           QImage, QKeySequence, QLinearGradient, QPainter,
-                           QPalette, QPixmap, QRadialGradient, QTransform)
-from PySide6.QtWidgets import (QApplication, QCheckBox, QHeaderView, QLabel,
-                               QMainWindow, QSizePolicy, QTabWidget, QTableView,
-                               QWidget, QTableWidget, QTableWidgetItem)
 import sys
+import time
 import traceback
+
+from src.DataManager.DataCollector import Battle
+from src.signals import Signals
+from src.DataManager.converter import DataGet
+
+
+from PySide6.QtCore import (QRunnable, Slot)
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"
 GameOnURL = "http://localhost:8111/map_info.json"
@@ -40,25 +33,22 @@ it is set as a QRunnable to allow for easu threading using QT
 
 
 class Main(QRunnable):
-    def __init__(self, signals, *args, **kwargs):
+    def __init__(self, *args, **kwargs):
         super(Main, self).__init__()
-        print("init ran")
+        print("Starting Main")
         self.fn = self.mainLoop
         self.args = args
         self.kwargs = kwargs
-        self.signals = signals
-        self.dataGet = DataGet()
         self.Battle = Battle()
-        self.db_manager = DatabaseManager.Manager()
-        self.signals.data.connect(self.incoming)
+        Signals.signals.data.connect(self.incoming)
 
         self.do_run = False
         self.exit = False
-
-        if not os.path.exists("newFile.json"):
-            with open("newFile.json", "xb"):
+        p = os.environ["PYTHONPATH"]
+        if not os.path.exists(f"{p}/src/Output/newFile.json"):
+            with open(f"{p}/src/Output/newFile.json", "xb"):
                 pass
-            with open("newFile.json", "wb") as f:
+            with open(f"{p}/src/Output/newFile.json", "wb") as f:
                 f.write(b"{\"battles\" : []}")
                 print("created json storage file")
         else:
@@ -92,23 +82,7 @@ class Main(QRunnable):
     def log_file(self):
         print("logfile called")
         js = self.Battle.getJSON()
-        if not js['players']:
-            print("logfile aborted, bad log")
-            return
-        if js["hash"] is None:
-            print("logfile aborted, no Hash")
-            return
-        with open(saveFile, "rb") as f:
-            data: dict = json.load(f)
-        if self.db_manager.validate(js["hash"]):
-            self.db_manager.addLog(js)
-        if js["hash"] in [log["hash"] for log in data["battles"]]:
-            # print([log["hash"] for log in data["battles"]])
-            print("logfile aborted, similar hash found")
-            return
-        data["battles"].append(js)
-        with open(saveFile, "wb") as f:
-            f.write(bytes(json.dumps(data).encode("utf-8")))
+        Signals.signals.sql.emit(js)
         self.Battle = Battle()
 
     @staticmethod
@@ -163,9 +137,10 @@ class Main(QRunnable):
             self.Battle.update(i)
         # print("getData: ", self.Battle.getJSON())
         print(self.Battle)
-        self.signals.logs.emit(self.Battle.getData())
+        Signals.signals.logs.emit(self.Battle.getData())
 
     def mainLoop(self):
+        print("started main")
         recent = 0
         gameInSession = True
         count = timeout.__int__()
@@ -214,8 +189,10 @@ class Main(QRunnable):
                     if Main.getGameState():
                         gameInSession = True
             except urllib.error.URLError as e:
+                Signals.signals.condition.emit(0)
                 print("War thunder is not running")
-            # except Exception as e:
-            #     print(e)
-            #     print("unknown exception!!")
+            except Exception as e:
+                print("ERROR: ", e)
+                Signals.signals.error.emit([e, traceback.format_exc()])
+                self.exit = True
 

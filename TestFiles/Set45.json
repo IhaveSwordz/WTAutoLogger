@@ -1,0 +1,1189 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 481,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) destroyed ╈BofSs╉ flamingarrow46 (Ostwind II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 482,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 483,
+            "msg": "╈BofSs╉ CONFESSION (Tu-2S) destroyed ┾SADAF┿ -              - (Sd.Kfz.234/4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 484,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) critically damaged ╈BofSs╉ CONFESSION (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 485,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) set afire ╈BofSs╉ CONFESSION (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 486,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) severely damaged ╈BofSs╉ CONFESSION (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 487,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) shot down ╈BofSs╉ CONFESSION (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 488,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 489,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 490,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 491,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 492,
+            "msg": "┾SADAF┿ -LordDoom- (Panther D) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 249
+        },
+        {
+            "id": 493,
+            "msg": "┾SADAF┿ -LordDoom- (Panther D) destroyed ╈BofSs╉ ⋇Tag3389 (Panther D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 269
+        },
+        {
+            "id": 494,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 269
+        },
+        {
+            "id": 495,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 269
+        },
+        {
+            "id": 496,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) destroyed ╈BofSs╉ PAN_AM (Panther D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 497,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 498,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 499,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 500,
+            "msg": "┾SADAF┿ -LordDoom- (Panther D) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 278
+        },
+        {
+            "id": 501,
+            "msg": "╈BofSs╉ D3C1D3 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 502,
+            "msg": "D3C1D3td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 283
+        },
+        {
+            "id": 503,
+            "msg": "╈BofSs╉ ⋇Tag3389 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 504,
+            "msg": "⋇Tag3389td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 286
+        },
+        {
+            "id": 505,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) destroyed ╈BofSs╉ Schroedinger00 (T-34-85)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 506,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 288
+        },
+        {
+            "id": 507,
+            "msg": "╈BofSs╉ Guacamole21 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 508,
+            "msg": "Guacamole21td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 509,
+            "msg": "╈BofSs╉ flamingarrow46 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 510,
+            "msg": "flamingarrow46td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 295
+        },
+        {
+            "id": 511,
+            "msg": "╈BofSs╉ CONFESSION has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 512,
+            "msg": "CONFESSIONtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 300
+        },
+        {
+            "id": 513,
+            "msg": "╈BofSs╉ Kill_Da_Wabbits has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 514,
+            "msg": "Kill_Da_Wabbitstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 515,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 516,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 517,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 518,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 519,
+            "msg": "╈BofSs╉ Schroedinger00 (T-34-85) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 520,
+            "msg": "╈BofSs╉ Kill_Da_Wabbits (Spitfire) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 521,
+            "msg": "╈BofSs╉ PAN_AM (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 522,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 523,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 524,
+            "msg": "╈BofSs╉ CONFESSION (Tu-2S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 525,
+            "msg": "╈BofSs╉ flamingarrow46 (Ostwind II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 526,
+            "msg": "┾SADAF┿ -              - (Sd.Kfz.234/4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 527,
+            "msg": "╈BofSs╉ D3C1D3 (Spitfire) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 528,
+            "msg": "╈BofSs╉ ⋇Tag3389 (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 529,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 530,
+            "msg": "┾SADAF┿ ⋇Morey5408 (Bf 109 G) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 531,
+            "msg": "┾SADAF┿ -LordDoom- (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 532,
+            "msg": "┾SADAF┿ ⋇PowerHail377783 (Yak-3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 533,
+            "msg": "╈BofSs╉ Guacamole21 (Spitfire) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 534,
+            "msg": "╈BofSs╉ Guacamole21 (Spitfire) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 304
+        },
+        {
+            "id": 535,
+            "msg": "╈BofSs╉ PAN_AM has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 536,
+            "msg": "PAN_AMtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 537,
+            "msg": "┾SADAF┿ ⋇PowerHail377783 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 538,
+            "msg": "⋇PowerHail377783td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 539,
+            "msg": "┾SADAF┿ -              - has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 540,
+            "msg": "-              -td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 307
+        },
+        {
+            "id": 541,
+            "msg": "┾SADAF┿ ⋇Morey5408 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 542,
+            "msg": "⋇Morey5408td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 310
+        },
+        {
+            "id": 543,
+            "msg": "╖xTHCx╖ youssef_18 (ZSD63/PG87) critically damaged ┾SADAF┿ The_Floppy_Disk (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 75
+        },
+        {
+            "id": 544,
+            "msg": "╖xTHCx╖ youssef_18 (ZSD63/PG87) set afire ┾SADAF┿ The_Floppy_Disk (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 75
+        },
+        {
+            "id": 545,
+            "msg": "╖xTHCx╖ youssef_18 (ZSD63/PG87) severely damaged ┾SADAF┿ The_Floppy_Disk (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 75
+        },
+        {
+            "id": 546,
+            "msg": "╖xTHCx╖ youssef_18 (ZSD63/PG87) shot down ┾SADAF┿ The_Floppy_Disk (Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 82
+        },
+        {
+            "id": 547,
+            "msg": "╖xTHCx╖ UltimateKamikazE (Tu-2S) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 548,
+            "msg": "╖xTHCx╖ youssef_18 (ZSD63/PG87) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 83
+        },
+        {
+            "id": 549,
+            "msg": "╀TERRE╀ APCE_356 (␗Tu-2S) destroyed ┾SADAF┿ -LordDoom- (Panther D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 550,
+            "msg": "╀TERRE╀ APCE_356 (␗Tu-2S) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 91
+        },
+        {
+            "id": 551,
+            "msg": "╀TERRE╀ APCE_356 (␗Tu-2S) destroyed ┾SADAF┿ _Anatolia (Panther D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 128
+        },
+        {
+            "id": 552,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) critically damaged ╀TERRE╀ APCE_356 (␗Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 134
+        },
+        {
+            "id": 553,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) shot down ╀TERRE╀ APCE_356 (␗Tu-2S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 554,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 555,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 556,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 557,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 558,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 559,
+            "msg": "┾SADAF┿ timothy0614 (A7M2) set afire ╀TERRE╀ este_con (A7M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 151
+        },
+        {
+            "id": 560,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) severely damaged ╀TERRE╀ Bomber_man18 (A7M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 561,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) set afire ╀TERRE╀ Bomber_man18 (A7M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 155
+        },
+        {
+            "id": 562,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) shot down ╀TERRE╀ Bomber_man18 (A7M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 563,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 564,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 565,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 566,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 156
+        },
+        {
+            "id": 567,
+            "msg": "┾SADAF┿ timothy0614 (A7M2) critically damaged ╀TERRE╀ FockeLuffwaffle (Fw 190 D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 174
+        },
+        {
+            "id": 568,
+            "msg": "┾SADAF┿ timothy0614 (A7M2) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 177
+        },
+        {
+            "id": 569,
+            "msg": "┾SADAF┿ timothy0614 (A7M2) shot down ╀TERRE╀ FockeLuffwaffle (Fw 190 D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 570,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 571,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 572,
+            "msg": "╀TERRE╀ FockeLuffwaffle has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 573,
+            "msg": "FockeLuffwaffletd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 217
+        },
+        {
+            "id": 574,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) destroyed ╀TERRE╀ Sexy_Pilota (SUB-I-II)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 575,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 576,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 577,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 578,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 579,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 261
+        },
+        {
+            "id": 580,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) destroyed ╀TERRE╀ Pichula_hot (Panther D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 581,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 582,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x5\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 583,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 584,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 585,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) destroyed ╀TERRE╀ ovni2016tv (M4A2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 301
+        },
+        {
+            "id": 586,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 587,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 588,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 302
+        },
+        {
+            "id": 589,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) destroyed ╀TERRE╀ EL_ALEMANCO (KV-85)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 314
+        },
+        {
+            "id": 590,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 591,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 592,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"Teamwork: x6\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 593,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 594,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 595,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"Teamwork: x4\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 315
+        },
+        {
+            "id": 596,
+            "msg": "╀TERRE╀ Pichula_hot has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 597,
+            "msg": "Pichula_hottd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 598,
+            "msg": "╀TERRE╀ APCE_356 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 599,
+            "msg": "APCE_356td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 600,
+            "msg": "╀TERRE╀ este_con (A7M2) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 323
+        },
+        {
+            "id": 601,
+            "msg": "╀TERRE╀ este_con has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 602,
+            "msg": "este_contd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 603,
+            "msg": "╀TERRE╀ EL_ALEMANCO has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 604,
+            "msg": "EL_ALEMANCOtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 605,
+            "msg": "╀TERRE╀ ovni2016tv has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 606,
+            "msg": "ovni2016tvtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 333
+        },
+        {
+            "id": 607,
+            "msg": "╀TERRE╀ Bomber_man18 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 608,
+            "msg": "Bomber_man18td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 337
+        },
+        {
+            "id": 609,
+            "msg": "┾SADAF┿ _Anatolia (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 610,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 611,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 612,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 613,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 614,
+            "msg": "┾SADAF┿ The_Floppy_Disk (Tu-2S) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 615,
+            "msg": "╀TERRE╀ Bomber_man18 (A7M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 616,
+            "msg": "╀TERRE╀ FockeLuffwaffle (Fw 190 D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 617,
+            "msg": "┾SADAF┿ PandaMan0120 (SU-85M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 618,
+            "msg": "╀TERRE╀ este_con (A7M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 619,
+            "msg": "┾SADAF┿ Zatone (U-SH 204 GK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 620,
+            "msg": "┾SADAF┿ Zelio_Zar (A7M1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 621,
+            "msg": "┾SADAF┿ timothy0614 (A7M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 622,
+            "msg": "┾SADAF┿ ⋇DBADR3745 (Yak-3) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 623,
+            "msg": "╀TERRE╀ APCE_356 (␗Tu-2S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 624,
+            "msg": "╀TERRE╀ Sexy_Pilota (SUB-I-II) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 625,
+            "msg": "╀TERRE╀ Pichula_hot (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 626,
+            "msg": "┾SADAF┿ -LordDoom- (Panther D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 627,
+            "msg": "╀TERRE╀ EL_ALEMANCO (KV-85) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 628,
+            "msg": "╀TERRE╀ ovni2016tv (M4A2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        }
+    ]
+}

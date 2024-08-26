@@ -360,7 +360,7 @@ if __name__ == "__main__":
     # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
     # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    with open("TestFiles\Set43.json", "rb") as f:
+    with open("../../TestFiles/Set45.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]

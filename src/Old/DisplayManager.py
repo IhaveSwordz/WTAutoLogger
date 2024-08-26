@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 import collections
-import time
 
-from multiprocessing.dummy import Pool as ThreadPool
-import PySide6.QtGui
 ################################################################################
 # Form generated from reading UI file 'mainwindow.ui'
 #
@@ -12,28 +9,25 @@ import PySide6.QtGui
 # WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
 
-from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
-                            QMetaObject, QObject, QPoint, QRect,
-                            QSize, QTime, QUrl, Qt, Signal, QThreadPool, QRunnable, Slot)
-from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
-                           QFont, QFontDatabase, QGradient, QIcon,
-                           QImage, QKeySequence, QLinearGradient, QPainter,
-                           QPalette, QPixmap, QRadialGradient, QTransform, QRawFont, QTextCharFormat)
-from PySide6.QtWidgets import (QApplication, QCheckBox, QHeaderView, QLabel,
-                               QMainWindow, QSizePolicy, QTabWidget, QTableView,
-                               QWidget, QTableWidget, QTableWidgetItem, QTextBrowser, QLineEdit, QPushButton,
-                               QListWidget, QListView, QListWidgetItem)
+from PySide6.QtCore import (QCoreApplication, QMetaObject, QRect,
+                            Qt, Signal, QThreadPool, QRunnable, Slot)
+from PySide6.QtGui import (QColor)
+from PySide6.QtWidgets import (QCheckBox, QLabel,
+                               QMainWindow, QTabWidget, QWidget, QTableWidget, QTableWidgetItem, QLineEdit, QPushButton,
+                               QListWidget, QListWidgetItem)
 
-from DataCollectorManager import Main
+from src.DataManager.DataCollectorManager import Main
 import PySide6.QtGui as qtg
-import sys
-import traceback
-from converter import Vehicle, DataGet
-from DatabaseManager import PlayerQuery
+from src.DataManager.converter import Vehicle, DataGet
+from src.DataManager.DatabaseManager import PlayerQuery
 from rapidfuzz import process
 from multiprocessing.dummy import Pool as ThreadPool
 
 class Ui_MainWindow(QMainWindow):
+    DEFAULT_RATIO = [1000, 600]
+    MIN_RATIO = 0.5
+    MAX_RATIO = 1.5
+    TabWidgetSize = [1000, 600]
     def setupUi(self, MainWindow: QMainWindow, signals):
         self.converter = DataGet()
         self.dataLookup = PlayerQuery()
@@ -45,7 +39,6 @@ class Ui_MainWindow(QMainWindow):
         self.centralwidget.setObjectName(u"centralwidget")
         self.tabWidget = QTabWidget(self.centralwidget)
         self.tabWidget.setObjectName(u"tabWidget")
-        self.tabWidget.setGeometry(QRect(0, 0, 1000, 600))
         self.tab = QWidget()
 
         self.threadpool = QThreadPool()
@@ -154,6 +147,17 @@ class Ui_MainWindow(QMainWindow):
         self.vehicleUpdateButton.setText("update")
         self.vehicleUpdateButton.clicked.connect(self.vehicleListUpdate)
 
+        self.squadronEnterEnable = QCheckBox(self.tab_2)
+        self.squadronEnterEnable.setGeometry(QRect(90, 305, 20, 20)) #295
+        self.squadronEnterText = QLabel(self.tab_2)
+        self.squadronEnterText.setGeometry(QRect(110, 305, 160, 20))
+        self.squadronEnterText.setText("Squadron Search")
+        self.squadronUpdateButton = QPushButton(self.tab_2)
+        self.squadronUpdateButton.setGeometry(QRect(20, 305, 60, 20))
+        self.squadronUpdateButton.setText("update")
+        self.squadronUpdateButton.clicked.connect(self.squadronListUpdate)
+
+
         self.ActiveLookupName = QPushButton(self.tab_2)
         self.ActiveLookupName.setText("Lookup")
         self.ActiveLookupName.setGeometry(QRect(offset*2+20+150, 15, 75, 25))
@@ -165,7 +169,7 @@ class Ui_MainWindow(QMainWindow):
         # player box, hidden if nameEnterEnable not enabled
         self.playerBox = QWidget(self.tab_2)
         self.playerBox.hide()
-        self.playerBox.setGeometry(QRect(20, 45, 200, 500))
+        self.playerBox.setGeometry(QRect(20, 45, 200, 250))
         self.playerBox.setAutoFillBackground(True)
         self.NameEnterBox = QLineEdit(self.playerBox)
         self.NameEnterBox.setGeometry(QRect(10, 10, 180, 25))
@@ -175,16 +179,27 @@ class Ui_MainWindow(QMainWindow):
 
         self.vehicleBox = QWidget(self.tab_2)
         self.vehicleBox.hide()
-        self.vehicleBox.setGeometry(QRect(offset+20, 45, 200, 500))
+        self.vehicleBox.setGeometry(QRect(offset+20, 45, 200, 250))
         self.vehicleBox.setAutoFillBackground(True)
         self.vehicleEnterBox = QLineEdit(self.vehicleBox)
         self.vehicleEnterBox.setGeometry(QRect(10, 10, 180, 25))
         self.vehicleListing = QListWidget(self.vehicleBox)
         self.vehicleListing.setGeometry(QRect(10, 40, 180, 200))
 
+        self.squadronBox = QWidget(self.tab_2)
+        self.squadronBox.hide()
+        self.squadronBox.setGeometry(QRect(20 ,330 ,200 ,250))
+        self.squadronBox.setAutoFillBackground(True)
+        self.squadronEnterBox = QLineEdit(self.squadronBox)
+        self.squadronEnterBox.setGeometry(QRect(10, 10, 180, 25))
+        self.squadronListing = QListWidget(self.squadronBox)
+        self.squadronListing.setGeometry(QRect(10, 40, 180, 200))
+
+
 
         self.nameEnterEnable.stateChanged.connect(lambda inc: self.playerBox.show() if inc == 2 else self.playerBox.hide())
         self.vehicleEnterEnable.stateChanged.connect(lambda inc: self.vehicleBox.show() if inc == 2 else self.vehicleBox.hide())
+        self.squadronEnterEnable.stateChanged.connect(lambda inc: self.squadronBox.show() if inc == 2 else self.squadronBox.hide())
 
 
         self.dataBox = QWidget(self.tab_2)
@@ -205,6 +220,11 @@ class Ui_MainWindow(QMainWindow):
         self.vehicleNameTable.setColumnCount(3)
         self.vehicleNameTable.setHorizontalHeaderLabels(["Vehicle", "Count", "Type"])
         self.vehicleNameTable.setRowCount(1)
+        self.vehicleNameTable.horizontalHeader()
+        self.vehicleNameTable.verticalHeader().setDefaultSectionSize(20)
+        self.vehicleNameTable.setColumnWidth(0, 120)
+        self.vehicleNameTable.setColumnWidth(1, 40)
+        self.vehicleNameTable.setColumnWidth(2, 80)
 
         #self.VehicleEnterBox = QLineEdit(self.tab_2)
         #self.VehicleEnterBox.setGeometry(QRect(210, 45, 180, 25))
@@ -288,9 +308,22 @@ class Ui_MainWindow(QMainWindow):
         self.retranslateUi(MainWindow)
         self.tabWidget.setCurrentIndex(0)
 
+        self.signals.sizeSignal.connect(self.updateSize)
         QMetaObject.connectSlotsByName(MainWindow)
 
-    # setupUi
+    '''
+    this is used to handle the event that is called when the window is resized
+    called by the signal xxx
+    actually event handle in main, uses signal to call this
+    
+    '''
+    def updateSize(self, size):
+        width = size[0]
+        height = size[1]
+        widthRatio = width/self.DEFAULT_RATIO[1]
+        heightRatio = height/self.DEFAULT_RATIO[1]
+        self.tabWidget.setGeometry(QRect(0, 0, self.TabWidgetSize[0]*widthRatio, self.TabWidgetSize[1]*heightRatio))
+
 
     def retranslateUi(self, MainWindow):
         '''
@@ -322,6 +355,7 @@ class Ui_MainWindow(QMainWindow):
     def data_lookup(self):
         player = self.playerListing.selectedItems()
         vehicle = self.vehicleListing.selectedItems()
+        squadron = self.squadronListing.selectedItems()
         if not player or player[0].text() == "Any":
             player = "%"
         else:
@@ -330,7 +364,11 @@ class Ui_MainWindow(QMainWindow):
             vehicle = "%"
         else:
             vehicle = vehicle[0].text()
-        self.create_lookup_thread(self.signals.dataSignal, self.dataLookup.dataLookup, [player, vehicle])
+        if not squadron or squadron[0].text() == "Any":
+            squadron = "%"
+        else:
+            squadron = squadron[0].text()
+        self.create_lookup_thread(self.signals.dataSignal, self.dataLookup.dataLookup, [player, vehicle, squadron])
 
     def squadron_lookup(self):
         self.create_lookup_thread(self.signals.SquadronSignal, self.dataLookup.squadLookup, None)
@@ -381,6 +419,25 @@ class Ui_MainWindow(QMainWindow):
                 item.setText(name)
                 self.vehicleListing.insertItem(index+1, item)
 
+    def squadronListUpdate(self):
+        squadron = self.squadronEnterBox.text()
+        all_squdrons = self.dataLookup.getAllSquads()
+        self.squadronListing.clear()
+        if squadron != "":
+            checker = process.extract(squadron, all_squdrons.keys(), limit=1000, score_cutoff=50)
+            for index, val in enumerate(checker):
+                item = QListWidgetItem()
+                item.setText(val[0])
+                self.squadronListing.insertItem(index, item)
+        else:
+            item = QListWidgetItem()
+            item.setText("Any")
+            self.squadronListing.insertItem(0, item)
+            for index, name in enumerate(all_squdrons):
+                item = QListWidgetItem()
+                item.setText(name)
+                self.squadronListing.insertItem(index+1, item)
+
     '''
     called by signal PLayerSignal. 
     used to update player lookup display with relevant information
@@ -405,12 +462,24 @@ class Ui_MainWindow(QMainWindow):
         teamkills = 0
         vehicles = {}
         players = {}
+        squadrons = {}
         kills = 0
         battles = len(clean_data)
         for index, battle_ids in enumerate(data[2][2]):
             for idz in battle_ids:
                 battle = clean_data[idz]
+                if battle[index+6] is None:
+                    continue
                 player, vehicle, death, kill = battle[index+6]
+                # print(player)
+                squadron = None
+                if index in battle[4]:
+                    squadron = battle[2]
+                else:
+                    squadron = battle[3]
+                if data[1][0][2] != squadron and data[1][0][2] != "%":
+                    print("bad squadron: " + squadron)
+                    continue
                 if death == "0":
                     deaths += 1
                 if kill[0] != '':
@@ -423,6 +492,10 @@ class Ui_MainWindow(QMainWindow):
                     players[player] += 1
                 else:
                     players.update({player: 1})
+
+                if player not in squadrons.keys():
+                    squadrons.update({player: squadron})
+
         self.playerNameTable.clear()
         self.playerNameTable.setRowCount(len(players))
         self.playerNameTable.setHorizontalHeaderLabels(["Player", "Count", "Squadron"])
@@ -437,9 +510,13 @@ class Ui_MainWindow(QMainWindow):
             co = QTableWidgetItem()
             co.setFlags(Qt.ItemFlag.ItemIsEditable)
             co.setText(str(count))
+
+            squad = QTableWidgetItem()
+            squad.setFlags(Qt.ItemFlag.ItemIsEditable)
+            squad.setText(squadrons[player])
             self.playerNameTable.setItem(index, 0, name)
             self.playerNameTable.setItem(index, 1, co)
-
+            self.playerNameTable.setItem(index, 2, squad)
 
         self.vehicleNameTable.clear()
         self.vehicleNameTable.setRowCount(len(vehicles))
