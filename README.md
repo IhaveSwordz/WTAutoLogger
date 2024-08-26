@@ -15,6 +15,7 @@ This uses the UI development framework QT through the Pyside6 python module
  - Look up a squadrons statistics and how they compare to another squadron (ie: their w/l record (this is still in dev))
 - needs a lot of general exception handling and crashfile creation
 - finish up and create different tabs
+- makes sure the environment works outside my .venv and path variables
 
 
 
