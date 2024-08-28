@@ -10,12 +10,13 @@ class Signals_u(QObject):
      # used to send data to be displayed
     logs = Signal(dict)
      # s
-    sql = Signal(list)
+    sql = Signal(dict)
 
     # used in converter.py to signify that data has changed / been updated
     # the int signifies what has changed
     dataChange = Signal(int)
-
+    # <English>";"<French>";"<Italian>";"<German>";"<Spanish>";"<Russian>";"<Polish>";"<Czech>";"<Turkish>";"<Chinese>";"<Japanese>";"<Portuguese>";"<Ukrainian>";"<Serbian>";"<Hungarian>";"<Korean>";"<Belarusian>";"<Romanian>";"<TChinese>";"<HChinese>";"<Vietnamese>"
+    language = Signal(int)
 
     # to bot
     data = Signal(int)

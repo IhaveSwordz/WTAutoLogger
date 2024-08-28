@@ -5,6 +5,7 @@ import os
 import sys
 import time
 import traceback
+import copy
 
 from src.DataManager.DataCollector import Battle
 from src.signals import Signals
@@ -81,9 +82,10 @@ class Main(QRunnable):
 
     def log_file(self):
         print("logfile called")
-        js = self.Battle.getJSON()
-        Signals.signals.sql.emit(js)
+        js = copy.deepcopy(self.Battle.getJSON())
+        Signals.signals.sql.emit(copy.deepcopy(self.Battle.getJSON()))
         self.Battle = Battle()
+
 
     @staticmethod
     def GetGameData():
@@ -196,3 +198,7 @@ class Main(QRunnable):
                 Signals.signals.error.emit([e, traceback.format_exc()])
                 self.exit = True
 
+
+class jsonData:
+    def __init__(self, js):
+        self.js = js

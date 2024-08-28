@@ -8,6 +8,7 @@ from src.DataManager.DataCollectorManager import Main
 from src.DataManager import DatabaseManager
 from src.signals import Signals
 from src.QThreader import Thread
+
 '''
 handle thread creation and error handling for DataCollectorManager.py
 '''
@@ -32,10 +33,11 @@ class DataCollectorHandler:
     after 3 attempts writes localhost to file along with error for analysis
     
     '''
+
     def error_handler(self, error: list):
         print(error)
         # gives it 3 tries, and if it fails writes a log file
-        if self.errors < 1:
+        if self.errors < 3:
             self.errors += 1
             # time.sleep(10)
             Thread.use_thread(Main)
@@ -53,7 +55,6 @@ class DataCollectorHandler:
                 f.write(bytes(json.dumps(payload).encode("utf-8")))
         #TODO: finish setting up error handling so that after timeout thing is still restarted at appropriate time
 
-
     def sql_logging(self, js):
         if not js['players']:
             print("logfile aborted, bad log")
@@ -64,11 +65,13 @@ class DataCollectorHandler:
         with open(self.saveFile, "rb") as f:
             data: dict = json.load(f)
         if self.db_manager.validate(js["hash"]):
+            print("logging battle in db")
             self.db_manager.addLog(js)
         if js["hash"] in [log["hash"] for log in data["battles"]]:
             # print([log["hash"] for log in data["battles"]])
             print("logfile aborted, similar hash found")
             return
+        print("logging battle in json file")
         data["battles"].append(js)
         with open(self.saveFile, "wb") as f:
             f.write(bytes(json.dumps(data).encode("utf-8")))

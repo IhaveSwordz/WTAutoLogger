@@ -1,0 +1,7 @@
+modify logging to create a blank player in format -1;(-1 or -2 if full airteam confirmed already);0;
+create PVSLookup
+create squadronLookup
+create dataEditor
+create settings
+fix logging critical hits as death (and fix me having to do that in the first place)
+add a time period check (so you can check stats from x to x)

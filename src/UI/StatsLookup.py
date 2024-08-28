@@ -8,6 +8,7 @@ from src.DataManager.DatabaseManager import PlayerQuery
 from src.QThreader import Thread
 from src.signals import Signals
 from multiprocessing.dummy import Pool as ThreadPool
+from src.DataManager.converter import DataGet
 
 
 class Display(QWidget):
@@ -29,7 +30,7 @@ class Display(QWidget):
         self.vehicle_lookup.setGeometry(QRect(240, 20, 200, 260))
         self.squadron_lookup.setGeometry(QRect(20, 300, 200, 260))
         self.activate_button.setGeometry(QRect(500, 15, 75, 25))
-        self.lookup.setGeometry(QRect(480, 20, 530, 500))
+        self.lookup.setGeometry(QRect(480, 50, 530, 500))
 
     @Slot()
     def pr(self, data, *args, **kwargs):
@@ -128,9 +129,10 @@ class Lookup(QWidget):
 
 
 class InfoDisplay(QWidget):
-    def __init__(self, data_lookup, parent):
+    def __init__(self, data_lookup: PlayerQuery, parent):
         super().__init__(parent)
         self.data_lookup = data_lookup
+        self.conv = DataGet()
         self.setAutoFillBackground(True)
 
         self.playerNameTable = QTableWidget(self)
@@ -156,10 +158,9 @@ class InfoDisplay(QWidget):
         self.playerNameText = QLabel(self)
         self.playerNameText.setText("Player: ")
 
-        # self.squadron = QLabel(self)
-        # self.squadronText = QLabel(self)
-        # self.squadronText.setText("Squadron: ")
-        # TODO: get squadron text placed to match with player and vehicle
+        self.squadron = QLabel(self)
+        self.squadronText = QLabel(self)
+        self.squadronText.setText("Squadron: ")
 
         self.playerVehicle = QLabel(self)
         self.playerVehicleText = QLabel(self)
@@ -175,6 +176,9 @@ class InfoDisplay(QWidget):
         self.playerKillsText.setText("Kills:")
         self.playerKills = QLabel(self)
 
+        self.teamKillsText = QLabel(self)
+        self.teamKillsText.setText("Team Kills:")
+        self.teamKills = QLabel(self)
 
         self.playerDeathsText = QLabel(self)
         self.playerDeathsText.setText("Deaths:")
@@ -195,16 +199,20 @@ class InfoDisplay(QWidget):
 
         self.playerName.setGeometry(QRect(85, 0, 150, 25))
         self.playerNameText.setGeometry(QRect(10, 0, 150, 25))
-        self.playerVehicle.setGeometry(QRect(85, 30, 150, 25))
-        self.playerVehicleText.setGeometry(QRect(10, 30, 150, 25))
-        self.playerKDText.setGeometry(QRect(10, 60, 200, 25))
-        self.playerKD.setGeometry(QRect(85, 60, 200, 25))
-        self.playerKillsText.setGeometry(QRect(10, 90, 200, 25))
-        self.playerKills.setGeometry(QRect(85, 90, 200, 25))
-        self.playerDeathsText.setGeometry(QRect(10, 120, 200, 25))
-        self.playerDeaths.setGeometry(QRect(85, 120, 200, 25))
-        self.playerBattlesText.setGeometry(QRect(10, 180, 200, 25))
-        self.playerBattles.setGeometry(QRect(85, 180, 200, 25))
+        self.squadron.setGeometry(QRect(85, 30, 150, 25))
+        self.squadronText.setGeometry(QRect(10, 30, 150, 25))
+        self.playerVehicle.setGeometry(QRect(85, 60, 150, 25))
+        self.playerVehicleText.setGeometry(QRect(10, 60, 150, 25))
+        self.playerKDText.setGeometry(QRect(10, 90, 200, 25))
+        self.playerKD.setGeometry(QRect(85, 90, 200, 25))
+        self.playerKillsText.setGeometry(QRect(10, 120, 200, 25))
+        self.playerKills.setGeometry(QRect(85, 120, 200, 25))
+        self.teamKillsText.setGeometry(QRect(10, 150, 200, 25))
+        self.teamKills.setGeometry(QRect(85, 150, 200, 25))
+        self.playerDeathsText.setGeometry(QRect(10, 180, 200, 25))
+        self.playerDeaths.setGeometry(QRect(85, 180, 200, 25))
+        self.playerBattlesText.setGeometry(QRect(10, 210, 200, 25))
+        self.playerBattles.setGeometry(QRect(85, 210, 200, 25))
 
     '''
     [1, [data, pid, vid], occur]
@@ -222,7 +230,7 @@ class InfoDisplay(QWidget):
         print("data process inital")
         squadron = None
         deaths = 0
-        teamkills = 0
+        team_kills = 0
         vehicles = {}
         players = {}
         squadrons = {}
@@ -238,8 +246,22 @@ class InfoDisplay(QWidget):
                 squadron = None
                 if index in battle[4]:
                     squadron = battle[2]
+                    for k in kill:
+                        if k == '':
+                            continue
+                        print(k, index)
+                        k = int(k)
+                        if k in battle[4] and k != index:
+                            team_kills += 1
                 else:
                     squadron = battle[3]
+                    for k in kill:
+                        if k == '':
+                            continue
+
+                        k = int(k)
+                        if k in battle[5] and k != index:
+                            team_kills += 1
                 if data[1][0][2] != squadron and data[1][0][2] != "%":
                     print("bad squadron: " + squadron)
                     continue
@@ -290,7 +312,7 @@ class InfoDisplay(QWidget):
         for index, (player, count) in enumerate(list(vehicle_sorted.items())[::-1]):
             name = QTableWidgetItem()
             name.setFlags(Qt.ItemFlag.ItemIsEditable)
-            name.setText(player)
+            name.setText(self.conv.query_id(player[:-2]))
 
             co = QTableWidgetItem()
             co.setFlags(Qt.ItemFlag.ItemIsEditable)
@@ -303,13 +325,17 @@ class InfoDisplay(QWidget):
         vehicle = "Any" if vehicle == "%" else vehicle
         self.playerName.setText(name)
         self.playerVehicle.setText(vehicle)
+        self.squadron.setText(data[1][0][2])
         self.playerKD.setText(str(round(kills / deaths, 5)))
         self.playerKills.setText(str(kills))
         self.playerDeaths.setText(str(deaths))
+        self.teamKills.setText(str(team_kills))
         self.playerBattles.setText(str(battles))
+
         print(players)
         print(vehicles)
         print(kills)
+        print(team_kills)
         print(deaths)
         print(battles)
 

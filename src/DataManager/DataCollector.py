@@ -2,6 +2,7 @@ import json
 import unicodedata
 import datetime
 import hashlib
+import urllib.request
 # from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
@@ -357,10 +358,10 @@ class Battle:
 
 if __name__ == "__main__":
     # print("weee")
-    # with urllib.request.urlopen(URL) as f:
+    with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
     # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    with open("../../TestFiles/Set45.json", "rb") as f:
+    # with open("../../TestFiles/Set45.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]

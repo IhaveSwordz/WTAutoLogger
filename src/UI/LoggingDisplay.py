@@ -4,6 +4,7 @@ from PySide6.QtCore import Qt, QRect
 from PySide6.QtGui import QFont, QPalette, QTextItem
 from src.signals import Signals
 from src.DataManager.converter import DataGet, Vehicle
+import re
 
 
 '''
@@ -122,7 +123,7 @@ class TeamDisplay(QWidget):
 
             name, vehicle, is_dead, kills = player.name, player.vehicle[1:-1], player.dead, player.kills
             if not player.badPlayer:
-                is_dead = "ALive" if is_dead is True else "Dead"
+                is_dead = "Alive" if is_dead is True else "Dead"
                 temp = []
                 for kill in kills:
                     if kill in player_info[0]:
@@ -137,9 +138,17 @@ class TeamDisplay(QWidget):
             for y, v in enumerate([name, vehicle, is_dead, kills]):
                 if player.badPlayer:
                     v = ""
-                item = self.item(v)
+                item = self.item(self.clean_vehicle_name(v))
                 if y == 2 and v == "Alive":
                     item.setFont(self.f_large)
-                self.dataBox.setItem(y, x, item)
+                self.dataBox.setItem(x, y, item)
 
 
+    def clean_vehicle_name(self, name):
+        if name is None:
+            return ""
+        name = re.sub(r'[▅▄◔◄␗▃▂▄▄◐▀␠◗◘◊○◌]', '', name)
+        name = re.sub(r'\u00a0', ' ', name)  # Replace non-breaking spaces with regular spaces
+        name = re.sub(r'\s+', ' ', name)  # Replace multiple spaces with a single space
+        name = re.sub(r':flag_\w+:\s*', '', name).strip()  # Remove flags
+        return name

@@ -4,7 +4,8 @@ from PySide6.QtCore import Signal
 import datetime
 import collections
 import os
-
+import sys
+print(sys.path)
 from src.signals import Signals
 from src.DataManager import converter
 
@@ -57,6 +58,7 @@ class Manager:
     def __init__(self, ):
         # name of database file
         # name of storage tables
+        self.conv = converter.DataGet()
         self.Battles = "Battles"
         self.Players = "Players"
         self.Vehicles = "Vehicles"
@@ -196,6 +198,7 @@ Player15);"""
     # TODO: change logging method to store internal vehicle name instead of displayed name to increase data survivability and multi language support
 
     def query_vehicles(self, names: list):
+        # names = [self.conv.query_name(name[:-2]) for name in names] # translates any incoming name to internal name
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
             payload = []
@@ -227,7 +230,7 @@ Player15);"""
                 payload.extend(output[0])
                 if not output:
                     raise Exception(f"attempted to access id out of bounds. id: {idz}, global: {self.VehicleSize}")
-            return payload
+            return [self.conv.query_id(x) for x in payload]
 
     """
     method to batch add simple data (player and vehicle) to the database
@@ -262,7 +265,7 @@ Player15);"""
                 Signals.signals.dataChange.emit(3)
 
     def addLog(self, battle_json):
-        battle = Battle(battle_json, self)
+        battle = Battle(battle_json, self, self.conv)
         battle.convert()
         # print(battle.Team1Tag, battle.Team2Tag)
         sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.time}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
@@ -287,11 +290,12 @@ Player15);"""
 
 
 class Battle:
-    def __init__(self, battle: dict, man: Manager):
+    def __init__(self, battle: dict, man: Manager, conv):
         # try:
         self.man: Manager = man
         self.hash = battle["hash"]
         self.time = battle["time"]
+        self.conv = conv
 
         # year, month, day = self.hash[0:4], self.hash[4:6], self.hash[6:8]
         # self.time = f'{year};{month};{day};;'
@@ -330,7 +334,7 @@ class Battle:
         vehicles = []
         for player in self.players:
             names.append(player.name)
-            vehicles.append(player.vehicle)
+            vehicles.append(self.conv.query_name(player.vehicle))
 
         # print(names, vehicles)
         names = self.man.query_players(names)
@@ -348,6 +352,7 @@ class Battle:
 class PlayerQuery:
     def __init__(self):
         self.DB = Manager.DB
+        self.conv = converter.DataGet()
         # name of storage tables
         self.Battles = "Battles"
         self.Players = "Players"
@@ -359,19 +364,20 @@ class PlayerQuery:
             # gets id
             cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{data[0]}'")
             pid = cursor.fetchall()
-            cursor.execute(f"SELECT id FROM {self.Vehicles} WHERE vehicle = '{data[1]}'")
-            vid = cursor.fetchall()
+            if data[1] == "%":
+                vid = [["%"]]
+            else:
+                cursor.execute(f"SELECT id FROM {self.Vehicles} WHERE vehicle = '{self.conv.query_name(data[1])}'")
+                vid = cursor.fetchall()
+                if len(vid) == 0:
+                    signal.emit([-1])
+                    return [-1]
             if data[0] == "%":
                 pid = [["%"]]
             elif pid.__len__() == 0:
                 signal.emit([-1])
                 return [-1]
 
-            if data[1] == "%":
-                vid = [["%"]]
-            elif len(vid) == 0:
-                signal.emit([-1])
-                return [-1]
             # this is done so that a players occurnace is place in the index of the list where that player
             # occured, used to help with faster parsing later
             occur = [[], [], [[] for _ in range(16)]]
@@ -448,11 +454,12 @@ class PlayerQuery:
             cursor = db.cursor()
             cursor.execute(f"SELECT vehicle FROM {self.Vehicles}")
             temp = cursor.fetchall()
-            vehicle_list = {vehicle[0]: 1 for vehicle in temp}
+            vehicle_list = {self.conv.query_id(vehicle[0][:-2]): 1 for vehicle in temp}
 
         return vehicle_list
 
     '''
+    WOMP WOMP
     used to get a list of all squadrons currently in bot
     '''
 
