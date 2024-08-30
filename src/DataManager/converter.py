@@ -1,11 +1,12 @@
 import pandas as pd
 import json
-import os
+import sys
 
 from src.signals import Signals
-import sys
+from src.Path import Path
+
 # C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u
-path = os.environ["PYTHONPATH"]
+path = Path.path
 # print("SYS: ", sys.path)
 tanks = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
 planes = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
@@ -87,9 +88,13 @@ class Vehicle:
 class DataGet:
     nameToIGN = {}
     IGNtoname = {}
+    langauge = -1
     def __init__(self):
         Signals.signals.language.connect(self.set_language)
-        self.set_language(1)
+        # TODO: read from a file or something that stores previous info (i.e. language selected)
+        if self.langauge != 1:
+            self.set_language(1)
+            self.langauge = 1
 
     '''
     given a vehicle name, will try to find the internal name
@@ -110,7 +115,7 @@ class DataGet:
     '''
 
     def query_id(self, name: str):
-        print(name)
+
         return self.IGNtoname[name]
 
     def set_language(self, language_index):
@@ -120,7 +125,7 @@ class DataGet:
         with open(vehicleData, "rb") as f:
             dat: dict = json.load(f)
         keys = dat.keys()
-        with open(f"{os.environ["PYTHONPATH"]}/VehicleParser/War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "r", encoding="utf-8") as f:
+        with open(f"{path}/VehicleParser/War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "r", encoding="utf-8") as f:
             temp = f.read().split("\n")
             data = [[z[1:-1] for z in d.split(";")] for d in temp]
             d = pd.DataFrame(data)
