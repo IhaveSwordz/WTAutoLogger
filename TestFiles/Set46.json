@@ -1,0 +1,1093 @@
+{
+  "events": [],
+  "damage": [
+    {
+      "id": 961,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) critically damaged \u253eBKF54\u253f Ol Painless (Spitfire)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 215
+    },
+    {
+      "id": 962,
+      "msg": "\u253eBKF54\u253f MorkDeOrk has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 220
+    },
+    {
+      "id": 963,
+      "msg": "MorkDeOrktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 220
+    },
+    {
+      "id": 964,
+      "msg": "\u253eBKF54\u253f notshmoo has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 221
+    },
+    {
+      "id": 965,
+      "msg": "notshmootd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 221
+    },
+    {
+      "id": 966,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) shot down \u253eBKF54\u253f Ol Painless (Spitfire)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 222
+    },
+    {
+      "id": 967,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 968,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (KV-1E) has achieved \"Teamwork: x5\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 969,
+      "msg": "\u253eSADAF\u253f Zatone (SU-85) has achieved \"Teamwork: x3\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 970,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 971,
+      "msg": "\u253eBKF54\u253f Kurt_69 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 972,
+      "msg": "Kurt_69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 223
+    },
+    {
+      "id": 973,
+      "msg": "\u253eBKF54\u253f The Snail Messiah has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 230
+    },
+    {
+      "id": 974,
+      "msg": "The Snail Messiahtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 230
+    },
+    {
+      "id": 975,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 234
+    },
+    {
+      "id": 976,
+      "msg": "Tactical_Nuketd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 234
+    },
+    {
+      "id": 977,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 978,
+      "msg": "\u253eBKF54\u253f Lilrayman97 (M4A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 979,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 980,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (KV-1E) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 981,
+      "msg": "\u253eSADAF\u253f Zatone (SU-85) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 982,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (T18B (57)) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 983,
+      "msg": "\u253eBKF54\u253f Ol Painless (Spitfire) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 984,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) has delivered the final blow!",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 985,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 986,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 987,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Heavy Metal Fury\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 988,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 989,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 990,
+      "msg": "\u253eSADAF\u253f -LordDoom- (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 991,
+      "msg": "\u253eBKF54\u253f NuttyOmelette (Jagdpanzer IV) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 992,
+      "msg": "\u253eBKF54\u253f Kurt_69 (M4A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 993,
+      "msg": "\u253eBKF54\u253f notshmoo (SB2C-4) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 994,
+      "msg": "\u253eBKF54\u253f MorkDeOrk (\u2417T-34) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 237
+    },
+    {
+      "id": 995,
+      "msg": "\u253eBKF54\u253f Lilrayman97 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 996,
+      "msg": "Lilrayman97td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 997,
+      "msg": "\u253eBKF54\u253f Ol Painless has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 998,
+      "msg": "Ol Painlesstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 999,
+      "msg": "\u253eBKF54\u253f NuttyOmelette has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1000,
+      "msg": "NuttyOmelettetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1001,
+      "msg": "\u253eSADAF\u253f -LordDoom- has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 241
+    },
+    {
+      "id": 1002,
+      "msg": "-LordDoom-td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 241
+    },
+    {
+      "id": 1003,
+      "msg": "\u253eSADAF\u253f infernogaming190 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 241
+    },
+    {
+      "id": 1004,
+      "msg": "infernogaming190td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 241
+    },
+    {
+      "id": 1005,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (B7A2) set afire \u253eSADAF\u253f Zelio_Zar (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 89
+    },
+    {
+      "id": 1006,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (B7A2) severely damaged \u253eSADAF\u253f Zelio_Zar (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 89
+    },
+    {
+      "id": 1007,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5) critically damaged \u253eBKF54\u253f The Snail Messiah (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 92
+    },
+    {
+      "id": 1008,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) severely damaged \u253eBKF54\u253f notshmoo (SB2C-4)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 93
+    },
+    {
+      "id": 1009,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) set afire \u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 94
+    },
+    {
+      "id": 1010,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5) critically damaged \u253eSADAF\u253f -LordDoom- (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 94
+    },
+    {
+      "id": 1011,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) severely damaged \u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 95
+    },
+    {
+      "id": 1012,
+      "msg": "\u253eBKF54\u253f Ol Painless (SB2C-4) shot down \u253eSADAF\u253f -LordDoom- (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 96
+    },
+    {
+      "id": 1013,
+      "msg": "\u253eBKF54\u253f Ol Painless (SB2C-4) has delivered the first strike!",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 96
+    },
+    {
+      "id": 1014,
+      "msg": "\u253eBKF54\u253f Ol Painless (SB2C-4) has crashed.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 97
+    },
+    {
+      "id": 1015,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) shot down \u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1016,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1017,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (T-34) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1018,
+      "msg": "\u253eSADAF\u253f Zatone (Pvkv II) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1019,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1020,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1021,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 104
+    },
+    {
+      "id": 1022,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (B7A2) set afire \u253eSADAF\u253f Zelio_Zar (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 113
+    },
+    {
+      "id": 1023,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (B7A2) shot down \u253eSADAF\u253f Zelio_Zar (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 113
+    },
+    {
+      "id": 1024,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5) shot down \u253eBKF54\u253f The Snail Messiah (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 122
+    },
+    {
+      "id": 1025,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) shot down \u253eBKF54\u253f notshmoo (SB2C-4)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1026,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1027,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (T-34) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1028,
+      "msg": "\u253eSADAF\u253f Zatone (Pvkv II) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1029,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1030,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"Supporting Fire x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 144
+    },
+    {
+      "id": 1031,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) destroyed \u253eBKF54\u253f MorkDeOrk (\u2417T-34)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 152
+    },
+    {
+      "id": 1032,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Teamwork: x3\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 152
+    },
+    {
+      "id": 1033,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (T-34) has achieved \"Teamwork: x3\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 152
+    },
+    {
+      "id": 1034,
+      "msg": "\u253eSADAF\u253f Zatone (Pvkv II) has achieved \"Teamwork: x3\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 152
+    },
+    {
+      "id": 1035,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Teamwork: x3\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 152
+    },
+    {
+      "id": 1036,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) destroyed \u253eBKF54\u253f Lilrayman97 (M4A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 165
+    },
+    {
+      "id": 1037,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1038,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (T-34) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1039,
+      "msg": "\u253eSADAF\u253f Zatone (Pvkv II) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1040,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Teamwork: x4\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1041,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"Teamwork: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1042,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) has achieved \"Double strike!\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 166
+    },
+    {
+      "id": 1043,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) destroyed \u253eBKF54\u253f NuttyOmelette (Jagdpanzer IV)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 177
+    },
+    {
+      "id": 1044,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Base defender: x1!\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 178
+    },
+    {
+      "id": 1045,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 178
+    },
+    {
+      "id": 1046,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) has achieved \"Teamwork: x2\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 178
+    },
+    {
+      "id": 1047,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 191
+    },
+    {
+      "id": 1048,
+      "msg": "Tactical_Nuketd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 191
+    },
+    {
+      "id": 1049,
+      "msg": "\u253eBKF54\u253f Kurt_69 (M4A2) destroyed \u253eSADAF\u253f PandaMan0120 (T-34)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 209
+    },
+    {
+      "id": 1050,
+      "msg": "\u253eSADAF\u253f Zelio_Zar has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 219
+    },
+    {
+      "id": 1051,
+      "msg": "Zelio_Zartd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 219
+    },
+    {
+      "id": 1052,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) destroyed \u253eBKF54\u253f Kurt_69 (M4A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 231
+    },
+    {
+      "id": 1053,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"Supporting Fire x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 233
+    },
+    {
+      "id": 1054,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Tank Rescuer: x1\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 233
+    },
+    {
+      "id": 1055,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"Avenger\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 233
+    },
+    {
+      "id": 1056,
+      "msg": "\u253eBKF54\u253f notshmoo has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1057,
+      "msg": "notshmootd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1058,
+      "msg": "\u253eSADAF\u253f _Anatolia (T55E1) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1059,
+      "msg": "\u253eBKF54\u253f Lilrayman97 (M4A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1060,
+      "msg": "\u253eBKF54\u253f Tactical_Nuke (\u2584SB2C-5) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1061,
+      "msg": "\u253eSADAF\u253f PandaMan0120 (T-34) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1062,
+      "msg": "\u253eSADAF\u253f Zatone (Pvkv II) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1063,
+      "msg": "\u253eBKF54\u253f The Snail Messiah (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1064,
+      "msg": "\u253eBKF54\u253f Ol Painless (SB2C-4) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1065,
+      "msg": "\u253eSADAF\u253f Zelio_Zar (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1066,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has delivered the final blow!",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1067,
+      "msg": "\u253eSADAF\u253f SgtSquid321 (\u2580KV-IB) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1068,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1069,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"Bulletproof\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1070,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"Heavy Metal Fury\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1071,
+      "msg": "\u253eSADAF\u253f RevanTheReaper (B7A2) has achieved \"On Hand\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1072,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1073,
+      "msg": "\u253eSADAF\u253f -LordDoom- (B7A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1074,
+      "msg": "\u253eBKF54\u253f NuttyOmelette (Jagdpanzer IV) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1075,
+      "msg": "\u253eBKF54\u253f Kurt_69 (M4A2) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1076,
+      "msg": "\u253eBKF54\u253f notshmoo (SB2C-4) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1077,
+      "msg": "\u253eBKF54\u253f MorkDeOrk (\u2417T-34) has achieved \"The Best Squad\"",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 240
+    },
+    {
+      "id": 1078,
+      "msg": "\u253eBKF54\u253f Ol Painless has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1079,
+      "msg": "Ol Painlesstd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1080,
+      "msg": "\u253eBKF54\u253f Lilrayman97 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1081,
+      "msg": "Lilrayman97td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1082,
+      "msg": "\u253eBKF54\u253f MorkDeOrk has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1083,
+      "msg": "MorkDeOrktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1084,
+      "msg": "\u253eSADAF\u253f PandaMan0120 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1085,
+      "msg": "PandaMan0120td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1086,
+      "msg": "\u253eSADAF\u253f -LordDoom- has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1087,
+      "msg": "-LordDoom-td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 243
+    },
+    {
+      "id": 1088,
+      "msg": "\u253eBKF54\u253f Kurt_69 has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1089,
+      "msg": "Kurt_69td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1090,
+      "msg": "\u253eBKF54\u253f NuttyOmelette has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1091,
+      "msg": "NuttyOmelettetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1092,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) critically damaged \u253eSADAF\u253f RevanTheReaper (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1093,
+      "msg": "\u253eBKF54\u253f The Snail Messiah has disconnected from the game.",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1094,
+      "msg": "The Snail Messiahtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1095,
+      "msg": "Asymmetric flap extension",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    },
+    {
+      "id": 1096,
+      "msg": "\u253eSADAF\u253f infernogaming190 (B7A2) set afire \u253eSADAF\u253f RevanTheReaper (B7A2)",
+      "sender": "",
+      "enemy": false,
+      "mode": "",
+      "time": 244
+    }
+  ]
+}

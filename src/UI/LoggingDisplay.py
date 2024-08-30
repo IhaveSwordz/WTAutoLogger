@@ -2,9 +2,13 @@
 from PySide6.QtWidgets import QWidget, QCheckBox, QLabel, QTableWidgetItem, QTableWidget
 from PySide6.QtCore import Qt, QRect
 from PySide6.QtGui import QFont, QPalette, QTextItem
+from PySide6.QtSvgWidgets import QSvgWidget
+import re
+
+from src.Path import Path
 from src.signals import Signals
 from src.DataManager.converter import DataGet, Vehicle
-import re
+
 
 
 '''
@@ -61,8 +65,10 @@ class TeamDisplay(QWidget):
     f_large = QFont()
     f_large.setBold(True)
     f_large.setPixelSize(16)
-
-    nation_order = ("USA", "Germany", "Great Britain", "Japan", "China", "Italy", "France", "Sweden", "Israel")
+    converter = DataGet()
+    path = Path.path
+    pic_path = f"{path}\\VehicleParser\\War-Thunder-Datamine\\atlases.vromfs.bin_u\\gameuiskin"
+    nation_order = ("USA", "Germany", "Ussr", "Britain", "Japan", "China", "Italy", "France", "Sweden", "Israel")
     def __init__(self, team: int, parent):
         super().__init__(parent)
         self.setAutoFillBackground(True)
@@ -71,9 +77,7 @@ class TeamDisplay(QWidget):
         self.vehicle_text = QLabel(self)
         self.vehicle_text.setText("Vehicle Types:")
         self.vehicle = QLabel(self)
-        self.nation_test = QLabel(self)
-        self.nation_test.setText("Nations:")
-        self.nation = QLabel(self)
+        self.nation_box = QWidget(self)
 
         self.dataBox = QTableWidget(self)
         self.dataBox.setRowCount(8)
@@ -91,13 +95,21 @@ class TeamDisplay(QWidget):
         for x in range(4):
             for y in range(8):
                 self.dataBox.setItem(y, x, self.item("womp"))
+        self.tag.setText("wompr")
+        self.tag.setFont(self.f_large)
+        self.svgs = [QSvgWidget(self.nation_box) for i in range(10)]
         self.set_initial_pos()
+        for index, nation in enumerate(self.nation_order):
+            self.svgs[index].load(self.path+f"/VehicleParser/War-Thunder-Datamine/atlases.vromfs.bin_u/gameuiskin\\country_{nation.lower()}.svg")
+            self.svgs[index].setGeometry(QRect(36*index, 0, 30, 30))
+            self.svgs[index].renderer()
+
 
     def set_initial_pos(self):
-        self.tag.setGeometry(QRect(210, 0, 50, 25))
+        self.tag.setGeometry(QRect(10, 10, 65, 25))
         self.dataBox.setGeometry(QRect(8, 50, 455, 267))
         self.vehicle_text.setGeometry(QRect(8, 320, 100, 25))
-        self.nation_test.setGeometry(QRect(8, 350, 100, 25))
+        self.nation_box.setGeometry(QRect(100, 10, 360, 36))
 
     '''
     creates a QTableWidgetItem with a set name with flag ItemIsEditable set to false
@@ -117,11 +129,11 @@ class TeamDisplay(QWidget):
     '''
     def update_display(self, squadron: str, player_info: list):
         self.tag.setText(squadron)
-        # self.nation.setText(nations)
-        # self.vehicle.setText(vehicle_types)
+        vehicles = []
         for x, player in enumerate(player_info[0]):
 
             name, vehicle, is_dead, kills = player.name, player.vehicle[1:-1], player.dead, player.kills
+            # the getter we are using in DataCollector returns a Player object to represent a player
             if not player.badPlayer:
                 is_dead = "Alive" if is_dead is True else "Dead"
                 temp = []
@@ -142,6 +154,36 @@ class TeamDisplay(QWidget):
                 if y == 2 and v == "Alive":
                     item.setFont(self.f_large)
                 self.dataBox.setItem(x, y, item)
+            vehicles.append(vehicle)
+        nations = self.getNations(vehicles)
+        # print("ADDING NATION")
+        # print(nations)
+        for index, nation in enumerate([*nations[1], *["" for x in range(10-len(nations[1]))]]):
+            if nation == "Ussr":
+                nation = "Russia"
+            self.svgs[index].load(
+                self.path+f"/VehicleParser/War-Thunder-Datamine/atlases.vromfs.bin_u/gameuiskin\\country_{nation.lower()}.svg")
+            self.svgs[index].renderer()
+
+
+    def getNations(self, vehicles):
+        payload = [{}, []]
+        for vehicle in vehicles:
+            if vehicle == '':
+                continue
+
+            internal = self.converter.query_name(vehicle)
+            v = Vehicle(vehicle, internal[0:-2])
+            if v.country in payload[0].keys():
+                payload[0][v.country] += 1
+            else:
+                payload[0].update({v.country: 1})
+        for nation in self.nation_order:
+            if nation.lower() in payload[0].keys():
+                payload[1].append(nation)
+
+        return payload
+
 
 
     def clean_vehicle_name(self, name):

@@ -2,8 +2,8 @@ import json
 import time
 import datetime
 import urllib.request
-import os
 
+from src.Path import Path
 from src.DataManager.DataCollectorManager import Main
 from src.DataManager import DatabaseManager
 from src.signals import Signals
@@ -20,7 +20,7 @@ class DataCollectorHandler:
         self.saveFile = "src/Output/newFile.json"
         self.DBFile = "src/Output/Data.db"
         self.URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"
-        self.path = os.environ["PYTHONPATH"]
+        self.path = Path.path
         Thread.use_thread(Main)
         self.errors = 0
         Signals.signals.error.connect(self.error_handler)

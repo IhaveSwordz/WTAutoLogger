@@ -2,11 +2,11 @@ import json
 import urllib.request
 import urllib.error
 import os
-import sys
 import time
 import traceback
 import copy
 
+from src.Path import Path
 from src.DataManager.DataCollector import Battle
 from src.signals import Signals
 from src.DataManager.converter import DataGet
@@ -34,6 +34,24 @@ it is set as a QRunnable to allow for easu threading using QT
 
 
 class Main(QRunnable):
+    @staticmethod
+    def incoming(data: int):
+        # print("INCOMING")
+        # print(type(data))
+        if data == 2:
+            print("starting")
+            Main.do_run = True
+        elif data == 0:
+            print("stopping")
+            Main.do_run = False
+        elif data == 5:
+            print("exiting")
+            Main.exit = True
+
+    do_run = False
+    exit = False
+
+    Signals.signals.data.connect(incoming)
     def __init__(self, *args, **kwargs):
         super(Main, self).__init__()
         print("Starting Main")
@@ -41,11 +59,9 @@ class Main(QRunnable):
         self.args = args
         self.kwargs = kwargs
         self.Battle = Battle()
-        Signals.signals.data.connect(self.incoming)
 
-        self.do_run = False
-        self.exit = False
-        p = os.environ["PYTHONPATH"]
+
+        p = Path.path
         if not os.path.exists(f"{p}/src/Output/newFile.json"):
             with open(f"{p}/src/Output/newFile.json", "xb"):
                 pass
@@ -60,21 +76,6 @@ class Main(QRunnable):
         print("running")
         self.fn()
         # self.fn(*self.args, **self.kwargs)
-
-    def incoming(self, data: int):
-        # print("INCOMING")
-        # print(type(data))
-        if data == 2:
-            print("starting")
-            self.do_run = True
-        elif data == 0:
-            print("stopping")
-            self.do_run = False
-        elif data == 5:
-            print("exiting")
-            self.exit = True
-            # print("self.exit", self.exit)
-        # print(data)
 
     def updateBattle(self, logs):
         for log in logs:
@@ -102,7 +103,6 @@ class Main(QRunnable):
             return dat['valid'] is not False
 
     def reset(self):
-        # print("reset: ", self.Battle.getJSON())
         self.Battle = Battle()
         data = self.GetGameData()
         collected = []
@@ -159,15 +159,16 @@ class Main(QRunnable):
                         if count > 0:
                             count -= 1
                         else:
+                            print("BATTLE END TYPE 1")
                             gameInSession = False
                             count = timeout.__int__()
                             self.reset()
                             continue
                     print("doing checkv")
-                    if recent <= data[0]['time']:
+                    if recent - data[0]['time'] < 5:
                         recent = data[0]['time']
                     else:
-
+                        print("BATTLE END TYPE 2")
                         gameInSession = False
                         recent = data[0]['time']
                         count = timeout.__int__()
@@ -197,8 +198,3 @@ class Main(QRunnable):
                 print("ERROR: ", e)
                 Signals.signals.error.emit([e, traceback.format_exc()])
                 self.exit = True
-
-
-class jsonData:
-    def __init__(self, js):
-        self.js = js

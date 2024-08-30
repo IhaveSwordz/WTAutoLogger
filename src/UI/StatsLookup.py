@@ -219,6 +219,7 @@ class InfoDisplay(QWidget):
     handles all the data created by dataLookup
     parses it into all the info we care about from the raw battle info
     '''
+    #TODO: fix the teamkill checker
 
     def data_update(self, data):
         print(f"WOMP WOMP")
@@ -230,6 +231,7 @@ class InfoDisplay(QWidget):
         print("data process inital")
         squadron = None
         deaths = 0
+        # fix team kills not being counted correctly
         team_kills = 0
         vehicles = {}
         players = {}
@@ -239,6 +241,7 @@ class InfoDisplay(QWidget):
         for index, battle_ids in enumerate(data[2][2]):
             for idz in battle_ids:
                 battle = clean_data[idz]
+                print(len(battle))
                 if battle[index + 6] is None:
                     continue
                 player, vehicle, death, kill = battle[index + 6]
@@ -263,7 +266,7 @@ class InfoDisplay(QWidget):
                         if k in battle[5] and k != index:
                             team_kills += 1
                 if data[1][0][2] != squadron and data[1][0][2] != "%":
-                    print("bad squadron: " + squadron)
+                    # print("bad squadron: " + squadron)
                     continue
                 if death == "0":
                     deaths += 1

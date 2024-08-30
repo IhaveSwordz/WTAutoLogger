@@ -3,11 +3,11 @@ import json
 from PySide6.QtCore import Signal
 import datetime
 import collections
-import os
-import sys
-print(sys.path)
+
+from src.Path import Path
 from src.signals import Signals
 from src.DataManager import converter
+path = Path.path
 
 
 class Player:
@@ -53,7 +53,8 @@ class Manager:
     by starting it as true it forced the table to always initialize the first time
     '''
     playersUpdated = True
-    DB = f"{os.environ["PYTHONPATH"]}/src/Output/Data.db"
+    DB = f"{path}/src/Output/Data.db"
+    print(DB)
 
     def __init__(self, ):
         # name of database file
@@ -195,8 +196,6 @@ Player15);"""
     '''
     method to batch get list of ids for each vehicle, if name not in database automatically adds it 
     '''
-    # TODO: change logging method to store internal vehicle name instead of displayed name to increase data survivability and multi language support
-
     def query_vehicles(self, names: list):
         # names = [self.conv.query_name(name[:-2]) for name in names] # translates any incoming name to internal name
         with sqlite3.connect(self.DB) as db:
@@ -416,18 +415,19 @@ class PlayerQuery:
         [payload.append(x.split(";") if ";" in x else x) for x in battle[0: 4]]
         [payload.append([int(y) if y != "" else "" for y in x.split(",")]) for x in battle[4:6]]
         players = []
-        for player in battle[6:]:
-            if player is None or player == "None":
-                players.append(None)
-                continue
-            pid, vid, isDead, kills = player.split(";")
-            with sqlite3.connect(self.DB) as db:
-                cursor = db.cursor()
+        with sqlite3.connect(self.DB) as db:
+            cursor = db.cursor()
+            for player in battle[6:]:
+                if player is None or player == "None":
+                    players.append(None)
+                    continue
+                pid, vid, isDead, kills = player.split(";")
+
                 cursor.execute(f"SELECT name FROM {self.Players} WHERE id = '{pid}'")
                 player = cursor.fetchall()[0][0]
                 cursor.execute(f"SELECT vehicle FROM {self.Vehicles} WHERE id = '{vid}'")
                 vehicle = cursor.fetchall()[0][0]
-            players.append([player, vehicle, isDead, kills.split(",")])
+                players.append([player, vehicle, isDead, kills.split(",")])
         payload.extend(players)
         return payload
 
@@ -499,7 +499,7 @@ if __name__ == "__main__":
             else:
                 squads.update({s: 1})
     stuff = {k: v for k, v in sorted(squads.items(), key=lambda item: item[1])}
-    print(collections.OrderedDict(stuff))
+
 
     input()
     with open("../Output/newFile.json", "rb") as f:
@@ -509,4 +509,4 @@ if __name__ == "__main__":
             if manager.validate(dat["hash"]):
                 manager.addLog(dat)
             else:
-                print(f"that battle with hash {dat["hash"]} already in there dumbass")
+                print(f"that battle with hash {dat['hash']} already in there dumbass")

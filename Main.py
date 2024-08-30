@@ -1,5 +1,4 @@
 import sys
-import os
 import PySide6.QtGui
 from PySide6.QtWidgets import QMainWindow, QApplication, QTabWidget
 
@@ -25,7 +24,6 @@ class MainWindow(QMainWindow):
 
 
 if __name__ == "__main__":
-    os.environ["WRITE_PATH_OUTPUT"] = "src/Output"
 
     app = QApplication(sys.argv)
 

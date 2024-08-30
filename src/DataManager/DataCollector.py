@@ -111,10 +111,14 @@ class Battle:
                 return False
             if "engineer" in log.log.lower():
                 return True
+            if "Asymmetric flap extension" in log.log.lower():
+                return False
             return "Engine" not in log.log
         if "engineer" in log["msg"].lower():
             return True
         if "overheated" in log["msg"].lower():
+            return False
+        if "Asymmetric flap extension" in log["msg"]:
             return False
         return "Engine" not in log["msg"]
 
@@ -347,6 +351,8 @@ class Battle:
         return log
 
     def update(self, log):
+        if self.debug:
+            print(log)
         if not self.goodLog(log):
             return
         if self.debug:
@@ -358,10 +364,10 @@ class Battle:
 
 if __name__ == "__main__":
     # print("weee")
-    with urllib.request.urlopen(URL) as f:
+    # with urllib.request.urlopen(URL) as f:
     # with open("testData.json", "rb") as f:
     # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    # with open("../../TestFiles/Set45.json", "rb") as f:
+    with open("../../TestFiles/Set46.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]
