@@ -3,6 +3,7 @@ import http.client
 import urllib.request
 import socket
 import json
+import time
 
 import requests
 
@@ -10,12 +11,14 @@ import requests
 while True:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect(("localhost", 8111))
-    s.send(b"GET /indicators HTTP/1.1\r\nHost:localhost:8111\r\nConnection: keep-alive\r\n\r\n\r\n")
+    s.send(b"GET /mission.json HTTP/1.1\r\nHost:localhost:8111\r\nConnection: keep-alive\r\n\r\n\r\n")
     out = s.recv(10000).decode("utf-8")
     out = json.loads(out[out.index("\r\n\r\n"):])
-    indicators = out["valid"]
+    # indicators = out["valid"]
     s.close()
-
+    time.sleep(0.1)
+    print(out)
+'''
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect(("localhost", 8111))
     s.send(b"GET /state HTTP/1.1\r\nHost:localhost:8111\r\nConnection: keep-alive\r\n\r\n\r\n")
@@ -24,7 +27,7 @@ while True:
     state = out["valid"]
     s.close()
     print(f"indicators: {indicators}; state: {state}")
-    # print(out)
+    # print(out)'''
 
 '''
 while True:

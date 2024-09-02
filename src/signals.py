@@ -9,7 +9,7 @@ class Signals_u(QObject):
     error = Signal(list)
      # used to send data to be displayed
     logs = Signal(dict)
-     # s
+     # sends data to be logged in sql
     sql = Signal(dict)
 
     # used in converter.py to signify that data has changed / been updated
@@ -32,5 +32,7 @@ class Signals_u(QObject):
     def __init__(self):
         super().__init__()
 
+# done to make signals globally acessable by allowing everyone to import the initalized class to get signals
+# makes it so no need to pass around a class for everyone to use
 class Signals:
     signals = Signals_u()

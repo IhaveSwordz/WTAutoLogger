@@ -3,6 +3,7 @@ import unicodedata
 import datetime
 import hashlib
 import urllib.request
+
 # from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
@@ -180,13 +181,13 @@ class Battle:
             },
         }
 
-
     '''
     less compressed form of getJSON to be used for displaying of data in the UI, easier to parse
     '''
+
     def getData(self):
-        t1 = [*self.team1,* [Player("", "", "", badPlayer=True) for z in range(8-len(self.team1))]]
-        t2 = [*self.team2,* [Player("", "", "", badPlayer=True) for z in range(8-len(self.team2))]]
+        t1 = [*self.team1, *[Player("", "", "", badPlayer=True) for z in range(8 - len(self.team1))]]
+        t2 = [*self.team2, *[Player("", "", "", badPlayer=True) for z in range(8 - len(self.team2))]]
 
         return {
             "team1Tag": self.Tags[0],
@@ -194,6 +195,7 @@ class Battle:
             "team2Tag": self.Tags[1],
             "team2Players": t2
         }
+
     def logKills(self):
         used = [log for log in self.logs if not log.damageCheck]
         for log in used:

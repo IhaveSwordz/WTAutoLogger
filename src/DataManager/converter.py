@@ -144,8 +144,6 @@ class DataGet:
 
                     self.nameToIGN.update({d[language_index][i]: d[0][i]})
                     self.IGNtoname.update({d[0][i][0:-2]: d[language_index][i]})
-        # print(self.nameToIGN)
-        print(self.IGNtoname)
 
 
 if "__main__" == __name__:

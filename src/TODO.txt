@@ -5,3 +5,4 @@ create dataEditor
 create settings
 fix logging critical hits as death (and fix me having to do that in the first place)
 add a time period check (so you can check stats from x to x)
+implement data pull to see ranks of different squadrons

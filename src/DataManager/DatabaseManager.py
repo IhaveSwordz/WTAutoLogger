@@ -128,7 +128,8 @@ Player11,
 Player12,
 Player13,
 Player14,
-Player15);"""
+Player15,
+Winner INT(1));"""
                 cursor.execute(command)
         except Exception as e:
             print(e)
@@ -268,7 +269,7 @@ Player15);"""
         battle.convert()
         # print(battle.Team1Tag, battle.Team2Tag)
         sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.time}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
-        '{battle.Team1PlayerIndexes}', '{battle.Team2PlayerIndexes}', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+        '{battle.Team1PlayerIndexes}', '{battle.Team2PlayerIndexes}', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, {battle.winner});
         """
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
@@ -294,6 +295,7 @@ class Battle:
         self.man: Manager = man
         self.hash = battle["hash"]
         self.time = battle["time"]
+        self.winner = battle["winner"]
         self.conv = conv
 
         # year, month, day = self.hash[0:4], self.hash[4:6], self.hash[6:8]
@@ -417,7 +419,7 @@ class PlayerQuery:
         players = []
         with sqlite3.connect(self.DB) as db:
             cursor = db.cursor()
-            for player in battle[6:]:
+            for player in battle[6:-1]:
                 if player is None or player == "None":
                     players.append(None)
                     continue
@@ -502,7 +504,7 @@ if __name__ == "__main__":
 
 
     input()
-    with open("../Output/newFile.json", "rb") as f:
+    with open("../Old/newFile.json", "rb") as f:
         manager = Manager()
         datz: dict = json.load(f)
         for dat in datz["battles"]:

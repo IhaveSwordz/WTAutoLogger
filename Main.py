@@ -5,10 +5,14 @@ from PySide6.QtWidgets import QMainWindow, QApplication, QTabWidget
 from src.signals import Signals
 from src.UI.DisplayMain import Ui_MainWindow
 from src.DataManager.DataCollectorHandler import DataCollectorHandler
+from src.DataManager.DatabaseManager import Manager
 
 
 class MainWindow(QMainWindow):
     def __init__(self):
+        # this is done to force the init to run and create and initialize data.DB
+        m = Manager()
+        del m
         super(MainWindow, self).__init__()
         self.ui = Ui_MainWindow(self)
         self.collector = DataCollectorHandler()

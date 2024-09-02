@@ -4,7 +4,6 @@ import urllib.error
 import os
 import time
 import traceback
-import copy
 
 from src.Path import Path
 from src.DataManager.DataCollector import Battle
@@ -19,7 +18,7 @@ GameOnURL = "http://localhost:8111/map_info.json"
 winLossURL = "http://localhost:8111/mission.json"
 saveFile = "newFile.json"
 # saveFile = "saveFile.json"
-timeout = 5
+timeout = 1
 
 '''
 This class handles the overhead of actually running the data collecter. 
@@ -57,8 +56,13 @@ class Main(QRunnable):
         print("Starting Main")
         self.fn = self.mainLoop
         self.args = args
+
         self.kwargs = kwargs
         self.Battle = Battle()
+        self.homeTeam = ["SADAF", "P1KE"]
+        # success, fail, running
+        self.state = ""
+        self.errors = 3
 
 
         p = Path.path
@@ -83,8 +87,26 @@ class Main(QRunnable):
 
     def log_file(self):
         print("logfile called")
-        js = copy.deepcopy(self.Battle.getJSON())
-        Signals.signals.sql.emit(copy.deepcopy(self.Battle.getJSON()))
+        who = 0
+        js = self.Battle.getJSON()
+
+        # done to check which team won the battle
+
+        t1t = js["team1Data"]["tag"]
+        t2t = js["team2Data"]["tag"]
+        if self.state == "success":
+            if t1t in self.homeTeam:
+                who = 1
+            elif t2t in self.homeTeam:
+                who = 2
+        if self.state == "fail":
+            if t1t in self.homeTeam:
+                who = 2
+            elif t2t in self.homeTeam:
+                who = 1
+        js.update({"winner": who})
+        print(js)
+        Signals.signals.sql.emit(js)
         self.Battle = Battle()
 
 
@@ -95,12 +117,23 @@ class Main(QRunnable):
             data = [dat for dat in json_info if "_DISCONNECT_" not in dat['msg'] and "disconnected" not in dat['msg']]
             return data[:100]
 
-    @staticmethod
-    def getGameState():
+
+    def getGameState(self):
+        self.winLoss()
         with urllib.request.urlopen(GameOnURL) as f:
             dat = json.loads(f.read().decode('utf-8'))
-            # print(dat['valid'])
+            print(f"getGameState: {dat['valid']}, {self.state}")
+            if self.state != "running" and self.state != "":
+                return False
+            elif self.state == "running":
+                return True
             return dat['valid'] is not False
+
+
+    def winLoss(self):
+        with urllib.request.urlopen(winLossURL) as f:
+            dat = json.loads(f.read().decode('utf-8'))
+            self.state = dat["status"]
 
     def reset(self):
         self.Battle = Battle()
@@ -116,30 +149,35 @@ class Main(QRunnable):
             else:
                 break
 
-        self.getData(data)
-
-
-
-        self.log_file()
+        out = self.get_data(data)
+        if out == 1:
+            self.log_file()
+        else:
+            print("error found when getting data to log")
         print("------------------------------------------------------")
         print("BATTLE END")
         print("------------------------------------------------------")
 
-    def getData(self, data):
-        prev = data[0]
-        payload = []
-        for i in data[1::]:
-            if i['time'] <= prev['time']:
-                prev = i
-                payload.append(i)
-            else:
-                break
+    def get_data(self, data):
+        try:
+            prev = data[0]
+            payload = []
+            for i in data[1::]:
+                if i['time'] <= prev['time']:
+                    prev = i
+                    payload.append(i)
+                else:
+                    break
 
-        for i in payload[::-1]:
-            self.Battle.update(i)
-        # print("getData: ", self.Battle.getJSON())
-        print(self.Battle)
-        Signals.signals.logs.emit(self.Battle.getData())
+            for i in payload[::-1]:
+                self.Battle.update(i)
+            print(self.Battle)
+            Signals.signals.logs.emit(self.Battle.getData())
+            return 1
+        except Exception as e:
+            print("ERROR: ", e)
+            Signals.signals.error.emit([e, traceback.format_exc()])
+            return -1
 
     def mainLoop(self):
         print("started main")
@@ -164,7 +202,10 @@ class Main(QRunnable):
                             count = timeout.__int__()
                             self.reset()
                             continue
-                    print("doing checkv")
+
+                    # print("doing checkv")
+                    self.winLoss()
+                    '''
                     if recent - data[0]['time'] < 5:
                         recent = data[0]['time']
                     else:
@@ -174,7 +215,7 @@ class Main(QRunnable):
                         count = timeout.__int__()
                         self.reset()
                         continue
-
+                    '''
                     prev = data[0]
                     updated = False
                     for i in data[1::]:
@@ -184,17 +225,13 @@ class Main(QRunnable):
                             updated = True
                         else:
                             break
-                    #
                     if updated:
                         self.Battle = Battle()
-                        self.getData(data)
+                        out = self.get_data(data)
                 else:
-                    if Main.getGameState():
+                    # print(self.getGameState())
+                    if self.getGameState():
                         gameInSession = True
             except urllib.error.URLError as e:
                 Signals.signals.condition.emit(0)
                 print("War thunder is not running")
-            except Exception as e:
-                print("ERROR: ", e)
-                Signals.signals.error.emit([e, traceback.format_exc()])
-                self.exit = True
