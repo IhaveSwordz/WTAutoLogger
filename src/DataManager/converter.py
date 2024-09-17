@@ -7,8 +7,7 @@ from src.Path import Path
 
 # C:/Users/samue/PycharmProjects/WarThunderBattleData/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u
 path = Path.path
-path = "C:/Users/samue/PycharmProjects/WTAutoLogger"
-# print("SYS: ", sys.path)
+# path = "C:/Users/samue/PycharmProjects/WTAutoLogger"
 tanks = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels"
 planes = f"{path}/VehicleParser/War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels"
 vehicleData = f"{path}/VehicleParser/War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx"
@@ -161,7 +160,6 @@ class BattleGroup:
         }
         out = ""
         if "Bomber" in output.keys():
-            print(output["Bomber"])
             t, count = "Bomber", output["Bomber"]
             out += f"{count}{conv[t]} "
         if "Fighter" in output.keys():
@@ -190,7 +188,6 @@ class BattleGroup:
     def get_vehicles_complex(self):
         payload = {}
         for v in self.vehicles:
-            print(v.type)
             for types in v.type:
                 if types in payload.keys():
                     payload[types] += 1

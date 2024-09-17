@@ -2,6 +2,9 @@ from PySide6.QtCore import QObject, Signal
 
 
 class Signals_u(QObject):
+    # used by debug logger to call for displaying
+    debug = Signal(str)
+
     # from bot
      # used to convey current state (waiting, game active, wt not running, error in bot)
     condition = Signal(int)

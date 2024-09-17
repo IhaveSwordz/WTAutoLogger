@@ -8,8 +8,7 @@ import traceback
 from src.Path import Path
 from src.DataManager.DataCollector import Battle
 from src.signals import Signals
-from src.DataManager.converter import DataGet
-
+from src.DebugLogger import Debug
 
 from PySide6.QtCore import (QRunnable, Slot)
 
@@ -38,22 +37,23 @@ class Main(QRunnable):
         # print("INCOMING")
         # print(type(data))
         if data == 2:
-            print("starting")
+            Debug.logger.log("Collector Manager", "starting")
             Main.do_run = True
         elif data == 0:
-            print("stopping")
+            Debug.logger.log("Collector Manager", "Stopping")
             Main.do_run = False
         elif data == 5:
-            print("exiting")
+            Debug.logger.log("Collector Manager", "exiting")
             Main.exit = True
 
     do_run = False
     exit = False
 
     Signals.signals.data.connect(incoming)
+
     def __init__(self, *args, **kwargs):
         super(Main, self).__init__()
-        print("Starting Main")
+        Debug.logger.log("Collector Manager", "Starting Main")
         self.fn = self.mainLoop
         self.args = args
 
@@ -64,20 +64,19 @@ class Main(QRunnable):
         self.state = ""
         self.errors = 3
 
-
         p = Path.path
         if not os.path.exists(f"{p}/src/Output/newFile.json"):
             with open(f"{p}/src/Output/newFile.json", "xb"):
                 pass
             with open(f"{p}/src/Output/newFile.json", "wb") as f:
                 f.write(b"{\"battles\" : []}")
-                print("created json storage file")
+                Debug.logger.log("Collector Manager", "created json storage file")
         else:
-            print("found newFile.json")
+            Debug.logger.log("Collector Manager", "found newFile.json")
 
     @Slot()
     def run(self):
-        print("running")
+        Debug.logger.log("Collector Manager", "running")
         self.fn()
         # self.fn(*self.args, **self.kwargs)
 
@@ -86,7 +85,7 @@ class Main(QRunnable):
             self.Battle.update(log)
 
     def log_file(self):
-        print("logfile called")
+        Debug.logger.log("Collector Manager", "logfile called")
         who = 0
         js = self.Battle.getJSON()
 
@@ -107,10 +106,10 @@ class Main(QRunnable):
         if who == 0:
             Signals.signals.error.emit([0, "NO HOME SQUADRON"])
         js.update({"winner": who})
-        print(js)
+
+        Debug.logger.log("Collector Manager", js)
         Signals.signals.sql.emit(js)
         self.Battle = Battle()
-
 
     @staticmethod
     def GetGameData():
@@ -119,18 +118,16 @@ class Main(QRunnable):
             data = [dat for dat in json_info if "_DISCONNECT_" not in dat['msg'] and "disconnected" not in dat['msg']]
             return data[:100]
 
-
     def getGameState(self):
         self.winLoss()
         with urllib.request.urlopen(GameOnURL) as f:
             dat = json.loads(f.read().decode('utf-8'))
-            print(f"getGameState: {dat['valid']}, {self.state}")
+            # Debug.logger.log("Collector Manager", f"getGameState: {dat['valid']}, {self.state}")
             if self.state != "running" and self.state != "":
                 return False
             elif self.state == "running":
                 return True
             return dat['valid'] is not False
-
 
     def winLoss(self):
         with urllib.request.urlopen(winLossURL) as f:
@@ -142,7 +139,6 @@ class Main(QRunnable):
                 Signals.signals.winner.emit("In Game")
             elif self.state == "fail":
                 Signals.signals.winner.emit("Loss")
-
 
     def reset(self):
         self.Battle = Battle()
@@ -162,10 +158,10 @@ class Main(QRunnable):
         if out == 1:
             self.log_file()
         else:
-            print("error found when getting data to log")
-        print("------------------------------------------------------")
-        print("BATTLE END")
-        print("------------------------------------------------------")
+            Debug.logger.log("Collector Manager", "error found when getting data to log")
+        Debug.logger.log("Collector Manager", "------------------------------------------------------")
+        Debug.logger.log("Collector Manager", "BATTLE END")
+        Debug.logger.log("Collector Manager", "------------------------------------------------------")
 
     def get_data(self, data):
         try:
@@ -180,17 +176,19 @@ class Main(QRunnable):
 
             for i in payload[::-1]:
                 self.Battle.update(i)
-            print(self.Battle)
+            for string in self.Battle.__str__().split("\n"):
+                Debug.logger.log("Collector Manager", string)
             Signals.signals.logs.emit(self.Battle.getData())
             return 1
         except Exception as e:
-            print("ERROR: ", e)
+            Debug.logger.log("Collector Manager", ("ERROR: ", e))
             Signals.signals.error.emit([e, traceback.format_exc()])
             return -1
 
     def mainLoop(self):
         # TODO: figure out what messages people who fly get that makes em different and screw up the hash generator
-        print("started main")
+
+        Debug.logger.log("Collector Manager", "started main")
         recent = 0
         gameInSession = True
         count = timeout.__int__()
@@ -203,17 +201,16 @@ class Main(QRunnable):
                 if gameInSession:
                     data = self.GetGameData()
                     if not self.getGameState():
-                        print(count)
+                        Debug.logger.log("Collector Manager", count)
                         if count > 0:
                             count -= 1
                         else:
-                            print("BATTLE END TYPE 1")
+                            Debug.logger.log("Collector Manager", "BATTLE END TYPE 1")
                             gameInSession = False
                             count = timeout.__int__()
                             self.reset()
                             continue
 
-                    # print("doing checkv")
                     self.winLoss()
                     '''
                     if recent - data[0]['time'] < 5:
@@ -246,4 +243,4 @@ class Main(QRunnable):
                 Signals.signals.condition.emit(0)
 
                 Signals.signals.error.emit([1, "War Thunder Not Running"])
-                print("War thunder is not running")
+                Debug.logger.log("Collector Manager", "War thunder is not running")

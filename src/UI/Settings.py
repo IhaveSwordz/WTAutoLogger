@@ -1,4 +1,10 @@
-from PySide6.QtWidgets import QWidget
+from PySide6.QtWidgets import QWidget, QTextBrowser
+
+'''
+this file will purely handle the settings and documentation for users of SQBDotEXE
+
+'''
+
 
 class LoggingDisplay(QWidget):
     def __init__(self, ):
@@ -6,7 +12,6 @@ class LoggingDisplay(QWidget):
         self.name = "Settings"
 
 
-'''
-this file will purely handle the settings and documentation for users of SQBDotEXE
-
-'''
+class DebugDisplay(QTextBrowser):
+    def __init__(self, parent):
+        super().__init__(parent)

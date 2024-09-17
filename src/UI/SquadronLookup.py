@@ -47,9 +47,6 @@ class LoggingDisplay(QWidget):
         self.battles = []
         self.converter = DataGet()
 
-    # def yeet(self):
-    #     print(self.battle_list.selectedItems())
-
     def entered(self, data: QListWidgetItem):
         self.current_enter = data
         raw = self.battles[self.battle_list.indexFromItem(self.current_enter).row()]
@@ -58,7 +55,6 @@ class LoggingDisplay(QWidget):
         t2tag = data[3]
         t1players = [data[6+i] for i in data[4]]
         t2players = [data[6+i] for i in data[5]]
-        # print(self.lookup.dataList.selectedItems() )
         if self.lookup.dataList.selectedItems()[0].text() == t2tag:
             self.team1.update_data(t2tag, [x[0] for x in t2players], [self.converter.query_id(x[1][0:-2]) for x in t2players])
             self.team2.update_data(t1tag, [x[0] for x in t1players], [self.converter.query_id(x[1][0:-2]) for x in t1players])
@@ -91,7 +87,6 @@ class LoggingDisplay(QWidget):
         box2 = self.popup.team2.dataBox
         vehicles = []
         for index, (player, vehicle, is_dead, kills) in enumerate(t1players):
-            print(is_dead)
             box1.item(index, 0).setText(player)
             out = self.converter.query_id(vehicle[0:-2])
             vehicles.append(out)
@@ -107,7 +102,6 @@ class LoggingDisplay(QWidget):
 
         vehicles = []
         for index, (player, vehicle, is_dead, kills) in enumerate(t2players):
-            print(is_dead)
             box2.item(index, 0).setText(player)
             out = self.converter.query_id(vehicle[0:-2])
             vehicles.append(out)

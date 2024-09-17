@@ -9,6 +9,7 @@ import src.UI.DisplayMain
 from src.Path import Path
 from src.signals import Signals
 from src.DataManager.converter import DataGet, Vehicle, BattleGroup
+from src.DebugLogger import Debug
 # from src.UI.DisplayMain import SVGClass
 
 
@@ -25,7 +26,6 @@ class valTemp:
 
     def set(self, x, y):
         self.x, self.y = x, y
-        print("womp")
 
 
 '''
@@ -314,7 +314,7 @@ class TeamDisplay(QWidget):
             vehicles.append(vehicle)
         team = BattleGroup(vehicles)
         self.svg_render(team.get_nations()[1])
-        print(team.get_vehicles_simple_shorthand())
+        Debug.logger.log("Logger Display", team.get_vehicles_simple_shorthand())
         self.vehicle.setText(team.get_vehicles_simple_shorthand())
         # adds all the svgs for the current nation on each team
 
@@ -345,6 +345,3 @@ class TeamDisplay(QWidget):
         name = re.sub(r'\s+', ' ', name)  # Replace multiple spaces with a single space
         name = re.sub(r':flag_\w+:\s*', '', name).strip()  # Remove flags
         return name
-
-    # def mouseMoveEvent(self, event):
-    #     print(event)

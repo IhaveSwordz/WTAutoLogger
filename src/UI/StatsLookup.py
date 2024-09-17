@@ -9,7 +9,22 @@ from src.QThreader import Thread
 from src.signals import Signals
 from multiprocessing.dummy import Pool as ThreadPool
 from src.DataManager.converter import DataGet
+from src.DebugLogger import Debug
 
+
+'''
+StatsLookup is a QT QWidget which handles the looking up of stats for players
+does not generate any data, only parses data to be displayed
+
+handles displaying of data related to the currently active battle
+examples of data:
+players
+vehicles
+who killed who
+which nations
+which vehicle types
+
+'''
 
 class Display(QWidget):
     def __init__(self, player_data, vehicle_data, squadron_data):
@@ -99,7 +114,7 @@ class Lookup(QWidget):
         if dat == 2:
             self.display_widget.show()
         elif dat == 0:
-            print("WOMP WOMPED")
+            Debug.logger.log("Stats Lookup", "WOMP WOMPED")
             self.display_widget.hide()
             #if they never entered any text in the box the second line doesnt force an update
             # done to force an update to reset selection
@@ -229,13 +244,13 @@ class InfoDisplay(QWidget):
     #TODO: fix the teamkill checker
 
     def data_update(self, data):
-        print(f"WOMP WOMP")
+        Debug.logger.log("Stats Lookup", f"WOMP WOMP")
         if data[0] == -1:
             return
         pool = ThreadPool(16)
         with pool as p:
             clean_data = p.map(self.data_lookup.convert, data[2][1])
-        print("data process inital")
+        Debug.logger.log("Stats Lookup", "data process initial")
         squadron = None
         deaths = 0
         # fix team kills not being counted correctly
@@ -252,7 +267,6 @@ class InfoDisplay(QWidget):
                 if battle[index + 6] is None:
                     continue
                 player, vehicle, death, kill = battle[index + 6]
-                # print(player)
                 squadron = None
                 if index in battle[4]:
                     squadron = battle[2]
@@ -272,7 +286,6 @@ class InfoDisplay(QWidget):
                         if k in battle[5] and k != index:
                             team_kills += 1
                 if data[1][0][2] != squadron and data[1][0][2] != "%":
-                    # print("bad squadron: " + squadron)
                     continue
                 if death == "0":
                     deaths += 1
@@ -341,12 +354,12 @@ class InfoDisplay(QWidget):
         self.teamKills.setText(str(team_kills))
         self.playerBattles.setText(str(battles))
 
-        print(players)
-        print(vehicles)
-        print(kills)
-        print(team_kills)
-        print(deaths)
-        print(battles)
+        Debug.logger.log("Stats Lookup", players)
+        Debug.logger.log("Stats Lookup", vehicles)
+        Debug.logger.log("Stats Lookup", kills)
+        Debug.logger.log("Stats Lookup", team_kills)
+        Debug.logger.log("Stats Lookup", deaths)
+        Debug.logger.log("Stats Lookup", battles)
 
 
 
@@ -356,16 +369,3 @@ class InfoDisplay(QWidget):
 
 
 
-'''
-LoggingWidget is a QT QWidget which handles the looking up of stats for players
-does not generate any data, only parses data to be displayed
-
-handles displaying of data related to the currently active battle
-examples of data:
-players
-vehicles
-who killed who
-which nations
-which vehicle types
-
-'''

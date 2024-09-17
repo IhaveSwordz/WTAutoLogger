@@ -7,6 +7,7 @@ import collections
 from src.Path import Path
 from src.signals import Signals
 from src.DataManager import converter
+from src.DebugLogger import Debug
 path = Path.path
 
 
@@ -54,7 +55,8 @@ class Manager:
     '''
     playersUpdated = True
     DB = f"{path}/src/Output/Data.db"
-    print(DB)
+    Debug.logger.log("SQL Manager", DB)
+
 
     def __init__(self, ):
         # name of database file
@@ -73,10 +75,10 @@ class Manager:
             cursor.execute("SELECT * FROM sqlite_master WHERE type='table'")
             payload = [x[1] for x in cursor.fetchall()]
             if self.Battles not in payload:
-                print("created Battles")
+                Debug.logger.log("SQL Manager", "created Battles")
                 self.create_battles()
             if self.Players not in payload:
-                print("created Players")
+                Debug.logger.log("SQL Manager", "created Players")
                 self.create_players()
             else:
                 cursor.execute(f"SELECT * FROM {self.Players}")
@@ -84,13 +86,11 @@ class Manager:
 
             if self.Vehicles not in payload:
                 self.create_vehicles()
-                print("created Vehicles")
+                Debug.logger.log("SQL Manager", "created Vehicles")
             else:
                 cursor.execute(f"SELECT * FROM {self.Vehicles}")
                 # fetched the current length of all vehicles, used for new vehicle assignment
                 self.VehicleSize = len(cursor.fetchall())
-        # print(self.PlayerSize)
-        # print(self.VehicleSize)
 
     def delete_table(self):
         with sqlite3.connect(self.DB) as db:
@@ -132,7 +132,7 @@ Player15,
 Winner INT(1));"""
                 cursor.execute(command)
         except Exception as e:
-            print(e)
+            Debug.logger.log("SQL Manager", f"Exception: {e}")
 
     def create_players(self):
         try:
@@ -143,7 +143,7 @@ Winner INT(1));"""
         name TEXT(16) UNIQUE);"""
                 cursor.execute(command)
         except Exception as e:
-            print(e)
+            Debug.logger.log("SQL Manager", f"Exception: {e}")
 
     def create_vehicles(self):
         try:
@@ -154,7 +154,7 @@ Winner INT(1));"""
         Vehicle TEXT(16) UNIQUE);"""
                 cursor.execute(command)
         except Exception as e:
-            print(e)
+            Debug.logger.log("SQL Manager", f"Exception: {e}")
 
     '''
     method to batch get list of ids for each player, if name not in database automatically adds it
@@ -168,7 +168,6 @@ Winner INT(1));"""
             for name in names:
                 cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{name}'")
                 output = cursor.fetchall()
-                # print("names: ", name, output)
                 if not output and name not in tba:
                     tba.append(name)
                     continue
@@ -247,13 +246,14 @@ Winner INT(1));"""
             elif table == self.Vehicles:
                 count = self.VehicleSize
             payload = [(idz + count, name) for idz, name in enumerate(data)]
-            print(payload)
+            Debug.logger.log("SQL Manager", payload)
             try:
                 cursor.executemany(f"INSERT INTO {table} VALUES (?, ?)", payload)
                 if table == self.Players:
                     self.playersUpdated = True
             except sqlite3.InternalError:
-                print("ERROR tried to add name to database that was already in it!")
+
+                Debug.logger.log("SQL Manager", "ERROR tried to add name to database that was already in it!")
             db.commit()
             # values are only increased after SQL api call to ensure no errors cause fucky wuckys in count
             if table == self.Players:
@@ -267,7 +267,6 @@ Winner INT(1));"""
     def addLog(self, battle_json):
         battle = Battle(battle_json, self, self.conv)
         battle.convert()
-        # print(battle.Team1Tag, battle.Team2Tag)
         sql_command = f"""INSERT INTO Battles VALUES ('{battle.hash}', '{battle.time}', '{battle.Team1Tag}', '{battle.Team2Tag}', 
         '{battle.Team1PlayerIndexes}', '{battle.Team2PlayerIndexes}', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, {battle.winner});
         """
@@ -316,19 +315,10 @@ class Battle:
             self.Team2PlayerIndexes.append(player["player"])
             kills = [kill if type(kill) is int else 17 for kill in player["kills"]]
             self.players.append(Player(pla["name"], pla["vehicle"], player["alive"], kills))
-        # print(self.Team1PlayerIndexes)
-        # print(self.Team2PlayerIndexes)
         self.Team1PlayerIndexes = ','.join(
             [str(x) for x in self.Team1PlayerIndexes])
-        # print(self.Team1PlayerIndexes)
         self.Team2PlayerIndexes = ','.join(
             [str(x) for x in self.Team2PlayerIndexes])
-        # print(self.Team2PlayerIndexes)
-        # input()
-        # except Exception as e:
-        #     print("exception!!! in Battle init")
-
-    #      print(e)
 
     def convert(self):
         names = []
@@ -337,7 +327,6 @@ class Battle:
             names.append(player.name)
             vehicles.append(self.conv.query_name(player.vehicle))
 
-        # print(names, vehicles)
         names = self.man.query_players(names)
         vehicles = self.man.query_vehicles(vehicles)
         for name, vehicle, player in zip(names, vehicles, self.players):
@@ -486,7 +475,6 @@ class PlayerQuery:
                     payload.update({tag: 1})
         stuff = {k: v for k, v in sorted(payload.items(), key=lambda item: item[1])}
         sort = collections.OrderedDict(stuff)
-        # print(dict(list(sort.items())[::-1]))
         return dict(list(sort.items())[::-1])
 
 

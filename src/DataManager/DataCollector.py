@@ -4,6 +4,7 @@ import datetime
 import hashlib
 import urllib.request
 
+from src.DebugLogger import Debug
 # from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
@@ -139,22 +140,19 @@ class Battle:
                 index += 1
 
             utc = datetime.datetime.now(datetime.UTC)
-            print("hash aplicable")
-            # print(*self.logs[:8])
-            # print(*to_be_used)
-            # print
-            print(f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
+
+            Debug.logger.log("Collector", "hash aplicable")
+            Debug.logger.log("Collector", f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
             timez = f"{utc.year}{0 if utc.month < 10 else ""}{utc.month}{0 if utc.day < 10 else ""}{utc.day if utc.hour < 12 else utc.day - 1}|"  # the weird day thing is to account for the fact that NA for UST happens at like 1 am
             hs = hashlib.sha256(bytes(''.join([f"{log.log}{log.time_}" for log in self.logs[:8]]), 'utf-8')).hexdigest()
             hs = f"{timez}|" + str(hs)
             hashz = hs
-            print(hashz)
-        # print(preHash)
+            Debug.logger.log("Collector", hashz)
         players = [player.json() for player in [*self.team1, *self.team2]]
         teamName = [player["name"] for player in players]
         utc = datetime.datetime.now(datetime.UTC)
         timez = f"{utc.year};{utc.month};{utc.day};{utc.hour};{utc.minute}"
-        print(timez)
+        Debug.logger.log("Collector", timez)
         # team1 = [player.json() for player in self.team1]
         # team2 = [player.json() for player in self.team2]
         # team1Name = [player.name for player in self.team1]
@@ -201,20 +199,21 @@ class Battle:
         for log in used:
             if self.debug:
                 if [log.player1, log.player2] in self.recordedKills:
-                    print("found yetbep")
+                    Debug.logger.log("Debug Collector", "found yetbep")
+
             if [log.player1, log.player2] in self.recordedKills:
                 log.damageCheck = True
                 continue
             if log.player2 is not None:
                 if self.debug:
-                    print([log.player1, log.player2])
-                    print("logKills: ", [log.player1.__str__(), log.player2.__str__(), log.log])
-                    print(True in [x in log.log for x in
+                    Debug.logger.log("Debug Collector", [log.player1, log.player2])
+                    Debug.logger.log("Debug Collector", "logKills: ", [log.player1.__str__(), log.player2.__str__(), log.log])
+                    Debug.logger.log("Debug Collector", True in [x in log.log for x in
                                    [" shot down ", " destroyed ", " critically damaged ", " severely damaged "]])
                 if True in [x in log.log for x in
                             [" shot down ", " destroyed ", " critically damaged ", " severely damaged "]]:
                     if log.player2 not in log.player1.kills:
-                        # print("logging kill: ")
+
                         self.recordedKills.append([log.player1, log.player2])
                         self.setKillsDeaths(killer=log.player1, killed=log.player2)
                     log.damageCheck = True
@@ -230,17 +229,16 @@ class Battle:
 
     def setKillsDeaths(self, killer: Player = None, killed: Player = None):
         if self.debug:
-            print()
-            print("setKillsDeaths: ", killer, killed)
+            Debug.logger.log("Debug Collector", ("setKillsDeaths: ", killer, killed))
         if killed.dead:
             killed.dead = False
             if killer is not None:
                 killer.kills.append(killed)
         else:
             if self.debug:
-                print("bad call on death")
+                Debug.logger.log("Debug Collector", "bad call on death")
         if self.debug:
-            print()
+            Debug.logger.log("Debug Collector", "No Message")
 
     # looks for player based on inputted information and returns player, if no matching player found, creates a player and returns them
     def playerSearch(self, tag, name, vehicle):
@@ -266,18 +264,13 @@ class Battle:
         index = [x[0] + len(x[1]) for x in
                  [[log.find(i), i] for i in
                   [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
-        # print(log, index)
         #  and "ai" not in log, removed because click bait contains the word "ai"
         if len(index) > 0 and "[ai]" not in log:
             start = index[0]
             end = log[index[0]:].find(" ") + index[0]
-            # if self.
-            # print("start: ", log[start])
-            # print("end: ", log[end-1])
-            # if log[start] == log[end-1]:
+
             tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
         tags = [tag for tag in tags if 2 < len(tag) < 7]
-        # print("TAGGGGSSSSS: ", tags)
         '''if len(tags) > 1 and "Recon Micro" in log and "(Recon Micro)" not in log:
         '''
         for t in tags:
@@ -310,7 +303,7 @@ class Battle:
             else:
                 unref = unref.replace("[ai] Recon Micro", f"╀GH1234GH╀ LIGHT TANK (RECON MICRO)")
             if self.debug:
-                print("REPLACED: ")
+                Debug.logger.log("Debug Collector", "REPLACED: ")
             replaced = True
         tags = self.getTags(unref)
         '''
@@ -322,7 +315,7 @@ class Battle:
         count = [0, 0]
         index = None
         if self.debug:
-            print(tags)
+            Debug.logger.log("Debug Collector", tags)
         for index1, letter in enumerate(unref[:splitPoint]):
             if letter == "(":
                 count[0] += 1
@@ -354,12 +347,12 @@ class Battle:
 
     def update(self, log):
         if self.debug:
-            print(log)
+            Debug.logger.log("Debug Collector", log)
         if not self.goodLog(log):
             return
         if self.debug:
-            print("-" * 250)
-            print("update: ", log)
+            Debug.logger.log("Debug Collector", "-" * 250)
+            Debug.logger.log("Debug Collector", log)
         self.setMetadata(unicodedata.normalize("NFC", log["msg"]).replace("⋇ ", "^"), log["time"])
         self.logKills()
 

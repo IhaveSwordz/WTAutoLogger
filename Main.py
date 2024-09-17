@@ -1,11 +1,19 @@
 import sys
 import PySide6.QtGui
 from PySide6.QtWidgets import QMainWindow, QApplication, QTabWidget
+import traceback
 
-from src.signals import Signals
-from src.UI.DisplayMain import Ui_MainWindow
-from src.DataManager.DataCollectorHandler import DataCollectorHandler
-from src.DataManager.DatabaseManager import Manager
+from src.DebugLogger import Debug
+try:
+    from src.signals import Signals
+    from src.UI.DisplayMain import Ui_MainWindow
+    from src.DataManager.DataCollectorHandler import DataCollectorHandler
+    from src.DataManager.DatabaseManager import Manager
+except Exception as e:
+    Debug.logger.log("Error", f"Unhandled Exception!: {e}")
+    Debug.logger.special_log(traceback.format_exc())
+    sys.exit(999)
+
 
 
 class MainWindow(QMainWindow):
