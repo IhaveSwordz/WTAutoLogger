@@ -11,6 +11,12 @@ class Signals_u(QObject):
     logs = Signal(dict)
      # sends data to be logged in sql
     sql = Signal(dict)
+    # sends data to ui saying current battle conditing (in game, you won, you lost)
+    winner = Signal(str)
+
+    # signals used in SquadronLookupDisplay
+    # handles connection between the database query function and other shit
+    squadron_list = Signal(list)
 
     # used in converter.py to signify that data has changed / been updated
     # the int signifies what has changed

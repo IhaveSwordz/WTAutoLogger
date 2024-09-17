@@ -99,7 +99,11 @@ class Lookup(QWidget):
         if dat == 2:
             self.display_widget.show()
         elif dat == 0:
+            print("WOMP WOMPED")
             self.display_widget.hide()
+            #if they never entered any text in the box the second line doesnt force an update
+            # done to force an update to reset selection
+            self.dataEnter.setText("zzzzzzzzz")
             self.dataEnter.setText("")
 
 
@@ -140,6 +144,9 @@ class InfoDisplay(QWidget):
         self.playerNameTable.setColumnCount(3)
         self.playerNameTable.setHorizontalHeaderLabels(["Player", "Count", "Squadron"])
         self.playerNameTable.setRowCount(1)
+        self.playerNameTable.setColumnWidth(0, 120)
+        self.playerNameTable.setColumnWidth(1, 40)
+        self.playerNameTable.setColumnWidth(2, 80)
 
         self.vehicleNameTable = QTableWidget(self)
         self.vehicleNameTable.setObjectName("Vehicles")
@@ -194,8 +201,8 @@ class InfoDisplay(QWidget):
         self.set_initial_pos()
 
     def set_initial_pos(self):
-        self.playerNameTable.setGeometry(QRect(190, 10, 330, 235))
-        self.vehicleNameTable.setGeometry(QRect(190, 255, 330, 235))
+        self.playerNameTable.setGeometry(QRect(175, 10, 330, 235))
+        self.vehicleNameTable.setGeometry(QRect(175, 255, 330, 235))
 
         self.playerName.setGeometry(QRect(85, 0, 150, 25))
         self.playerNameText.setGeometry(QRect(10, 0, 150, 25))
@@ -238,10 +245,10 @@ class InfoDisplay(QWidget):
         squadrons = {}
         kills = 0
         battles = len(clean_data)
+        # battles = 0
         for index, battle_ids in enumerate(data[2][2]):
             for idz in battle_ids:
                 battle = clean_data[idz]
-                print(len(battle))
                 if battle[index + 6] is None:
                     continue
                 player, vehicle, death, kill = battle[index + 6]
@@ -252,7 +259,6 @@ class InfoDisplay(QWidget):
                     for k in kill:
                         if k == '':
                             continue
-                        print(k, index)
                         k = int(k)
                         if k in battle[4] and k != index:
                             team_kills += 1

@@ -104,6 +104,8 @@ class Main(QRunnable):
                 who = 2
             elif t2t in self.homeTeam:
                 who = 1
+        if who == 0:
+            Signals.signals.error.emit([0, "NO HOME SQUADRON"])
         js.update({"winner": who})
         print(js)
         Signals.signals.sql.emit(js)
@@ -134,6 +136,13 @@ class Main(QRunnable):
         with urllib.request.urlopen(winLossURL) as f:
             dat = json.loads(f.read().decode('utf-8'))
             self.state = dat["status"]
+            if self.state == "success":
+                Signals.signals.winner.emit("Won")
+            elif self.state == "running":
+                Signals.signals.winner.emit("In Game")
+            elif self.state == "fail":
+                Signals.signals.winner.emit("Loss")
+
 
     def reset(self):
         self.Battle = Battle()
@@ -180,6 +189,7 @@ class Main(QRunnable):
             return -1
 
     def mainLoop(self):
+        # TODO: figure out what messages people who fly get that makes em different and screw up the hash generator
         print("started main")
         recent = 0
         gameInSession = True
@@ -234,4 +244,6 @@ class Main(QRunnable):
                         gameInSession = True
             except urllib.error.URLError as e:
                 Signals.signals.condition.emit(0)
+
+                Signals.signals.error.emit([1, "War Thunder Not Running"])
                 print("War thunder is not running")

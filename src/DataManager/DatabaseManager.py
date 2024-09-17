@@ -359,8 +359,14 @@ class PlayerQuery:
         self.Players = "Players"
         self.Vehicles = "Vehicles"
 
+    '''
+    used as a backend proccess to access database for StatsLookup.py
+    data: [player, vehicle, squadron]
+    output: [state, [[input data], [pid], [vid]], [[battles hashes], [battles], [[battle index of specified player at i pos]*16]]]
+    '''
     def dataLookup(self, data: str, signal: Signal):
         with sqlite3.connect(self.DB) as db:
+
             cursor = db.cursor()
             # gets id
             cursor.execute(f"SELECT id FROM {self.Players} WHERE name = '{data[0]}'")
@@ -385,7 +391,8 @@ class PlayerQuery:
             for i in range(16):
                 cursor.execute(f"select * FROM {self.Battles} WHERE "
                                f"Player{i} LIKE '{pid[0][0]};%;%;%'"
-                               f"AND Player{i} LIKE '%;{vid[0][0]};%;%'")
+                               f"AND Player{i} LIKE '%;{vid[0][0]};%;%' "
+                               f"AND (Team1Tag LIKE '{data[2]}' or Team2Tag LIKE '{data[2]}')")
                 for battle in cursor.fetchall():
                     if battle[0] not in occur[0]:
                         occur[0].append(battle[0])
