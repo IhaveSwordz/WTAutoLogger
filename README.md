@@ -16,7 +16,7 @@ This uses the UI development framework QT through the Pyside6 python module
 - needs a lot of general exception handling
 - finish up and create different tabs
 - makes sure the environment works outside my .venv and path variables (half there)
-
+- make a compiled executable that is actually runnable on download (currently needs manual setup for directories and git)
 
 
 
