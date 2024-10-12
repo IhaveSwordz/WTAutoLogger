@@ -3,8 +3,12 @@ import os.path
 from PySide6.QtWidgets import QMainWindow, QTabWidget, QWidget
 from PySide6.QtCore import QRect
 import datetime
-
-from src.UI import LoggingDisplay, StatsLookup, PVSLookup, SquadronLookup, Settings
+from src.UI import LoggingDisplay
+from src.UI import StatsLookup
+from src.UI import PVSLookup
+from src.UI import SquadronLookup
+from src.UI import Settings
+# from src.UI import LoggingDisplay, StatsLookup, PVSLookup, SquadronLookup, Settings
 from src.signals import Signals
 from src.DataManager.DatabaseManager import PlayerQuery
 from PySide6.QtSvgWidgets import QSvgWidget

@@ -144,14 +144,14 @@ class TeamDisplay(QWidget):
         self.moveBox = QPushButton(self)
         self.moveBox.resizeEvent = self.moveResizeEvent
         self.moveBox.setGeometry(QRect(0, 0, 15, 15))
-        self.moveBox.mouseMoveEvent = self.moveResizeEvent
-        self.moveBox.mousePressEvent = self.moveResizeEvent
+        self.moveBox.mouseMoveEvent = self.moveResizeEvent #
+        self.moveBox.mousePressEvent = self.moveResizeEvent #
         self.moveBox.hide()
         self.enlarge_box = QPushButton(self)
         self.enlarge_box.setGeometry(QRect(450, 380, 20, 20))
-        self.enlarge_box.resizeEvent = self.boxResizeEvent
-        self.enlarge_box.mouseMoveEvent = self.boxResizeEvent
-        self.enlarge_box.mousePressEvent = self.boxResizeEvent
+        self.enlarge_box.resizeEvent = self.boxResizeEvent #
+        self.enlarge_box.mouseMoveEvent = self.boxResizeEvent #
+        self.enlarge_box.mousePressEvent = self.boxResizeEvent #
         self.enlarge_box.hide()
         self.tag_box = [10, 10, 65, 25]
         self.databox_box = [8, 50, 455, 267]

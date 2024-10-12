@@ -4,6 +4,7 @@ from PySide6.QtGui import QFont, QPalette
 from PySide6.QtCore import QRect, Qt
 import datetime
 
+
 import src.UI.DisplayMain
 from src.UI.StatsLookup import Lookup
 from src.DataManager.DatabaseManager import PlayerQuery
@@ -13,7 +14,6 @@ from src.signals import Signals
 from src.Path import Path
 from src.UI.LoggingDisplay import Display
 from src.DataManager.DataCollector import Player
-
 '''
 
 This tab is to be used to look up squadrons to see previous battle info
@@ -53,14 +53,14 @@ class LoggingDisplay(QWidget):
         data = self.query.convert(raw)
         t1tag = data[2]
         t2tag = data[3]
-        t1players = [data[6+i] for i in data[4]]
-        t2players = [data[6+i] for i in data[5]]
+        t1players = [data[4+i] for i in range(8)]
+        t2players = [data[4+i+8] for i in range(8)]
         if self.lookup.dataList.selectedItems()[0].text() == t2tag:
-            self.team1.update_data(t2tag, [x[0] for x in t2players], [self.converter.query_id(x[1][0:-2]) for x in t2players])
-            self.team2.update_data(t1tag, [x[0] for x in t1players], [self.converter.query_id(x[1][0:-2]) for x in t1players])
+            self.team1.update_data(t2tag, [x[0] for x in t2players], [self.converter.query_id(x[1]) for x in t2players])
+            self.team2.update_data(t1tag, [x[0] for x in t1players], [self.converter.query_id(x[1]) for x in t1players])
         else:
-            self.team2.update_data(t2tag, [x[0] for x in t2players], [self.converter.query_id(x[1][0:-2]) for x in t2players])
-            self.team1.update_data(t1tag, [x[0] for x in t1players], [self.converter.query_id(x[1][0:-2]) for x in t1players])
+            self.team2.update_data(t2tag, [x[0] for x in t2players], [self.converter.query_id(x[1]) for x in t2players])
+            self.team1.update_data(t1tag, [x[0] for x in t1players], [self.converter.query_id(x[1]) for x in t1players])
 
     def set_initial_pos(self):
         self.lookup.setGeometry(0, 0, 200, 260)
@@ -81,14 +81,14 @@ class LoggingDisplay(QWidget):
 
         t1tag = data[2]
         t2tag = data[3]
-        t1players = [data[6+i] for i in data[4]]
-        t2players = [data[6+i] for i in data[5]]
+        t1players = [data[4+i] for i in range(8)]
+        t2players = [data[4+i+8] for i in range(8)]
         box1 = self.popup.team1.dataBox
         box2 = self.popup.team2.dataBox
         vehicles = []
         for index, (player, vehicle, is_dead, kills) in enumerate(t1players):
             box1.item(index, 0).setText(player)
-            out = self.converter.query_id(vehicle[0:-2])
+            out = self.converter.query_id(vehicle)
             vehicles.append(out)
             box1.item(index, 1).setText(out)
             box1.item(index, 2).setText("Alive" if is_dead == "1" else "Dead")
@@ -103,7 +103,7 @@ class LoggingDisplay(QWidget):
         vehicles = []
         for index, (player, vehicle, is_dead, kills) in enumerate(t2players):
             box2.item(index, 0).setText(player)
-            out = self.converter.query_id(vehicle[0:-2])
+            out = self.converter.query_id(vehicle)
             vehicles.append(out)
             box2.item(index, 1).setText(out)
             box2.item(index, 2).setText("Alive" if is_dead == "1" else "Dead")
@@ -136,16 +136,23 @@ class LoggingDisplay(QWidget):
         self.battle_list.clear()
         battles = data[2][1][::-1]
         self.battles = battles
-        for index, (hashz, time, s1, s2, *rest, wl) in enumerate(battles):
+        for index, (hashz, time, s1, s2, *rest, wl, mapz) in enumerate(battles):
             delta_time = self.compare_time(time)
             day, hour, minute = delta_time.days, delta_time.seconds // 3600, (delta_time.seconds // 60) % 60
-
             if data[1][0][2] == s2:
-                win = "W" if wl == 2 else "L"
+                win = "N"
+                if wl == 2:
+                    win = "W"
+                elif wl == 1:
+                    win = "L"
                 item = QListWidgetItem(
                     f"{win} : {s2:<5} vs {s1:<5} : {day} days, {hour} hours, and {minute} minutes ago")
             else:
-                win = "L" if wl == 2 else "W"
+                win = "N"
+                if wl == 2:
+                    win = "L"
+                elif wl == 1:
+                    win = "W"
                 item = QListWidgetItem(
                     f"{win} : {s1:<5} vs {s2:<5} : {day} days, {hour} hours, and {minute} minutes ago")
             item.setFont(self.normal_font)

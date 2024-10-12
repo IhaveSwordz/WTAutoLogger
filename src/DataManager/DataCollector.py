@@ -3,17 +3,37 @@ import unicodedata
 import datetime
 import hashlib
 import urllib.request
+import re
 
 from src.DebugLogger import Debug
+from src.Path import Path
+
 # from converter import Vehicle, DataGet
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"  # url of all gamedata, ie the important stuffs
 GameOnURL = "http://localhost:8111/map_info.json"  # url of info needed to determine if the current game is still active
 winLossURL = "http://localhost:8111/mission.json"  # url of info needed to determine which team won.
 HOME = "P1KE"  # supposed to be used in conjuction with winLoss to determine which team won, currently not in use
-# TODO: implement win / loss determining
 legalChars = "abcdefghijklmnopqrstuvwxyzAАBCDEFGHIJKLMNOPQRSТTUVWXYZ_1234567890()/-. 'Éòôéöüß"
 tagchars = "abcdefghijklmnopqrstuvwxyzAАBCDEFGHIJKLMNOPQRSТTUVWXYZ_1234567890()/. 'Éòôéöüß"
+tagSymbols = ""
+if __name__ == "__main__":
+    Path.tags = "C:/Users/samue/PycharmProjects/WTAutoLogger/src/tags.json"
+with open(Path.tags, "r", encoding="utf-8") as fs:
+    js = json.load(fs)
+    f = js["front"]
+    b = js["back"]
+    # special = js["special"]
+front = ''.join(
+    ["\\" + chr(int(f[str(r)], 16)) if chr(int(f[str(r)], 16)) in "[]-" else chr(int(f[str(r)], 16)) for r in
+     range(len(f))])
+back = ''.join(["\\" + chr(int(b[str(r)], 16)) if chr(int(b[str(r)], 16)) in "[]-" else chr(int(b[str(r)], 16)) for r in
+                range(len(b))])
+
+
+# print(front)
+# print(back)
+# input()
 
 
 class Log:
@@ -53,6 +73,8 @@ class Player:
     def __eq__(self, other):
         if other is None:
             return False
+        # print(other)
+        # print(type(other))
         return self.tag == other.tag and self.name == other.name and self.vehicle == other.vehicle
 
 
@@ -62,7 +84,7 @@ class Battle:
         self.team1: list[Player] = []
         self.team2: list[Player] = []
         self.Tags = [None, None]
-        self.winLoss = [False, False]
+        # self.winLoss = [False, False]
         self.recordedKills = []
         self.debug = False
 
@@ -130,26 +152,26 @@ class Battle:
 	'''
 
     def getJSON(self):
-        hashz = None
-        if len(self.logs) >= 10:
-            to_be_used = []
-            index = 0
-            while len(to_be_used) < 8:
-                if self.goodLog(self.logs[index]):
-                    to_be_used.append(self.logs[index])
-                index += 1
+        # hashz = None
+        # if len(self.logs) >= 10:
+        #     to_be_used = []
+        #     index = 0
+        #     while len(to_be_used) < 8:
+        #         if self.goodLog(self.logs[index]):
+        #             to_be_used.append(self.logs[index])
+        #         index += 1
 
-            utc = datetime.datetime.now(datetime.UTC)
+        #     utc = datetime.datetime.now(datetime.UTC)
 
-            Debug.logger.log("Collector", "hash aplicable")
-            Debug.logger.log("Collector", f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
-            timez = f"{utc.year}{0 if utc.month < 10 else ""}{utc.month}{0 if utc.day < 10 else ""}{utc.day if utc.hour < 12 else utc.day - 1}|"  # the weird day thing is to account for the fact that NA for UST happens at like 1 am
-            hs = hashlib.sha256(bytes(''.join([f"{log.log}{log.time_}" for log in self.logs[:8]]), 'utf-8')).hexdigest()
-            hs = f"{timez}|" + str(hs)
-            hashz = hs
-            Debug.logger.log("Collector", hashz)
-        players = [player.json() for player in [*self.team1, *self.team2]]
-        teamName = [player["name"] for player in players]
+        #     Debug.logger.log("Collector", "hash aplicable")
+        #    Debug.logger.log("Collector", f"{utc.year}|{utc.month}|{utc.day}|{utc.hour}|{utc.minute}|{utc.second}")
+        #     timez = f"{utc.year}{0 if utc.month < 10 else ""}{utc.month}{0 if utc.day < 10 else ""}{utc.day if utc.hour < 12 else utc.day - 1}|"  # the weird day thing is to account for the fact that NA for UST happens at like 1 am
+        #     hs = hashlib.sha256(bytes(''.join([f"{log.log}{log.time_}" for log in self.logs[:8]]), 'utf-8')).hexdigest()
+        #     hs = f"{timez}|" + str(hs)
+        #     hashz = hs
+        #     Debug.logger.log("Collector", hashz)
+        # players = [player.json() for player in [*self.team1, *self.team2]]
+        # teamName = [player["name"] for player in players]
         utc = datetime.datetime.now(datetime.UTC)
         timez = f"{utc.year};{utc.month};{utc.day};{utc.hour};{utc.minute}"
         Debug.logger.log("Collector", timez)
@@ -157,6 +179,11 @@ class Battle:
         # team2 = [player.json() for player in self.team2]
         # team1Name = [player.name for player in self.team1]
         # team2Name = [player.name for player in self.team2]
+        payload = self.getData()
+        payload.update({"hash": None, "time": timez})
+        return payload
+
+        '''
         return {
             "hash": hashz,
             "time": timez,
@@ -177,7 +204,7 @@ class Battle:
                     "kills": [teamName.index(p.name) if self.test(players, p.json()) else 17 for p in player.kills]
                 } for index, player in enumerate(self.team2)],
             },
-        }
+        }'''
 
     '''
     less compressed form of getJSON to be used for displaying of data in the UI, easier to parse
@@ -207,25 +234,25 @@ class Battle:
             if log.player2 is not None:
                 if self.debug:
                     Debug.logger.log("Debug Collector", [log.player1, log.player2])
-                    Debug.logger.log("Debug Collector", "logKills: ", [log.player1.__str__(), log.player2.__str__(), log.log])
-                    Debug.logger.log("Debug Collector", True in [x in log.log for x in
-                                   [" shot down ", " destroyed ", " critically damaged ", " severely damaged "]])
+                    Debug.logger.log("Debug Collector",
+                                     f"logKills: {[log.player1.__str__(), log.player2.__str__(), log.log]}")
+                    # Debug.logger.log("Debug Collector", True in [x in log.log for x in
+                    #                [" shot down ", " destroyed ", " critically damaged ", " severely damaged "]])
                 if True in [x in log.log for x in
-                            [" shot down ", " destroyed ", " critically damaged ", " severely damaged "]]:
+                            [" shot down ", " destroyed "]]:
                     if log.player2 not in log.player1.kills:
-
                         self.recordedKills.append([log.player1, log.player2])
                         self.setKillsDeaths(killer=log.player1, killed=log.player2)
                     log.damageCheck = True
-            elif True in [x in log.log for x in ["crashed", "wrecked"]]:
-                log.player1.dead = False
-                for log1 in [log for log in self.logs if not log.damageCheck]:
-                    if log1.player2 == log.player1:
-                        log1.player1.kills.append(log1.player2)
-                        log.damageCheck = True
-                    if log == log1:
-                        log.player1.kills.append(log.player1)
-                        log.damageCheck = True
+            # elif True in [x in log.log for x in ["crashed", "wrecked"]]:
+            #     log.player1.dead = False
+            #     for log1 in [log for log in self.logs if not log.damageCheck]:
+            #         if log1.player2 == log.player1:
+            #             log1.player1.kills.append(log1.player2)
+            #             log.damageCheck = True
+            #         if log == log1:
+            #             log.player1.kills.append(log.player1)
+            #             log.damageCheck = True
 
     def setKillsDeaths(self, killer: Player = None, killed: Player = None):
         if self.debug:
@@ -257,29 +284,38 @@ class Battle:
 
     # get tags from a log and also sets global logs
     def getTags(self, log):
-        # if log[0] == log[log.find(" ") - 1]:
-        tags = [log[1:log.find(" ") - 1]]
-        # else:
-        # tags = []
-        index = [x[0] + len(x[1]) for x in
-                 [[log.find(i), i] for i in
-                  [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
-        #  and "ai" not in log, removed because click bait contains the word "ai"
-        if len(index) > 0 and "[ai]" not in log:
-            start = index[0]
-            end = log[index[0]:].find(" ") + index[0]
+        log = re.sub("\(.*?\)", "()", log)
+        tags = re.findall("[" + front + "].{2,5}[" + back + "]", log)
+        if self.debug:
+            Debug.logger.log("Debug Collector", f"Tags: {tags}")
+        if len(tags) > 1:
+            tags = [tags[0]] + [x for x in tags[1:] if log.find(x) - log.find(tags[0]) > 20]
+        tags = [t[1:-1] for t in tags]
+        # checks if a generated tag is not in self.Tags, basically means error with regex (unlikely) or more than 2 tags found in battle (likely)
+        # returns -1 if fault found
+        if None not in self.Tags:
+            for t in tags:
+                if t not in self.Tags:
+                    if self.debug:
+                        Debug.logger.log("Debug Collector", "BAD TAGS FOUND")
+                    return -1
 
-            tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
-        tags = [tag for tag in tags if 2 < len(tag) < 7]
-        '''if len(tags) > 1 and "Recon Micro" in log and "(Recon Micro)" not in log:
-        '''
-        for t in tags:
-            if None not in self.Tags:
-                return [tag for tag in tags if tag is not None]
-            if t not in self.Tags:
-                self.Tags[self.Tags.index(None)] = t
+        # out = True in [x in log for x in [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]]
+        # if out is True and len(tags) < 2:
+        #     Debug.logger.log("Debug Collector", "INCORRECT TAG COUNT FOUND")
+        #     return -1
 
-        return [tag for tag in tags if tag is not None]
+        # handles updating battle tags
+        if None in self.Tags:
+            for t in tags:
+                if t in self.Tags:
+                    continue
+                if self.Tags[0] is None:
+                    self.Tags[0] = t
+                elif self.Tags[1] is None:
+                    self.Tags[1] = t
+        return tags
+        # return [tag for tag in tags if tag is not None]
 
     def refinePlayer(self, unref):
         place = unref.find("(")
@@ -306,9 +342,8 @@ class Battle:
                 Debug.logger.log("Debug Collector", "REPLACED: ")
             replaced = True
         tags = self.getTags(unref)
-        '''
-        if replaced:
-            tags.append("GH1234GH")'''
+        if tags == -1:
+            return
         place = self.end_finder(unref, unref.find(")"))
         splitPoint = unref[place:].find(tags[1]) + place if len(tags) == 2 else -1
         players: [Player] = []
@@ -343,26 +378,30 @@ class Battle:
         self.logs.append(log)
         if payload[1] is not None and payload[1].tag == "NoneNone":
             self.setKillsDeaths(killer=payload[0], killed=payload[1])
-        return log
+        return 1
 
     def update(self, log):
         if self.debug:
             Debug.logger.log("Debug Collector", log)
         if not self.goodLog(log):
+            print("BAD DATA")
             return
         if self.debug:
             Debug.logger.log("Debug Collector", "-" * 250)
             Debug.logger.log("Debug Collector", log)
-        self.setMetadata(unicodedata.normalize("NFC", log["msg"]).replace("⋇ ", "^"), log["time"])
+        out = self.setMetadata(unicodedata.normalize("NFC", log["msg"]).replace("⋇ ", "^"), log["time"])
+        if out == -1:
+            print("BAD LOG FOUND")
+            return
         self.logKills()
 
 
 if __name__ == "__main__":
     # print("weee")
-    # with urllib.request.urlopen(URL) as f:
-    # with open("testData.json", "rb") as f:
-    # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
-    with open("../../TestFiles/Set46.json", "rb") as f:
+    with urllib.request.urlopen(URL) as f:
+        # with open("testData.json", "rb") as f:
+        # with open("TestFiles\\Set36.json", "rb") as f:  # set 11
+        # with open("C:/Users/samue/PycharmProjects/WTAutoLogger/TestFiles/Set48.json", "rb") as f:
         json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 
         prev = json_info[0]

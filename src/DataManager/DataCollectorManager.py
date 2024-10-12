@@ -17,7 +17,7 @@ GameOnURL = "http://localhost:8111/map_info.json"
 winLossURL = "http://localhost:8111/mission.json"
 saveFile = "newFile.json"
 # saveFile = "saveFile.json"
-timeout = 1
+timeout = 3
 
 '''
 This class handles the overhead of actually running the data collecter. 
@@ -89,22 +89,11 @@ class Main(QRunnable):
         who = 0
         js = self.Battle.getJSON()
 
-        # done to check which team won the battle
-
-        t1t = js["team1Data"]["tag"]
-        t2t = js["team2Data"]["tag"]
+        # used further down the line with replay files to determine who won / loss in a backup way
         if self.state == "success":
-            if t1t in self.homeTeam:
-                who = 1
-            elif t2t in self.homeTeam:
-                who = 2
+            who = 1
         if self.state == "fail":
-            if t1t in self.homeTeam:
-                who = 2
-            elif t2t in self.homeTeam:
-                who = 1
-        if who == 0:
-            Signals.signals.error.emit([0, "NO HOME SQUADRON"])
+            who = 2
         js.update({"winner": who})
 
         Debug.logger.log("Collector Manager", js)
@@ -123,22 +112,27 @@ class Main(QRunnable):
         with urllib.request.urlopen(GameOnURL) as f:
             dat = json.loads(f.read().decode('utf-8'))
             # Debug.logger.log("Collector Manager", f"getGameState: {dat['valid']}, {self.state}")
-            if self.state != "running" and self.state != "":
-                return False
-            elif self.state == "running":
-                return True
+            # if self.state != "running" and self.state != "":
+            #     return False
+            # elif self.state == "running":
+            #     return True
             return dat['valid'] is not False
 
     def winLoss(self):
-        with urllib.request.urlopen(winLossURL) as f:
-            dat = json.loads(f.read().decode('utf-8'))
-            self.state = dat["status"]
-            if self.state == "success":
-                Signals.signals.winner.emit("Won")
-            elif self.state == "running":
-                Signals.signals.winner.emit("In Game")
-            elif self.state == "fail":
-                Signals.signals.winner.emit("Loss")
+        try:
+            with urllib.request.urlopen(winLossURL) as f:
+                dat = json.loads(f.read().decode('utf-8'))
+                self.state = dat["status"]
+                if self.state == "success":
+                    Signals.signals.winner.emit("Won")
+                elif self.state == "running":
+                    Signals.signals.winner.emit("In Game")
+                elif self.state == "fail":
+                    Signals.signals.winner.emit("Loss")
+        except ConnectionResetError:
+            self.state = "running"
+            Signals.signals.winner.emit("In Game")
+
 
     def reset(self):
         self.Battle = Battle()

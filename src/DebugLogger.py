@@ -12,6 +12,7 @@ from src.Path import Path
 '''
 this handles writing important info to files and debug menu
 '''
+
 PRINT_LOGS = True
 
 class Logger:
@@ -19,6 +20,10 @@ class Logger:
 
     def __init__(self):
         self.start = time.time()
+        self.file_path = None
+
+
+    def enable_filing(self):
         self.file_path = self.path + "/src/Output/Logs"
         count = os.listdir(self.file_path)
         list_of_files = os.listdir(self.file_path)
@@ -44,18 +49,22 @@ class Logger:
         with open(f"{self.file_path}/{self.write_file}", "a", encoding="utf-8") as f:
             f.write(text + "\n")
         Signals.signals.debug.emit(text)
-        if PRINT_LOGS:
-            print(text)
+
 
 
     # given a caller (what kind of log it is) and a message it formats it and writes it
     def log(self, caller, message):
         front, back = str(self.get_time()).split(".")
-        self._write_text(f"{front:>10}.{back:<4} | {caller:<20} | {str(message)}")
+        if self.file_path is not None:
+            self._write_text(f"{front:>10}.{back:<4} | {caller:<20} | {str(message)}")
+        if PRINT_LOGS:
+            print(f"{front:>10}.{back:<4} | {caller:<20} | {str(message)}")
 
     # used to write special messages without a time count or caller
     def special_log(self, message):
         self._write_text(str(message))
+        if PRINT_LOGS:
+            print(message)
 
 
 class Debug:

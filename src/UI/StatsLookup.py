@@ -261,14 +261,17 @@ class InfoDisplay(QWidget):
         kills = 0
         battles = len(clean_data)
         # battles = 0
+        print(data)
+
         for index, battle_ids in enumerate(data[2][2]):
             for idz in battle_ids:
                 battle = clean_data[idz]
-                if battle[index + 6] is None:
+                # print(battle)
+                if battle[index + 4] is None:
                     continue
-                player, vehicle, death, kill = battle[index + 6]
+                player, vehicle, death, kill = battle[index + 4]
                 squadron = None
-                if index in battle[4]:
+                if index < 8:
                     squadron = battle[2]
                     for k in kill:
                         if k == '':
@@ -334,7 +337,7 @@ class InfoDisplay(QWidget):
         for index, (player, count) in enumerate(list(vehicle_sorted.items())[::-1]):
             name = QTableWidgetItem()
             name.setFlags(Qt.ItemFlag.ItemIsEditable)
-            name.setText(self.conv.query_id(player[:-2]))
+            name.setText(self.conv.query_id(player))
 
             co = QTableWidgetItem()
             co.setFlags(Qt.ItemFlag.ItemIsEditable)

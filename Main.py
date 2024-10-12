@@ -1,9 +1,11 @@
 import sys
 import PySide6.QtGui
 from PySide6.QtWidgets import QMainWindow, QApplication, QTabWidget
+from PySide6.QtWidgets import QStyle
 import traceback
 
 from src.DebugLogger import Debug
+Debug.logger.enable_filing()
 try:
     from src.signals import Signals
     from src.UI.DisplayMain import Ui_MainWindow
@@ -13,7 +15,6 @@ except Exception as e:
     Debug.logger.log("Error", f"Unhandled Exception!: {e}")
     Debug.logger.special_log(traceback.format_exc())
     sys.exit(999)
-
 
 
 class MainWindow(QMainWindow):
@@ -33,12 +34,10 @@ class MainWindow(QMainWindow):
         Signals.signals.sizeSignal.emit(event.size().width(), event.size().height())
 
 
-
-
 if __name__ == "__main__":
-
     app = QApplication(sys.argv)
-
+    app.setStyle("fusion")
+    # app.setStyle()
     window = MainWindow()
     window.show()
 

@@ -105,7 +105,11 @@ class BattleGroup:
             if v == "":
                 continue
             internal = self.nameGet.query_name(v)
-            self.vehicles.append(Vehicle(v, internal[0:-2]))
+            if internal == "dummy_plane":
+                continue
+            if internal is None or internal == "None":
+                continue
+            self.vehicles.append(Vehicle(v, internal[:-2]))
 
     def get_nations(self):
         payload = [{}, []]
@@ -117,7 +121,6 @@ class BattleGroup:
         for nation in self.nation_order:
             if nation.lower() in payload[0].keys():
                 payload[1].append(nation)
-
         return payload
 
     # gets vehicles with specialization: bomber, fighter, helicopter, tank, drone, spaa
@@ -214,6 +217,8 @@ class DataGet:
     '''
 
     def query_name(self, name: str):
+        if name is None or name == "None":
+            return None
         new_name = name
         if "\"" in name and name[0] != "\"":
             new_name = ""
@@ -229,7 +234,8 @@ class DataGet:
     '''
 
     def query_id(self, name: str):
-
+        if name is None or name == "None":
+            return None
         return self.IGNtoname[name]
 
     def set_language(self, language_index):
